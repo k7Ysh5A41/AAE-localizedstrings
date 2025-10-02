@@ -1,0 +1,35 @@
+// Note to translators:
+// Just edit the text inside the quotes, don't edit other code
+
+VERSION             "1"
+CONFIG              "C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           DEADSHOT
+LANG_ENGLISH     "Poprawia celność strzałów z biodra i automatycznie celuje w głowę zombie podczas celowania przez przyrządy\n^5Premia AAE^7: Po 5 kolejnych strzałach w głowę celność strzałów z biodra jest maksymalna, obrażenia w głowę zwiększone 1,5x i możesz widzieć zombie przez ściany"
+
+REFERENCE           DOUBLETAP
+LANG_ENGLISH     "Zwiększa szybkostrzelność broni i podwaja każdą wystrzeloną kulę\n^5Premia AAE^7: Broń specjalna ładuje się szybciej"
+
+REFERENCE           JUGGER
+LANG_ENGLISH     "Podwaja twoje zdrowie, pozwalając ci upaść po 5 trafieniach zamiast po 3"
+
+REFERENCE           MULEKICK
+LANG_ENGLISH     "Pozwala nosić 3 rodzaje broni zamiast 2\n^5Premia AAE^7: Po utracie Mulekick, przy kolejnym zdobyciu Mulekick odzyskasz utraconą broń"
+
+REFERENCE           REVIVE_SOLO
+LANG_ENGLISH     "Samodzielnie podnosisz się, gdy zostaniesz powalony\n^5Premia AAE^7: Skraca opóźnienie regeneracji zdrowia o 40%"
+
+REFERENCE           REVIVE
+LANG_ENGLISH     "Szybciej podnosi powalonego towarzysza\n^5Premia AAE^7: Skraca opóźnienie regeneracji zdrowia o 40%\nPodniesieni towarzysze nie mogą otrzymywać obrażeń od zombie, a jeśli podnoszenie zostanie przerwane, wydłuża to czas wykrwawiania się powalonego gracza"
+
+REFERENCE           FASTRELOAD
+LANG_ENGLISH     "Zwiększa prędkość przeładowania\n^5Premia AAE^7: Szybsza zmiana broni, szybsze celowanie (ADS), szybsze rzucanie wyposażeniem, szybsze picie perków, szybsze żucie gobblegum, szybsze wspinanie się po drabinach, brak pierwszej animacji podnoszenia przy zdobyciu nowej broni, szybsze wspinanie się na czołg"
+
+REFERENCE           STAMINUP
+LANG_ENGLISH     "Pozwala biegać przez dłuższy czas\n^5Premia AAE^7: Strzelanie podczas sprintu, szybsze podniesienie broni po zakończeniu sprintu, możliwość rzucania wyposażeniem podczas sprintu, szybsze celowanie w ruchu (ADS), nieskończony sprint"
+
+REFERENCE           WINE
+LANG_ENGLISH     "Otrzymujesz nóż Widow's Wine, który zwiększa obrażenia w walce wręcz. Granaty zostają zastąpione granatami Widow's Wine, które oplatają zombie pajęczyną. Pojawia się wzmocnienie w kształcie pająka, które uzupełnia granaty. Gdy zombie cię atakują, następuje mała eksplozja, która oplątuje zombie w pajęczynie.\n^5Premia AAE^7: Odporność na eksplozje"
+
+ENDMARKER

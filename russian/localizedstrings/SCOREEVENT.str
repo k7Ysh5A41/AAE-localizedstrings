@@ -1,0 +1,560 @@
+// Note to translators:
+// Just edit the text inside the quotes, don't edit other code
+
+VERSION             "1"
+CONFIG              "C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE            AUTO_REVIVE
+LANG_ENGLISH         "Автоматическое воскрешение"
+
+REFERENCE            PACK_A_PUNCH
+LANG_ENGLISH         "Улучшение Pack-A-Punch"
+
+REFERENCE            GOT_A_PERK
+LANG_ENGLISH         "Получено умение"
+
+REFERENCE            MULE_KICK_WEAPON_RESTORED
+LANG_ENGLISH         "Восстановлено оружие Mule Kick"
+
+REFERENCE            DOUBLETAP
+LANG_ENGLISH         "Double Tap Root Beer"
+
+REFERENCE            JUGGER_NOG
+LANG_ENGLISH         "Jugger-Nog"
+
+REFERENCE            WHOS_WHO
+LANG_ENGLISH         "Who's Who"
+
+REFERENCE            VULTURE_AID
+LANG_ENGLISH         "Vulture Aid"
+
+REFERENCE            TOMBSTONE
+LANG_ENGLISH         "Tombstone"
+
+REFERENCE            PHD_FLOPPER
+LANG_ENGLISH         "PhD Flopper"
+
+REFERENCE            SNAILS_PACE_SLURPEE
+LANG_ENGLISH         "Snail's Pace Slurpee"
+
+REFERENCE            CRYO_SLIDE_SODA
+LANG_ENGLISH         "Cryo Slide Soda"
+
+REFERENCE            SALVAGE_SHAKE_
+LANG_ENGLISH         "Salvage Shake"
+
+REFERENCE            WINDRUNNER_WHISKEY
+LANG_ENGLISH         "Windrunner Whiskey"
+
+REFERENCE            ATOMIC_LIQUEUR
+LANG_ENGLISH         "Атомный ликер"
+
+REFERENCE            ARMOR_NOG
+LANG_ENGLISH         "Armor Nog"
+
+REFERENCE            SECRET_SAUCE
+LANG_ENGLISH         "Тайный соус"
+
+REFERENCE            CRUSADERS_ALE
+LANG_ENGLISH         "Crusader's Ale"
+
+REFERENCE            BULL_ICE_BLAST
+LANG_ENGLISH         "Bull Ice Blast"
+
+REFERENCE            VIGOR_RUSH
+LANG_ENGLISH         "Vigor Rush"
+
+REFERENCE            MADGAZ_MOONSHINE
+LANG_ENGLISH         "Madgaz Moonshine"
+
+REFERENCE            BANDOLIER_BANDIT
+LANG_ENGLISH         "Bandolier Bandit"
+
+REFERENCE            ETHEREAL_RAZOR
+LANG_ENGLISH         "Эфирное лезвие"
+
+REFERENCE            PHD_SLIDER
+LANG_ENGLISH         "PhD Slider"
+
+REFERENCE            STONE_COLD_STRONGHOLD
+LANG_ENGLISH         "Stone Cold Stronghold"
+
+REFERENCE            TIMESLIP
+LANG_ENGLISH         "Timeslip"
+
+REFERENCE            VICTORIOUS_TORTOISE
+LANG_ENGLISH         "Victorious Tortoise"
+
+REFERENCE            WINTER_WAIL
+LANG_ENGLISH         "Winter Wail"
+
+REFERENCE            ZOMBSHELL
+LANG_ENGLISH         "Zombshell"
+
+REFERENCE            BLOOD_WOLF_BITE
+LANG_ENGLISH         "Укус кровавого волка"
+
+REFERENCE            BLAZE_PHASE
+LANG_ENGLISH         "Blaze Phase"
+
+REFERENCE            DYING_WISH
+LANG_ENGLISH         "Последнее желание"
+
+REFERENCE            MADGAZ_MOONSHINE
+LANG_ENGLISH         "Madgaz Moonshine"
+
+REFERENCE            BANANA_COLADA
+LANG_ENGLISH         "Banana Colada"
+
+REFERENCE            PERK_A_LOT
+LANG_ENGLISH         "Perk A Lot"
+
+REFERENCE            GOT_A_WEAPON
+LANG_ENGLISH         "Получено оружие"
+
+REFERENCE            TRADE_WEAPON
+LANG_ENGLISH         "Обменять оружие"
+
+REFERENCE            REPAIRED
+LANG_ENGLISH         "Отремонтировано"
+
+REFERENCE            BARRIER_REBUILDED
+LANG_ENGLISH         "Барьер восстановлен"
+
+REFERENCE            SHIELD_REPAIRED
+LANG_ENGLISH         "Щит отремонтирован"
+
+REFERENCE            BRO_NEXT_ROUND
+LANG_ENGLISH         "Бро, следующий раунд"
+
+REFERENCE            HIT
+LANG_ENGLISH         "Попадание"
+ 
+REFERENCE            WUNDERWAFFE_KILL
+LANG_ENGLISH         "Убийство Wunderwaffe"
+
+REFERENCE            RAYGUN_MARK2_KILL
+LANG_ENGLISH         "Убийство RayGun Mark2"
+
+REFERENCE            RAYGUN_KILL
+LANG_ENGLISH         "Убийство RayGun"
+
+REFERENCE            SHIELD_KILL
+LANG_ENGLISH         "Убийство щитом"
+
+REFERENCE            GKZ_45_MARK3_KILL
+LANG_ENGLISH         "Убийство GKZ 45 Mark3"
+
+REFERENCE            THUNDERGUN_KILL
+LANG_ENGLISH         "Убийство ThunderGun"
+
+REFERENCE            SHARPSHOOTER_KILL
+LANG_ENGLISH         "Убийство Sharpshooter"
+
+REFERENCE            C_ZOMBIE_CRITICAL_KILL
+LANG_ENGLISH         "^3Критическое убийство зомби"
+
+REFERENCE            C_HELLHOUNDS_CRITICAL_KILL
+LANG_ENGLISH         "^3Критическое убийство Hellhounds"
+
+REFERENCE            C_WUNDERWAFFE_KILL
+LANG_ENGLISH         "^3Убийство Wunderwaffe"
+
+REFERENCE            C_RAYGUN_MARK2_KILL
+LANG_ENGLISH         "^3Убийство RayGun Mark2"
+
+REFERENCE            C_RAYGUN_KILL
+LANG_ENGLISH         "^3Убийство RayGun"
+
+REFERENCE            C_SHIELD_KILL
+LANG_ENGLISH         "^3Убийство щитом"
+
+REFERENCE            C_GKZ_45_MARK3_KILL
+LANG_ENGLISH         "^3Убийство GKZ 45 Mark3"
+
+REFERENCE            C_THUNDERGUN_KILL
+LANG_ENGLISH         "^3Убийство ThunderGun"
+
+REFERENCE            C_ZOMBIE_EXPLOSIVE_KILL
+LANG_ENGLISH         "^3Взрывное убийство зомби"
+
+REFERENCE            C_ZOMBIE_MELEE_KILL
+LANG_ENGLISH         "^3Убийство зомби врукопашную"
+
+REFERENCE            C_ZOMBIE_HEADSHOT_KILL
+LANG_ENGLISH         "^3Убийство зомби в голову"
+
+REFERENCE            C_SHARPSHOOTER_KILL
+LANG_ENGLISH         "^3Убийство Sharpshooter"
+
+REFERENCE            PARASITE_KILL
+LANG_ENGLISH         "Уничтожение паразитов"
+
+REFERENCE            PARASITE_EXPLOSIVE_KILL
+LANG_ENGLISH         "Взрывное убийство паразитов"
+
+REFERENCE            PARASITE_MELEE_KILL
+LANG_ENGLISH         "Убийство паразитов врукопашную"
+
+REFERENCE            PARASITE_HEADSHOT_KILL
+LANG_ENGLISH         "Убийство паразитов в голову"
+
+REFERENCE            C_PARASITE_CRITICAL_KILL
+LANG_ENGLISH         "^3Критическое убийство паразитов"
+
+REFERENCE            C_PARASITE_EXPLOSIVE_KILL
+LANG_ENGLISH         "^3Взрывное убийство паразитов"
+
+REFERENCE            C_PARASITE_MELEE_KILL
+LANG_ENGLISH         "^3Убийство паразитов врукопашную"
+
+REFERENCE            C_PARASITE_HEADSHOT_KILL
+LANG_ENGLISH         "^3Убийство паразитов в голову"
+
+REFERENCE            CLEAN_DEBRIS
+LANG_ENGLISH         "Очистить обломки"
+
+REFERENCE            ZOMBIE_KILL
+LANG_ENGLISH         "Уничтожение зомби"
+
+REFERENCE            ZOMBIE_EXPLOSIVE_KILL
+LANG_ENGLISH         "Взрывное убийство зомби"
+
+REFERENCE            ZOMBIE_MELEE_KILL
+LANG_ENGLISH         "Убийство зомби врукопашную"
+
+REFERENCE            ZOMBIE_HEADSHOT_KILL
+LANG_ENGLISH         "Убийство зомби в голову"
+
+REFERENCE            C_ZOMBIE_CRITICAL_KILL
+LANG_ENGLISH         "^3Критическое убийство зомби"
+
+REFERENCE            C_ZOMBIE_EXPLOSIVE_KILL
+LANG_ENGLISH         "^3Взрывное убийство зомби"
+
+REFERENCE            C_ZOMBIE_MELEE_KILL
+LANG_ENGLISH         "^3Убийство зомби врукопашную"
+
+REFERENCE            C_ZOMBIE_HEADSHOT_KILL
+LANG_ENGLISH         "^3Убийство зомби в голову"
+ 
+REFERENCE            MEATBALL_KILL
+LANG_ENGLISH         "Уничтожение мясных шаров"
+
+REFERENCE            MEATBALL_EXPLOSIVE_KILL
+LANG_ENGLISH         "Взрывное убийство мясных шаров"
+
+REFERENCE            MEATBALL_MELEE_KILL
+LANG_ENGLISH         "Убийство мясных шаров врукопашную"
+
+REFERENCE            MEATBALL_HEADSHOT_KILL
+LANG_ENGLISH         "Убийство мясных шаров в голову"
+
+REFERENCE            C_MEATBALL_CRITICAL_KILL
+LANG_ENGLISH         "^3Критическое убийство мясных шаров"
+
+REFERENCE            C_MEATBALL_EXPLOSIVE_KILL
+LANG_ENGLISH         "^3Взрывное убийство мясных шаров"
+
+REFERENCE            C_MEATBALL_MELEE_KILL
+LANG_ENGLISH         "^3Убийство мясных шаров врукопашную"
+
+REFERENCE            C_MEATBALL_HEADSHOT_KILL
+LANG_ENGLISH         "^3Убийство мясных шаров в голову"
+
+REFERENCE            SPIDER_KILL
+LANG_ENGLISH         "Уничтожение пауков"
+
+REFERENCE            SPIDER_EXPLOSIVE_KILL
+LANG_ENGLISH         "Взрывное убийство пауков"
+
+REFERENCE            SPIDER_MELEE_KILL
+LANG_ENGLISH         "Убийство пауков врукопашную"
+
+REFERENCE            SPIDER_HEADSHOT_KILL
+LANG_ENGLISH         "Убийство пауков в голову"
+
+REFERENCE            C_SPIDER_CRITICAL_KILL
+LANG_ENGLISH         "^3Критическое убийство пауков"
+
+REFERENCE            C_SPIDER_EXPLOSIVE_KILL
+LANG_ENGLISH         "^3Взрывное убийство пауков"
+
+REFERENCE            C_SPIDER_MELEE_KILL
+LANG_ENGLISH         "^3Убийство пауков врукопашную"
+
+REFERENCE            C_SPIDER_HEADSHOT_KILL
+LANG_ENGLISH         "^3Убийство пауков в голову"
+
+REFERENCE            HELLHOUND_KILL
+LANG_ENGLISH         "Уничтожение адских псов"
+
+REFERENCE            HELLHOUND_EXPLOSIVE_KILL
+LANG_ENGLISH         "Взрывное убийство адских псов"
+
+REFERENCE            HELLHOUND_MELEE_KILL
+LANG_ENGLISH         "Убийство адских псов врукопашную"
+
+REFERENCE            HELLHOUND_HEADSHOT_KILL
+LANG_ENGLISH         "Убийство адских псов в голову"
+
+REFERENCE            C_HELLHOUND_CRITICAL_KILL
+LANG_ENGLISH         "^3Критическое убийство адских псов"
+
+REFERENCE            C_HELLHOUND_EXPLOSIVE_KILL
+LANG_ENGLISH         "^3Взрывное убийство адских псов"
+
+REFERENCE            C_HELLHOUND_MELEE_KILL
+LANG_ENGLISH         "^3Убийство адских псов врукопашную"
+
+REFERENCE            C_HELLHOUND_HEADSHOT_KILL
+LANG_ENGLISH         "^3Убийство адских псов в голову"
+ 
+REFERENCE            NAPALMZOMBIE_KILL
+LANG_ENGLISH         "Ликвидация зомби с напалмом"
+
+REFERENCE            NAPALMZOMBIE_EXPLOSIVE_KILL
+LANG_ENGLISH         "Взрывное убийство зомби с напалмом"
+
+REFERENCE            NAPALMZOMBIE_MELEE_KILL
+LANG_ENGLISH         "Убийство зомби с напалмом врукопашную"
+
+REFERENCE            NAPALMZOMBIE_HEADSHOT_KILL
+LANG_ENGLISH         "Убийство зомби с напалмом в голову"
+
+REFERENCE            C_NAPALMZOMBIE_CRITICAL_KILL
+LANG_ENGLISH         "^3Критическое убийство зомби с напалмом"
+
+REFERENCE            C_NAPALMZOMBIE_EXPLOSIVE_KILL
+LANG_ENGLISH         "^3Взрывное убийство зомби с напалмом"
+
+REFERENCE            C_NAPALMZOMBIE_MELEE_KILL
+LANG_ENGLISH         "^3Убийство зомби с напалмом врукопашную"
+
+REFERENCE            C_NAPALMZOMBIE_HEADSHOT_KILL
+LANG_ENGLISH         "^3Убийство зомби с напалмом в голову"
+
+REFERENCE            SHRIEKER_KILL
+LANG_ENGLISH         "Ликвидация Шрикера"
+
+REFERENCE            SHRIEKER_EXPLOSIVE_KILL
+LANG_ENGLISH         "Взрывное убийство Шрикера"
+
+REFERENCE            SHRIEKER_MELEE_KILL
+LANG_ENGLISH         "Убийство Шрикера врукопашную"
+
+REFERENCE            SHRIEKER_HEADSHOT_KILL
+LANG_ENGLISH         "Убийство Шрикера в голову"
+
+REFERENCE            C_SHRIEKER_CRITICAL_KILL
+LANG_ENGLISH         "^3Критическое убийство Шрикера"
+
+REFERENCE            C_SHRIEKER_EXPLOSIVE_KILL
+LANG_ENGLISH         "^3Взрывное убийство Шрикера"
+
+REFERENCE            C_SHRIEKER_MELEE_KILL
+LANG_ENGLISH         "^3Убийство Шрикера врукопашную"
+
+REFERENCE            C_SHRIEKER_HEADSHOT_KILL
+LANG_ENGLISH         "^3Убийство Шрикера в голову"
+
+REFERENCE            THRASHER_KILL
+LANG_ENGLISH         "Ликвидация Трэшера"
+
+REFERENCE            THRASHER_EXPLOSIVE_KILL
+LANG_ENGLISH         "Взрывное убийство Трэшера"
+
+REFERENCE            THRASHER_MELEE_KILL
+LANG_ENGLISH         "Убийство Трэшера врукопашную"
+
+REFERENCE            THRASHER_HEADSHOT_KILL
+LANG_ENGLISH         "Убийство Трэшера в голову"
+
+REFERENCE            C_THRASHER_CRITICAL_KILL
+LANG_ENGLISH         "^3Критическое убийство Трэшера"
+
+REFERENCE            C_THRASHER_EXPLOSIVE_KILL
+LANG_ENGLISH         "^3Взрывное убийство Трэшера"
+
+REFERENCE            C_THRASHER_MELEE_KILL
+LANG_ENGLISH         "^3Убийство Трэшера врукопашную"
+
+REFERENCE            C_THRASHER_HEADSHOT_KILL
+LANG_ENGLISH         "^3Убийство Трэшера в голову"
+ 
+REFERENCE            NOVACRAWLER_KILL
+LANG_ENGLISH         "Ликвидация новакроулера"
+
+REFERENCE            NOVACRAWLER_EXPLOSIVE_KILL
+LANG_ENGLISH         "Взрывное убийство новакроулера"
+
+REFERENCE            NOVACRAWLER_MELEE_KILL
+LANG_ENGLISH         "Убийство новакроулера врукопашную"
+
+REFERENCE            NOVACRAWLER_HEADSHOT_KILL
+LANG_ENGLISH         "Убийство новакроулера в голову"
+
+REFERENCE            C_NOVACRAWLER_CRITICAL_KILL
+LANG_ENGLISH         "^3Критическое убийство новакроулера"
+
+REFERENCE            C_NOVACRAWLER_EXPLOSIVE_KILL
+LANG_ENGLISH         "^3Взрывное убийство новакроулера"
+
+REFERENCE            C_NOVACRAWLER_MELEE_KILL
+LANG_ENGLISH         "^3Убийство новакроулера врукопашную"
+
+REFERENCE            C_NOVACRAWLER_HEADSHOT_KILL
+LANG_ENGLISH         "^3Убийство новакроулера в голову"
+
+REFERENCE            APOTHICONFURY_KILL
+LANG_ENGLISH         "Ликвидация апотиконфьюри"
+
+REFERENCE            APOTHICONFURY_EXPLOSIVE_KILL
+LANG_ENGLISH         "Взрывное убийство апотиконфьюри"
+
+REFERENCE            APOTHICONFURY_MELEE_KILL
+LANG_ENGLISH         "Убийство апотиконфьюри врукопашную"
+
+REFERENCE            APOTHICONFURY_HEADSHOT_KILL
+LANG_ENGLISH         "Убийство апотиконфьюри в голову"
+
+REFERENCE            C_APOTHICONFURY_CRITICAL_KILL
+LANG_ENGLISH         "^3Критическое убийство апотиконфьюри"
+
+REFERENCE            C_APOTHICONFURY_EXPLOSIVE_KILL
+LANG_ENGLISH         "^3Взрывное убийство апотиконфьюри"
+
+REFERENCE            C_APOTHICONFURY_MELEE_KILL
+LANG_ENGLISH         "^3Убийство апотиконфьюри врукопашную"
+
+REFERENCE            C_APOTHICONFURY_HEADSHOT_KILL
+LANG_ENGLISH         "^3Убийство апотиконфьюри в голову"
+ 
+REFERENCE            PANZERSOLDAT_KILL
+LANG_ENGLISH         "Уничтожение Панцерзолдата"
+
+REFERENCE            PANZERSOLDAT_EXPLOSIVE_KILL
+LANG_ENGLISH         "Взрывное убийство Панцерзолдата"
+
+REFERENCE            PANZERSOLDAT_MELEE_KILL
+LANG_ENGLISH         "Убийство Панцерзолдата врукопашную"
+
+REFERENCE            PANZERSOLDAT_HEADSHOT_KILL
+LANG_ENGLISH         "Убийство Панцерзолдата в голову"
+
+REFERENCE            C_PANZERSOLDAT_CRITICAL_KILL
+LANG_ENGLISH         "^3Критическое убийство Панцерзолдата"
+
+REFERENCE            C_PANZERSOLDAT_EXPLOSIVE_KILL
+LANG_ENGLISH         "^3Взрывное убийство Панцерзолдата"
+
+REFERENCE            C_PANZERSOLDAT_MELEE_KILL
+LANG_ENGLISH         "^3Убийство Панцерзолдата врукопашную"
+
+REFERENCE            C_PANZERSOLDAT_HEADSHOT_KILL
+LANG_ENGLISH         "^3Убийство Панцерзолдата в голову"
+
+REFERENCE            MARGWA_KILL
+LANG_ENGLISH         "Уничтожение Маргвы"
+
+REFERENCE            MARGWA_EXPLOSIVE_KILL
+LANG_ENGLISH         "Взрывное убийство Маргвы"
+
+REFERENCE            MARGWA_MELEE_KILL
+LANG_ENGLISH         "Убийство Маргвы врукопашную"
+
+REFERENCE            MARGWA_HEADSHOT_KILL
+LANG_ENGLISH         "Убийство Маргвы в голову"
+
+REFERENCE            C_MARGWA_CRITICAL_KILL
+LANG_ENGLISH         "^3Критическое убийство Маргвы"
+
+REFERENCE            C_MARGWA_EXPLOSIVE_KILL
+LANG_ENGLISH         "^3Взрывное убийство Маргвы"
+
+REFERENCE            C_MARGWA_MELEE_KILL
+LANG_ENGLISH         "^3Убийство Маргвы врукопашную"
+
+REFERENCE            C_MARGWA_HEADSHOT_KILL
+LANG_ENGLISH         "^3Убийство Маргвы в голову"
+
+REFERENCE            MANGLER_KILL
+LANG_ENGLISH         "Уничтожение Мэнглера"
+
+REFERENCE            MANGLER_EXPLOSIVE_KILL
+LANG_ENGLISH         "Взрывное убийство Мэнглера"
+
+REFERENCE            MANGLER_MELEE_KILL
+LANG_ENGLISH         "Убийство Мэнглера врукопашную"
+
+REFERENCE            MANGLER_HEADSHOT_KILL
+LANG_ENGLISH         "Убийство Мэнглера в голову"
+
+REFERENCE            C_MANGLER_CRITICAL_KILL
+LANG_ENGLISH         "^3Критическое убийство Мэнглера"
+
+REFERENCE            C_MANGLER_EXPLOSIVE_KILL
+LANG_ENGLISH         "^3Взрывное убийство Мэнглера"
+
+REFERENCE            C_MANGLER_MELEE_KILL
+LANG_ENGLISH         "^3Убийство Мэнглера врукопашную"
+
+REFERENCE            C_MANGLER_HEADSHOT_KILL
+LANG_ENGLISH         "^3Убийство Мэнглера в голову"
+ 
+REFERENCE            WARDEN_KILL
+LANG_ENGLISH         "Уничтожение Надзирателя"
+
+REFERENCE            WARDEN_EXPLOSIVE_KILL
+LANG_ENGLISH         "Взрывное убийство Надзирателя"
+
+REFERENCE            WARDEN_MELEE_KILL
+LANG_ENGLISH         "Убийство Надзирателя врукопашную"
+
+REFERENCE            WARDEN_HEADSHOT_KILL
+LANG_ENGLISH         "Убийство Надзирателя в голову"
+
+REFERENCE            C_WARDEN_CRITICAL_KILL
+LANG_ENGLISH         "^3Критическое убийство Надзирателя"
+
+REFERENCE            C_WARDEN_EXPLOSIVE_KILL
+LANG_ENGLISH         "^3Взрывное убийство Надзирателя"
+
+REFERENCE            C_WARDEN_MELEE_KILL
+LANG_ENGLISH         "^3Убийство Надзирателя врукопашную"
+
+REFERENCE            C_WARDEN_HEADSHOT_KILL
+LANG_ENGLISH         "^3Убийство Надзирателя в голову"
+
+REFERENCE            KEEPER_KILL
+LANG_ENGLISH         "Уничтожение Хранителя"
+
+REFERENCE            KEEPER_EXPLOSIVE_KILL
+LANG_ENGLISH         "Взрывное убийство Хранителя"
+
+REFERENCE            KEEPER_MELEE_KILL
+LANG_ENGLISH         "Убийство Хранителя врукопашную"
+
+REFERENCE            KEEPER_HEADSHOT_KILL
+LANG_ENGLISH         "Убийство Хранителя в голову"
+
+REFERENCE            C_KEEPER_CRITICAL_KILL
+LANG_ENGLISH         "^3Критическое убийство Хранителя"
+
+REFERENCE            C_KEEPER_EXPLOSIVE_KILL
+LANG_ENGLISH         "^3Взрывное убийство Хранителя"
+
+REFERENCE            C_KEEPER_MELEE_KILL
+LANG_ENGLISH         "^3Убийство Хранителя врукопашную"
+
+REFERENCE            C_KEEPER_HEADSHOT_KILL
+LANG_ENGLISH         "^3Убийство Хранителя в голову"
+
+REFERENCE            STUN
+LANG_ENGLISH         "Оглушенный Зомби"
+
+REFERENCE            DAMAGE_INCREASE
+LANG_ENGLISH         "Увеличение Урона"
+
+ENDMARKER

@@ -1,0 +1,200 @@
+// Note to translators:
+// Just edit the text inside the quotes, don't edit other code
+
+VERSION             "1"
+CONFIG              "C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           SHARE_DROP
+LANG_ENGLISH     "Сброшено немного очков ^5"
+
+REFERENCE           SHARE_OUT
+LANG_ENGLISH     "^1Недостаточно средств"
+
+REFERENCE           ZMS_LEFT
+LANG_ENGLISH     "Осталось зомби"
+
+REFERENCE           ZM_LEFT
+LANG_ENGLISH     "Осталось зомби"
+
+REFERENCE           DOG_LEFT
+LANG_ENGLISH     "Осталось врагов"
+
+REFERENCE           END_OF_ROUND
+LANG_ENGLISH     "Перерыв"
+
+REFERENCE           TRADE_GUN
+LANG_ENGLISH     "Удерживайте ^3[{+activate}] ^7для обмена оружием с другим игроком."
+
+REFERENCE           TRADE_WAIT
+LANG_ENGLISH     "Подождите другого игрока."
+
+REFERENCE           TRADE_BLOCK
+LANG_ENGLISH     "Невозможно обменять это оружие."
+
+REFERENCE           TRADE_HAS
+LANG_ENGLISH     "У другого игрока уже есть это оружие."
+
+REFERENCE           TRADE_YOU_HAS
+LANG_ENGLISH     "Вы не можете обменять оружие, которое уже есть у другого игрока."
+
+REFERENCE           ADDED
+LANG_ENGLISH     "Добавлено ^5"
+
+REFERENCE           THE_ZM
+LANG_ENGLISH     " ^7Зомби!"
+
+REFERENCE           GIVE_GUM
+LANG_ENGLISH     "Гобблгам ^5"
+
+REFERENCE           GIVE_AAT
+LANG_ENGLISH     "AAT ^5"
+
+REFERENCE           ADD_CAMO
+LANG_ENGLISH     "Камуфляж: ^5"
+
+REFERENCE           TO_PLAYER
+LANG_ENGLISH     "^7 Дано ^1"
+
+REFERENCE           ALL_PLAYER
+LANG_ENGLISH     "^7 Дано всем"
+
+REFERENCE           ROUND
+LANG_ENGLISH     "Раунд^5 "
+
+REFERENCE           IS_END
+LANG_ENGLISH     " ^7закончен"
+
+REFERENCE           ZM_SPAWN
+LANG_ENGLISH     "Задержка появления зомби изменена на ^5"
+
+REFERENCE           SEC
+LANG_ENGLISH     "^7 сек."
+
+REFERENCE           ZM_LIMIT
+LANG_ENGLISH     "Максимальное количество зомби изменено на: ^5"
+
+REFERENCE           ZM_PLAYER
+LANG_ENGLISH     "Общее количество зомби, добавляемое при входе игрока: ^5"
+
+REFERENCE           ZM_SPEED
+LANG_ENGLISH     "Скорость движения зомби изменится в следующем раунде: ^5%"
+
+REFERENCE           ZM_PERK
+LANG_ENGLISH     "Лимит перков: ^5"
+
+REFERENCE           ZM_POWER
+LANG_ENGLISH     "Состояние энергии: ^5"
+
+REFERENCE           CHEAT_ON
+LANG_ENGLISH     "Чит-команды включены"
+
+REFERENCE           CHEAT_OFF
+LANG_ENGLISH     "Чит-команды отключены"
+
+REFERENCE           HITMARKER_ON
+LANG_ENGLISH     "Хитмаркер Вкл."
+
+REFERENCE           HITMARKER_OFF
+LANG_ENGLISH     "Хитмаркер Выкл."
+
+REFERENCE           CANT_BGB_HINT
+LANG_ENGLISH     "Гобблгам недоступен"
+
+REFERENCE           BGB_ON
+LANG_ENGLISH     "Машина Гобблгам активирована"
+
+REFERENCE           BGB_OFF
+LANG_ENGLISH     "Машина Гобблгам деактивирована"
+
+REFERENCE           SONG_CHANGE
+LANG_ENGLISH     "Смена трека......"
+
+REFERENCE           SONG_PLAY
+LANG_ENGLISH     "Сейчас играет: ^5"
+
+REFERENCE           SONG_STOPING
+LANG_ENGLISH     "Музыка выключается......"
+
+REFERENCE           SONG_STOPED
+LANG_ENGLISH     "Музыка остановлена."
+
+REFERENCE           GG
+LANG_ENGLISH     "Оружие: ^5"
+
+REFERENCE           WITHDRAW
+LANG_ENGLISH     "^3[{+activate}]^7 Снять ^BBUTTON_COD_POINT_ICON^1000 (^BBUTTON_COD_POINT_ICON^&&1 | ^3[{+melee}]^7 Проверить баланс)"
+
+REFERENCE           DEPOSIT
+LANG_ENGLISH     "^3[{+activate}]^7 Внести ^BBUTTON_COD_POINT_ICON^1000 (^BBUTTON_COD_POINT_ICON^&&1 | ^3[{+melee}]^7 Проверить баланс)"
+
+REFERENCE           WEAPONLOCKER_GETBACK
+LANG_ENGLISH     "Удерживайте ^3[{+activate}]^7, чтобы взять оружие [Оружие из WeaponLocker: &&1^7]."
+
+REFERENCE           WEAPONLOCKER_STORE
+LANG_ENGLISH     "Удерживайте ^3[{+activate}]^7, чтобы положить оружие."
+
+REFERENCE           WEAPONLOCKER_LOADING
+LANG_ENGLISH     "Обработка......"
+
+REFERENCE           BANK_SCORE
+LANG_ENGLISH     "^5Текущий баланс: ^7"
+
+REFERENCE           BANK_OVERLOAD
+LANG_ENGLISH     "^1Банк полон!"
+
+REFERENCE           AF_TITLE
+LANG_ENGLISH     "Расширенные функции в игре"
+
+REFERENCE           AF_DESC
+LANG_ENGLISH     "Если включены расширенные функции, WeaponLocker и Банк будут недоступны.\nАктивирует меню модификации в стиле GSC, доступное при удерживании ^3[{+stance}] ^7+ ^3[{+reload}]\n^1<Если вы не понимаете, как использовать эту функцию, ПОЖАЛУЙСТА НЕ ВКЛЮЧАЙТЕ!>"
+
+REFERENCE           AF
+LANG_ENGLISH     "РАСШИРЕННЫЕ ФУНКЦИИ"
+
+REFERENCE           PAUSE_TITLE
+LANG_ENGLISH     "Пауза игры?"
+
+REFERENCE           PAUSE_DESC
+LANG_ENGLISH     "Нажмите ^3Нет ^7для продолжения."
+
+REFERENCE           LOCKER_BAN
+LANG_ENGLISH     "^1Обнаружены незаконные очки, WeaponLocker и Банк теперь недоступны."
+
+REFERENCE           PAUSE
+LANG_ENGLISH     "СО-ОП ПАУЗА"
+
+REFERENCE           BOXSHARE_TAKE
+LANG_ENGLISH     "^3[{+activate}]^7 Взять оружие"
+
+REFERENCE           SHIELD_HINT
+LANG_ENGLISH     "Удерживайте ^3[{+activate}]^7 для использования Щита Riot"
+
+REFERENCE           SHIELD_HINT_HOWTO
+LANG_ENGLISH     "Нажмите ^3[{+actionslot 2}]^7, чтобы экипировать Щит Riot"
+
+REFERENCE           SPIKE_HINT
+LANG_ENGLISH     "Двойное нажатие ^3[{+activate}]^7/^3[{+melee}] ^7для взрыва шипов"
+
+REFERENCE           BOXSHARE_HINT
+LANG_ENGLISH     "Нажмите ^3[{+melee}]^7, чтобы поделиться этим оружием с товарищем по команде"
+
+REFERENCE           START_HINT_GAMEPAD
+LANG_ENGLISH     "^3[{+breath_sprint}] ^7+ ^3[{+reload}] ^7Осмотреть оружие\n^3[{+melee}]^7 + ^3[{+actionslot 3}] ^7Фонарь\n^3[{+breath_sprint}]^7 + ^3[{+actionslot 3}] ^7Сбросить очки\n^3[{+gostand}]^7 + ^3[{+actionslot 3}] ^7Улучшенное зрение"
+
+REFERENCE           START_HINT
+LANG_ENGLISH     "^3[{+reload}] ^7Осмотреть оружие\n^3[{+melee}]^7 + ^3[{+actionslot 3}] ^7Фонарь\n^3[{+breath_sprint}]^7 + ^3[{+actionslot 3}] ^7Сбросить очки\n^3[{+gostand}]^7 + ^3[{+actionslot 3}] ^7DNI Улучшенное зрение"
+
+REFERENCE           REMOVEPERK_HINT
+LANG_ENGLISH     "Нажмите ^3[{+activate}]^7 + ^3[{+melee}] ^7, чтобы удалить этот перк на машине перков."
+
+REFERENCE           KATANA_HINT
+LANG_ENGLISH     "^3[{+attack}]^7 Беспощадный рывок\n^3[{+reload}]^7 Невидимость & Бесконечные патроны (один раз за раунд)\n^3[{+melee}]^7 Восстановление здоровья"
+
+REFERENCE           KATANA_HINT_GAMEPAD
+LANG_ENGLISH     "^3[{+attack}]^7 Беспощадный рывок\n^3[{+breath_sprint}] ^7+ ^3[{+reload}]^7 Невидимость & Бесконечные патроны (один раз за раунд)\n^3[{+melee}]^7 Восстановление здоровья"
+
+REFERENCE           MOD_DESC
+LANG_ENGLISH     "Добро пожаловать в мод All-Around Enhancement! Этот мод добавляет множество улучшений качества жизни и исправляет ошибки в режиме Zombies Black Ops III, обеспечивая окончательный опыт игры с зомби."
+
+ENDMARKER

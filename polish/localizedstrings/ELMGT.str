@@ -1,0 +1,92 @@
+// Note to translators:
+// Just edit the text inside the quotes, don't edit other code
+
+VERSION             "1"
+CONFIG              "C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           SILENCER
+LANG_ENGLISH     "^2Wzmacniacz Power-upów"
+
+REFERENCE           SILENCER_DESC
+LANG_ENGLISH     "^2Zwiększa szansę na pojawienie się power-upów."
+
+REFERENCE           FMJ_DESC
+LANG_ENGLISH     "^2Zadaje 200% obrażeń przeciwnikom niebędącym zombie."
+
+REFERENCE           EE_COUNT
+LANG_ENGLISH     "^5Ukończone jajka wielkanocne: ^7"
+
+REFERENCE           EE_COMPLETED_START
+LANG_ENGLISH     "Ukończyłem "
+
+REFERENCE           EE_COMPLETED_END
+LANG_ENGLISH     " jajek wielkanocnych łącznie"
+
+REFERENCE           ROAMER_LABEL
+LANG_ENGLISH     "Naciśnij ^3ADS^7 + ^3[{+melee}]^7, aby rozpocząć następną rundę"
+
+REFERENCE           ROAMER_LABEL_TIMER
+LANG_ENGLISH     "Naciśnij ^3ADS^7 + ^3[{+melee}]^7, aby rozpocząć następną rundę\nPozostały czas: ^5"
+
+REFERENCE           PURIFIER_HINT
+LANG_ENGLISH     "Strzelaj ogniem w sojuszników, aby ich ożywić"
+
+REFERENCE           OUTRIDER_HINT
+LANG_ENGLISH     "Strzel w sojuszników trafiając bezpośrednio, aby ich ożywić"
+
+REFERENCE           GB_PW
+LANG_ENGLISH     "^8Świat Pikseli"
+
+REFERENCE           GB_RW
+LANG_ENGLISH     "^8Prawdziwy Świat"
+
+REFERENCE           GB_SKY
+LANG_ENGLISH     "^8Obracanie nieba przez 1 minutę"
+
+REFERENCE           GB_NOAMMO
+LANG_ENGLISH     "^1DAJ MI AMUNICJĘ!!"
+
+REFERENCE           GB_DWARF
+LANG_ENGLISH     "Krasnolud"
+
+REFERENCE           GB_DWARFOVER
+LANG_ENGLISH     "Krasnolud zakończony"
+
+REFERENCE           GB_LEAK
+LANG_ENGLISH     "^1Wyciek pieniędzy"
+
+REFERENCE           GB_LEAKOVER
+LANG_ENGLISH     "^5Wyciek pieniędzy zakończony"
+
+REFERENCE           GB_INFAMMO
+LANG_ENGLISH     "^2NIEOGRANICZONA STRZELBA!!"
+
+REFERENCE           GG_LV
+LANG_ENGLISH     "^2Poziom broni: ^7"
+
+REFERENCE           MAPINTRO
+LANG_ENGLISH     "Wyłącz filmy ładowania"
+
+REFERENCE           BOTS
+LANG_ENGLISH     "Boty"
+
+REFERENCE           LOBBY_PASSWORD
+LANG_ENGLISH     "Hasło do lobby"
+
+REFERENCE           LOBBY_PASSWORD_DESC
+LANG_ENGLISH     "Dodaj hasło do lobby"
+
+REFERENCE           WINER
+LANG_ENGLISH     "^5Zwycięzca^7: "
+
+REFERENCE           GG_UP
+LANG_ENGLISH     "^2Awans broni"
+
+REFERENCE           GG_DOWN
+LANG_ENGLISH     "^1Upokorzony"
+
+REFERENCE           DPAP_DESC
+LANG_ENGLISH     "System re-PAP z BO4. Twój pierwszy PAP zada normalną ilość obrażeń jak w BO3. Następnie możesz ponownie PAP do 4 razy, aby uzyskać łącznie dodatkowe 80% obrażeń PAP z BO3. W prawym dolnym rogu ekranu pod bronią pojawi się wskaźnik poziomu PAP, najwyższy poziom to EPIC (żółty tekst)."
+
+ENDMARKER

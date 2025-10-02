@@ -1,0 +1,92 @@
+// Note to translators:
+// Just edit the text inside the quotes, don't edit other code
+
+VERSION             "1"
+CONFIG              "C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           SILENCER
+LANG_ENGLISH     "^2Усилитель усилений"
+
+REFERENCE           SILENCER_DESC
+LANG_ENGLISH     "^2Повышает шанс выпадения усилений."
+
+REFERENCE           FMJ_DESC
+LANG_ENGLISH     "^2Наносит 200% урона против врагов, не являющихся зомби."
+
+REFERENCE           EE_COUNT
+LANG_ENGLISH     "^5Выполнено пасхальных яиц: ^7"
+
+REFERENCE           EE_COMPLETED_START
+LANG_ENGLISH     "Я выполнил "
+
+REFERENCE           EE_COMPLETED_END
+LANG_ENGLISH     " пасхальных яиц всего"
+
+REFERENCE           ROAMER_LABEL
+LANG_ENGLISH     "Нажмите ^3ADS^7 + ^3[{+melee}]^7 чтобы начать следующий раунд"
+
+REFERENCE           ROAMER_LABEL_TIMER
+LANG_ENGLISH     "Нажмите ^3ADS^7 + ^3[{+melee}]^7 чтобы начать следующий раунд\nОсталось времени: ^5"
+
+REFERENCE           PURIFIER_HINT
+LANG_ENGLISH     "Стреляйте огнем по товарищам, чтобы их воскресить"
+
+REFERENCE           OUTRIDER_HINT
+LANG_ENGLISH     "Попадание по товарищам напрямую для их воскресения"
+
+REFERENCE           GB_PW
+LANG_ENGLISH     "^8Пиксельный мир"
+
+REFERENCE           GB_RW
+LANG_ENGLISH     "^8Реальный мир"
+
+REFERENCE           GB_SKY
+LANG_ENGLISH     "^8Вращение неба в течение 1 минуты"
+
+REFERENCE           GB_NOAMMO
+LANG_ENGLISH     "^1ДАЙТЕ МНЕ ПАТРОНЫ!!"
+
+REFERENCE           GB_DWARF
+LANG_ENGLISH     "Гном"
+
+REFERENCE           GB_DWARFOVER
+LANG_ENGLISH     "Гном завершен"
+
+REFERENCE           GB_LEAK
+LANG_ENGLISH     "^1Утечка денег"
+
+REFERENCE           GB_LEAKOVER
+LANG_ENGLISH     "^5Утечка денег завершена"
+
+REFERENCE           GB_INFAMMO
+LANG_ENGLISH     "^2ПОДАВИТЬ ОГОНЬ!!"
+
+REFERENCE           GG_LV
+LANG_ENGLISH     "^2Уровень оружия: ^7"
+
+REFERENCE           MAPINTRO
+LANG_ENGLISH     "Отключить заставки загрузки"
+
+REFERENCE           BOTS
+LANG_ENGLISH     "Боты"
+
+REFERENCE           LOBBY_PASSWORD
+LANG_ENGLISH     "Пароль лобби"
+
+REFERENCE           LOBBY_PASSWORD_DESC
+LANG_ENGLISH     "Добавьте пароль в лобби"
+
+REFERENCE           WINER
+LANG_ENGLISH     "^5Победитель^7: "
+
+REFERENCE           GG_UP
+LANG_ENGLISH     "^2Повышение оружия"
+
+REFERENCE           GG_DOWN
+LANG_ENGLISH     "^1Опозорен"
+
+REFERENCE           DPAP_DESC
+LANG_ENGLISH     "Система re-PAP из BO4. Ваш первый PAP даст обычное количество урона, которое PAP всегда давал в BO3. После этого вы можете делать re-PAP до 4 раз, чтобы получить суммарное увеличение на 80% обычного урона PAP из BO3. Индикатор уровня PAP появится в правом нижнем углу под оружием, максимальный уровень — EPIC (жёлтый текст)."
+
+ENDMARKER

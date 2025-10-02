@@ -1,0 +1,116 @@
+// Note to translators:
+// Just edit the text inside the quotes, don't edit other code
+
+VERSION             "1"
+CONFIG              "C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           STATUS
+LANG_ENGLISH     "Монитор состояния"
+
+REFERENCE           STATUS_DESC
+LANG_ENGLISH     "Отображает текущую информацию о состоянии слева на экране (могут возникнуть сбои)."
+
+REFERENCE           SWITCH_DESC
+LANG_ENGLISH     "^3Должно быть включено, чтобы следующие опции работали"
+
+REFERENCE           VCLUT
+LANG_ENGLISH     "Контраст"
+
+REFERENCE           VCLUT_DESC
+LANG_ENGLISH     "Увеличьте или уменьшите количество цвета в игре. 0 — по умолчанию. Если экран станет слишком темным, смена цветового режима на sRGB и/или увеличение яркости может помочь. Позволяет игрокам, которым игра кажется слишком яркой, сделать её похожей на World At War с более приглушенной палитрой."
+
+REFERENCE           EXTPLAYER
+LANG_ENGLISH     "Поддержка большего числа игроков"
+
+REFERENCE           EXTPLAYER_DESC
+LANG_ENGLISH     "Максимальное количество игроков увеличено до 10 (^1очень нестабильно^7), машины Gobblegum будут отключены из-за ^3ограничений игрового движка^7.\n\nДетали поддержки карт:\n\nZombies Chronicles все карты\n(^2Стабильно, Main EE совместимо^7)\n\nSoE/DE/GK\n(^3Менее стабильно, Main EE совместимо^7)\n\nДругие карты 3arc (^3Менее стабильно^7)\nПользовательские карты (Неизвестно)"
+
+REFERENCE           FFFIVE
+LANG_ENGLISH     "Friendly Fire, но не убивает"
+
+REFERENCE           ROUNDLIMIT
+LANG_ENGLISH     "Закончить матч на этом раунде"
+
+REFERENCE           ROUNDTIME
+LANG_ENGLISH     "End Game Challenge"
+
+REFERENCE           ROUNDTIME_DESC
+LANG_ENGLISH     "Вы сейчас в End Game. После завершения раунда, указанного в опции 'Закончить матч на этом раунде', проверьте свои навыки, выживая в бесконечной волне мгновенно появляющихся зомби в течение указанного времени. Столкнитесь с новыми Super Sprinter и Tranzit Bus Sprinter. Если запустить до раунда 40, штраф за неудачу — знать, что орда победила вас..."
+
+REFERENCE           TRADE_DESC
+LANG_ENGLISH     "Обмен оружием с другим игроком. Подойдите к игроку, на которого хотите обменяться, и посмотрите на его оружие. Оба игрока должны удерживать экранный промпт до заполнения полосы, затем оружие будет обменяно."
+
+REFERENCE           GAMBLER_DESC
+LANG_ENGLISH     "Создает плавающий Lucky 8 шар в точке спауна игрока, который можно использовать за 1000 очков для случайного эффекта. Некоторые хорошие, некоторые плохие, некоторые средние. Можно купить только один раз за раунд."
+
+REFERENCE           SOLOREVIVE
+LANG_ENGLISH     "Неограниченное одиночное возрождение"
+
+REFERENCE           PERKPLUS
+LANG_ENGLISH     "Отключить улучшения перков"
+
+REFERENCE           PERKPLUS_DESC
+LANG_ENGLISH     "Отключает следующие эффекты перков, добавленные модом:\n\n^2Speed Cola^7: Ускоряет покупку перков и gobblegum, ADS, смену оружия и скорость ближнего боя, убирает анимацию «первого поднятия»\n^3Stamin-Up^7: Быстрее поднимать оружие после спринта, стрелять и бросать гранаты во время бега, бесконечный спринт\n^3Double Tap Root Beer^7: Специальное оружие заряжается быстрее\n^1Widow’s Wine^7: Дает сопротивление PhD Flopper (действует только если на карте один защитный перк)\nDeadshot Daiquiri: Имея 4 перка, включая Deadshot, убейте 5 зомби с хэдшотом подряд, чтобы активировать x1.25 множитель урона по голове. Иконка Deadshot отображается рядом с боеприпасами, исчезает/сбрасывается при убийстве без хэдшота."
+
+REFERENCE           NOSLIDE
+LANG_ENGLISH     "Отключить скольжение"
+
+REFERENCE           RJ
+LANG_ENGLISH     "Ракетный прыжок"
+
+REFERENCE           RJ_DESC
+LANG_ENGLISH     "Взрывчатка выбрасывает вас на определенное расстояние. Совместите с сопротивлением к взрывам Widow's Wine, чтобы сделать ракетный прыжок!"
+
+REFERENCE           SHOCK
+LANG_ENGLISH     "Грифф режим только для одной команды"
+
+REFERENCE           SHOCK_DESC
+LANG_ENGLISH     "Действия, которые обычно были friendly fire, замедляют игроков и оглушают экран."
+
+REFERENCE           BLOOD
+LANG_ENGLISH     "Отключить кровь"
+
+REFERENCE           FLAMER
+LANG_ENGLISH     "Отключить Purifier (Огнемет)"
+
+REFERENCE           ROAMER_DESC
+LANG_ENGLISH     "Позволяет задать паузу между раундами. Время можно настраивать, следующую волну можно запустить вручную через промпт в игре."
+
+REFERENCE           DPAP
+LANG_ENGLISH     "BO4 Pack-a-Punch Repack"
+
+REFERENCE           LOADOUTSAVE2
+LANG_ENGLISH     "Очистить сохраненный набор после bleed out"
+
+REFERENCE           LOADOUTSAVE2_DESC
+LANG_ENGLISH     "Очищает оружие после bleedout, возрождение будет только с пистолетом. Работает с опциями 'Weapon Restore & Mule Kick Weapon Restore'."
+
+REFERENCE           RIPPER
+LANG_ENGLISH     "Отключить замену Bowie Knife на Ripper"
+
+REFERENCE           RIPPER_DESC
+LANG_ENGLISH     "Держа Bowie Knife с Widow's Wine, оружие апгрейдится до Ripper из Multiplayer с большим уроном и самонаведением. Эта опция отключает это."
+
+REFERENCE           DW
+LANG_ENGLISH     "Отключить Dualwield PAP Wonder Weapons"
+
+REFERENCE           DW_DESC
+LANG_ENGLISH     "Ray Gun Mark I и Thundergun становятся двуручными с PAP + All Around Enhancement. Эта опция отключает это."
+
+REFERENCE           ZMBAR
+LANG_ENGLISH     "Полоса здоровья зомби"
+
+REFERENCE           JUKE
+LANG_ENGLISH     "Zombie Juke"
+
+REFERENCE           JUKE_DESC
+LANG_ENGLISH     "Зомби будут случайно двигаться влево и вправо, а не по прямой, как в Black Ops 1."
+
+REFERENCE           AUTORUN
+LANG_ENGLISH     "Отключить супер-спринтеров после раунда 40"
+
+REFERENCE           AUTORUN_DESC
+LANG_ENGLISH     "Все зомби становятся супер-спринтерами после раунда 40 с All Around Enhancement. Эта опция ограничивает только некоторых зомби на раунд."
+
+ENDMARKER

@@ -1,0 +1,500 @@
+// Note to translators:
+// Just edit the text inside the quotes, don't edit other code
+
+VERSION             "1"
+CONFIG              "C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           TOMB_1
+LANG_ENGLISH     "^1Саманта^7: Всё началось давно, на полях сражений Великой войны."
+
+REFERENCE           TOMB_2
+LANG_ENGLISH     "^1Саманта^7: Два немецких учёных пытались использовать тёмные и таинственные силы, зарытые веками."
+
+REFERENCE           TOMB_3
+LANG_ENGLISH     "^1Саманта^7: Они верили, что их открытия обеспечат окончательную победу Германии."
+
+REFERENCE           TOMB_4
+LANG_ENGLISH     "^1Саманта^7: Они и представить не могли, что их исследования откроют нечто большее."
+
+REFERENCE           TOMB_5
+LANG_ENGLISH     "^1Саманта^7: Пока древнее зло опустошало передовые линии, надежда союзников покоилась на трёх солдатах, отправленных остановить его."
+
+REFERENCE           TOMB_6
+LANG_ENGLISH     "^1Саманта^7: Меня зовут Саманта. Я расскажу, как всё это действительно началось."
+
+REFERENCE           THEATER_1
+LANG_ENGLISH     "^1Рихтофен^7: Запись 741021! Возможно, станция хранит ключ к истинным целям группы 935."
+
+REFERENCE           THEATER_2
+LANG_ENGLISH     "^1Рихтофен^7: Я всё ещё не доверяю своим нестандартным союзникам, но они мне очень полезны. Но, отвлекся."
+
+REFERENCE           THEATER_3
+LANG_ENGLISH     "^1Рихтофен^7: Кто бы мог подумать, что М.Т.Д. способен путешествовать во времени? Сколько станций у этой группы?"
+
+REFERENCE           THEATER_4
+LANG_ENGLISH     "^1Рихтофен^7: Куда пропала та маленькая девочка?"
+
+REFERENCE           THEATER_5
+LANG_ENGLISH     "^1Рихтофен^7: Время покажет, какие новые вопросы ждут нас в... ТЕАТРЕ ПРОКЛЯТЫХ!"
+
+REFERENCE           TOMB_OUTRO_1
+LANG_ENGLISH     "^1Саманта^7: Когда ворота Агартхи открылись, четырём героям была дарована несметная добыча."
+
+REFERENCE           TOMB_OUTRO_2
+LANG_ENGLISH     "^1Саманта^7: С того дня они знали, что Саманта будет защищать их... навсегда."
+
+REFERENCE           TOMB_OUTRO_3
+LANG_ENGLISH     "^1Эдди^7: Ты всё понимаешь неправильно. Я же говорил тебе, их глаза должны быть голубыми!"
+
+REFERENCE           TOMB_OUTRO_4
+LANG_ENGLISH     "^1Саманта^7: Теперь моя очередь, Эдди. Я могу делать, что хочу."
+
+REFERENCE           TOMB_OUTRO_5
+LANG_ENGLISH     "^1Эдди^7: Но... Ты даже не умеешь нормально играть! Девочки слишком мало знают о зомби."
+
+REFERENCE           TOMB_OUTRO_6
+LANG_ENGLISH     "^1Максис^7: Уберите игрушки, дети. Убедитесь, что окна заперты, прежде чем спуститесь в подвал."
+
+REFERENCE           TOMB_OUTRO_7
+LANG_ENGLISH     "^1Эдди^7: Нам лучше слушаться твоего отца."
+
+REFERENCE           TOMB_OUTRO_8
+LANG_ENGLISH     "^1Эдди^7: Я даже не получил свой ход..."
+
+REFERENCE           TOMB_OUTRO_9
+LANG_ENGLISH     "^1Саманта^7: Завтра, Эдди. Ты будешь устанавливать правила, обещаю."
+
+REFERENCE           TOMB_OUTRO_10
+LANG_ENGLISH     "^1Саманта^7: Давай, Флаффи!"
+
+REFERENCE           TOMB_OUTRO_11
+LANG_ENGLISH     "^1Эдди^7: Хотелось бы, чтобы герои из наших историй были реальны, Сэм."
+
+REFERENCE           TOMB_OUTRO_12
+LANG_ENGLISH     "^1Саманта^7: Я понимаю, что ты имеешь в виду. Но мы всё исправим."
+
+REFERENCE           TOMB_OUTRO_13
+LANG_ENGLISH     "^1Саманта^7: ...Мой отец говорит, что у него есть план."
+
+REFERENCE           GENESIS_OUTRO_1
+LANG_ENGLISH     "^1Доктор Монти^7: Зло побеждено, я могу начать всё исправлять."
+
+REFERENCE           GENESIS_OUTRO_2
+LANG_ENGLISH     "^1Доктор Монти^7: Ни мёртвых, ни Апотиконов, ни Теневого Человека."
+
+REFERENCE           GENESIS_OUTRO_3
+LANG_ENGLISH     "^1Доктор Монти^7: Всё исчезло. Навсегда."
+
+REFERENCE           GENESIS_OUTRO_4
+LANG_ENGLISH     "^1Доктор Монти^7: Но вот что забавно."
+
+REFERENCE           GENESIS_OUTRO_5
+LANG_ENGLISH     "^1Доктор Монти^7: Вас, снежинки, здесь вообще не должно быть."
+
+REFERENCE           GENESIS_OUTRO_6
+LANG_ENGLISH     "^1Доктор Монти^7: Вы уже должны были исчезнуть из существования."
+
+REFERENCE           GENESIS_OUTRO_7
+LANG_ENGLISH     "^1Доктор Монти^7: Эти флаконы с кровью..."
+
+REFERENCE           GENESIS_OUTRO_8
+LANG_ENGLISH     "^1Рихтофен^7: Я задавался вопросом, когда ты это упомянешь."
+
+REFERENCE           GENESIS_OUTRO_9
+LANG_ENGLISH     "^1Доктор Монти^7: Они из реальностей, которые мы уже закрыли!"
+
+REFERENCE           GENESIS_OUTRO_10
+LANG_ENGLISH     "^1Доктор Монти^7: Им здесь не место, их здесь быть не может!"
+
+REFERENCE           GENESIS_OUTRO_11
+LANG_ENGLISH     "^1Доктор Монти^7: Такой парадокс угрожает моему идеальному миру!"
+
+REFERENCE           GENESIS_OUTRO_12
+LANG_ENGLISH     "^1Доктор Монти^7: Вы и ваша чёртова свобода воли! Что делать..? Что делать!?"
+
+REFERENCE           GENESIS_OUTRO_13
+LANG_ENGLISH     "^1Доктор Монти^7: Ну, вы точно здесь оставаться не можете."
+
+REFERENCE           GENESIS_OUTRO_14
+LANG_ENGLISH     "^1Рихтофен^7: Ты мог бы отправить нас куда-нибудь ещё. Туда, где мы никогда не были."
+
+REFERENCE           GENESIS_OUTRO_15
+LANG_ENGLISH     "^1Доктор Монти^7: Ммм! Думаю, я могу сделать маленький уголок где-нибудь в истории."
+
+REFERENCE           GENESIS_OUTRO_16
+LANG_ENGLISH     "^1Доктор Монти^7: Место, где я могу сбросить кое-какой хлам, что у меня остался."
+
+REFERENCE           GENESIS_OUTRO_17
+LANG_ENGLISH     "^1Доктор Монти^7: Или просто сотру вас из существования."
+
+REFERENCE           GENESIS_OUTRO_18
+LANG_ENGLISH     "^1Доктор Монти^7: О! Погоди... На самом деле, это отлично подходит!"
+
+REFERENCE           PRISON_INTRO_1
+LANG_ENGLISH     "^1Финн^7: Эй, Сал, мы уже проходили это раз пятьдесят."
+
+REFERENCE           PRISON_INTRO_2
+LANG_ENGLISH     "^1Сал^7: Пройдем это ещё пятьдесят, если потребуется."
+
+REFERENCE           PRISON_INTRO_3
+LANG_ENGLISH     "^1Сал^7: 9:30, свет выключен, охранник начинает обход."
+
+REFERENCE           PRISON_INTRO_4
+LANG_ENGLISH     "^1Сал^7: Как дела сегодня, Фергюсон? Семья в порядке?"
+
+REFERENCE           PRISON_INTRO_5
+LANG_ENGLISH     "^1Фергюсон^7: Всё отлично, мистер Делука. Мой мальчик Томми почти шесть."
+
+REFERENCE           PRISON_INTRO_6
+LANG_ENGLISH     "^1Сал^7: Разве это не здорово?"
+
+REFERENCE           PRISON_INTRO_7
+LANG_ENGLISH     "^1Фергюсон^7: Эй, Финн, получил уже информацию на субботние гонки?"
+
+REFERENCE           PRISON_INTRO_8
+LANG_ENGLISH     "^1Финн^7: Я сейчас работаю над этим."
+
+REFERENCE           PRISON_INTRO_9
+LANG_ENGLISH     "^1Билли^7: Ты его заткнёшь или мне надо?"
+
+REFERENCE           PRISON_INTRO_10
+LANG_ENGLISH     "^1Фергюсон^7: Знаешь правила, Красавчик. Без разговоров."
+
+REFERENCE           PRISON_INTRO_11
+LANG_ENGLISH     "^1Сал^7: 9:35, Ласка начинает своё песенно-танцевальное шоу."
+
+REFERENCE           PRISON_INTRO_12
+LANG_ENGLISH     "^1Фергюсон^7: Чёрт, Арлингтон!"
+
+REFERENCE           PRISON_INTRO_13
+LANG_ENGLISH     "^1Арлингтон^7: Надо вызвать доктора!"
+
+REFERENCE           PRISON_INTRO_14
+LANG_ENGLISH     "^1Фергюсон^7: Надеюсь, на этот раз настоящий."
+
+REFERENCE           PRISON_INTRO_15
+LANG_ENGLISH     "^1Сал^7: Как только Ласка получит ключи, переходим к второму этапу."
+
+REFERENCE           PRISON_INTRO_16
+LANG_ENGLISH     "^1Сал^7: Двигайся."
+
+REFERENCE           PRISON_INTRO_17
+LANG_ENGLISH     "^1Билли^7: Вот, ребята. Из личной коллекции начальника."
+
+REFERENCE           PRISON_INTRO_18
+LANG_ENGLISH     "^1Арлингтон^7: Твои парни в прачечной спрятали детали?"
+
+REFERENCE           PRISON_INTRO_19
+LANG_ENGLISH     "^1Билли^7: Конечно, чертовски спрятали."
+
+REFERENCE           PRISON_INTRO_20
+LANG_ENGLISH     "^1Арлингтон^7: Что за черт? Я его убил!"
+
+REFERENCE           PRISON_INTRO_21
+LANG_ENGLISH     "^1Билли^7: Ты слишком долго в тюрьме, Эл. Забыл, как дела делать."
+
+REFERENCE           PRISON_INTRO_22
+LANG_ENGLISH     "^1Билли^7: Что за черт?"
+
+REFERENCE           PRISON_INTRO_23
+LANG_ENGLISH     "^1Арлингтон^7: Это неправильно. Тут что-то странное происходит..."
+
+REFERENCE           PRISON_INTRO_24
+LANG_ENGLISH     "^1Сал^7: Не скажешь, Ласка."
+
+REFERENCE           PRISON_INTRO_25
+LANG_ENGLISH     "^1Финн^7: Откуда эти крики?"
+
+REFERENCE           PRISON_INTRO_26
+LANG_ENGLISH     "^1Арлингтон^7: О, черт!"
+
+REFERENCE           PRISON_MUSIC_1
+LANG_ENGLISH     "Но я собираюсь прорваться"
+
+REFERENCE           PRISON_MUSIC_2
+LANG_ENGLISH     "Я собираюсь прорваться"
+
+REFERENCE           PRISON_MUSIC_3
+LANG_ENGLISH     "Прорвусь через ржавую клетку и убегу"
+
+REFERENCE           PRISON_MUSIC_4
+LANG_ENGLISH     "Я собираюсь прорваться"
+
+REFERENCE           PRISON_MUSIC_5
+LANG_ENGLISH     "Слишком холодно, чтобы разжечь огонь"
+
+REFERENCE           PRISON_MUSIC_6
+LANG_ENGLISH     "Я сжигаю дизель, сжигаю кости динозавров"
+
+REFERENCE           PRISON_MUSIC_7
+LANG_ENGLISH     "Пойду по реке к тихой воде"
+
+REFERENCE           PRISON_MUSIC_8
+LANG_ENGLISH     "И поеду на стае собак"
+
+REFERENCE           PRISON_MUSIC_9
+LANG_ENGLISH     "Прорвусь через ржавую клетку"
+
+REFERENCE           DIE_INTRO_1
+LANG_ENGLISH     "^1Стюхлингер^7: Я не понимаю.\n^1Рихтофен^7: *неразборчиво*"
+
+REFERENCE           DIE_INTRO_2
+LANG_ENGLISH     "^1Стюхлингер^7: Почему ты это делаешь? Почему я?"
+
+REFERENCE           DIE_INTRO_3
+LANG_ENGLISH     "^1Стюхлингер^7: Куда путешествовать? Ты не понимаешь? Здесь ничего не осталось!"
+
+REFERENCE           DIE_INTRO_4
+LANG_ENGLISH     "^1Стюхлингер^7: Вау... Как ты...? \n^1Рихтофен^7: *неразборчиво*"
+
+REFERENCE           DIE_INTRO_5
+LANG_ENGLISH     "^1Стюхлингер^7: Что? Что значит 'залатать разлом'? \n^1Рихтофен^7: *неразборчиво*"
+
+REFERENCE           DIE_INTRO_6
+LANG_ENGLISH     "^1Стюхлингер^7: А может, я и не хочу, а? Ты думал об этом? \n^1Рихтофен^7: *неразборчиво*"
+
+REFERENCE           DIE_INTRO_7
+LANG_ENGLISH     "^1Стюхлингер^7: О, ты не можешь рассказать им о Плоти! Что я сделал... \nОни убили бы меня, если бы узнали! Чёрт!"
+
+REFERENCE           DIE_INTRO_8
+LANG_ENGLISH     "^1Руссман^7: Если хочешь поговорить со своим воображаемым другом, Стю, тебе стоит дождаться зоны без зомби!"
+
+REFERENCE           DIE_INTRO_9
+LANG_ENGLISH     "^1Руссман^7: АААААААА!!!!!!!"
+
+REFERENCE           DIE_INTRO_10
+LANG_ENGLISH     "^1Мисти^7: Глупец! Иди сюда! Сейчас же!"
+
+REFERENCE           DIE_INTRO_11
+LANG_ENGLISH     "^1Марлтон^7: Давай! Давай!"
+
+REFERENCE           DIE_INTRO_12
+LANG_ENGLISH     "^1Стюхлингер^7: Что теперь делать?"
+
+REFERENCE           DIE_INTRO_13
+LANG_ENGLISH     "^1Мисти^7: Берём оружие, ищем хорошее место для обороны, отстреливаемся и всё."
+
+REFERENCE           DIE_INTRO_14
+LANG_ENGLISH     "^1Рихтофен^7: *неразборчиво*\n^1Стюхлингер^7: Я не понимаю!"
+
+REFERENCE           DIE_INTRO_15
+LANG_ENGLISH     "^1Марлтон^7: О чём ты говоришь, Стюхлингер? Мисти всё очень ясно объяснила!"
+
+REFERENCE           DIE_INTRO_16
+LANG_ENGLISH     "^1Рихтофен^7: Прими свою судьбу! Начинай заново!"
+
+REFERENCE           DIE_INTRO_17
+LANG_ENGLISH     "^1Мисти^7: Если мы погибаем, то погибаем сражаясь! Ах!"
+
+REFERENCE           DIE_INTRO_18
+LANG_ENGLISH     "^1Стюхлингер^7: Мы здесь уже были?"
+
+REFERENCE           COAST_INTRO_1
+LANG_ENGLISH     "^8Джордж А. Ромеро^7: Мне всегда нравилась идея 'монстра внутри'. Мне нравятся зомби, как отражение нас."
+
+REFERENCE           COAST_INTRO_2
+LANG_ENGLISH     "^8Джордж А. Ромеро^7: Зомби — это рабочие монстры."
+
+REFERENCE           COAST_INTRO_3
+LANG_ENGLISH     "^1Трехо^7: Мы полностью окружены!"
+
+REFERENCE           COAST_INTRO_4
+LANG_ENGLISH     "^1Энглунд^7: Мы полностью облажались!"
+
+REFERENCE           COAST_INTRO_5
+LANG_ENGLISH     "^1Рукер^7: Вы, девчонки, шутите? Я молился об этом! Давайте!"
+
+REFERENCE           COAST_INTRO_6
+LANG_ENGLISH     "^1Сара^7: Парни... пора работать."
+
+REFERENCE           COAST_INTRO_7
+LANG_ENGLISH     "^1Актёр^7: Ради бога, он опять промахнулся!"
+
+REFERENCE           COAST_INTRO_8
+LANG_ENGLISH     "^8Джордж А. Ромеро^7: Ох... Стоп! Ты что, слепой?"
+
+REFERENCE           COAST_INTRO_9
+LANG_ENGLISH     "^8Джордж А. Ромеро^7: Вот так."
+
+REFERENCE           COAST_INTRO_10
+LANG_ENGLISH     "^1Энглунд^7: ОЙ!"
+
+REFERENCE           COAST_INTRO_11
+LANG_ENGLISH     "^8Джордж А. Ромеро^7: Видишь?"
+
+REFERENCE           COAST_INTRO_12
+LANG_ENGLISH     "^1Трехо^7: Нет, босс, я делаю вот так."
+
+REFERENCE           COAST_INTRO_13
+LANG_ENGLISH     "^1Энглунд^7: Ах! Дэнни!"
+
+REFERENCE           COAST_INTRO_14
+LANG_ENGLISH     "^1Сара^7: Я делаю так!"
+
+REFERENCE           COAST_INTRO_15
+LANG_ENGLISH     "^8Джордж А. Ромеро^7: Возвращайся к прическе и макияжу. Ты выглядишь недостаточно мёртвым!"
+
+REFERENCE           COAST_INTRO_16
+LANG_ENGLISH     "^1Актёр^7: Давай, пошли."
+
+REFERENCE           COAST_INTRO_17
+LANG_ENGLISH     "^1Рукер^7: Этого нет в сценарии."
+
+REFERENCE           COAST_INTRO_18
+LANG_ENGLISH     "Майкл Рукер"
+
+REFERENCE           COAST_INTRO_19
+LANG_ENGLISH     "^1Трехо^7: Мы пишем новый! Называется 'Опарыш! Мешок! Резня!'"
+
+REFERENCE           COAST_INTRO_20
+LANG_ENGLISH     "Дэнни Трехо"
+
+REFERENCE           COAST_INTRO_21
+LANG_ENGLISH     "^1Энглунд^7: Это настоящий кошмар!"
+
+REFERENCE           COAST_INTRO_22
+LANG_ENGLISH     "Роберт Энглунд"
+
+REFERENCE           COAST_INTRO_23
+LANG_ENGLISH     "^1Сара^7: Давайте порвём этих трупов!"
+
+REFERENCE           COAST_INTRO_24
+LANG_ENGLISH     "Сара Мишель Геллар"
+
+REFERENCE           ISLAND_OUTRO_1
+LANG_ENGLISH     "^1Такэо 1.0^7: Твои глаза... Я узнаю их. Почти как свои собственные."
+
+REFERENCE           ISLAND_OUTRO_2
+LANG_ENGLISH     "^1Такэо^7: Такэо Масаки... Я не верил, что найду тебя в таком месте."
+
+REFERENCE           ISLAND_OUTRO_3
+LANG_ENGLISH     "^1Такэо 1.0^7: Я был воином... Я сражался во многих великих битвах, ради славы нашей нации..."
+
+REFERENCE           ISLAND_OUTRO_4
+LANG_ENGLISH     "^1Такэо 1.0^7: Ради чести умирающего духа самурая. Я был... героем."
+
+REFERENCE           ISLAND_OUTRO_5
+LANG_ENGLISH     "^1Такэо^7: Я... делюсь этим воспоминанием. Я пережил многие из тех же побед."
+
+REFERENCE           ISLAND_OUTRO_6
+LANG_ENGLISH     "^1Такэо 1.0^7: Позже я узнал, что мои победы были... нежеланны."
+
+REFERENCE           ISLAND_OUTRO_7
+LANG_ENGLISH     "^1Такэо 1.0^7: Его предательство было вызвано мелочной завистью. Он знал, что я могу выдержать всё, что я не боюсь даже собственной смерти!"
+
+REFERENCE           ISLAND_OUTRO_8
+LANG_ENGLISH     "^1Такэо^7: Наказание — это одно. Это... жестокость."
+
+REFERENCE           ISLAND_OUTRO_9
+LANG_ENGLISH     "^1Такэо^7: Кто может быть настолько злым, чтобы желать другому душе таких страданий? Кто из нас может быть настолько бесчестным?!"
+
+REFERENCE           ISLAND_OUTRO_10
+LANG_ENGLISH     "^1Такэо 1.0^7: Ты настолько ослеплён своей собственной лояльностью? Приказы... пришли от самого Императора!"
+
+REFERENCE           ISLAND_OUTRO_11
+LANG_ENGLISH     "^1Такэо^7: Моя жизнь... мой путь... построен на лжи."
+
+REFERENCE           ISLAND_OUTRO_12
+LANG_ENGLISH     "^1Такэо^7: Это царство... могло быть испорчено и поглощено злом. Но у нас есть сила изменить это."
+
+REFERENCE           ISLAND_OUTRO_13
+LANG_ENGLISH     "^1Такэо^7: Лучшее завтра возможно... только если мы сметём пепел прошлого."
+
+REFERENCE           ISLAND_OUTRO_14
+LANG_ENGLISH     "^1Такэо 1.0^7: Никто из нас не выбирает средства, которыми милосердие придёт к нам."
+
+REFERENCE           ISLAND_OUTRO_15
+LANG_ENGLISH     "^1Такэо 1.0^7: ...Но я в мире с этим."
+
+REFERENCE           ISLAND_OUTRO_16
+LANG_ENGLISH     "^1Такэо 1.0^7: Я понимаю, что нужно делать."
+
+REFERENCE           ISLAND_OUTRO_17
+LANG_ENGLISH     "^1Такэо 1.0^7: ...Будешь ли ты моим кайсякунином?"
+
+REFERENCE           ISLAND_OUTRO_18
+LANG_ENGLISH     "^1Такэо^7: Это... моя честь!"
+
+REFERENCE           ISLAND_OUTRO_19
+LANG_ENGLISH     "^1Демпси^7: Трое повержены, один остался. Полагаю, следующий — ты, Николай."
+
+REFERENCE           ISLAND_OUTRO_20
+LANG_ENGLISH     "^1Рихтофен^7: Нет. Есть ещё одно дело. Цепочка событий, которую нужно запустить."
+
+REFERENCE           STALINGRAD_OUTRO_1
+LANG_ENGLISH     "^1Николай 1.0^7: Думаешь, теперь убьёшь меня?!"
+
+REFERENCE           STALINGRAD_OUTRO_2
+LANG_ENGLISH     "^1Николай^7: Прости, Николай. Хотелось бы... хотелось бы, чтобы был другой выход."
+
+REFERENCE           STALINGRAD_OUTRO_3
+LANG_ENGLISH     "^1Николай^7: Но знай... В моём сердце я разделяю твою боль."
+
+REFERENCE           STALINGRAD_OUTRO_4
+LANG_ENGLISH     "^1Николай^7: Боль, которую ты похоронил и замазал под алкогольным туманом!"
+
+REFERENCE           STALINGRAD_OUTRO_5
+LANG_ENGLISH     "^1Николай^7: Да, боль твоей собственной памяти!"
+
+REFERENCE           STALINGRAD_OUTRO_6
+LANG_ENGLISH     "^1Николай^7: Ты любил и потерял... Всё остальное — бред, отдаляющий тебя от горькой правды."
+
+REFERENCE           STALINGRAD_OUTRO_7
+LANG_ENGLISH     "^1Николай^7: Ты знаешь, о чём я говорю, помнишь. До того, как упали бомбы... До того, как её... забрали у нас."
+
+REFERENCE           STALINGRAD_OUTRO_8
+LANG_ENGLISH     "^1Николай 1.0^7: Некоторые вещи забыты... НЕ СЛУЧАЙНО!"
+
+REFERENCE           STALINGRAD_OUTRO_9
+LANG_ENGLISH     "^1Рихтофен^7: Всё сделано."
+
+REFERENCE           STALINGRAD_OUTRO_10
+LANG_ENGLISH     "^1Рихтофен^7: Души собраны, Максис."
+
+REFERENCE           STALINGRAD_OUTRO_11
+LANG_ENGLISH     "^1Рихтофен^7: Увидимся... скоро."
+
+REFERENCE            CASTLE_OUTRO_1
+LANG_ENGLISH         "^1Рихтофен^7: Он ещё жив."
+
+REFERENCE            CASTLE_OUTRO_2 
+LANG_ENGLISH         "^1Демпси^7: Чёрт возьми, надеюсь."
+
+REFERENCE            CASTLE_OUTRO_3
+LANG_ENGLISH         "^1Рихтофен^7: Этот субъект однажды вызовет хаос по всей вселенной. Его нельзя оставлять в живых."
+
+REFERENCE            CASTLE_OUTRO_4
+LANG_ENGLISH         "^1Демпси^7: Ух! Так не должно было быть!"
+
+REFERENCE            CASTLE_OUTRO_5
+LANG_ENGLISH         "^1Демпси^7: Мы должны были забрать посылку и уйти чистыми!"
+
+REFERENCE            CASTLE_OUTRO_6
+LANG_ENGLISH         "^1Демпси^7: Вместо этого всё было одним несчастьем за другим."
+
+REFERENCE            CASTLE_OUTRO_7
+LANG_ENGLISH         "^1Демпси^7: Никогда не должен был тебе доверять, Рихтофен! Никогда!"
+
+REFERENCE            CASTLE_OUTRO_8
+LANG_ENGLISH         "^1Рихтофен^7: Ты должен доверять мне, Демпси. Всем вам."
+
+REFERENCE            CASTLE_OUTRO_9
+LANG_ENGLISH         "^1Рихтофен^7: Этот артефакт может содержать и сохранить душу субъекта, ТВОЮ душу."
+
+REFERENCE            CASTLE_OUTRO_10
+LANG_ENGLISH         "^1Рихтофен^7: Но это возможно только после момента смерти, как ты видел, я делал со своим другим «я»."
+
+REFERENCE            CASTLE_OUTRO_11
+LANG_ENGLISH         "^1Демпси^7: Вот что ты делал, когда опустился на колени у своей мертвой версии!"
+
+REFERENCE            CASTLE_OUTRO_12
+LANG_ENGLISH         "^1Рихтофен^7: Это единственный способ."
+
+REFERENCE            CASTLE_OUTRO_13
+LANG_ENGLISH         "^1Демпси^7: ПОДОЖДИ! Если кто-то должен убрать его, чтобы спасти вселенную, то это должен быть я."
+
+REFERENCE            CASTLE_OUTRO_14
+LANG_ENGLISH         "^1Демпси^7: Рад тебя видеть, Танк."
+
+ENDMARKER

@@ -1,0 +1,92 @@
+// Note to translators:
+// Just edit the text inside the quotes, don't edit other code
+
+VERSION             "1"
+CONFIG              "C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE            JOIN_THE_PARTY
+LANG_ENGLISH         "Únete a la fiesta"
+
+REFERENCE            JOIN_THE_PARTY_DESC
+LANG_ENGLISH         "^2MEGA\n^7Activado (x1 activación).\nTodos los jugadores en modo espectador reaparecerán inmediatamente y todos los jugadores abatidos serán reanimados al instante. No restablece las ventajas perdidas."
+
+REFERENCE            JOIN_THE_PARTY_HINT
+LANG_ENGLISH         "Pulsa ^3[{+actionslot 1}]^7 Para usar.\nTodos los jugadores en modo espectador reaparecerán inmediatamente y todos los jugadores\nabatidos serán reanimados al instante. No restablece las ventajas perdidas."
+
+REFERENCE            QUACKNAROK
+LANG_ENGLISH         "Cuacnarok"
+
+REFERENCE            QUACKNAROK_DESC
+LANG_ENGLISH         "^6I^3N^5S^2Ó^7L^2I^3T^6O\n^7Activador: inmediato (dura 5 rondas completas).\nLos zombis llevan un flotador de pato, pero no hace nada."
+
+REFERENCE            QUACKNAROK_HINT
+LANG_ENGLISH         "Activado durante 5 rondas completas.\nLos zombis llevan un flotador de pato, pero no hace nada."
+
+REFERENCE            TALKIN_BOUT_REGENERATION
+LANG_ENGLISH         "Hablando de regeneración"
+
+REFERENCE            TALKIN_BOUT_REGENERATION_DESC
+LANG_ENGLISH         "^3MEGA RARO\n^7Activador: inmediato (dura 4 minutos).\nTu salud se regenera constantemente cuando estás en movimiento."
+
+REFERENCE            TALKIN_BOUT_REGENERATION_HINT
+LANG_ENGLISH         "^7Activador: inmediato (dura 4 minutos).\nTu salud se regenera constantemente cuando estás en movimiento."
+
+REFERENCE            BLOOD_DEBT
+LANG_ENGLISH         "Deuda de sangre"
+
+REFERENCE            BLOOD_DEBT_DESC
+LANG_ENGLISH         "^3MEGA RARO\n^7Activado (x1 activación, 2 minutos).\nPierdes puntos en lugar de salud. La cantidad perdida aumenta cada vez que te dan hasta alcanzar la cantidad máxima. Deuda de sangre finaliza si te quedas sin puntos."
+
+REFERENCE            BLOOD_DEBT_HINT
+LANG_ENGLISH         "Pulsa ^3[{+actionslot 1}]^7 Para usar.\nPierdes puntos en lugar de salud. La cantidad perdida aumenta cada vez que te dan hasta alcanzar la cantidad máxima.\nDeuda de sangre finaliza si te quedas sin puntos."
+
+REFERENCE            CTRL_Z
+LANG_ENGLISH         "Ctrl-Z"
+
+REFERENCE            CTRL_Z_DESC
+LANG_ENGLISH         "^2MEGA\n^7Activado (x2 activaciones).\nConvierte en aliados a los zombis cercanos."
+
+REFERENCE            CTRL_Z_HINT
+LANG_ENGLISH         "Pulsa ^3[{+actionslot 1}]^7 Para usar.\nConvierte en aliados a los zombis cercanos."
+
+REFERENCE            NOWHERE_BUT_THERE
+LANG_ENGLISH         "¡Donde sea, menos ahí!"
+
+REFERENCE            NOWHERE_BUT_THERE_DESC
+LANG_ENGLISH         "^7Activado (x3 activaciones).\nTe teletransportas al instante a la posición de un jugador abatido aleatorio. Reanima al instante a los jugadores cercanos."
+
+REFERENCE            NOWHERE_BUT_THERE_HINT
+LANG_ENGLISH         "Pulsa ^3[{+actionslot 1}]^7 Para usar.\nTe teletransportas al instante a la posición de un jugador abatido aleatorio.\nReanima al instante a los jugadores cercanos."
+
+REFERENCE            FREE_FIRE
+LANG_ENGLISH         "Fuego gratuito"
+
+REFERENCE            FREE_FIRE_DESC
+LANG_ENGLISH         "^3MEGA RARO\n^7Activado (x3 activaciones de 30 segundos cada una).\nDurante ese tiempo, las armas de todos los jugadores no consumirán munición al disparar."
+
+REFERENCE            FREE_FIRE_HINT
+LANG_ENGLISH         "Pulsa ^3[{+actionslot 1}]^7 Para usar.\nDurante 30 segundos, las armas de todos los jugadores no consumirán munición al disparar."
+
+REFERENCE            EDDIE
+LANG_ENGLISH         "¡Es la hora de Eddie!"
+
+REFERENCE            EDDIE_DESC
+LANG_ENGLISH         "^6I^3N^5S^2Ó^7L^2I^3T^6O\n^7Activador: inmediato (dura 5 rondas completas).\nTodos los zombis se convierten en Richtofen."
+
+REFERENCE            EDDIE_HINT
+LANG_ENGLISH         "Activado durante 5 rondas completas.\nTodos los zombis se convierten en Richtofen."
+
+REFERENCE            LUCKY_CRIT
+LANG_ENGLISH         "Elemental gum"
+
+REFERENCE            LUCKY_CRIT_DESC
+LANG_ENGLISH         "^7Activador: inmediato (dura 3 rondas completas).\nCada bala disparada tendrá una pequeña posibilidad de aplicar un efecto de munición alternativa al azar."
+
+REFERENCE            LUCKY_CRIT_HINT
+LANG_ENGLISH         "Activado durante 3 rondas completas.\nCada bala disparada tendrá una pequeña posibilidad de aplicar un efecto de munición alternativa al azar."
+
+REFERENCE            SWORD_FLAY_DESC
+LANG_ENGLISH         "Activador: inmediato (dura 2.5 minutos)\nLos ataques cuerpo a cuerpo infligen daño infinito, afectando hasta a X zombis\ndentro del alcance (X es 2 al apuñalar, X es 4 al dar un tajo)"
+
+ENDMARKER

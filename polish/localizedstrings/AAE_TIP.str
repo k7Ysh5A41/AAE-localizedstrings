@@ -1,0 +1,101 @@
+// Note to translators:
+// Just edit the text inside the quotes, don't edit other code
+
+VERSION             "1"
+CONFIG              "C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           ROCKETSHIELD_UPGRADED_TITLE
+LANG_ENGLISH     "Ulepszenie Tarczy Rakietowej"
+
+REFERENCE           ROCKETSHIELD_UPGRADED_CONTENT
+LANG_ENGLISH     "1. Zabij 10 zombie za pomocą 12 kolejnych strzałów z Tarczy Rakietowej\n(Jeśli liczba zabójstw jest mniejsza niż 10, musisz zacząć od nowa)\n2. Gdy usłyszysz dźwięk wiwatów, otrzymasz ulepszoną tarczę rakietową"
+
+REFERENCE           IDGUN_UPGRADED_TITLE
+LANG_ENGLISH     "Ulepszenie Apothican Servant"
+
+REFERENCE           IDGUN_UPGRADED_CONTENT
+LANG_ENGLISH     "1. Szukaj kokonów wiszących na mapie. Gdy gracz posiada Apothican Servant, im bliżej kokonu się znajduje, tym częściej słychać bicie serca Apothican Servant\n2. Po znalezieniu kokonu użyj Apothican Servant, aby zabić 100 zombie w pobliżu kokonu\n3. Strzel w kokon, wciągnie Apothican Servant, poczekaj na następną rundę\n4. Zniszcz kokon, a ulepszony Apothican Servant spadnie, każdy gracz może go podnieść"
+
+REFERENCE           GASMASK_UPGRADED_TITLE
+LANG_ENGLISH     "Ulepszenie Maski Gazowej"
+
+REFERENCE           GASMASK_UPGRADED_CONTENT
+LANG_ENGLISH     "Strzelając w maskę na stole rzemieślniczym za pomocą Masamune\nUlepszy to Maskę Gazową do nieskończonej odporności na toksyczne zarodniki"
+
+REFERENCE           FREEGUM_TITLE
+LANG_ENGLISH     "Darmowy Anywhere But Here!"
+
+REFERENCE           FREEGUM_CONTENT
+LANG_ENGLISH     "Możesz otrzymać jeden gobblegum “Anywhere But Here” tutaj."
+
+REFERENCE           AA_AMMO_CHANCE_TITLE
+LANG_ENGLISH     "Zwiększ prawdopodobieństwo amunicji do AA"
+
+REFERENCE           AA_AMMO_CHANCE_CONTENT
+LANG_ENGLISH     "Lucky Crit Gobblegum zwiększy prawdopodobieństwo pojawienia się amunicji do AA do 100%"
+
+REFERENCE           GIANT_PERK_EE_TITLE
+LANG_ENGLISH     "EE 5. Maszyny Perków"
+
+REFERENCE           GIANT_PERK_EE_CONTENT
+LANG_ENGLISH     "Rzuć bombę małpę w każdy teleport i aktywuj je, aby zasilić ten przełącznik"
+
+REFERENCE           GENESIS_SHIELD_TITLE
+LANG_ENGLISH     "Ulepszenie Tarczy Smoka"
+
+REFERENCE           GENESIS_SHIELD_CONTENT
+LANG_ENGLISH     "1. Użyj Apothican Servant, aby strzelić w stół rzemieślniczy, wir wciągnie Apothican Servant, UWAGA: Nie możesz odzyskać broni.\n2. Po zakończeniu wiru, ulepszenie tarczy zostanie zakończone"
+
+REFERENCE           TEMPLE_KEY_COMBO_EE_TITLE
+LANG_ENGLISH     "EE Eksplodująca Bomba Małpy"
+
+REFERENCE           TEMPLE_KEY_COMBO_EE_CONTENT
+LANG_ENGLISH     "Stań tutaj i naciśnij następujące przyciski, aby wysadzić bombę małpę:\n^3[{+actionslot 1}] [{+actionslot 1}] [{+actionslot 2}] [{+gostand}]"
+
+REFERENCE           MOON_SUPER_PES_TITLE
+LANG_ENGLISH     "Super Ciśnieniowy Skafander Zewnętrzny"
+
+REFERENCE           MOON_SUPER_PES_CONTENT
+LANG_ENGLISH     "P.E.S. jest teraz możliwy do zhakowania.\nHakowanie i ponowne pobranie umożliwia przenoszenie hakera i PES razem"
+
+REFERENCE           MOON_DIGGER_HACKING_TITLE
+LANG_ENGLISH     "Sterowanie Koparką teraz możliwe do zhakowania"
+
+REFERENCE           MOON_DIGGER_HACKING_CONTENT
+LANG_ENGLISH     "Koszt hakowania paneli Omicron i Epsilon wynosi 1000\nKoszt hakowania panelu Pi wynosi 5000, jeśli maszyna Gobblegum jest wyłączona lub losowy Gobblegum jest włączony\nW przeciwnym razie hakowanie panelu Pi jest wyłączone do rundy 10 i koszt zmieniono na 50000\nJeśli Tunel 6 zostanie zniszczony przed hakowaniem, koszt panelu Pi zmienia się na 1000"
+
+REFERENCE           MOON_EE_ITEM_TITLE
+LANG_ENGLISH     "Zdobywanie przedmiotów EE z Jump Pada"
+
+REFERENCE           MOON_EE_ITEM_CONTENT
+LANG_ENGLISH     "Po rundzie 10\nJump pad będzie miał szansę wygenerować rzadkie bronie i wyposażenie\nMasz 10 minut, aby je zebrać po pierwszym pojawieniu się"
+
+REFERENCE           FIRETYPE
+LANG_ENGLISH     "Tryb Ognia"
+
+REFERENCE           MELEETIME
+LANG_ENGLISH     "Czas Walki Wręcz"
+
+REFERENCE           DAMAGE
+LANG_ENGLISH     "Obrażenia"
+
+REFERENCE           STK
+LANG_ENGLISH     "Strzały do zabicia w rundzie 30"
+
+REFERENCE           SHOTCOUNT
+LANG_ENGLISH     "Liczba strzałów strzelby"
+
+REFERENCE           BOLTTIME
+LANG_ENGLISH     "Czas Spustu"
+
+REFERENCE           RELOADTIME
+LANG_ENGLISH     "Czas Przeładowania"
+
+REFERENCE           MAGSIZE
+LANG_ENGLISH     "Pojemność Magazynka"
+
+REFERENCE           STOCKAMMO
+LANG_ENGLISH     "Amunicja w zapasie"
+
+ENDMARKER

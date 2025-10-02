@@ -1,0 +1,494 @@
+// Note to translators:
+// Just edit the text inside the quotes, don't edit other code
+
+VERSION             "1"
+CONFIG              "C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE            WEAPONSMODSMENU
+LANG_ENGLISH     "Weapons Mods Menu"
+
+REFERENCE           PACKERPUNCHOPTIONS
+LANG_ENGLISH     "Packer Punch Options"
+
+REFERENCE           DROPCURRENTWEAPON
+LANG_ENGLISH     "Drop Current Weapon"
+
+REFERENCE           TOGGLEHIDECURRENTWEAPON
+LANG_ENGLISH     "Toggle Hide Current Weapon"
+
+REFERENCE           TOGGLEHIDECROSSHAIR
+LANG_ENGLISH     "Toggle Hide Crosshair"
+
+REFERENCE           TOGGLESHOOTPOWERUPS
+LANG_ENGLISH     "Toggle Shoot Powerups"
+
+REFERENCE           TOGGLELEFTSIDEWEAPON
+LANG_ENGLISH     "Toggle Left Side Weapon"
+
+REFERENCE           PACKERPUNCHCURRENTWEAPON
+LANG_ENGLISH     "Packer Punch Current Weapon"
+
+REFERENCE           UNPACKCURRENTWEAPON
+LANG_ENGLISH     "Unpack Current Weapon"
+
+REFERENCE           MESSAGESMENU
+LANG_ENGLISH     "Message Menu"
+
+REFERENCE           MISCMESSAGES
+LANG_ENGLISH     "Misc Messages"
+
+REFERENCE           MESSAGETYPE
+LANG_ENGLISH     "Message Type"
+
+REFERENCE           MISCMESSAGES
+LANG_ENGLISH     "Misc Messages Menu"
+
+REFERENCE           VISIONSMENU
+LANG_ENGLISH     "Visions Menu"
+
+REFERENCE           FUNMENU
+LANG_ENGLISH     "Fun Menu"
+
+REFERENCE           TOGGLEFLASHINGPLAYER
+LANG_ENGLISH     "Toggle Flashing Player"
+
+REFERENCE           TOGGLE3RDPERSON
+LANG_ENGLISH     "Toggle 3rd Person"
+
+REFERENCE           SPAWNICESKATER
+LANG_ENGLISH     "Spawn Ice Skater"
+
+REFERENCE           SENDEARTHQUAKE
+LANG_ENGLISH     "Send Earthquake"
+
+REFERENCE           TOGGLEROTATEPLAYERANGLES
+LANG_ENGLISH     "Toggle Rotate Player Angles"
+
+REFERENCE           DROPPHYSICALVENDING
+LANG_ENGLISH     "Drop Physical Vending"
+
+REFERENCE           PHYSICALEXPLOSION
+LANG_ENGLISH     "Physical Explosion"
+
+REFERENCE           TOGGLERAPIDFIRE
+LANG_ENGLISH     "Toggle Rapid Fire"
+
+REFERENCE           PRINTENTITIES
+LANG_ENGLISH     "Print Entities"
+
+REFERENCE           CLONEPLAYER
+LANG_ENGLISH     "Clone Player"
+
+REFERENCE           GRAPHICSEFFECTSMENU
+LANG_ENGLISH     "Graphics Effects Menu"
+
+REFERENCE           MYSTERYBOXMODS
+LANG_ENGLISH     "Mystery Box Mods"
+
+REFERENCE           TOGGLESUPERSPEED
+LANG_ENGLISH     "Toggle Super Speed"
+
+REFERENCE           TOGGLESUPERGRAVITY
+LANG_ENGLISH     "Toggle Super Gravity"
+
+REFERENCE           TOGGLESUPERPHYSICALGRAVITY
+LANG_ENGLISH     "Toggle Super Physical Gravity"
+
+REFERENCE           TOGGLETIMESCALE
+LANG_ENGLISH     "Toggle Timescale"
+
+REFERENCE           TOGGLEDISABLEAISPAWNERS
+LANG_ENGLISH     "Toggle Disable Ai Spawners"
+
+REFERENCE           TOGGLEFRIENDLYFIRE
+LANG_ENGLISH     "Toggle Friendlyfire"
+
+REFERENCE           TOGGLEENTITYCOLLISION
+LANG_ENGLISH     "Toggle Entity Collision"
+
+REFERENCE           REVIVEALLCLIENTS
+LANG_ENGLISH     "Revive all Clients"
+
+REFERENCE           MYSTERYBOXMODS
+LANG_ENGLISH     "Mystery Box Mods"
+
+REFERENCE           MYSTERYBOXNEVERMOVES
+LANG_ENGLISH     "Mystery Box Never Moves"
+
+REFERENCE           MYSTERYBOXOPENINGPRICE
+LANG_ENGLISH     "Mystery Box Opening Price"
+
+REFERENCE           MYSTERYBOXOPENINGPRICE
+LANG_ENGLISH     "Mystery Box Opening Price"
+
+REFERENCE           SETPRICETO5100000
+LANG_ENGLISH     "Set price to ^5 100000"
+
+REFERENCE           SETPRICETO51337
+LANG_ENGLISH     "Set price to ^5 1337"
+
+REFERENCE           SETPRICETO5950
+LANG_ENGLISH     "Set price to ^5 950"
+
+REFERENCE           SETPRICETO51
+LANG_ENGLISH     "Set price to ^5 1"
+
+REFERENCE           SETPRICETO0
+LANG_ENGLISH     "Set price to 0"
+
+REFERENCE           SETPRICETO1D950
+LANG_ENGLISH     "Set price to ^1 -950"
+
+REFERENCE           SETPRICETO1D1337
+LANG_ENGLISH     "Set price to ^1 -1337"
+
+REFERENCE           SETPRICETO1D100000
+LANG_ENGLISH     "Set price to ^1 -100000"
+
+REFERENCE           GODMODE
+LANG_ENGLISH     "God Mode"
+
+REFERENCE           PLAYERSCOREMENU
+LANG_ENGLISH     "Player Score Menu"
+
+REFERENCE           GIVEMENU
+LANG_ENGLISH     "Give Menu"	
+
+REFERENCE           TELEPORTTOPLAYER
+LANG_ENGLISH     "Teleport to Player"
+
+REFERENCE           TELEPORTPLAYERTOYOU
+LANG_ENGLISH     "Teleport Player to you"
+
+REFERENCE           GIVEPOINTSO10000
+LANG_ENGLISH     "Give Points +10000"
+
+REFERENCE           GIVEPOINTS500
+LANG_ENGLISH     "Give Points +500"
+
+REFERENCE           GIVEPOINTSD500
+LANG_ENGLISH     "Give Points -500"
+
+REFERENCE           GIVEPOINTSD10000
+LANG_ENGLISH     "Give Points -10000"
+
+REFERENCE           CLIENTMAINMODIFICATIONS
+LANG_ENGLISH     "Client Main Modifications"
+
+REFERENCE           FUNMODS
+LANG_ENGLISH     "Fun Mods"
+
+REFERENCE           PERKMENU
+LANG_ENGLISH     "Perk Menu"
+
+REFERENCE           SENDPOWERUPSMENU
+LANG_ENGLISH     "Send Power Ups Menu"
+
+REFERENCE           MESSAGEMENU
+LANG_ENGLISH     "Message Menu"
+
+REFERENCE           WEAPONSMENU
+LANG_ENGLISH     "Weapons Menu"
+
+REFERENCE           WEAPONSMODSMENU
+LANG_ENGLISH     "Weapons Mods Menu"
+
+REFERENCE           BULLETSMENU
+LANG_ENGLISH     "Bullets Menu"
+
+REFERENCE           TELEPORTMENU
+LANG_ENGLISH     "Teleport Menu"
+
+REFERENCE           AIMBOTMENU
+LANG_ENGLISH     "Aimbot Menu"
+
+REFERENCE           ENTITYMENU
+LANG_ENGLISH     "Entity Menu"
+
+REFERENCE           VISIONSMENU
+LANG_ENGLISH     "Visions Menu"
+
+REFERENCE           SFXMENU
+LANG_ENGLISH     "SFX Menu"
+
+REFERENCE           GRAPHICSEFFECTSMENU
+LANG_ENGLISH     "Graphics Effects Menu"
+
+REFERENCE           ROUNDMENU
+LANG_ENGLISH     "Round Menu"
+
+REFERENCE           HOSTMENU
+LANG_ENGLISH     "Host Menu"
+
+REFERENCE           LOBBYMENU
+LANG_ENGLISH     "Lobby Menu"
+
+REFERENCE           CLIENTS
+LANG_ENGLISH     "Clients"
+
+REFERENCE           CUSTOMIZEMENU
+LANG_ENGLISH     "Customize Menu"
+
+REFERENCE           EXTRAPERKEASTEREGG
+LANG_ENGLISH     "Extra Perk Easter Egg"
+
+REFERENCE           STARTGIANTCLOCK
+LANG_ENGLISH     "Start Giant Clock"
+
+REFERENCE           STOPGIANTCLOCK
+LANG_ENGLISH     "Stop Giant Clock"
+
+REFERENCE           UPGRADETELEPORTER
+LANG_ENGLISH     "Upgrade Teleporter"
+
+REFERENCE           SPAWNMODELWITHLIST
+LANG_ENGLISH     "Spawn Model with List"
+
+REFERENCE           SPAWNMODEL
+LANG_ENGLISH     "Spawn Model"
+
+REFERENCE           PLACEMODEL
+LANG_ENGLISH     "Place Model"
+
+REFERENCE           DROPMODELWITHPHYSICS
+LANG_ENGLISH     "Drop Model with Physics"
+
+REFERENCE           ROTATEMODEL
+LANG_ENGLISH     "Rotate Model"
+
+REFERENCE           DELETEMODEL
+LANG_ENGLISH     "Delete Model"
+
+REFERENCE           COSTUMIZEMODELDISTANCE
+LANG_ENGLISH     "Costumize Model Distance"
+
+REFERENCE           DELETEALLENTITYS
+LANG_ENGLISH     "Delete All Entitys"
+
+REFERENCE           ROTATEMODEL
+LANG_ENGLISH     "Rotate Model"
+
+REFERENCE           ROTATEANGLE1O
+LANG_ENGLISH     "Rotate Angle 1 +"
+
+REFERENCE           ROTATEANGLE1D
+LANG_ENGLISH     "Rotate Angle 1 -"
+
+REFERENCE           ROTATEANGLE2O
+LANG_ENGLISH     "Rotate Angle 2 +"
+
+REFERENCE           ROTATEANGLE2D
+LANG_ENGLISH     "Rotate Angle 2 -"
+
+REFERENCE           ROTATEANGLE3O
+LANG_ENGLISH     "Rotate Angle 3+"
+
+REFERENCE           ROTATEANGLE3D
+LANG_ENGLISH     "Rotate Angle 3-"
+
+REFERENCE           RESETANGLES
+LANG_ENGLISH     "Reset Angles"
+
+REFERENCE           TELEPORTMENU
+LANG_ENGLISH     "Teleport Menu"
+
+REFERENCE           SAVEPOSITION
+LANG_ENGLISH     "Save Position"
+
+REFERENCE           MODIFYPOSITION
+LANG_ENGLISH     "Modify Position"
+
+REFERENCE           LOADSAVEDPOSTION
+LANG_ENGLISH     "Load Saved Postion"
+
+REFERENCE           TELEPORTALLZOMBIESTOSAVEDPOSTION
+LANG_ENGLISH     "Teleport All Zombies to saved Postion"
+
+REFERENCE           CREATESPAWNPOINTFORZOMBIES
+LANG_ENGLISH     "Create Spawn Point for Zombies"
+
+REFERENCE           CREATESPAWNTRAPPERFORZOMBIES
+LANG_ENGLISH     "Create Spawn Trapper for Zombies"
+
+REFERENCE           TELEPORTTOSKY
+LANG_ENGLISH     "Teleport to Sky"
+
+REFERENCE           TELEPORTTOGROUND
+LANG_ENGLISH     "Teleport to Ground"
+
+REFERENCE           TELEPORTTOCROSSHAIRPOSITION
+LANG_ENGLISH     "Teleport to Crosshair Position"
+
+REFERENCE           TELEPORTTONEARESTZOMBIE
+LANG_ENGLISH     "Teleport to nearest Zombie"
+
+REFERENCE           TOGGLEVISIBLECHECK
+LANG_ENGLISH     "Toggle Visible Check"
+
+REFERENCE           SETTOROUND50
+LANG_ENGLISH     "Set to Round 50"
+
+REFERENCE           O50ROUNDS
+LANG_ENGLISH     "+ 50 Rounds"
+
+REFERENCE           D50ROUNDS
+LANG_ENGLISH     "- 50 Rounds"
+
+REFERENCE           SETTOROUND25
+LANG_ENGLISH     "+ 25 Rounds"
+
+REFERENCE           O25ROUNDS
+LANG_ENGLISH     "- 25 Rounds"
+
+REFERENCE           D25ROUNDS
+LANG_ENGLISH     "- 25 Rounds"
+
+REFERENCE           O1ROUNDS
+LANG_ENGLISH     "+ 1 Rounds"
+
+REFERENCE           D1ROUNDS
+LANG_ENGLISH     "- 1 Rounds"
+
+REFERENCE           SETTOROUND1
+LANG_ENGLISH     "Set to Round 1"
+
+REFERENCE           TOGGLEGODMODE
+LANG_ENGLISH     "Toggle God Mode"
+
+REFERENCE           TOGGLEUNLIMITEDAMMO
+LANG_ENGLISH     "Toggle Unlimited Ammo"
+
+REFERENCE           REFILLAMMO
+LANG_ENGLISH     "Refill Ammo"
+
+REFERENCE           TOGGLEUFOMODE
+LANG_ENGLISH     "Toggle Ufo Mode"
+
+REFERENCE           TOGGLEQUICKFIELDOFVIEW
+LANG_ENGLISH     "Toggle Quick Field Of View"
+
+REFERENCE           SCOREMENU
+LANG_ENGLISH     "Score Menu"
+
+REFERENCE           TOGGLE3RDPERSON
+LANG_ENGLISH     "Toggle 3rd Person"
+
+REFERENCE           3RDPERSONRANGEBAR
+LANG_ENGLISH     "3rd Person Range Bar"
+
+REFERENCE           PRINTORIGIN
+LANG_ENGLISH     "Print Origin"
+
+REFERENCE           PRINTZOMBIECOUNT
+LANG_ENGLISH     "Print Zombie Count"
+
+REFERENCE           TOGGLEZOMBIESIGNOREYOU
+LANG_ENGLISH     "Toggle Zombies Ignore you"
+
+REFERENCE           TOGGLEAQUATICSCREEN
+LANG_ENGLISH     "Toggle Aquatic Screen"
+
+REFERENCE           BULLETSMODS
+LANG_ENGLISH     "Bullets Menu"
+
+REFERENCE           WEAPONBULLETS
+LANG_ENGLISH     "Weapon Bullets"
+
+REFERENCE           EFFECTBULLETS
+LANG_ENGLISH     "Effect Bullets"
+
+REFERENCE           WEAPONBULLETS1OFF
+LANG_ENGLISH     "Weapon Bullets OFF"
+
+REFERENCE           EFFECTBULLETS1OFF
+LANG_ENGLISH     "Effect Bullets OFF"
+
+REFERENCE           MENUNAME
+LANG_ENGLISH     "^5Center Control"
+
+REFERENCE           TOGGLEINVISIBLE
+LANG_ENGLISH     "Toggle Invisible"
+
+REFERENCE           PHYSICALCYLINDER
+LANG_ENGLISH     "Physical Cylinder"
+
+REFERENCE           GIVEALLPERKS
+LANG_ENGLISH     "Give All Perks"
+
+REFERENCE           REMOVEALLPERKS
+LANG_ENGLISH     "Remove All Perks"
+
+REFERENCE           KEEPALLPERKSONDEATH
+LANG_ENGLISH     "Keep All Perks On Death"
+
+REFERENCE           NORMALWEAPONS
+LANG_ENGLISH     "Normal Weapons"
+
+REFERENCE           UPGRADEDWEAPONS
+LANG_ENGLISH     "Upgraded Weapons"
+
+REFERENCE           REMOVEALLPERKS
+LANG_ENGLISH     "Remove All Perks"
+
+REFERENCE           BLACKWHITE
+LANG_ENGLISH     "Black&White"
+
+REFERENCE           WHITEMODE
+LANG_ENGLISH     "White Mode"
+
+REFERENCE           DEFAULT
+LANG_ENGLISH     "Default"
+
+REFERENCE           TOGGLEDISABLEFXS
+LANG_ENGLISH     "Toggle Disable FXs"
+
+REFERENCE           TOGGLEFOGEFFECT
+LANG_ENGLISH     "Toggle Fog Effect"
+
+REFERENCE           TOGGLEWATERSHEETINGEFFECT
+LANG_ENGLISH     "Toggle Water Sheeting Effect"
+
+REFERENCE           TOGGLERENDERDISTANCE
+LANG_ENGLISH     "Toggle Render Distance"
+
+REFERENCE           TOGGLEDOF
+LANG_ENGLISH     "Toggle DoF"
+
+REFERENCE           TOGGLEDOFBIAS
+LANG_ENGLISH     "Toggle Dof Bias"
+
+REFERENCE           TOGGLEOVERRIDEDOF
+LANG_ENGLISH     "Toggle Override Dof"
+
+REFERENCE           TOGGLECROSSHAIR
+LANG_ENGLISH     "Toggle Crosshair"
+
+REFERENCE           TOGGLECROSSHAIRENEMYEFFECT
+LANG_ENGLISH     "Toggle Crosshair Enemy Effect"
+
+REFERENCE           TOGGLETRISLINES
+LANG_ENGLISH     "Toggle Trislines"
+
+REFERENCE           MODIFYSCORE
+LANG_ENGLISH     "Modify Score"
+
+REFERENCE           MAXOUTSCORE
+LANG_ENGLISH     "Max Out Score"
+
+REFERENCE           RESETSCORE
+LANG_ENGLISH     "Reset Score"
+
+REFERENCE           SPAWNCLONE
+LANG_ENGLISH     "Spawn Clone"
+
+REFERENCE           PLAYANIMATION
+LANG_ENGLISH     "Play Animation"
+
+REFERENCE           DELETECURRENTCLONE
+LANG_ENGLISH     "Delete Current Clone"
+
+REFERENCE           POWERUPSMENU
+LANG_ENGLISH     "Power Ups Menu"
+
+ENDMARKER

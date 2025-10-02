@@ -1,0 +1,29 @@
+// Note to translators:
+// Just edit the text inside the quotes, don't edit other code
+
+VERSION             "1"
+CONFIG              "C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           HOTJOIN
+LANG_ENGLISH     "Отключить Hot Join"
+
+REFERENCE           HOTJOIN_DESC
+LANG_ENGLISH     "Игроки не могут присоединяться после начала матча."
+
+REFERENCE           GAMBLER
+LANG_ENGLISH     "Отключить Gambler"
+
+REFERENCE           DOG
+LANG_ENGLISH     "Отключить специальные раунды"
+
+REFERENCE           DOG_DESC
+LANG_ENGLISH     "Пропустить раунды со специальными врагами.\n\nПоддерживаемые карты:\n\nShadows of Evil\nThe Giant\nDer Eisendrache\nZetsubou No Shima\nGorod Krovi\nRevelations\nShi No Numa\nKino der Toten\nAscension"
+
+REFERENCE           RAINBOW
+LANG_ENGLISH     "Радужные глаза зомби"
+
+REFERENCE           DUST
+LANG_ENGLISH     "Отключить пыль при появлении зомби"
+
+ENDMARKER

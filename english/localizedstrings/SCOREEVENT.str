@@ -1,0 +1,560 @@
+// Note to translators:
+// Just edit the text inside the quotes, don't edit other code
+
+VERSION             "1"
+CONFIG              "C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE            AUTO_REVIVE
+LANG_ENGLISH         "Auto Revive"
+ 
+REFERENCE            PACK_A_PUNCH
+LANG_ENGLISH         "Pack A Punch"
+ 
+REFERENCE            GOT_A_PERK
+LANG_ENGLISH         "Got A Perk"
+ 
+REFERENCE            MULE_KICK_WEAPON_RESTORED
+LANG_ENGLISH         "Mule Kick Weapon Restored"
+ 
+REFERENCE            DOUBLETAP
+LANG_ENGLISH         "Double Tap Root Bear"
+ 
+REFERENCE            JUGGER_NOG
+LANG_ENGLISH         "Jugger-Nog"
+ 
+REFERENCE            WHOS_WHO
+LANG_ENGLISH         "Who's Who"
+ 
+REFERENCE            VULTURE_AID
+LANG_ENGLISH         "Vulture Aid"
+ 
+REFERENCE            TOMBSTONE
+LANG_ENGLISH         "Tombstone"
+ 
+REFERENCE            PHD_FLOPPER
+LANG_ENGLISH         "PhD Flopper"
+ 
+REFERENCE            SNAILS_PACE_SLURPEE
+LANG_ENGLISH         "Snails Pace Slurpee"
+ 
+REFERENCE            CRYO_SLIDE_SODA
+LANG_ENGLISH         "Cryo Slide Soda"
+ 
+REFERENCE            SALVAGE_SHAKE_
+LANG_ENGLISH         "Salvage Shake"
+ 
+REFERENCE            WINDRUNNER_WHISKEY
+LANG_ENGLISH         "Windrunner Whiskey"
+ 
+REFERENCE            ATOMIC_LIQUEUR
+LANG_ENGLISH         "Atomi-Liqueur"
+ 
+REFERENCE            ARMOR_NOG
+LANG_ENGLISH         "Armor Nog"
+ 
+REFERENCE            SECRET_SAUCE
+LANG_ENGLISH         "Secret Sauce"
+ 
+REFERENCE            CRUSADERS_ALE
+LANG_ENGLISH         "Crusader's Ale"
+ 
+REFERENCE            BULL_ICE_BLAST
+LANG_ENGLISH         "Bull Ice Blast"
+ 
+REFERENCE            VIGOR_RUSH
+LANG_ENGLISH         "Vigor Rush"
+ 
+REFERENCE            MADGAZ_MOONSHINE
+LANG_ENGLISH         "Madgaz Moonshine"
+ 
+REFERENCE            BANDOLIER_BANDIT
+LANG_ENGLISH         "Bandolier Bandit"
+ 
+REFERENCE            ETHEREAL_RAZOR
+LANG_ENGLISH         "Ethereal Razor"
+ 
+REFERENCE            PHD_SLIDER
+LANG_ENGLISH         "PhD Slider"
+ 
+REFERENCE            STONE_COLD_STRONGHOLD
+LANG_ENGLISH         "Stone Cold Stronghold"
+ 
+REFERENCE            TIMESLIP
+LANG_ENGLISH         "Timeslip"
+ 
+REFERENCE            VICTORIOUS_TORTOISE
+LANG_ENGLISH         "Victorious Tortoise"
+ 
+REFERENCE            WINTER_WAIL
+LANG_ENGLISH         "Winter Wail"
+ 
+REFERENCE            ZOMBSHELL
+LANG_ENGLISH         "Zombshell"
+ 
+REFERENCE            BLOOD_WOLF_BITE
+LANG_ENGLISH         "Blood Wolf Bite"
+ 
+REFERENCE            BLAZE_PHASE
+LANG_ENGLISH         "Blaze Phase"
+ 
+REFERENCE            DYING_WISH
+LANG_ENGLISH         "Dying Wish"
+ 
+REFERENCE            MADGAZ_MOONSHINE
+LANG_ENGLISH         "Madgaz Moonshine"
+ 
+REFERENCE            BANANA_COLADA
+LANG_ENGLISH         "Banana Colada"
+ 
+REFERENCE            PERK_A_LOT
+LANG_ENGLISH         "Perk A Lot"
+ 
+REFERENCE            GOT_A_WEAPON
+LANG_ENGLISH         "Got a Weapon"
+ 
+REFERENCE            TRADE_WEAPON
+LANG_ENGLISH         "Trade Weapon"
+ 
+REFERENCE            REPAIRED
+LANG_ENGLISH         "Repaired"
+ 
+REFERENCE            BARRIER_REBUILDED
+LANG_ENGLISH         "Barrier Rebuilt"
+ 
+REFERENCE            SHIELD_REPAIRED
+LANG_ENGLISH         "Shield Repaired"
+ 
+REFERENCE            BRO_NEXT_ROUND
+LANG_ENGLISH         "Bro, Next round"
+ 
+REFERENCE            HIT
+LANG_ENGLISH         "Hit"
+ 
+REFERENCE            WUNDERWAFFE_KILL
+LANG_ENGLISH         "Wunderwaffe Kill"
+ 
+REFERENCE            RAYGUN_MARK2_KILL
+LANG_ENGLISH         "RayGun Mark2 Kill"
+ 
+REFERENCE            RAYGUN_KILL
+LANG_ENGLISH         "RayGun Kill"
+ 
+REFERENCE            SHIELD_KILL
+LANG_ENGLISH         "Shield Kill"
+ 
+REFERENCE            GKZ_45_MARK3_KILL
+LANG_ENGLISH         "GKZ 45 Mark3 Kill"
+ 
+REFERENCE            THUNDERGUN_KILL
+LANG_ENGLISH         "ThunderGun Kill"
+ 
+REFERENCE            SHARPSHOOTER_KILL
+LANG_ENGLISH         "Sharpshooter Kill"
+ 
+REFERENCE            C_ZOMBIE_CRITICAL_KILL
+LANG_ENGLISH         "^3Zombie Critical Kill"
+ 
+REFERENCE            C_HELLHOUNDS_CRITICAL_KILL
+LANG_ENGLISH         "^3Hellhounds Critical Kill"
+ 
+REFERENCE            C_WUNDERWAFFE_KILL
+LANG_ENGLISH         "^3Wunderwaffe Kill"
+ 
+REFERENCE            C_RAYGUN_MARK2_KILL
+LANG_ENGLISH         "^3RayGun Mark2 Kill"
+ 
+REFERENCE            C_RAYGUN_KILL
+LANG_ENGLISH         "^3RayGun Kill"
+ 
+REFERENCE            C_SHIELD_KILL
+LANG_ENGLISH         "^3Shield Kill"
+ 
+REFERENCE            C_GKZ_45_MARK3_KILL
+LANG_ENGLISH         "^3GKZ 45 Mark3 Kill"
+ 
+REFERENCE            C_THUNDERGUN_KILL
+LANG_ENGLISH         "^3ThunderGun Kill"
+ 
+REFERENCE            C_ZOMBIE_EXPLOSIVE_KILL
+LANG_ENGLISH         "^3Zombie Explosive Kill"
+ 
+REFERENCE            C_ZOMBIE_MELEE_KILL
+LANG_ENGLISH         "^3Zombie Melee Kill"
+ 
+REFERENCE            C_ZOMBIE_HEADSHOT_KILL
+LANG_ENGLISH         "^3Zombie Headshot Kill"
+ 
+REFERENCE            C_SHARPSHOOTER_KILL
+LANG_ENGLISH         "^3Sharpshooter Kill"
+
+REFERENCE            PARASITE_KILL
+LANG_ENGLISH         "Parasite Elimination"
+ 
+REFERENCE            PARASITE_EXPLOSIVE_KILL
+LANG_ENGLISH         "Parasite Explosive Kill"
+ 
+REFERENCE            PARASITE_MELEE_KILL
+LANG_ENGLISH         "Parasite Melee Kill"
+ 
+REFERENCE            PARASITE_HEADSHOT_KILL
+LANG_ENGLISH         "Parasite Headshot Kill"
+ 
+REFERENCE            C_PARASITE_CRITICAL_KILL
+LANG_ENGLISH         "^3Parasite Critical Kill"
+ 
+REFERENCE            C_PARASITE_EXPLOSIVE_KILL
+LANG_ENGLISH         "^3Parasite Explosive Kill"
+ 
+REFERENCE            C_PARASITE_MELEE_KILL
+LANG_ENGLISH         "^3Parasite Melee Kill"
+ 
+REFERENCE            C_PARASITE_HEADSHOT_KILL
+LANG_ENGLISH         "^3Parasite Headshot Kill"
+ 
+REFERENCE            CLEAN_DEBRIS
+LANG_ENGLISH         "Clean Debris"
+ 
+REFERENCE            ZOMBIE_KILL
+LANG_ENGLISH         "Zombie Elimination"
+ 
+REFERENCE            ZOMBIE_EXPLOSIVE_KILL
+LANG_ENGLISH         "Zombie Explosive Kill"
+ 
+REFERENCE            ZOMBIE_MELEE_KILL
+LANG_ENGLISH         "Zombie Melee Kill"
+ 
+REFERENCE            ZOMBIE_HEADSHOT_KILL
+LANG_ENGLISH         "Zombie Headshot Kill"
+ 
+REFERENCE            C_ZOMBIE_CRITICAL_KILL
+LANG_ENGLISH         "^3Zombie Critical Kill"
+ 
+REFERENCE            C_ZOMBIE_EXPLOSIVE_KILL
+LANG_ENGLISH         "^3Zombie Explosive Kill"
+ 
+REFERENCE            C_ZOMBIE_MELEE_KILL
+LANG_ENGLISH         "^3Zombie Melee Kill"
+ 
+REFERENCE            C_ZOMBIE_HEADSHOT_KILL
+LANG_ENGLISH         "^3Zombie Headshot Kill"
+ 
+REFERENCE            MEATBALL_KILL
+LANG_ENGLISH         "Meatball Elimination"
+ 
+REFERENCE            MEATBALL_EXPLOSIVE_KILL
+LANG_ENGLISH         "Meatball Explosive Kill"
+ 
+REFERENCE            MEATBALL_MELEE_KILL
+LANG_ENGLISH         "Meatball Melee Kill"
+ 
+REFERENCE            MEATBALL_HEADSHOT_KILL
+LANG_ENGLISH         "Meatball Headshot Kill"
+ 
+REFERENCE            C_MEATBALL_CRITICAL_KILL
+LANG_ENGLISH         "^3Meatball Critical Kill"
+ 
+REFERENCE            C_MEATBALL_EXPLOSIVE_KILL
+LANG_ENGLISH         "^3Meatball Explosive Kill"
+ 
+REFERENCE            C_MEATBALL_MELEE_KILL
+LANG_ENGLISH         "^3Meatball Melee Kill"
+ 
+REFERENCE            C_MEATBALL_HEADSHOT_KILL
+LANG_ENGLISH         "^3Meatball Headshot Kill"
+ 
+REFERENCE            SPIDER_KILL
+LANG_ENGLISH         "Spider Elimination"
+ 
+REFERENCE            SPIDER_EXPLOSIVE_KILL
+LANG_ENGLISH         "Spider Explosive Kill"
+ 
+REFERENCE            SPIDER_MELEE_KILL
+LANG_ENGLISH         "Spider Melee Kill"
+ 
+REFERENCE            SPIDER_HEADSHOT_KILL
+LANG_ENGLISH         "Spider Headshot Kill"
+ 
+REFERENCE            C_SPIDER_CRITICAL_KILL
+LANG_ENGLISH         "^3Spider Critical Kill"
+ 
+REFERENCE            C_SPIDER_EXPLOSIVE_KILL
+LANG_ENGLISH         "^3Spider Explosive Kill"
+ 
+REFERENCE            C_SPIDER_MELEE_KILL
+LANG_ENGLISH         "^3Spider Melee Kill"
+ 
+REFERENCE            C_SPIDER_HEADSHOT_KILL
+LANG_ENGLISH         "^3Spider Headshot Kill"
+ 
+REFERENCE            HELLHOUND_KILL
+LANG_ENGLISH         "Hellhound Elimination"
+ 
+REFERENCE            HELLHOUND_EXPLOSIVE_KILL
+LANG_ENGLISH         "Hellhound Explosive Kill"
+ 
+REFERENCE            HELLHOUND_MELEE_KILL
+LANG_ENGLISH         "Hellhound Melee Kill"
+ 
+REFERENCE            HELLHOUND_HEADSHOT_KILL
+LANG_ENGLISH         "Hellhound Headshot Kill"
+ 
+REFERENCE            C_HELLHOUND_CRITICAL_KILL
+LANG_ENGLISH         "^3Hellhound Critical Kill"
+ 
+REFERENCE            C_HELLHOUND_EXPLOSIVE_KILL
+LANG_ENGLISH         "^3Hellhound Explosive Kill"
+ 
+REFERENCE            C_HELLHOUND_MELEE_KILL
+LANG_ENGLISH         "^3Hellhound Melee Kill"
+ 
+REFERENCE            C_HELLHOUND_HEADSHOT_KILL
+LANG_ENGLISH         "^3Hellhound Headshot Kill"
+ 
+REFERENCE            NAPALMZOMBIE_KILL
+LANG_ENGLISH         "Napalmzombie Elimination"
+ 
+REFERENCE            NAPALMZOMBIE_EXPLOSIVE_KILL
+LANG_ENGLISH         "Napalmzombie Explosive Kill"
+ 
+REFERENCE            NAPALMZOMBIE_MELEE_KILL
+LANG_ENGLISH         "Napalmzombie Melee Kill"
+ 
+REFERENCE            NAPALMZOMBIE_HEADSHOT_KILL
+LANG_ENGLISH         "Napalmzombie Headshot Kill"
+ 
+REFERENCE            C_NAPALMZOMBIE_CRITICAL_KILL
+LANG_ENGLISH         "^3Napalmzombie Critical Kill"
+ 
+REFERENCE            C_NAPALMZOMBIE_EXPLOSIVE_KILL
+LANG_ENGLISH         "^3Napalmzombie Explosive Kill"
+ 
+REFERENCE            C_NAPALMZOMBIE_MELEE_KILL
+LANG_ENGLISH         "^3Napalmzombie Melee Kill"
+ 
+REFERENCE            C_NAPALMZOMBIE_HEADSHOT_KILL
+LANG_ENGLISH         "^3Napalmzombie Headshot Kill"
+ 
+REFERENCE            SHRIEKER_KILL
+LANG_ENGLISH         "Shrieker Elimination"
+ 
+REFERENCE            SHRIEKER_EXPLOSIVE_KILL
+LANG_ENGLISH         "Shrieker Explosive Kill"
+ 
+REFERENCE            SHRIEKER_MELEE_KILL
+LANG_ENGLISH         "Shrieker Melee Kill"
+ 
+REFERENCE            SHRIEKER_HEADSHOT_KILL
+LANG_ENGLISH         "Shrieker Headshot Kill"
+ 
+REFERENCE            C_SHRIEKER_CRITICAL_KILL
+LANG_ENGLISH         "^3Shrieker Critical Kill"
+ 
+REFERENCE            C_SHRIEKER_EXPLOSIVE_KILL
+LANG_ENGLISH         "^3Shrieker Explosive Kill"
+ 
+REFERENCE            C_SHRIEKER_MELEE_KILL
+LANG_ENGLISH         "^3Shrieker Melee Kill"
+ 
+REFERENCE            C_SHRIEKER_HEADSHOT_KILL
+LANG_ENGLISH         "^3Shrieker Headshot Kill"
+ 
+REFERENCE            THRASHER_KILL
+LANG_ENGLISH         "Thrasher Elimination"
+ 
+REFERENCE            THRASHER_EXPLOSIVE_KILL
+LANG_ENGLISH         "Thrasher Explosive Kill"
+ 
+REFERENCE            THRASHER_MELEE_KILL
+LANG_ENGLISH         "Thrasher Melee Kill"
+ 
+REFERENCE            THRASHER_HEADSHOT_KILL
+LANG_ENGLISH         "Thrasher Headshot Kill"
+ 
+REFERENCE            C_THRASHER_CRITICAL_KILL
+LANG_ENGLISH         "^3Thrasher Critical Kill"
+ 
+REFERENCE            C_THRASHER_EXPLOSIVE_KILL
+LANG_ENGLISH         "^3Thrasher Explosive Kill"
+ 
+REFERENCE            C_THRASHER_MELEE_KILL
+LANG_ENGLISH         "^3Thrasher Melee Kill"
+ 
+REFERENCE            C_THRASHER_HEADSHOT_KILL
+LANG_ENGLISH         "^3Thrasher Headshot Kill"
+ 
+REFERENCE            NOVACRAWLER_KILL
+LANG_ENGLISH         "Novacrawler Elimination"
+ 
+REFERENCE            NOVACRAWLER_EXPLOSIVE_KILL
+LANG_ENGLISH         "Novacrawler Explosive Kill"
+ 
+REFERENCE            NOVACRAWLER_MELEE_KILL
+LANG_ENGLISH         "Novacrawler Melee Kill"
+ 
+REFERENCE            NOVACRAWLER_HEADSHOT_KILL
+LANG_ENGLISH         "Novacrawler Headshot Kill"
+ 
+REFERENCE            C_NOVACRAWLER_CRITICAL_KILL
+LANG_ENGLISH         "^3Novacrawler Critical Kill"
+ 
+REFERENCE            C_NOVACRAWLER_EXPLOSIVE_KILL
+LANG_ENGLISH         "^3Novacrawler Explosive Kill"
+ 
+REFERENCE            C_NOVACRAWLER_MELEE_KILL
+LANG_ENGLISH         "^3Novacrawler Melee Kill"
+ 
+REFERENCE            C_NOVACRAWLER_HEADSHOT_KILL
+LANG_ENGLISH         "^3Novacrawler Headshot Kill"
+ 
+REFERENCE            APOTHICONFURY_KILL
+LANG_ENGLISH         "Apothiconfury Elimination"
+ 
+REFERENCE            APOTHICONFURY_EXPLOSIVE_KILL
+LANG_ENGLISH         "Apothiconfury Explosive Kill"
+ 
+REFERENCE            APOTHICONFURY_MELEE_KILL
+LANG_ENGLISH         "Apothiconfury Melee Kill"
+ 
+REFERENCE            APOTHICONFURY_HEADSHOT_KILL
+LANG_ENGLISH         "Apothiconfury Headshot Kill"
+ 
+REFERENCE            C_APOTHICONFURY_CRITICAL_KILL
+LANG_ENGLISH         "^3Apothiconfury Critical Kill"
+ 
+REFERENCE            C_APOTHICONFURY_EXPLOSIVE_KILL
+LANG_ENGLISH         "^3Apothiconfury Explosive Kill"
+ 
+REFERENCE            C_APOTHICONFURY_MELEE_KILL
+LANG_ENGLISH         "^3Apothiconfury Melee Kill"
+ 
+REFERENCE            C_APOTHICONFURY_HEADSHOT_KILL
+LANG_ENGLISH         "^3Apothiconfury Headshot Kill"
+ 
+REFERENCE            PANZERSOLDAT_KILL
+LANG_ENGLISH         "Panzersoldat Elimination"
+ 
+REFERENCE            PANZERSOLDAT_EXPLOSIVE_KILL
+LANG_ENGLISH         "Panzersoldat Explosive Kill"
+ 
+REFERENCE            PANZERSOLDAT_MELEE_KILL
+LANG_ENGLISH         "Panzersoldat Melee Kill"
+ 
+REFERENCE            PANZERSOLDAT_HEADSHOT_KILL
+LANG_ENGLISH         "Panzersoldat Headshot Kill"
+ 
+REFERENCE            C_PANZERSOLDAT_CRITICAL_KILL
+LANG_ENGLISH         "^3Panzersoldat Critical Kill"
+ 
+REFERENCE            C_PANZERSOLDAT_EXPLOSIVE_KILL
+LANG_ENGLISH         "^3Panzersoldat Explosive Kill"
+ 
+REFERENCE            C_PANZERSOLDAT_MELEE_KILL
+LANG_ENGLISH         "^3Panzersoldat Melee Kill"
+ 
+REFERENCE            C_PANZERSOLDAT_HEADSHOT_KILL
+LANG_ENGLISH         "^3Panzersoldat Headshot Kill"
+ 
+REFERENCE            MARGWA_KILL
+LANG_ENGLISH         "Margwa Elimination"
+ 
+REFERENCE            MARGWA_EXPLOSIVE_KILL
+LANG_ENGLISH         "Margwa Explosive Kill"
+ 
+REFERENCE            MARGWA_MELEE_KILL
+LANG_ENGLISH         "Margwa Melee Kill"
+ 
+REFERENCE            MARGWA_HEADSHOT_KILL
+LANG_ENGLISH         "Margwa Headshot Kill"
+ 
+REFERENCE            C_MARGWA_CRITICAL_KILL
+LANG_ENGLISH         "^3Margwa Critical Kill"
+ 
+REFERENCE            C_MARGWA_EXPLOSIVE_KILL
+LANG_ENGLISH         "^3Margwa Explosive Kill"
+ 
+REFERENCE            C_MARGWA_MELEE_KILL
+LANG_ENGLISH         "^3Margwa Melee Kill"
+ 
+REFERENCE            C_MARGWA_HEADSHOT_KILL
+LANG_ENGLISH         "^3Margwa Headshot Kill"
+ 
+REFERENCE            MANGLER_KILL
+LANG_ENGLISH         "Mangler Elimination"
+ 
+REFERENCE            MANGLER_EXPLOSIVE_KILL
+LANG_ENGLISH         "Mangler Explosive Kill"
+ 
+REFERENCE            MANGLER_MELEE_KILL
+LANG_ENGLISH         "Mangler Melee Kill"
+ 
+REFERENCE            MANGLER_HEADSHOT_KILL
+LANG_ENGLISH         "Mangler Headshot Kill"
+ 
+REFERENCE            C_MANGLER_CRITICAL_KILL
+LANG_ENGLISH         "^3Mangler Critical Kill"
+ 
+REFERENCE            C_MANGLER_EXPLOSIVE_KILL
+LANG_ENGLISH         "^3Mangler Explosive Kill"
+ 
+REFERENCE            C_MANGLER_MELEE_KILL
+LANG_ENGLISH         "^3Mangler Melee Kill"
+ 
+REFERENCE            C_MANGLER_HEADSHOT_KILL
+LANG_ENGLISH         "^3Mangler Headshot Kill"
+ 
+REFERENCE            WARDEN_KILL
+LANG_ENGLISH         "Warden Elimination"
+ 
+REFERENCE            WARDEN_EXPLOSIVE_KILL
+LANG_ENGLISH         "Warden Explosive Kill"
+ 
+REFERENCE            WARDEN_MELEE_KILL
+LANG_ENGLISH         "Warden Melee Kill"
+ 
+REFERENCE            WARDEN_HEADSHOT_KILL
+LANG_ENGLISH         "Warden Headshot Kill"
+ 
+REFERENCE            C_WARDEN_CRITICAL_KILL
+LANG_ENGLISH         "^3Warden Critical Kill"
+ 
+REFERENCE            C_WARDEN_EXPLOSIVE_KILL
+LANG_ENGLISH         "^3Warden Explosive Kill"
+ 
+REFERENCE            C_WARDEN_MELEE_KILL
+LANG_ENGLISH         "^3Warden Melee Kill"
+ 
+REFERENCE            C_WARDEN_HEADSHOT_KILL
+LANG_ENGLISH         "^3Warden Headshot Kill"
+ 
+REFERENCE            KEEPER_KILL
+LANG_ENGLISH         "Keeper Elimination"
+ 
+REFERENCE            KEEPER_EXPLOSIVE_KILL
+LANG_ENGLISH         "Keeper Explosive Kill"
+ 
+REFERENCE            KEEPER_MELEE_KILL
+LANG_ENGLISH         "Keeper Melee Kill"
+ 
+REFERENCE            KEEPER_HEADSHOT_KILL
+LANG_ENGLISH         "Keeper Headshot Kill"
+ 
+REFERENCE            C_KEEPER_CRITICAL_KILL
+LANG_ENGLISH         "^3Keeper Critical Kill"
+ 
+REFERENCE            C_KEEPER_EXPLOSIVE_KILL
+LANG_ENGLISH         "^3Keeper Explosive Kill"
+ 
+REFERENCE            C_KEEPER_MELEE_KILL
+LANG_ENGLISH         "^3Keeper Melee Kill"
+ 
+REFERENCE            C_KEEPER_HEADSHOT_KILL
+LANG_ENGLISH         "^3Keeper Headshot Kill"
+
+REFERENCE            STUN
+LANG_ENGLISH         "Stunned Zombie"
+
+REFERENCE            DAMAGE_INCREASE
+LANG_ENGLISH         "Damage Increase"
+
+ENDMARKER

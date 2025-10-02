@@ -1,0 +1,102 @@
+// Note to translators:
+// Just edit the text inside the quotes, don't edit other code
+
+VERSION             "1"
+CONFIG              "C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           ROCKETSHIELD_UPGRADED_TITLE
+LANG_ENGLISH     "Upgrade do Escudo de Foguete"
+
+REFERENCE           ROCKETSHIELD_UPGRADED_CONTENT
+LANG_ENGLISH     "1. Mate 10 zumbis com 12 rajadas consecutivas com o Escudo de Foguete\n(Se as mortes forem menos de 10, você deve começar de novo)\n2. Quando ouvir um som de comemoração, você receberá um escudo de foguete aprimorado"
+
+REFERENCE           IDGUN_UPGRADED_TITLE
+LANG_ENGLISH     "Upgrade do Apothican Servant"
+
+REFERENCE           IDGUN_UPGRADED_CONTENT
+LANG_ENGLISH     "1. Procure os casulos pendurados no mapa. Quando o jogador possui o Apothican Servant, quanto mais próximo estiver do casulo, mais frequente será o som do batimento cardíaco emitido pelo Apothican Servant\n2. Após encontrar o casulo, use o Apothican Servant para matar 100 zumbis próximos ao casulo\n3. Atire no casulo, ele sugirá o Apothican Servant, aguarde a próxima rodada\n4. Destrua o casulo e o Apothican Servant aprimorado cairá, qualquer jogador pode pegá-lo"
+
+REFERENCE           GASMASK_UPGRADED_TITLE
+LANG_ENGLISH     "Upgrade da Máscara de Gás"
+
+REFERENCE           GASMASK_UPGRADED_CONTENT
+LANG_ENGLISH     "Atirando na máscara na mesa de crafting com Masamune\nIrá atualizar a Máscara de Gás para imunidade infinita a esporos tóxicos"
+
+REFERENCE           FREEGUM_TITLE
+LANG_ENGLISH     "Grátis Anywhere But Here!"
+
+REFERENCE           FREEGUM_CONTENT
+LANG_ENGLISH     "Você pode obter um gobblegum 'Anywhere But Here' aqui."
+
+REFERENCE           AA_AMMO_CHANCE_TITLE
+LANG_ENGLISH     "Aumentar a probabilidade de munição da AA"
+
+REFERENCE           AA_AMMO_CHANCE_CONTENT
+LANG_ENGLISH     "Lucky Crit Gobblegum aumentará a probabilidade de spawn de munição da AA para 100%"
+
+REFERENCE           GIANT_PERK_EE_TITLE
+LANG_ENGLISH     "EE da 5ª Máquina de Perks"
+
+REFERENCE           GIANT_PERK_EE_CONTENT
+LANG_ENGLISH     "Jogue uma bomba macaco em cada teletransportador e ative-os para energizar este interruptor"
+
+REFERENCE           GENESIS_SHIELD_TITLE
+LANG_ENGLISH     "Upgrade do Escudo de Dragão"
+
+REFERENCE           GENESIS_SHIELD_CONTENT
+LANG_ENGLISH     "1. Use o Apothican Servant para atirar na mesa de crafting, o vórtice sugirá o Apothican Servant, NOTA: Você não poderá recuperar a arma.\n2. Quando o vórtice terminar, o upgrade do escudo estará completo"
+
+REFERENCE           TEMPLE_KEY_COMBO_EE_TITLE
+LANG_ENGLISH     "Easter Egg da Bomba Macaco Explosiva"
+
+REFERENCE           TEMPLE_KEY_COMBO_EE_CONTENT
+LANG_ENGLISH     "Fique aqui e pressione os seguintes botões para explodir a bomba macaco:\n^3[{+actionslot 1}] [{+actionslot 1}] [{+actionslot 2}] [{+gostand}]"
+
+REFERENCE           MOON_SUPER_PES_TITLE
+LANG_ENGLISH     "Traje Externo Super Pressurizado"
+
+REFERENCE           MOON_SUPER_PES_CONTENT
+LANG_ENGLISH     "O P.E.S. agora é hackeável.\nHackear e pegá-lo novamente permitirá carregar o hacker e o PES juntos"
+
+REFERENCE           MOON_DIGGER_HACKING_TITLE
+LANG_ENGLISH     "Controles da Escavadora agora são hackeáveis"
+
+REFERENCE           MOON_DIGGER_HACKING_CONTENT
+LANG_ENGLISH     "O custo de hacking para painéis Omicron e Epsilon é 1000\nO custo de hacking do painel Pi é 5000 se a máquina Gobblegum estiver desativada ou Gobblegum aleatório estiver ativado\nCaso contrário, o painel Pi estará desativado até a rodada 10 e o custo será alterado para 50000\nSe o Túnel 6 for destruído antes do hack, o custo do painel Pi muda para 1000"
+
+REFERENCE           MOON_EE_ITEM_TITLE
+LANG_ENGLISH     "Obtendo itens EE do Jump Pad"
+
+REFERENCE           MOON_EE_ITEM_CONTENT
+LANG_ENGLISH     "Após a rodada 10\nO Jump Pad terá chance de gerar armas e equipamentos raros\nVocê tem 10 minutos para coletá-los após o primeiro spawn"
+
+REFERENCE           FIRETYPE
+LANG_ENGLISH     "Modo de Fogo"
+
+REFERENCE           MELEETIME
+LANG_ENGLISH     "Tempo de Combate Corpo a Corpo"
+
+REFERENCE           DAMAGE
+LANG_ENGLISH     "Dano"
+
+REFERENCE           STK
+LANG_ENGLISH     "Tiros para matar na Rodada 30"
+
+REFERENCE           SHOTCOUNT
+LANG_ENGLISH     "Contagem de tiros da Espingarda"
+
+REFERENCE           BOLTTIME
+LANG_ENGLISH     "Tempo do Ferrolho"
+
+REFERENCE           RELOADTIME
+LANG_ENGLISH     "Tempo de Recarga"
+
+REFERENCE           MAGSIZE
+LANG_ENGLISH     "Tamanho do Carregador"
+
+REFERENCE           STOCKAMMO
+LANG_ENGLISH     "Munição em estoque"
+
+
+ENDMARKER

@@ -1,0 +1,200 @@
+// Note to translators:
+// Just edit the text inside the quotes, don't edit other code
+
+VERSION             "1"
+CONFIG              "C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           SHARE_DROP
+LANG_ENGLISH     "ポイントを ^5 落としました"
+
+REFERENCE           SHARE_OUT
+LANG_ENGLISH     "^1資金不足"
+
+REFERENCE           ZMS_LEFT
+LANG_ENGLISH     "残りゾンビ"
+
+REFERENCE           ZM_LEFT
+LANG_ENGLISH     "残りゾンビ"
+
+REFERENCE           DOG_LEFT
+LANG_ENGLISH     "残り敵"
+
+REFERENCE           END_OF_ROUND
+LANG_ENGLISH     "インターミッション"
+
+REFERENCE           TRADE_GUN
+LANG_ENGLISH     "^3[{+activate}] ^7を押し続けてプレイヤーと武器を交換します。"
+
+REFERENCE           TRADE_WAIT
+LANG_ENGLISH     "他のプレイヤーを待ってください。"
+
+REFERENCE           TRADE_BLOCK
+LANG_ENGLISH     "この武器は交換できません。"
+
+REFERENCE           TRADE_HAS
+LANG_ENGLISH     "他のプレイヤーはすでにこの武器を持っています。"
+
+REFERENCE           TRADE_YOU_HAS
+LANG_ENGLISH     "他のプレイヤーがすでに持っている武器は交換できません。"
+
+REFERENCE           ADDED
+LANG_ENGLISH     "^5追加しました"
+
+REFERENCE           THE_ZM
+LANG_ENGLISH     " ^7ゾンビ！"
+
+REFERENCE           GIVE_GUM
+LANG_ENGLISH     "ゴブルガム ^5"
+
+REFERENCE           GIVE_AAT
+LANG_ENGLISH     "AAT ^5"
+
+REFERENCE           ADD_CAMO
+LANG_ENGLISH     "迷彩: ^5"
+
+REFERENCE           TO_PLAYER
+LANG_ENGLISH     "^7 に渡しました ^1"
+
+REFERENCE           ALL_PLAYER
+LANG_ENGLISH     "^7 全員に渡しました"
+
+REFERENCE           ROUND
+LANG_ENGLISH     "ラウンド^5 "
+
+REFERENCE           IS_END
+LANG_ENGLISH     " ^7終了"
+
+REFERENCE           ZM_SPAWN
+LANG_ENGLISH     "ゾンビスポーンの遅延を ^5 に変更"
+
+REFERENCE           SEC
+LANG_ENGLISH     "^7 秒"
+
+REFERENCE           ZM_LIMIT
+LANG_ENGLISH     "ゾンビの最大数を ^5 に変更しました"
+
+REFERENCE           ZM_PLAYER
+LANG_ENGLISH     "プレイヤーが入場するたびに追加されるゾンビの合計数が ^5 に設定されました"
+
+REFERENCE           ZM_SPEED
+LANG_ENGLISH     "次のラウンドでゾンビの移動速度が ^5% に変更されます"
+
+REFERENCE           ZM_PERK
+LANG_ENGLISH     "パーク制限: ^5"
+
+REFERENCE           ZM_POWER
+LANG_ENGLISH     "パワー状態: ^5"
+
+REFERENCE           CHEAT_ON
+LANG_ENGLISH     "チートコマンドが有効です"
+
+REFERENCE           CHEAT_OFF
+LANG_ENGLISH     "チートコマンドが無効です"
+
+REFERENCE           HITMARKER_ON
+LANG_ENGLISH     "ヒットマーカーON"
+
+REFERENCE           HITMARKER_OFF
+LANG_ENGLISH     "ヒットマーカーOFF"
+
+REFERENCE           CANT_BGB_HINT
+LANG_ENGLISH     "ゴブルガム使用不可"
+
+REFERENCE           BGB_ON
+LANG_ENGLISH     "ゴブルガムマシンが起動しました"
+
+REFERENCE           BGB_OFF
+LANG_ENGLISH     "ゴブルガムマシンが停止しました"
+
+REFERENCE           SONG_CHANGE
+LANG_ENGLISH     "曲を切り替え中......"
+
+REFERENCE           SONG_PLAY
+LANG_ENGLISH     "再生中: ^5"
+
+REFERENCE           SONG_STOPING
+LANG_ENGLISH     "音楽を停止中......"
+
+REFERENCE           SONG_STOPED
+LANG_ENGLISH     "音楽停止"
+
+REFERENCE           GG
+LANG_ENGLISH     "武器: ^5"
+
+REFERENCE           WITHDRAW
+LANG_ENGLISH     "^3[{+activate}]^7 引き出し ^BBUTTON_COD_POINT_ICON^1000 (^BBUTTON_COD_POINT_ICON^&&1 | ^3[{+melee}]^7 残高確認)"
+
+REFERENCE           DEPOSIT
+LANG_ENGLISH     "^3[{+activate}]^7 預金 ^BBUTTON_COD_POINT_ICON^1000 (^BBUTTON_COD_POINT_ICON^&&1 | ^3[{+melee}]^7 残高確認)"
+
+REFERENCE           WEAPONLOCKER_GETBACK
+LANG_ENGLISH     "^3[{+activate}]^7 を押して武器を取り戻す [WeaponLocker武器: &&1^7]"
+
+REFERENCE           WEAPONLOCKER_STORE
+LANG_ENGLISH     "^3[{+activate}]^7 を押して武器を保管する"
+
+REFERENCE           WEAPONLOCKER_LOADING
+LANG_ENGLISH     "処理中......"
+
+REFERENCE           BANK_SCORE
+LANG_ENGLISH     "^5現在の残高: ^7"
+
+REFERENCE           BANK_OVERLOAD
+LANG_ENGLISH     "^1銀行が満杯です！"
+
+REFERENCE           AF_TITLE
+LANG_ENGLISH     "ゲーム内の高度な機能"
+
+REFERENCE           AF_DESC
+LANG_ENGLISH     "高度な機能が有効な場合、WeaponLockerと銀行は使用できません。\nGSCスタイルのモッドメニューを有効にし、^3[{+stance}] ^7+ ^3[{+reload}] を押し続けてアクセスできます。\n^1<この機能の使い方がわからない場合、絶対にONにしないでください！>"
+
+REFERENCE           AF
+LANG_ENGLISH     "高度な機能"
+
+REFERENCE           PAUSE_TITLE
+LANG_ENGLISH     "ゲームを一時停止しますか？"
+
+REFERENCE           PAUSE_DESC
+LANG_ENGLISH     "^3いいえ ^7を押して再開します。"
+
+REFERENCE           LOCKER_BAN
+LANG_ENGLISH     "^1不正スコア検出、WeaponLocker & 銀行は使用不可になりました。"
+
+REFERENCE           PAUSE
+LANG_ENGLISH     "COOP 一時停止"
+
+REFERENCE           BOXSHARE_TAKE
+LANG_ENGLISH     "^3[{+activate}]^7 武器を取得"
+
+REFERENCE           SHIELD_HINT
+LANG_ENGLISH     "^3[{+activate}]^7 を押してライオットシールド"
+
+REFERENCE           SHIELD_HINT_HOWTO
+LANG_ENGLISH     "^3[{+actionslot 2}]^7 を押してライオットシールドを装備"
+
+REFERENCE           SPIKE_HINT
+LANG_ENGLISH     "^3[{+activate}]^7/^3[{+melee}] をダブルタップしてスパイクを起爆"
+
+REFERENCE           BOXSHARE_HINT
+LANG_ENGLISH     "^3[{+melee}]^7 を押して武器をチームメイトと共有"
+
+REFERENCE           START_HINT_GAMEPAD
+LANG_ENGLISH     "^3[{+breath_sprint}] ^7+ ^3[{+reload}] ^7武器を確認\n^3[{+melee}]^7 + ^3[{+actionslot 3}] ^7懐中電灯\n^3[{+breath_sprint}]^7 + ^3[{+actionslot 3}] ^7ポイントを落とす\n^3[{+gostand}]^7 + ^3[{+actionslot 3}] ^7強化ビジョン"
+
+REFERENCE           START_HINT
+LANG_ENGLISH     "^3[{+reload}] ^7武器を確認\n^3[{+melee}]^7 + ^3[{+actionslot 3}] ^7懐中電灯\n^3[{+breath_sprint}]^7 + ^3[{+actionslot 3}] ^7ポイントを落とす\n^3[{+gostand}]^7 + ^3[{+actionslot 3}] ^7DNI強化ビジョン"
+
+REFERENCE           REMOVEPERK_HINT
+LANG_ENGLISH     "^3[{+activate}]^7 + ^3[{+melee}] を押してパークマシンからこのパークを削除"
+
+REFERENCE           KATANA_HINT
+LANG_ENGLISH     "^3[{+attack}]^7 無慈悲なダッシュ\n^3[{+reload}]^7 視認 & 無限弾薬（一回ラウンドごと）\n^3[{+melee}]^7 体力回復"
+
+REFERENCE           KATANA_HINT_GAMEPAD
+LANG_ENGLISH     "^3[{+attack}]^7 無慈悲なダッシュ\n^3[{+breath_sprint}] ^7+ ^3[{+reload}]^7 視認 & 無限弾薬（一回ラウンドごと）\n^3[{+melee}]^7 体力回復"
+
+REFERENCE           MOD_DESC
+LANG_ENGLISH     "All-Around Enhancement Mod へようこそ！このModは多くのQoL機能を追加し、Black Ops IIIのバニラゾンビモードのバグを修正、究極のゾンビ体験を提供します。"
+
+ENDMARKER

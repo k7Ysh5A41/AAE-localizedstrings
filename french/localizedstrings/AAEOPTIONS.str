@@ -1,0 +1,311 @@
+// Note to translators:
+// Just edit the text inside the quotes, don't edit other code
+
+VERSION             "1"
+CONFIG              "C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           PLAYERMONITOR
+LANG_ENGLISH     "Point de vue des autres joueurs"
+
+REFERENCE           PLAYERMONITOR_DOA
+LANG_ENGLISH     "Point de vue des autres joueurs (Perspective du ciel au sol)"
+
+REFERENCE           WALLBUY
+LANG_ENGLISH     "Désactiver les indications d'achat au mur"
+
+REFERENCE           PLAYER_HPBAR
+LANG_ENGLISH     "Désactiver la barre de santé au-dessus du joueur"
+
+REFERENCE           SMOKE
+LANG_ENGLISH     "Désactiver les traînées de fumée du canon"
+
+REFERENCE           KICK
+LANG_ENGLISH     "Désactiver le recul supplémentaire pour les nouvelles armes CoD"
+
+REFERENCE           DISABLE_AFK
+LANG_ENGLISH     "Désactiver AFK"
+
+REFERENCE           BGB_DROP
+LANG_ENGLISH     "Apparition de Gobblegum Powerup"
+
+REFERENCE           FPS
+LANG_ENGLISH     "Graphismes Basique"
+
+REFERENCE           SM
+LANG_ENGLISH     "Afficher sa propre vitesse de déplacement"
+
+REFERENCE           AAT
+LANG_ENGLISH     "Désactiver AAT"
+
+REFERENCE           ADS
+LANG_ENGLISH     "Pas de zoom ADS"
+
+REFERENCE           T6PAP
+LANG_ENGLISH     "Pack-a-Punch BO2"
+
+REFERENCE           GRENADE_BAR
+LANG_ENGLISH     "Désactiver le compte à rebours des grenades"
+
+REFERENCE           LH_GES
+LANG_ENGLISH     "Désactiver le geste de la main gauche"
+
+REFERENCE           FSF
+LANG_ENGLISH     "Désactiver le flash plein écran"
+
+REFERENCE           FSFB
+LANG_ENGLISH     "Flash plein écran couleur inversée en noir"
+
+REFERENCE           RESTART_HINT
+LANG_ENGLISH     "Vous pouvez maintenant ouvrir le menu pause pour redémarrer"
+
+REFERENCE           BACKHEAD
+LANG_ENGLISH     "L'arrière de votre tête"
+
+REFERENCE           UICOLOR
+LANG_ENGLISH     "Couleur de l'UI"
+
+REFERENCE           LIGHTBLUE
+LANG_ENGLISH     "Bleu clair"
+
+REFERENCE           SILVER
+LANG_ENGLISH     "Argent"
+
+REFERENCE           BROWN
+LANG_ENGLISH     "Marron"
+
+REFERENCE           LIGHTPINK
+LANG_ENGLISH     "Rose clair"
+
+REFERENCE           DARKGRAY
+LANG_ENGLISH     "Gris foncé"
+
+REFERENCE           FORESTGREEN
+LANG_ENGLISH     "Vert forêt"
+
+REFERENCE           DARKRED
+LANG_ENGLISH     "Rouge foncé"
+
+REFERENCE           VIOLET
+LANG_ENGLISH     "Violet"
+
+REFERENCE           SKYBLUE
+LANG_ENGLISH     "Bleu ciel"
+
+REFERENCE           ROYALBLUE
+LANG_ENGLISH     "Bleu royal"
+
+REFERENCE           KHAKI
+LANG_ENGLISH     "Kaki"
+
+REFERENCE           DEEPPINK
+LANG_ENGLISH     "Rose profond"
+
+REFERENCE           STEELBLUE
+LANG_ENGLISH     "Bleu acier"
+
+REFERENCE           MINTCREAM
+LANG_ENGLISH     "Crème menthe"
+
+REFERENCE           BEIGE
+LANG_ENGLISH     "Beige"
+
+REFERENCE           OLDLACE
+LANG_ENGLISH     "Vieille dentelle"
+
+REFERENCE           LIGHTGRAY
+LANG_ENGLISH     "Gris clair"
+
+REFERENCE           SLATEGRAY
+LANG_ENGLISH     "Gris ardoise"
+
+REFERENCE           THISTLE
+LANG_ENGLISH     "Chardon"
+
+REFERENCE           DARKVIOLET
+LANG_ENGLISH     "Violet foncé"
+
+REFERENCE           FORESTGREEN
+LANG_ENGLISH     "Vert forêt"
+
+REFERENCE           LIGHTSLATEGRAY
+LANG_ENGLISH     "Gris ardoise clair"
+
+REFERENCE           DARKSLATEBLUE
+LANG_ENGLISH     "Bleu ardoise foncé"
+
+REFERENCE           DARKRED
+LANG_ENGLISH     "Rouge foncé"
+
+REFERENCE           NAVY
+LANG_ENGLISH     "Bleu marine"
+
+REFERENCE           TEAL
+LANG_ENGLISH     "Sarcelle"
+
+REFERENCE           OLIVE
+LANG_ENGLISH     "Olive"
+
+REFERENCE           PURPLE
+LANG_ENGLISH     "Pourpre"
+
+REFERENCE           SEASHELL
+LANG_ENGLISH     "Coquillage"
+
+REFERENCE           SIENNA
+LANG_ENGLISH     "Sienne"
+
+REFERENCE           ORANGERED
+LANG_ENGLISH     "Rouge orangé"
+
+REFERENCE           FLOD
+LANG_ENGLISH     "Forcer le rendu LOD élevé"
+
+REFERENCE           BB
+LANG_ENGLISH     "Désactiver la barre noire"
+
+REFERENCE           STARTINTRO
+LANG_ENGLISH     "Désactiver l'introduction"
+
+REFERENCE           STARTHINT
+LANG_ENGLISH     "Désactiver l'indice de démarrage"
+
+REFERENCE           LOADING
+LANG_ENGLISH     "Désactiver le film d'écran de chargement solo"
+
+REFERENCE           LOWAMMO
+LANG_ENGLISH     "Désactiver le son de munitions faibles"
+
+REFERENCE           HINTICON
+LANG_ENGLISH     "Désactiver l'icône d'indice"
+
+REFERENCE           PERKSLOT
+LANG_ENGLISH     "Apparition de Perk Slot Powerup"
+
+REFERENCE           RELOADPROMPT
+LANG_ENGLISH     "Désactiver l'invite de rechargement"
+
+REFERENCE           PERKSLOT_SELF
+LANG_ENGLISH     "Ajouter uniquement à soi"
+
+REFERENCE           PERKSLOT_ALL
+LANG_ENGLISH     "Ajouter à tous"
+
+REFERENCE           SEEWALL
+LANG_ENGLISH     "Désactiver la visibilité des noms des joueurs à travers les murs"
+
+REFERENCE           LASTZOMBIE
+LANG_ENGLISH     "Désactiver la ligne clé du dernier zombie"
+
+REFERENCE           TOMBNAME
+LANG_ENGLISH     "Désactiver les noms des robots géants d'Origins"
+
+REFERENCE           ZA
+LANG_ENGLISH     "Désactiver l'annonceur de zone (zone actuelle)"
+
+REFERENCE           SELFHP
+LANG_ENGLISH     "Désactiver la barre de santé personnelle"
+
+REFERENCE           LAUNCHER_LOCK
+LANG_ENGLISH     "Désactiver le verrouillage du lance-roquettes"
+
+REFERENCE           POINTS_COLOR
+LANG_ENGLISH     "Remplacer les couleurs de score par les couleurs de l'UI (Redémarrage requis)"
+
+REFERENCE           HIGHROUND_TIMER
+LANG_ENGLISH     "Timer en jeu"
+
+REFERENCE           CURRENT
+LANG_ENGLISH     "ACTUEL"
+
+REFERENCE           LAST
+LANG_ENGLISH     "DERNIER"
+
+REFERENCE           HITM_STAY_M
+LANG_ENGLISH     "Hitmarker plus petit"
+
+REFERENCE           ZCPERK
+LANG_ENGLISH     "Désactiver Perk Machine et PAP supplémentaires dans les cartes ZC (redémarrage requis)"
+
+REFERENCE           NOPES
+LANG_ENGLISH     "Impossible d'interagir avec P.E.S. sur Moon"
+
+REFERENCE           PAPBOX
+LANG_ENGLISH     "Boîte mystère Pap'd (Requiert AF & 50 EE)"
+
+REFERENCE           MOTIONUI
+LANG_ENGLISH     "UI en mouvement"
+
+REFERENCE           MOTIONUI_1
+LANG_ENGLISH     "Retourner / Déplacer"
+
+REFERENCE           MOTIONUI_2
+LANG_ENGLISH     "Retourner / Déplacer (Inverse)"
+
+REFERENCE           MOTIONUI_3
+LANG_ENGLISH     "Déplacer"
+
+REFERENCE           MOTIONUI_4
+LANG_ENGLISH     "Retourner"
+
+REFERENCE           MOTIONUI_INTENSITY
+LANG_ENGLISH     "Intensité de l'UI en mouvement"
+
+REFERENCE           NO_SUPPORT_LINE1
+LANG_ENGLISH     "^1Version non supportée détectée\n^3Veuillez vérifier ce qui suit^7:"
+
+REFERENCE           NO_SUPPORT_LINE2
+LANG_ENGLISH     "\n\n\n^21^7. Lancez-vous Black Ops III via le client Steam ^BBUTTON_CYCLE_RIGHT^ ? (Les options pour jeux hors-Steam ne comptent pas)"
+
+REFERENCE           NO_SUPPORT_LINE3
+LANG_ENGLISH     "\n\n\n\n^22^7. Avez-vous acheté Black Ops III sur votre compte Steam actuel ^BBUTTON_CYCLE_RIGHT^ ?"
+
+REFERENCE           NO_SUPPORT_LINE4
+LANG_ENGLISH     "\n\n\n\n\n^23^7. Utilisez-vous actuellement un appareil ou un OS ^5Windows 10 ^7/ ^5Windows 11 ^7/ ^5Steam Deck ^7/ ^5Linux ^7 ?"
+
+REFERENCE           MWZCOLOR
+LANG_ENGLISH     "Couleur des coéquipiers BO6 (redémarrage requis)"
+
+REFERENCE           AMMOBAG
+LANG_ENGLISH     "Désactiver le sac de munitions qui apparaît toutes les 2 rounds"
+
+REFERENCE           SLOTHUD
+LANG_ENGLISH     "Désactiver le HUD du Perk Slot"
+
+REFERENCE           STABAR
+LANG_ENGLISH     "Désactiver la barre d'endurance"
+
+REFERENCE           AUTOLEAN
+LANG_ENGLISH     "Désactiver l'inclinaison automatique"
+
+REFERENCE           BGB_START
+LANG_ENGLISH     "Début de Gobblegum"
+
+REFERENCE           C4ENDING
+LANG_ENGLISH     "Fin achetable C4 (150K+ / Round 35)"
+
+REFERENCE           GUNPOS
+LANG_ENGLISH     "Position du modèle de bras à la première personne"
+
+REFERENCE           GUNPOS_ENABLE
+LANG_ENGLISH     "Activer la position personnalisée du bras à la première personne"
+
+REFERENCE           T7HUD
+LANG_ENGLISH     "Disposition du HUD (Redémarrage requis)"
+
+REFERENCE           TIPHINT
+LANG_ENGLISH     "Désactiver l'indice et le compteur d'âmes"
+
+REFERENCE           BARSPIN
+LANG_ENGLISH     "UI plate (Redémarrage requis)"
+
+REFERENCE           T7
+LANG_ENGLISH     "Vanille"
+
+REFERENCE           T10
+LANG_ENGLISH     "Icônes du Perk central"
+
+REFERENCE           NOATTACHMENT  
+LANG_ENGLISH      "Aucune pièce jointe"  
+
+ENDMARKER

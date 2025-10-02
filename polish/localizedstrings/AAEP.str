@@ -1,0 +1,242 @@
+// Note to translators:
+// Just edit the text inside the quotes, don't edit other code
+
+VERSION             "1"
+CONFIG              "C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE            FOV_SCALE
+LANG_ENGLISH         "Skala pola widzenia (FoV)"
+
+REFERENCE            SHORTCUT_KEY
+LANG_ENGLISH         "^5Wszystkie klawisze skrótu\n\n^7Latarka\nMarker\nUpuszczanie punktów\nDNI Noktowizor\nGłębia ostrości\nTrzecia osoba\nPełny widok mapy\nUkryj HUD\nSpraye\nAnuluj rzucanie\nUstaw broń Mulekick\nZmiana kamuflażu\nZmiana celownika"
+
+REFERENCE            DRONE_KILL
+LANG_ENGLISH         "Eliminacja drona Valkyrie"
+
+REFERENCE            DRONE_EXPLOSIVE_KILL
+LANG_ENGLISH         "Eliminacja drona Valkyrie wybuchem"
+
+REFERENCE            DRONE_MELEE_KILL
+LANG_ENGLISH         "Eliminacja drona Valkyrie w walce wręcz"
+
+REFERENCE            DRONE_HEADSHOT_KILL
+LANG_ENGLISH         "Eliminacja drona Valkyrie strzałem w głowę"
+
+REFERENCE            C_DRONE_CRITICAL_KILL
+LANG_ENGLISH         "^3Krytyczne zabicie drona Valkyrie"
+
+REFERENCE            C_DRONE_EXPLOSIVE_KILL
+LANG_ENGLISH         "^3Zabicie drona Valkyrie wybuchem"
+
+REFERENCE            C_DRONE_MELEE_KILL
+LANG_ENGLISH         "^3Zabicie drona Valkyrie w walce wręcz"
+
+REFERENCE            C_DRONE_HEADSHOT_KILL
+LANG_ENGLISH         "^3Zabicie drona Valkyrie strzałem w głowę"
+
+REFERENCE            KEEPER
+LANG_ENGLISH         "Strażnicy"
+
+REFERENCE            SHRIEKER
+LANG_ENGLISH         "Krzykacz"
+
+REFERENCE            NAPALM
+LANG_ENGLISH         "Napalm"
+
+REFERENCE            MONKEY
+LANG_ENGLISH         "Małpa"
+
+REFERENCE            PARASITE
+LANG_ENGLISH         "Pasożyt"
+
+REFERENCE            MEATBALL
+LANG_ENGLISH         "Klops"
+
+REFERENCE            ZNS_PLANE
+LANG_ENGLISH         "Bombowiec MIL-B17"
+
+REFERENCE            DRONE
+LANG_ENGLISH         "Dron Valkyrie"
+
+REFERENCE            ASTROUAUT
+LANG_ENGLISH         "Astronauta"
+
+REFERENCE            THRASHER
+LANG_ENGLISH         "Thrasher"
+
+REFERENCE            NOVA
+LANG_ENGLISH         "Czołgający się Nova"
+
+REFERENCE            FURY
+LANG_ENGLISH         "Furia Apothicon"
+
+REFERENCE            PANZER
+LANG_ENGLISH         "Panzersoldat"
+
+REFERENCE            MARGWA
+LANG_ENGLISH         "Margwa"
+
+REFERENCE            MANGLER
+LANG_ENGLISH         "Mangler"
+
+REFERENCE            BUY_DRINK
+LANG_ENGLISH         "Możesz kupić przyjacielowi napój, naciskając ^3[{+actionslot 3}] ^7przy automacie z perkami"
+
+REFERENCE            CASTLE_EE_TIMER
+LANG_ENGLISH         "Odliczanie podróży w czasie: "
+
+REFERENCE            GUM_DISABLE
+LANG_ENGLISH         " GobbleGum jest wyłączony ze względu na rozmiar lobby"
+
+REFERENCE            MONKEY_PAP
+LANG_ENGLISH         "Naciśnij ^3[{+melee}]^7, aby Pack-a-Punch Małpia Bomba [Koszt: 5000]"
+
+REFERENCE            OCTOBOMB_PAP
+LANG_ENGLISH         "Naciśnij ^3[{+melee}]^7, aby Pack-a-Punch Li'l Arnies [Koszt: 5000]"
+
+REFERENCE            ZOMBIE_BASE_HEALTH
+LANG_ENGLISH         "Mnożnik bazowego zdrowia zombie"
+
+REFERENCE          VE_MAP
+LANG_ENGLISH       "MAPY Z JEDNYM OKNEM"
+
+REFERENCE          VE_MAP_DESC
+LANG_ENGLISH       "Mapy z jednym oknem, znajdujące się w małym lub średnim pomieszczeniu."
+
+REFERENCE          MIN_MAP
+LANG_ENGLISH       "MAPY MINECRAFT"
+
+REFERENCE          MIN_MAP_DESC
+LANG_ENGLISH       "Mapy z popularnej gry Minecraft, pełne zabawnych wyzwań i wielu zombie."
+
+REFERENCE          TOR_MAP
+LANG_ENGLISH       "MAPY WIEŻOWE"
+
+REFERENCE          TOR_MAP_DESC
+LANG_ENGLISH       "Mapy wieżowe, gdzie celem jest wspinanie się lub schodzenie po wieży, zakup końcowego zakończenia lub wykonywanie wyzwań."
+
+REFERENCE          IN_MAP
+LANG_ENGLISH       "MAPY INSPIRED"
+
+REFERENCE          IN_MAP_DESC
+LANG_ENGLISH       "Mapy inspirowane projektami Treyarch."
+
+REFERENCE          MP_MAP
+LANG_ENGLISH       "MAPY MULTIPLAYER"
+
+REFERENCE          MP_MAP_DESC
+LANG_ENGLISH       "Mapy multiplayer stworzone lub zmodyfikowane, by miały nowy motyw z zombie."
+
+REFERENCE          FC_MAP
+LANG_ENGLISH       "MAPY FULL CIRCLE"
+
+REFERENCE          FC_MAP_DESC
+LANG_ENGLISH       "Niesamowite mapy od popularnego twórcy AlfaTheseus."
+
+REFERENCE          DS_MAP
+LANG_ENGLISH       "MAPY COD DS"
+
+REFERENCE          DS_MAP_DESC
+LANG_ENGLISH       "Ekskluzywne i zabawne mapy z wersji Black Ops na Nintendo DS."
+
+REFERENCE          WW_MAP
+LANG_ENGLISH       "MAPY COD WAW"
+
+REFERENCE          WW_MAP_DESC
+LANG_ENGLISH       "Dynamiczne mapy przypominające oryginalną erę World at War."
+
+REFERENCE          B1_MAP
+LANG_ENGLISH       "MAPY COD BO1"
+
+REFERENCE          B1_MAP_DESC
+LANG_ENGLISH       "Mityczne mapy z intensywnej ery Black Ops 1."
+
+REFERENCE          B2_MAP
+LANG_ENGLISH       "MAPY COD BO2"
+
+REFERENCE          B2_MAP_DESC
+LANG_ENGLISH       "Tajemnicze i fajne mapy oparte na grze Black Ops 2."
+
+REFERENCE          MW_MAP
+LANG_ENGLISH       "MAPY COD MW"
+
+REFERENCE          MW_MAP_DESC
+LANG_ENGLISH       "Legendary mapy multiplayer teraz pełne krwi i zombie."
+
+REFERENCE            QU_MAP
+LANG_ENGLISH         "MAPY SERII QUIET"
+
+REFERENCE            QU_MAP_DESC
+LANG_ENGLISH         "Niesamowite mapy od popularnego twórcy Markus Darius. UWAGA: mapy działają tylko w wersji lite tego moda."
+
+REFERENCE            KO_MAP
+LANG_ENGLISH         "MAPY VERK0"
+
+REFERENCE            KO_MAP_DESC
+LANG_ENGLISH         "Niesamowite mapy od popularnego twórcy: Verk0, niektóre działają tylko w wersji lite tego moda."
+
+REFERENCE            ICE_MAP
+LANG_ENGLISH         "MAPY ICEGRENADE"
+
+REFERENCE            ICE_MAP_DESC
+LANG_ENGLISH         "Niesamowite mapy od popularnego twórcy: IceGrenade, niektóre działają tylko w wersji lite tego moda."
+
+REFERENCE            WEE_MAP
+LANG_ENGLISH         "MAPY LOGICAL"
+
+REFERENCE            WEE_MAP_DESC
+LANG_ENGLISH         "Niesamowite mapy od popularnego twórcy: Logical, niektóre działają tylko w wersji lite tego moda."
+
+REFERENCE            CH_MAP
+LANG_ENGLISH         "MAPY WYZWANIA"
+
+REFERENCE            CH_MAP_DESC
+LANG_ENGLISH         "Mapy pełne wyzwań, niektóre bardziej ekstremalne, które sprawdzą twoje umiejętności i zdolności."
+
+REFERENCE            NO_MAP
+LANG_ENGLISH         "MAPY HORROR"
+
+REFERENCE            NO_MAP_DESC
+LANG_ENGLISH         "Mapy horroru, gdzie intensywność krzyczy, a rozpacz przeszywa ciało, testując twoje granice."
+
+REFERENCE            NOM_MAP
+LANG_ENGLISH         "MAPY FILMOWE"
+
+REFERENCE            NOM_MAP_DESC
+LANG_ENGLISH         "Mapy inspirowane filmami, przenoszące cię do kinowych scenariuszy pełnych akcji."
+
+REFERENCE            SEA_MAP
+LANG_ENGLISH         "MAPY SEATOWN"
+
+REFERENCE            SEA_MAP_DESC
+LANG_ENGLISH         "Mapy z esencją SEATOWN, gdzie twoje umiejętności będą testowane w intensywnych bitwach."
+
+REFERENCE            SAW_MAP
+LANG_ENGLISH         "MAPY SAW"
+
+REFERENCE            SAW_MAP_DESC
+LANG_ENGLISH         "Mapy grozy na poziomie Saw, gdzie testowani jesteś w makabrycznych i niepokojących środowiskach."
+
+REFERENCE            XMA_MAP
+LANG_ENGLISH         "MAPY BOŻONARODZENIOWE"
+
+REFERENCE            XMA_MAP_DESC
+LANG_ENGLISH         "Mapy bożonarodzeniowe pełne radości, aż do północy, gdy nieumarli szukają swoich prezentów."
+
+REFERENCE            UNSU_MAP
+LANG_ENGLISH         "^1MAPY NIEOBSŁUGIWANE^7"
+
+REFERENCE            UNSU_MAP_DESC
+LANG_ENGLISH         "Tutaj w tej zakładce zostaną pokazane mapy niekompatybilne z All Around Enhancement mod."
+
+REFERENCE            WHIMSICAL
+LANG_ENGLISH         "Kapryśne"
+
+REFERENCE            ZC_MAP
+LANG_ENGLISH         "ZOMBIES CHRONICLES II"
+
+REFERENCE            ZC_MAP_DESC
+LANG_ENGLISH         "Epickie remake wykonane przez społeczność, oferujące zabawną i unikalną rozgrywkę klasycznych doświadczeń!"
+
+ENDMARKER

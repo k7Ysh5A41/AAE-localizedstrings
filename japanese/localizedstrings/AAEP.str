@@ -1,0 +1,242 @@
+// Note to translators:
+// Just edit the text inside the quotes, don't edit other code
+
+VERSION             "1"
+CONFIG              "C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE            FOV_SCALE
+LANG_ENGLISH         "視野角スケール"
+
+REFERENCE            SHORTCUT_KEY
+LANG_ENGLISH         "^5すべてのショートカットキー\n\n^7懐中電灯\nマーカー\nポイントドロップ\nDNIナイトビジョン\n被写界深度\n三人称視点\nマップ全体表示\nHUD非表示\nスプレー\n投擲キャンセル\nミュールキック武器設定\n迷彩変更\n照準変更"
+
+REFERENCE            DRONE_KILL
+LANG_ENGLISH         "ヴァルキリードローン撃破"
+
+REFERENCE            DRONE_EXPLOSIVE_KILL
+LANG_ENGLISH         "ヴァルキリードローン 爆発キル"
+
+REFERENCE            DRONE_MELEE_KILL
+LANG_ENGLISH         "ヴァルキリードローン 近接キル"
+
+REFERENCE            DRONE_HEADSHOT_KILL
+LANG_ENGLISH         "ヴァルキリードローン ヘッドショットキル"
+
+REFERENCE            C_DRONE_CRITICAL_KILL
+LANG_ENGLISH         "^3ヴァルキリードローン クリティカルキル"
+
+REFERENCE            C_DRONE_EXPLOSIVE_KILL
+LANG_ENGLISH         "^3ヴァルキリードローン 爆発キル"
+
+REFERENCE            C_DRONE_MELEE_KILL
+LANG_ENGLISH         "^3ヴァルキリードローン 近接キル"
+
+REFERENCE            C_DRONE_HEADSHOT_KILL
+LANG_ENGLISH         "^3ヴァルキリードローン ヘッドショットキル"
+
+REFERENCE            KEEPER
+LANG_ENGLISH         "キーパー"
+
+REFERENCE            SHRIEKER
+LANG_ENGLISH         "スクリーカー"
+
+REFERENCE            NAPALM
+LANG_ENGLISH         "ナパーム"
+
+REFERENCE            MONKEY
+LANG_ENGLISH         "モンキー"
+
+REFERENCE            PARASITE
+LANG_ENGLISH         "寄生虫"
+
+REFERENCE            MEATBALL
+LANG_ENGLISH         "ミートボール"
+
+REFERENCE            ZNS_PLANE
+LANG_ENGLISH         "MIL-B17 爆撃機"
+
+REFERENCE            DRONE
+LANG_ENGLISH         "ヴァルキリードローン"
+
+REFERENCE            ASTROUAUT
+LANG_ENGLISH         "宇宙飛行士"
+
+REFERENCE            THRASHER
+LANG_ENGLISH         "スラッシャー"
+
+REFERENCE            NOVA
+LANG_ENGLISH         "ノヴァクローラー"
+
+REFERENCE            FURY
+LANG_ENGLISH         "アポシコンフューリー"
+
+REFERENCE            PANZER
+LANG_ENGLISH         "パンツァー兵"
+
+REFERENCE            MARGWA
+LANG_ENGLISH         "マーグワ"
+
+REFERENCE            MANGLER
+LANG_ENGLISH         "マングラー"
+
+REFERENCE            BUY_DRINK
+LANG_ENGLISH         "^3[{+actionslot 3}] ^7を押して、友達にドリンクを購入できます"
+
+REFERENCE            CASTLE_EE_TIMER
+LANG_ENGLISH         "タイムトラベルカウントダウン: "
+
+REFERENCE            GUM_DISABLE
+LANG_ENGLISH         " ロビーのサイズのためGobbleGumは無効"
+
+REFERENCE            MONKEY_PAP
+LANG_ENGLISH         "^3[{+melee}]^7を押してパック・ア・パンチ モンキーボム [コスト: 5000]"
+
+REFERENCE            OCTOBOMB_PAP
+LANG_ENGLISH         "^3[{+melee}]^7を押してパック・ア・パンチ リルアーニーズ [コスト: 5000]"
+
+REFERENCE            ZOMBIE_BASE_HEALTH
+LANG_ENGLISH         "ゾンビ基礎体力倍率"
+
+REFERENCE          VE_MAP
+LANG_ENGLISH       "ワンウィンドウマップ"
+
+REFERENCE          VE_MAP_DESC
+LANG_ENGLISH       "小～中サイズの部屋に1つだけ窓があるマップ。"
+
+REFERENCE          MIN_MAP
+LANG_ENGLISH       "マインクラフトマップ"
+
+REFERENCE          MIN_MAP_DESC
+LANG_ENGLISH       "人気ゲームMinecraftのマップで、楽しいチャレンジと多くのゾンビが詰まっています。"
+
+REFERENCE          TOR_MAP
+LANG_ENGLISH       "タワーマップ"
+
+REFERENCE          TOR_MAP_DESC
+LANG_ENGLISH       "塔を登ったり降りたりすることが目的のマップ、最後の購入可能エンディングを購入、またはチャレンジをクリアします。"
+
+REFERENCE          IN_MAP
+LANG_ENGLISH       "インスパイアマップ"
+
+REFERENCE          IN_MAP_DESC
+LANG_ENGLISH       "Treyarchのデザインを参考にしたインスパイアマップ。"
+
+REFERENCE          MP_MAP
+LANG_ENGLISH       "マルチプレイヤーマップ"
+
+REFERENCE          MP_MAP_DESC
+LANG_ENGLISH       "ゾンビをテーマに新しいテーマで作られたマルチプレイヤーマップ。"
+
+REFERENCE          FC_MAP
+LANG_ENGLISH       "フルサークルマップ"
+
+REFERENCE          FC_MAP_DESC
+LANG_ENGLISH       "人気マップ制作者AlfaTheseusによる素晴らしいマップ。"
+
+REFERENCE          DS_MAP
+LANG_ENGLISH       "COD DSマップ"
+
+REFERENCE          DS_MAP_DESC
+LANG_ENGLISH       "Nintendo DS版Black Opsからの独占で楽しいマップ。"
+
+REFERENCE          WW_MAP
+LANG_ENGLISH       "COD WAWマップ"
+
+REFERENCE          WW_MAP_DESC
+LANG_ENGLISH       "オリジナルWorld at War時代を彷彿とさせるアクション満載のマップ。"
+
+REFERENCE          B1_MAP
+LANG_ENGLISH       "COD BO1マップ"
+
+REFERENCE          B1_MAP_DESC
+LANG_ENGLISH       "Black Ops 1の激しい時代の神話的なマップ。"
+
+REFERENCE          B2_MAP
+LANG_ENGLISH       "COD BO2マップ"
+
+REFERENCE          B2_MAP_DESC
+LANG_ENGLISH       "Black Ops 2をベースにした神秘的でかっこいいマップ。"
+
+REFERENCE          MW_MAP
+LANG_ENGLISH       "COD MWマップ"
+
+REFERENCE          MW_MAP_DESC
+LANG_ENGLISH       "血とゾンビに染まった伝説のマルチプレイヤーマップ。"
+
+REFERENCE            QU_MAP
+LANG_ENGLISH         "クワイエットシリーズマップ"
+
+REFERENCE            QU_MAP_DESC
+LANG_ENGLISH         "人気マップ制作者Markus Dariusによる素晴らしいマップ、注意：これらはLiteバージョンでのみ動作します。"
+
+REFERENCE            KO_MAP
+LANG_ENGLISH         "VERK0マップ"
+
+REFERENCE            KO_MAP_DESC
+LANG_ENGLISH         "人気制作者Verk0による素晴らしいマップ、一部はLiteバージョンでのみ動作します。"
+
+REFERENCE            ICE_MAP
+LANG_ENGLISH         "ICEGRENADEマップ"
+
+REFERENCE            ICE_MAP_DESC
+LANG_ENGLISH         "人気制作者IceGrenadeによる素晴らしいマップ、一部はLiteバージョンでのみ動作します。"
+
+REFERENCE            WEE_MAP
+LANG_ENGLISH         "LOGICALマップ"
+
+REFERENCE            WEE_MAP_DESC
+LANG_ENGLISH         "人気制作者Logicalによる素晴らしいマップ、一部はLiteバージョンでのみ動作します。"
+
+REFERENCE            CH_MAP
+LANG_ENGLISH         "チャレンジマップ"
+
+REFERENCE            CH_MAP_DESC
+LANG_ENGLISH         "チャレンジで満ちたマップ、一部は他より過酷でスキルを試されます。"
+
+REFERENCE            NO_MAP
+LANG_ENGLISH         "ホラーマップ"
+
+REFERENCE            NO_MAP_DESC
+LANG_ENGLISH         "緊張感あふれるホラーマップ、絶望が体を駆け巡り、限界を試されます。"
+
+REFERENCE            NOM_MAP
+LANG_ENGLISH         "ムービーマップ"
+
+REFERENCE            NOM_MAP_DESC
+LANG_ENGLISH         "映画に触発されたマップで、シネマティックなシナリオにあなたを運びます。"
+
+REFERENCE            SEA_MAP
+LANG_ENGLISH         "シータウンマップ"
+
+REFERENCE            SEA_MAP_DESC
+LANG_ENGLISH         "SEATOWNの本質を持つマップで、スキルが試される激しい戦闘。"
+
+REFERENCE            SAW_MAP
+LANG_ENGLISH         "SAWマップ"
+
+REFERENCE            SAW_MAP_DESC
+LANG_ENGLISH         "Sawに匹敵する恐怖マップ、陰惨な環境で試されます。"
+
+REFERENCE            XMA_MAP
+LANG_ENGLISH         "クリスマスマップ"
+
+REFERENCE            XMA_MAP_DESC
+LANG_ENGLISH         "クリスマスマップ、真夜中になるまで楽しみ、アンデッドがプレゼントを探す。"
+
+REFERENCE            UNSU_MAP
+LANG_ENGLISH         "^1サポートされていないマップ^7"
+
+REFERENCE            UNSU_MAP_DESC
+LANG_ENGLISH         "All Around Enhancement modに非対応のマップがこのタブに表示されます。"
+
+REFERENCE            WHIMSICAL
+LANG_ENGLISH         "気まぐれ"
+
+REFERENCE            ZC_MAP
+LANG_ENGLISH         "ZOMBIES CHRONICLES II"
+
+REFERENCE            ZC_MAP_DESC
+LANG_ENGLISH         "コミュニティによる壮大なリメイクで、クラシック体験を楽しくユニークにプレイできます！"
+
+ENDMARKER

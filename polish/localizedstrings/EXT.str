@@ -1,0 +1,32 @@
+// Note to translators:
+// Just edit the text inside the quotes, don't edit other code
+
+VERSION             "1"
+CONFIG              "C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           ZOD
+LANG_ENGLISH     "^31.^7Jeśli chodzi o etap ulepszania miecza, dodatkowy gracz nie może zabrać jajka, ale jeśli postać dodatkowego gracza jest taka sama jak głównego gracza, dodatkowy gracz może zabić i naładować jajko razem z głównym graczem w pobliżu jajka\n^32.^7Gdy miecz Opiekuna zostanie zabrany, nie pozwalaj na dalsze dołączanie graczy do lobby, w przeciwnym razie walka z bossem nie zadziała\n^33.^7Zostanie wygenerowanych tylko 5 hełmów Margwy\n^34.^7Wszystkie EE mogą zostać pomyślnie ukończone, gdy całkowita liczba graczy wynosi 8"
+
+REFERENCE           CASTLE
+LANG_ENGLISH     "^31.^7Dodatkowi gracze będą musieli umieścić Ragnarok DG-4 w obszarze w pobliżu MPD (w miejscu, gdzie trzeba go umieścić, pojawi się model Ragnarok DG-4)\n^32.^7Duplikacja łuku została wyłączona\n^33.^7Wszystkie EE mogą zostać pomyślnie ukończone, gdy całkowita liczba graczy wynosi 8"
+
+REFERENCE           ISLAND
+LANG_ENGLISH     "Stabilna praca tylko przy 4 graczach"
+
+REFERENCE           GENESIS
+LANG_ENGLISH     "Stabilna praca tylko przy 4 graczach"
+
+REFERENCE           TOMB
+LANG_ENGLISH     "Stabilna praca tylko przy 8 graczach"
+
+REFERENCE           STALINGRAD
+LANG_ENGLISH     "^31.^7Tylko gospodarz może otrzymać nagrodę za wyzwanie, a interfejs dla wszystkich wyzwań został wyłączony\n^32.^7Tylko 3 graczy może jeździć na smoku, jeśli 4 graczy wsiądzie na smoka, reszta graczy napotka błędy\n^33.^7Po ukończeniu EE dodatkowi gracze nie zostaną przeteleportowani do punktu startowego\n^34.^7Wszystkie EE mogą zostać pomyślnie ukończone, gdy całkowita liczba graczy wynosi 8"
+
+REFERENCE           DESC
+LANG_ENGLISH     "^3Szczegóły problemu 'Połączenie przerwane', który występuje w trakcie gry^7:\nGdy niektóre mapy przekraczają określony limit graczy, niektóre funkcje tego moda przestaną się ładować, aby zapewnić maksymalną stabilność gry. Aby jeszcze bardziej poprawić stabilność gry, prosimy nie używać broni cudów ani broni wybuchowej. Ponadto nieznane przyczyny mogą spowodować, że problem 'Połączenie przerwane' nadal będzie występował. Nie ma idealnego rozwiązania tej sytuacji, ponieważ silnik gry ma ograniczoną moc obliczeniową do przetwarzania tak dużej ilości danych graczy."
+
+REFERENCE           HELP
+LANG_ENGLISH         "^2Obsługiwane komendy czatu^7:\n\n^5Natychmiast przewróć\n^7/s\n^5Czas trwania czatu\n^7/ct/{second}\n^5Emocje gracza\n^7/a/{1-14}\n^5Hazardzista\n^7/g\n^5Przeładuj bieżącą broń\n^7/r\n^5Licznik EE (ładowanie danych zajmuje trochę czasu, więc będzie trochę wolno)\n^7/ee\n^5Teleport do innych graczy (wymaga włączonego AF lub limitu graczy > 4)\n^7/tp/{numer gracza}\n^5Ręczna aktualizacja banku\n^7/save"
+
+ENDMARKER

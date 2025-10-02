@@ -1,0 +1,107 @@
+// Note to translators:
+// Just edit the text inside the quotes, don't edit other code
+
+VERSION             "1"
+CONFIG              "C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           HINT
+LANG_ENGLISH     "^3[{+activate}]^7 ギャンブラー (^BBUTTON_COD_POINT_ICON^&&1)"
+
+REFERENCE           RUN
+LANG_ENGLISH     "ギャンブラー実行中......"
+
+REFERENCE           WIN
+LANG_ENGLISH     "^1何も勝ちません。"
+
+REFERENCE           W500
+LANG_ENGLISH     "^2勝利 ^BBUTTON_COD_POINT_ICON^500."
+
+REFERENCE           W1000
+LANG_ENGLISH     "^2勝利 ^BBUTTON_COD_POINT_ICON^1000."
+
+REFERENCE           W2000
+LANG_ENGLISH     "^2勝利 ^BBUTTON_COD_POINT_ICON^2000."
+
+REFERENCE           L500
+LANG_ENGLISH     "^1負け ^BBUTTON_COD_POINT_ICON^500."
+
+REFERENCE           LOSTALL
+LANG_ENGLISH     "^8サプライズ!"
+
+REFERENCE           LOSTMONEY
+LANG_ENGLISH     "^1全財産失った。"
+
+REFERENCE           SHIELD_FIX
+LANG_ENGLISH     "^2ライオットシールドが修復されました。"
+
+REFERENCE           WIN_SHIELD
+LANG_ENGLISH     "^2ライオットシールドを背負って勝利しました。"
+
+REFERENCE           NO_SHIELD
+LANG_ENGLISH     "^2ライオットシールドを勝ち取りましたが、配布できませんでした。"
+
+REFERENCE           AIRSTRIKE_CL
+LANG_ENGLISH     "^1あなたの場所に空爆。"
+
+REFERENCE           W20000
+LANG_ENGLISH     "^2勝利 ^BBUTTON_COD_POINT_ICON^20000."
+
+REFERENCE           LIVE_DIE
+LANG_ENGLISH     "^15秒で生きるか死ぬかを決めます。"
+
+REFERENCE           LIVE
+LANG_ENGLISH     "^2あなたは生き残ります！"
+
+REFERENCE           DIE
+LANG_ENGLISH     "^1あなたは死にます！"
+
+REFERENCE           HEIST
+LANG_ENGLISH     "^3強奪!"
+
+REFERENCE           RESTART
+LANG_ENGLISH     "^1ギャンブラー再起動。"
+
+REFERENCE           ALL_DIE
+LANG_ENGLISH     "^05秒後、誰もか、馬鹿が死ぬ。"
+
+REFERENCE           SB_DIE
+LANG_ENGLISH     "^1馬鹿が死んだ"
+
+REFERENCE           SB_LIVE
+LANG_ENGLISH     "^1ブーン！ 誰もか、馬鹿が爆破された。馬鹿は生き残り、馬鹿はPerkaholicを持っています！"
+
+REFERENCE           RICH
+LANG_ENGLISH     "^3豊かになります！"
+
+REFERENCE           AIRSTRIKE_ZM
+LANG_ENGLISH     "^2精密空爆が到着します！"
+
+REFERENCE           LOST_WP
+LANG_ENGLISH     "^1あなたはすべての武器を失いました。"
+
+REFERENCE           UNLIMIT
+LANG_ENGLISH     "1分間の無制限な装備。"
+
+REFERENCE           ONCE
+LANG_ENGLISH     "ギャンブラーはラウンドごとに1回だけ許可されています"
+
+REFERENCE           UNLIMIT2
+LANG_ENGLISH     "1分間の無制限な装備終了"
+
+REFERENCE           GAMBLERD
+LANG_ENGLISH     "^7ギャンブル - ^7"
+
+REFERENCE           PLAYER1
+LANG_ENGLISH     "^1プレイヤー: ^7"
+
+REFERENCE           PLAYER2
+LANG_ENGLISH     "^2プレイヤー: ^7"
+
+REFERENCE           TOOK_ALL
+LANG_ENGLISH     "^1 あなたのすべてのお金を持って行きました！"
+
+REFERENCE           GIVE_2000
+LANG_ENGLISH     "^2 あなたに ^BBUTTON_COD_POINT_ICON^2000 を与えました。"
+
+ENDMARKER

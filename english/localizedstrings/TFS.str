@@ -1,0 +1,29 @@
+// Note to translators:
+// Just edit the text inside the quotes, don't edit other code
+
+VERSION             "1"
+CONFIG              "C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           HOTJOIN
+LANG_ENGLISH     "Disable Hot Join"
+
+REFERENCE           HOTJOIN_DESC
+LANG_ENGLISH     "Players cannot join after the match has started."
+
+REFERENCE           GAMBLER
+LANG_ENGLISH     "Disable Gambler"
+
+REFERENCE           DOG
+LANG_ENGLISH     "Disable Special Round"
+
+REFERENCE           DOG_DESC
+LANG_ENGLISH     "Skip rounds with special enemies. \n\nThe following maps are supported:\n\nShadows of Evil\nThe Giant\nDer Eisendrache\nZetsubou No Shima\nGorod Krovi\nRevelations\nShi No Numa\nKino der Toten\nAscension"
+
+REFERENCE           RAINBOW
+LANG_ENGLISH     "Rainbow Eye"
+
+REFERENCE           DUST
+LANG_ENGLISH     "Disable Zombie Spawn Dust"
+
+ENDMARKER

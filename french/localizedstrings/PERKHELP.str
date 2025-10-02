@@ -1,0 +1,35 @@
+// Note to translators:
+// Just edit the text inside the quotes, don't edit other code
+
+VERSION             "1"
+CONFIG              "C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           DEADSHOT
+LANG_ENGLISH     "Améliore la précision de tir au jugé et vise automatiquement la tête des zombies lors de la visée avec la lunette\n^5Bonus AAE^7 : Après 5 tirs en pleine tête consécutifs, la précision de tir au jugé est maximale, les dégâts en pleine tête sont augmentés de 1,5x et vous pouvez voir les zombies à travers les murs"
+
+REFERENCE           DOUBLETAP
+LANG_ENGLISH     "Augmente la cadence de tir des armes et double chaque balle tirée\n^5Bonus AAE^7 : Les armes spéciales se rechargent plus rapidement"
+
+REFERENCE           JUGGER
+LANG_ENGLISH     "Double votre santé, vous permettant de tomber après 5 coups au lieu de 3"
+
+REFERENCE           MULEKICK
+LANG_ENGLISH     "Vous permet de porter 3 armes au lieu de 2\n^5Bonus AAE^7 : Après avoir perdu Mulekick, la prochaine fois que vous obtenez Mulekick vous récupérerez l’arme perdue"
+
+REFERENCE           REVIVE_SOLO
+LANG_ENGLISH     "Vous réanimez automatiquement lorsque vous êtes à terre\n^5Bonus AAE^7 : Réduit de 40 % le délai de régénération de la santé"
+
+REFERENCE           REVIVE
+LANG_ENGLISH     "Réanime un coéquipier à terre plus rapidement\n^5Bonus AAE^7 : Réduit de 40 % le délai de régénération de la santé\nLes coéquipiers réanimés ne peuvent pas subir de dégâts des zombies, et si la réanimation est interrompue, elle prolonge le temps d’hémorragie du joueur à terre"
+
+REFERENCE           FASTRELOAD
+LANG_ENGLISH     "Augmente la vitesse de rechargement\n^5Bonus AAE^7 : Permet de changer d’arme plus vite, vise plus vite (ADS), lance l’équipement plus rapidement, boit un atout plus vite, mâche le gobblegum plus vite, grimpe les échelles plus rapidement, pas d’animation de premier levage lors de l’obtention d’une nouvelle arme, grimpe plus vite sur le tank"
+
+REFERENCE           STAMINUP
+LANG_ENGLISH     "Vous permet de courir plus longtemps\n^5Bonus AAE^7 : Tirer en courant, lever l’arme plus rapidement à la fin du sprint, lancer de l’équipement en courant, l’ADS est plus rapide en mouvement, sprint infini"
+
+REFERENCE           WINE
+LANG_ENGLISH     "Vous obtenez le couteau de Widow's Wine pour augmenter vos dégâts de mêlée. Remplace les grenades par des grenades de Widow's Wine qui enferment les zombies dans des toiles d’araignée. Un bonus en forme d’araignée tombe pour recharger les grenades. Lorsque les zombies vous attaquent, cela provoque une petite explosion qui enveloppe le zombie dans des toiles.\n^5Bonus AAE^7 : Immunité aux explosions"
+
+ENDMARKER

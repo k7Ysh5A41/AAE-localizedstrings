@@ -1,0 +1,119 @@
+// Note to translators:
+// Just edit the text inside the quotes, don't edit other code
+
+VERSION             "1"
+CONFIG              "C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           RANDOM_ATTACHMENTS
+LANG_ENGLISH     "Completely random attachments and camos"
+
+REFERENCE           RANDOM_ATTACHMENTS_DESC
+LANG_ENGLISH     "Each new weapon you get will have randomized attachments and reticle and camo"
+
+REFERENCE           WEAPON_LIMIT
+LANG_ENGLISH     "Weapon Limit"
+
+REFERENCE           WEAPON_LIMIT_OPTIONS_DESC
+LANG_ENGLISH     "Players cannot use the same weapons as each other"
+
+REFERENCE           PREPATCH_BGB
+LANG_ENGLISH     "Pre-Patch Gobblegum"
+
+REFERENCE           PREPATCH_BGB_DESC
+LANG_ENGLISH     "The Gobblegum machine will be changed to how it works in Pre-Patch. will contain the following:\n  - Can only be used once per round\n  - Only 37% of the Gobblegum machines are allowed to be used\n  - Gobblegum machines will have a chance to be closed and open in other locations\n  - The default price is 500"
+
+REFERENCE           ZOMBIE_COUNT
+LANG_ENGLISH     "Zombie Round Amount Algorithm"
+
+REFERENCE           ZOMBIE_COUNT_DESC
+LANG_ENGLISH     "Change how the game calculates how many zombies need to be killed for a round to end."
+
+REFERENCE           SPAWNTYPE
+LANG_ENGLISH     "Enemy spawning methods"
+
+REFERENCE           SPAWNTYPE_DESC
+LANG_ENGLISH     "Lots of special zombies: \nMassively increase the number of special enemies in each 3arc map, e.g. a whole bunch of Margwas and a whole bunch of Panzersoldats, with support for the following maps:\nShadows of Evil\nDer Eisendrache\nZetsubou No Shima\nGorod Krovi\nRevelations\nShangri-La\nMoon\nOrigins"
+
+REFERENCE           SPAWNTYPE_OPTION_DESC
+LANG_ENGLISH     "Lots of special zombies"
+
+REFERENCE           ZOMBIE_H
+LANG_ENGLISH     "Limit zombie health"
+
+REFERENCE           ZOMBIE_H_DESC
+LANG_ENGLISH     "The zombie's health will stop increasing when reaches this round."
+
+REFERENCE           CRAZYZOMBIE_DESC
+LANG_ENGLISH     "Zombie speed is doubled for all actions."
+
+REFERENCE           DAMAGE_NUMBER
+LANG_ENGLISH     "Damage Number Visibility"
+
+REFERENCE           DAMAGE_NUMBER_DESC
+LANG_ENGLISH     "Choose whether to show or hide the amount of damage dealt to the enemy."
+
+REFERENCE           HUD
+LANG_ENGLISH     "Hud Options"
+
+REFERENCE           HUD_OPTION
+LANG_ENGLISH     "Hud Movement"
+
+REFERENCE           CENTERCROSS
+LANG_ENGLISH     "Disable the dot in the center of the screen"
+
+REFERENCE           ITEM_DUPE_RENDER
+LANG_ENGLISH     "Highlighted craftable parts"
+
+REFERENCE           ITEM_DUPE_RENDER_DESC
+LANG_ENGLISH     "Craftable parts that can be picked up on the map can be seen through the walls."
+
+REFERENCE           ITEM_DUPE_RENDER_OPTION
+LANG_ENGLISH     "Can see through the wall"
+
+REFERENCE           ITEM_DUPE_RENDER_OPTIONS
+LANG_ENGLISH     "Can see from the viewpoint"
+
+REFERENCE           MODGAMES
+LANG_ENGLISH     "MOD GAMES"
+
+REFERENCE           ROULETTE
+LANG_ENGLISH     "Weapon Roulette"
+
+REFERENCE           ROULETTE_DESC
+LANG_ENGLISH     "A mod game mode where every round you get a random weapon and you have to survive the round with said weapon.\nBy default there wouldn't be an end goal, and would work nicely with the End Game Challenge mod games setting.\nThis mode would be round based, and on later rounds (20+) there will be a 30 second break to allow you to pack a punch the weapon."
+
+REFERENCE           SNAIL
+LANG_ENGLISH     "Immortal Snail"
+
+REFERENCE           SNAIL_DESC
+LANG_ENGLISH     "One hit down, Rounds get higher, The Faster he will go"
+
+REFERENCE           DUCK
+LANG_ENGLISH     "Player Quacknarok"
+
+REFERENCE           DUCK_DESC
+LANG_ENGLISH     "All Players Wear Duck Float"
+
+REFERENCE           ALERT
+LANG_ENGLISH     "\n\n^BBUTTON_CYCLE_LEFT^ Changing This Option Disables AAE Career, Bank, Weapon Locker"
+
+REFERENCE           RAMPAGE
+LANG_ENGLISH     "Swapping the Gambler with the Rampage Inducer"
+
+REFERENCE           RAMPAGE_DESC
+LANG_ENGLISH     "Swap the location of Gambler and Rampage Inducer to support custom maps.\n\nRampage Inducer:\nActivate to make zombies rapidly appear and move faster."
+
+REFERENCE           THEGIANT_WEAPON
+LANG_ENGLISH     "Add Weapons From The Giant To The Box"
+
+REFERENCE           HIDE_CUSTOM_MAP_WEAPON
+LANG_ENGLISH     "Hide Weapons From Custom Maps In The Box"
+
+REFERENCE           HIDE_AAE_WEAPON
+LANG_ENGLISH     "Hide Weapons From AAE In The Box"
+
+REFERENCE           ALLWALLBUY
+LANG_ENGLISH     "Reverse the wallbuy change introduced in v3.2.3"
+
+ENDMARKER

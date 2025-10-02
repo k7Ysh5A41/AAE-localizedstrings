@@ -1,0 +1,71 @@
+// Note to translators:
+// Just edit the text inside the quotes, don't edit other code
+
+VERSION             "1"
+CONFIG              "C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           STORED
+LANG_ENGLISH     "Guardei meu"
+
+REFERENCE           GOT_MY
+LANG_ENGLISH     "Peguei meu"
+
+REFERENCE           BACK
+LANG_ENGLISH     "de volta"
+
+REFERENCE           LOADINGMAP
+LANG_ENGLISH     "Estou carregando um mapa"
+
+REFERENCE           GOT_PAP
+LANG_ENGLISH     "Peguei um Pack-A-Punched"
+
+REFERENCE           DROPSOME
+LANG_ENGLISH     "Deixei alguns pontos aqui!"
+
+REFERENCE           GOTPERK
+LANG_ENGLISH     "Peguei um Perk"
+
+REFERENCE           READY
+LANG_ENGLISH     "Estou pronto"
+
+REFERENCE           AUTOREVIVE
+LANG_ENGLISH     "Peguei Auto Revive"
+
+REFERENCE           GOTSOMEPERK
+LANG_ENGLISH     "Peguei"
+
+REFERENCE           GOTWP
+LANG_ENGLISH     "Peguei o"
+
+REFERENCE           SHAREWP
+LANG_ENGLISH     "Compartilhei um"
+
+REFERENCE           SHAREWPHERE
+LANG_ENGLISH     "aqui"
+
+REFERENCE           TRADEWP
+LANG_ENGLISH     "Troquei um"
+
+REFERENCE           LASTZM
+LANG_ENGLISH     "O último zumbi foi morto"
+
+REFERENCE           OPENDOOR
+LANG_ENGLISH     "Abri uma porta"
+
+REFERENCE           DOT
+LANG_ENGLISH     "."
+
+REFERENCE           PAYHALF_DOOR
+LANG_ENGLISH     "Paguei metade do preço desta porta, ainda precisa de "
+
+REFERENCE           PAYHALF_DEBRIS
+LANG_ENGLISH     "Paguei metade do preço deste entulho, ainda precisa de "
+
+REFERENCE           PAYHALF
+LANG_ENGLISH     "^3K ^7Pague metade"
+
+REFERENCE           PAYHALF_GAMEPAD
+LANG_ENGLISH     "[{+melee}] Pague metade"
+
+ENDMARKER

@@ -1,0 +1,242 @@
+// Note to translators:
+// Just edit the text inside the quotes, don't edit other code
+
+VERSION             "1"
+CONFIG              "C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE            FOV_SCALE
+LANG_ENGLISH         "FoV-Skala"
+
+REFERENCE            SHORTCUT_KEY
+LANG_ENGLISH         "^5Alle Shortcut-Tasten\n\n^7Taschenlampe\nMarker\nPunkte abwerfen\nDNI Nachtsicht\nTiefenschärfe\nThirdperson\nKartenübersicht\nHUD ausblenden\nSprays\nWurf abbrechen\nMulekick-Waffe setzen\nCamouflage wechseln\nFadenkreuz wechseln"
+
+REFERENCE            DRONE_KILL
+LANG_ENGLISH         "Valkyrie-Drohne Eliminierung"
+
+REFERENCE            DRONE_EXPLOSIVE_KILL
+LANG_ENGLISH         "Valkyrie-Drohne Sprengstoff-Tötung"
+
+REFERENCE            DRONE_MELEE_KILL
+LANG_ENGLISH         "Valkyrie-Drohne Nahkampf-Tötung"
+
+REFERENCE            DRONE_HEADSHOT_KILL
+LANG_ENGLISH         "Valkyrie-Drohne Kopfschuss-Tötung"
+
+REFERENCE            C_DRONE_CRITICAL_KILL
+LANG_ENGLISH         "^3Valkyrie-Drohne Kritische Tötung"
+
+REFERENCE            C_DRONE_EXPLOSIVE_KILL
+LANG_ENGLISH         "^3Valkyrie-Drohne Sprengstoff-Tötung"
+
+REFERENCE            C_DRONE_MELEE_KILL
+LANG_ENGLISH         "^3Valkyrie-Drohne Nahkampf-Tötung"
+
+REFERENCE            C_DRONE_HEADSHOT_KILL
+LANG_ENGLISH         "^3Valkyrie-Drohne Kopfschuss-Tötung"
+
+REFERENCE            KEEPER
+LANG_ENGLISH         "Hüter"
+
+REFERENCE            SHRIEKER
+LANG_ENGLISH         "Schreier"
+
+REFERENCE            NAPALM
+LANG_ENGLISH         "Napalm"
+
+REFERENCE            MONKEY
+LANG_ENGLISH         "Affe"
+
+REFERENCE            PARASITE
+LANG_ENGLISH         "Parasit"
+
+REFERENCE            MEATBALL
+LANG_ENGLISH         "Fleischklops"
+
+REFERENCE            ZNS_PLANE
+LANG_ENGLISH         "MIL-B17 Bomber"
+
+REFERENCE            DRONE
+LANG_ENGLISH         "Valkyrie-Drohne"
+
+REFERENCE            ASTROUAUT
+LANG_ENGLISH         "Astronaut"
+
+REFERENCE            THRASHER
+LANG_ENGLISH         "Zerstörer"
+
+REFERENCE            NOVA
+LANG_ENGLISH         "Nova-Kriecher"
+
+REFERENCE            FURY
+LANG_ENGLISH         "Apothicon-Zorn"
+
+REFERENCE            PANZER
+LANG_ENGLISH         "Panzersoldat"
+
+REFERENCE            MARGWA
+LANG_ENGLISH         "Margwa"
+
+REFERENCE            MANGLER
+LANG_ENGLISH         "Mangler"
+
+REFERENCE            BUY_DRINK
+LANG_ENGLISH         "Du kannst deinem Freund ein Getränk kaufen, indem du ^3[{+actionslot 3}] ^7an der Perk-Maschine drückst"
+
+REFERENCE            CASTLE_EE_TIMER
+LANG_ENGLISH         "Zeitreise-Countdown: "
+
+REFERENCE            GUM_DISABLE
+LANG_ENGLISH         " GobbleGum ist aufgrund der Lobbygröße deaktiviert"
+
+REFERENCE            MONKEY_PAP
+LANG_ENGLISH         "Drücke ^3[{+melee}]^7 Pack-a-Punch Monkey Bomb [Kosten: 5000]"
+
+REFERENCE            OCTOBOMB_PAP
+LANG_ENGLISH         "Drücke ^3[{+melee}]^7 Pack-a-Punch Li'l Arnies [Kosten: 5000]"
+
+REFERENCE            ZOMBIE_BASE_HEALTH
+LANG_ENGLISH         "Basisgesundheit-Multiplikator der Zombies"
+
+REFERENCE          VE_MAP
+LANG_ENGLISH       "EIN-FENSTER-KARTEN"
+
+REFERENCE          VE_MAP_DESC
+LANG_ENGLISH       "Karten, bei denen es nur ein Fenster gibt, in einem kleinen oder mittelgroßen Raum."
+
+REFERENCE          MIN_MAP
+LANG_ENGLISH       "MINECRAFT-KARTEN"
+
+REFERENCE          MIN_MAP_DESC
+LANG_ENGLISH       "Karten aus dem beliebten Spiel Minecraft, gefüllt mit lustigen Herausforderungen und vielen Zombies."
+
+REFERENCE          TOR_MAP
+LANG_ENGLISH       "TURMKARTEN"
+
+REFERENCE          TOR_MAP_DESC
+LANG_ENGLISH       "Turmkarten, bei denen das Ziel ist, den Turm zu erklimmen oder zu verlassen, das finale kaufbare Ende zu erwerben oder Herausforderungen abzuschließen."
+
+REFERENCE          IN_MAP
+LANG_ENGLISH       "INSPIRIERTE KARTEN"
+
+REFERENCE          IN_MAP_DESC
+LANG_ENGLISH       "Inspiriert von den Designs von Treyarch."
+
+REFERENCE          MP_MAP
+LANG_ENGLISH       "MULTIPLAYER-KARTEN"
+
+REFERENCE          MP_MAP_DESC
+LANG_ENGLISH       "Multiplayer-Karten, erstellt und modifiziert mit neuen Themen und Zombies."
+
+REFERENCE          FC_MAP
+LANG_ENGLISH       "FULL CIRCLE KARTEN"
+
+REFERENCE          FC_MAP_DESC
+LANG_ENGLISH       "Fantastische Karten vom populären Karten-Ersteller AlfaTheseus."
+
+REFERENCE          DS_MAP
+LANG_ENGLISH       "COD DS KARTEN"
+
+REFERENCE          DS_MAP_DESC
+LANG_ENGLISH       "Exklusive und unterhaltsame Karten aus der Black Ops-Version für Nintendo DS."
+
+REFERENCE          WW_MAP
+LANG_ENGLISH       "COD WAW KARTEN"
+
+REFERENCE          WW_MAP_DESC
+LANG_ENGLISH       "Actiongeladene Karten, die an die originale World at War Ära erinnern."
+
+REFERENCE          B1_MAP
+LANG_ENGLISH       "COD BO1 KARTEN"
+
+REFERENCE          B1_MAP_DESC
+LANG_ENGLISH       "Mythische Karten aus der intensiven Ära von Black Ops 1."
+
+REFERENCE          B2_MAP
+LANG_ENGLISH       "COD BO2 KARTEN"
+
+REFERENCE          B2_MAP_DESC
+LANG_ENGLISH       "Mysteriöse und coole Karten basierend auf Black Ops 2."
+
+REFERENCE          MW_MAP
+LANG_ENGLISH       "COD MW KARTEN"
+
+REFERENCE          MW_MAP_DESC
+LANG_ENGLISH       "Legendäre Multiplayer-Karten, jetzt getränkt in Blut und Zombies."
+
+REFERENCE            QU_MAP
+LANG_ENGLISH         "QUIET-SERIE KARTEN"
+
+REFERENCE            QU_MAP_DESC
+LANG_ENGLISH         "Fantastische Karten vom populären Ersteller Markus Darius. HINWEIS: Diese Karten funktionieren nur in der Lite-Version dieses Mods."
+
+REFERENCE            KO_MAP
+LANG_ENGLISH         "VERK0 KARTEN"
+
+REFERENCE            KO_MAP_DESC
+LANG_ENGLISH         "Fantastische Karten vom populären Ersteller Verk0, einige funktionieren nur in der Lite-Version dieses Mods."
+
+REFERENCE            ICE_MAP
+LANG_ENGLISH         "ICEGRENADE KARTEN"
+
+REFERENCE            ICE_MAP_DESC
+LANG_ENGLISH         "Fantastische Karten vom populären Ersteller IceGrenade, einige funktionieren nur in der Lite-Version dieses Mods."
+
+REFERENCE            WEE_MAP
+LANG_ENGLISH         "LOGICAL KARTEN"
+
+REFERENCE            WEE_MAP_DESC
+LANG_ENGLISH         "Fantastische Karten vom populären Ersteller Logical, einige funktionieren nur in der Lite-Version dieses Mods."
+
+REFERENCE            CH_MAP
+LANG_ENGLISH         "CHALLENGE KARTEN"
+
+REFERENCE            CH_MAP_DESC
+LANG_ENGLISH         "Karten voller Herausforderungen, einige extremer als andere, die deine Fähigkeiten und Fertigkeiten testen."
+
+REFERENCE            NO_MAP
+LANG_ENGLISH         "HORROR KARTEN"
+
+REFERENCE            NO_MAP_DESC
+LANG_ENGLISH         "Horrorkarten, wo Intensität schreit und Verzweiflung durch deinen Körper läuft, die Grenzen ständig herausfordernd."
+
+REFERENCE            NOM_MAP
+LANG_ENGLISH         "FILM KARTEN"
+
+REFERENCE            NOM_MAP_DESC
+LANG_ENGLISH         "Karten inspiriert von Filmen, die dich in filmische Szenarien voller Action und Spannung versetzen."
+
+REFERENCE            SEA_MAP
+LANG_ENGLISH         "SEATOWN KARTEN"
+
+REFERENCE            SEA_MAP_DESC
+LANG_ENGLISH         "Karten mit der Essenz von SEATOWN, wo deine Fähigkeiten in intensiven Kämpfen getestet werden."
+
+REFERENCE            SAW_MAP
+LANG_ENGLISH         "SAW KARTEN"
+
+REFERENCE            SAW_MAP_DESC
+LANG_ENGLISH         "Terror-Karten vergleichbar mit Saw, die den Spieler in makabren und verstörenden Umgebungen testen."
+
+REFERENCE            XMA_MAP
+LANG_ENGLISH         "WEIHNACHTSKARTEN"
+
+REFERENCE            XMA_MAP_DESC
+LANG_ENGLISH         "Weihnachtskarten voller Freude bis Mitternacht, wenn die Untoten nach ihren Geschenken suchen."
+
+REFERENCE            UNSU_MAP
+LANG_ENGLISH         "^1UNTERSTÜTZTE KARTEN NICHT^7"
+
+REFERENCE            UNSU_MAP_DESC
+LANG_ENGLISH         "Hier werden Karten angezeigt, die mit dem All Around Enhancement-Mod nicht kompatibel sind."
+
+REFERENCE            WHIMSICAL
+LANG_ENGLISH         "Skurril"
+
+REFERENCE            ZC_MAP
+LANG_ENGLISH         "ZOMBIES CHRONICLES II"
+
+REFERENCE            ZC_MAP_DESC
+LANG_ENGLISH         "Epische Remakes von der Community erstellt, die eine unterhaltsame und einzigartige Möglichkeit bieten, diese klassischen Erfahrungen zu erleben!"
+
+ENDMARKER

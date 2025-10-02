@@ -1,0 +1,116 @@
+// Note to translators:
+// Just edit the text inside the quotes, don't edit other code
+
+VERSION             "1"
+CONFIG              "C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           RANDOM_ATTACHMENTS
+LANG_ENGLISH     "Полностью случайные модификации и камуфляжи"
+
+REFERENCE           RANDOM_ATTACHMENTS_DESC
+LANG_ENGLISH     "Каждое новое оружие, которое вы получите, будет иметь случайные модификации, прицел и камуфляж"
+
+REFERENCE           WEAPON_LIMIT
+LANG_ENGLISH     "Ограничение оружия"
+
+REFERENCE           WEAPON_LIMIT_OPTIONS_DESC
+LANG_ENGLISH     "Игроки не могут использовать одно и то же оружие"
+
+REFERENCE           PREPATCH_BGB
+LANG_ENGLISH     "Гобблгам до патча"
+
+REFERENCE           PREPATCH_BGB_DESC
+LANG_ENGLISH     "Машина Гобблгам будет изменена так, как она работала в версии BO3 первого дня. Это включает:\n  - Можно использовать только один раз за раунд\n  - Можно использовать только 37% машин Гобблгам\n  - Машины Гобблгам могут быть закрыты или открыты в других местах\n  - Стандартная цена — 500 очков"
+
+REFERENCE           ZOMBIE_COUNT
+LANG_ENGLISH     "Алгоритм количества раундов зомби"
+
+REFERENCE           ZOMBIE_COUNT_DESC
+LANG_ENGLISH     "Изменяет способ расчета количества зомби, которых нужно убить, чтобы закончить раунд"
+
+REFERENCE           SPAWNTYPE
+LANG_ENGLISH     "Методы появления врагов"
+
+REFERENCE           SPAWNTYPE_DESC
+LANG_ENGLISH     "Много специальных зомби:\nЗначительно увеличивает количество специальных врагов на каждой карте Treyarch, например, много Маргвов и много Панцерсолдатов\nПоддерживаемые карты:\nShadows of Evil\nDer Eisendrache\nZetsubou No Shima\nGorod Krovi\nRevelations\nShangri-La\nMoon\nOrigins"
+
+REFERENCE           SPAWNTYPE_OPTION_DESC
+LANG_ENGLISH     "Много специальных зомби"
+
+REFERENCE           ZOMBIE_H
+LANG_ENGLISH     "Ограничение здоровья зомби"
+
+REFERENCE           ZOMBIE_H_DESC
+LANG_ENGLISH     "Здоровье зомби перестанет увеличиваться после этой волны"
+
+REFERENCE           CRAZYZOMBIE_DESC
+LANG_ENGLISH     "Скорость зомби удваивается для всех действий"
+
+REFERENCE           DAMAGE_NUMBER
+LANG_ENGLISH     "Видимость чисел урона"
+
+REFERENCE           DAMAGE_NUMBER_DESC
+LANG_ENGLISH     "Выберите, показывать или скрывать количество урона, нанесенного врагу"
+
+REFERENCE           HUD
+LANG_ENGLISH     "Настройки HUD"
+
+REFERENCE           HUD_OPTION
+LANG_ENGLISH     "Перемещение HUD"
+
+REFERENCE           CENTERCROSS
+LANG_ENGLISH     "Отключить маленькую точку в центре экрана"
+
+REFERENCE           ITEM_DUPE_RENDER
+LANG_ENGLISH     "Выделять детали для крафта"
+
+REFERENCE           ITEM_DUPE_RENDER_DESC
+LANG_ENGLISH     "Детали для крафта, которые можно подобрать на карте, видны сквозь стены"
+
+REFERENCE           ITEM_DUPE_RENDER_OPTION
+LANG_ENGLISH     "Видно сквозь стены"
+
+REFERENCE           ITEM_DUPE_RENDER_OPTIONS
+LANG_ENGLISH     "Видно с точки обзора"
+
+REFERENCE           MODGAMES
+LANG_ENGLISH     "MOD игры"
+
+REFERENCE           ROULETTE
+LANG_ENGLISH     "Рулетка оружия"
+
+REFERENCE           ROULETTE_DESC
+LANG_ENGLISH     "Мод режима игры, где каждый раунд вы получаете случайное оружие и должны выжить с ним.\nПо умолчанию нет конечной цели, хорошо работает с настройкой End Game Challenge.\nРежим основан на раундах, а в поздних раундах (20+) будет 30-секундный перерыв, чтобы улучшить оружие и подготовиться к следующему раунду"
+
+REFERENCE           SNAIL
+LANG_ENGLISH     "Бессмертная улитка"
+
+REFERENCE           SNAIL_DESC
+LANG_ENGLISH     "Один удар — падение, раунды растут, улитка движется быстрее"
+
+REFERENCE           DUCK
+LANG_ENGLISH     "Игровой Quacknarok"
+
+REFERENCE           DUCK_DESC
+LANG_ENGLISH     "Все игроки носят утиную надувную"
+
+REFERENCE           ALERT
+LANG_ENGLISH     "\n\n^BBUTTON_CYCLE_LEFT^ Изменение этой опции отключает AAE Career, Банк и оружейный шкаф"
+
+REFERENCE           RAMPAGE
+LANG_ENGLISH     "Заменить Gambler 8 Ball на Rampage Inducer"
+
+REFERENCE           RAMPAGE_DESC
+LANG_ENGLISH     "Меняет местами Gambler и Rampage Inducer для поддержки пользовательских карт.\n\nRampage Inducer:\nАктивируйте, чтобы зомби появлялись быстрее и двигались быстрее"
+
+REFERENCE           THEGIANT_WEAPON
+LANG_ENGLISH     "Добавить оружие из The Giant в Mystery Box"
+
+REFERENCE           HIDE_CUSTOM_MAP_WEAPON
+LANG_ENGLISH     "Скрыть оружие с пользовательских карт в Mystery Box"
+
+REFERENCE           HIDE_AAE_WEAPON
+LANG_ENGLISH     "Скрыть оружие из AAE в Mystery Box"
+
+ENDMARKER

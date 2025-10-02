@@ -1,0 +1,71 @@
+// Note to translators:
+// Just edit the text inside the quotes, don't edit other code
+
+VERSION             "1"
+CONFIG              "C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           STORED
+LANG_ENGLISH     "私のを保存しました"
+
+REFERENCE           GOT_MY
+LANG_ENGLISH     "私のを手に入れました"
+
+REFERENCE           BACK
+LANG_ENGLISH     "戻す"
+
+REFERENCE           LOADINGMAP
+LANG_ENGLISH     "マップを読み込んでいます"
+
+REFERENCE           GOT_PAP
+LANG_ENGLISH     "Pack-A-Punchedを手に入れました"
+
+REFERENCE           DROPSOME
+LANG_ENGLISH     "ここにポイントを落としました！"
+
+REFERENCE           GOTPERK
+LANG_ENGLISH     "Perkを手に入れました"
+
+REFERENCE           READY
+LANG_ENGLISH     "準備完了"
+
+REFERENCE           AUTOREVIVE
+LANG_ENGLISH     "Auto Reviveを手に入れました"
+
+REFERENCE           GOTSOMEPERK
+LANG_ENGLISH     "手に入れました"
+
+REFERENCE           GOTWP
+LANG_ENGLISH     "手に入れた"
+
+REFERENCE           SHAREWP
+LANG_ENGLISH     "共有しました"
+
+REFERENCE           SHAREWPHERE
+LANG_ENGLISH     "ここで"
+
+REFERENCE           TRADEWP
+LANG_ENGLISH     "武器を交換しました"
+
+REFERENCE           LASTZM
+LANG_ENGLISH     "最後のゾンビが倒されました"
+
+REFERENCE           OPENDOOR
+LANG_ENGLISH     "ドアを開けました"
+
+REFERENCE           DOT
+LANG_ENGLISH     "."
+
+REFERENCE           PAYHALF_DOOR
+LANG_ENGLISH     "このドアの半分の料金を支払いました、残りは "
+
+REFERENCE           PAYHALF_DEBRIS
+LANG_ENGLISH     "この瓦礫の半分の料金を支払いました、残りは "
+
+REFERENCE           PAYHALF
+LANG_ENGLISH     "^3K ^7半額支払い"
+
+REFERENCE           PAYHALF_GAMEPAD
+LANG_ENGLISH     "[{+melee}] 半額支払い"
+
+ENDMARKER

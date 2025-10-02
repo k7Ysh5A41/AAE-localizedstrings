@@ -1,0 +1,92 @@
+// Note to translators:
+// Just edit the text inside the quotes, don't edit other code
+
+VERSION             "1"
+CONFIG              "C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           SILENCER
+LANG_ENGLISH     "^2パワーアップブースター"
+
+REFERENCE           SILENCER_DESC
+LANG_ENGLISH     "^2パワーアップの出現確率を上げます。"
+
+REFERENCE           FMJ_DESC
+LANG_ENGLISH     "^2ゾンビ以外の敵に200%のダメージを与えます。"
+
+REFERENCE           EE_COUNT
+LANG_ENGLISH     "^5クリアしたイースターエッグ: ^7"
+
+REFERENCE           EE_COMPLETED_START
+LANG_ENGLISH     "合計で "
+
+REFERENCE           EE_COMPLETED_END
+LANG_ENGLISH     " のイースターエッグをクリアしました"
+
+REFERENCE           ROAMER_LABEL
+LANG_ENGLISH     "次のラウンドを開始するには ^3ADS^7 + ^3[{+melee}]^7 を押してください"
+
+REFERENCE           ROAMER_LABEL_TIMER
+LANG_ENGLISH     "次のラウンドを開始するには ^3ADS^7 + ^3[{+melee}]^7 を押してください\n残り時間: ^5"
+
+REFERENCE           PURIFIER_HINT
+LANG_ENGLISH     "味方に炎を撃って蘇生させます"
+
+REFERENCE           OUTRIDER_HINT
+LANG_ENGLISH     "味方に直撃させて蘇生させます"
+
+REFERENCE           GB_PW
+LANG_ENGLISH     "^8ピクセルワールド"
+
+REFERENCE           GB_RW
+LANG_ENGLISH     "^8リアルワールド"
+
+REFERENCE           GB_SKY
+LANG_ENGLISH     "^8空が1分間回転"
+
+REFERENCE           GB_NOAMMO
+LANG_ENGLISH     "^1弾をよこせ!!"
+
+REFERENCE           GB_DWARF
+LANG_ENGLISH     "ドワーフ"
+
+REFERENCE           GB_DWARFOVER
+LANG_ENGLISH     "ドワーフ終了"
+
+REFERENCE           GB_LEAK
+LANG_ENGLISH     "^1お金の漏れ"
+
+REFERENCE           GB_LEAKOVER
+LANG_ENGLISH     "^5お金の漏れ終了"
+
+REFERENCE           GB_INFAMMO
+LANG_ENGLISH     "^2無限射撃!!"
+
+REFERENCE           GG_LV
+LANG_ENGLISH     "^2銃のレベル: ^7"
+
+REFERENCE           MAPINTRO
+LANG_ENGLISH     "ロードムービーを無効化"
+
+REFERENCE           BOTS
+LANG_ENGLISH     "ボット"
+
+REFERENCE           LOBBY_PASSWORD
+LANG_ENGLISH     "ロビーのパスワード"
+
+REFERENCE           LOBBY_PASSWORD_DESC
+LANG_ENGLISH     "ロビーにパスワードを設定する"
+
+REFERENCE           WINER
+LANG_ENGLISH     "^5勝者^7: "
+
+REFERENCE           GG_UP
+LANG_ENGLISH     "^2銃の昇格"
+
+REFERENCE           GG_DOWN
+LANG_ENGLISH     "^1屈辱"
+
+REFERENCE           DPAP_DESC
+LANG_ENGLISH     "BO4の再PAPシステム。最初のPAPはBO3で通常のPAPダメージと同じ量を与えます。その後、さらに最大4回まで再PAP可能で、通常のBO3 PAPダメージに合計80%の追加ダメージを得られます。武器の下、画面右下にPAPレベルのインジケーターが表示され、最大はEPIC（黄色テキスト）です。"
+
+ENDMARKER

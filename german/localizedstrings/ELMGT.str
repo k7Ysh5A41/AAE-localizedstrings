@@ -1,0 +1,92 @@
+// Note to translators:
+// Just edit the text inside the quotes, don't edit other code
+
+VERSION             "1"
+CONFIG              "C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           SILENCER
+LANG_ENGLISH     "^2Power-up-Booster"
+
+REFERENCE           SILENCER_DESC
+LANG_ENGLISH     "^2Erhöht die Wahrscheinlichkeit, dass Power-ups erscheinen."
+
+REFERENCE           FMJ_DESC
+LANG_ENGLISH     "^2Verursacht 200% Schaden an Nicht-Zombie-Gegnern."
+
+REFERENCE           EE_COUNT
+LANG_ENGLISH     "^5Abgeschlossene Ostereier: ^7"
+
+REFERENCE           EE_COMPLETED_START
+LANG_ENGLISH     "Ich habe abgeschlossen "
+
+REFERENCE           EE_COMPLETED_END
+LANG_ENGLISH     " Osterei insgesamt"
+
+REFERENCE           ROAMER_LABEL
+LANG_ENGLISH     "Drücke ^3ADS^7 + ^3[{+melee}]^7 um die nächste Runde zu starten"
+
+REFERENCE           ROAMER_LABEL_TIMER
+LANG_ENGLISH     "Drücke ^3ADS^7 + ^3[{+melee}]^7 um die nächste Runde zu starten\nVerbleibende Zeit: ^5"
+
+REFERENCE           PURIFIER_HINT
+LANG_ENGLISH     "Schieße Flammen auf Teamkameraden, um sie wiederzubeleben"
+
+REFERENCE           OUTRIDER_HINT
+LANG_ENGLISH     "Schieße direkt auf Teamkameraden, um sie wiederzubeleben"
+
+REFERENCE           GB_PW
+LANG_ENGLISH     "^8Pixel-Welt"
+
+REFERENCE           GB_RW
+LANG_ENGLISH     "^8Echte Welt"
+
+REFERENCE           GB_SKY
+LANG_ENGLISH     "^8Himmel dreht sich für 1 Minute"
+
+REFERENCE           GB_NOAMMO
+LANG_ENGLISH     "^1GIB MIR MUNITION!!"
+
+REFERENCE           GB_DWARF
+LANG_ENGLISH     "Zwerg"
+
+REFERENCE           GB_DWARFOVER
+LANG_ENGLISH     "Zwerg vorbei"
+
+REFERENCE           GB_LEAK
+LANG_ENGLISH     "^1Geldleck"
+
+REFERENCE           GB_LEAKOVER
+LANG_ENGLISH     "^5Geldleck vorbei"
+
+REFERENCE           GB_INFAMMO
+LANG_ENGLISH     "^2UNENDLICH SCHIESSEN!!"
+
+REFERENCE           GG_LV
+LANG_ENGLISH     "^2Waffenstufe: ^7"
+
+REFERENCE           MAPINTRO
+LANG_ENGLISH     "Ladefilme deaktivieren"
+
+REFERENCE           BOTS
+LANG_ENGLISH     "Bots"
+
+REFERENCE           LOBBY_PASSWORD
+LANG_ENGLISH     "Lobby-Passwort"
+
+REFERENCE           LOBBY_PASSWORD_DESC
+LANG_ENGLISH     "Füge ein Passwort für die Lobby hinzu"
+
+REFERENCE           WINER
+LANG_ENGLISH     "^5Gewinner^7: "
+
+REFERENCE           GG_UP
+LANG_ENGLISH     "^2Waffen-Promotion"
+
+REFERENCE           GG_DOWN
+LANG_ENGLISH     "^1Gedemütigt"
+
+REFERENCE           DPAP_DESC
+LANG_ENGLISH     "Das Re-PAP-System aus BO4. Dein erstes PAP gibt den normalen Schadenswert, den PAP immer in BO3 gegeben hat. Danach kannst du bis zu 4 weitere PAPs machen, um insgesamt weitere 80% Zuwachs auf den normalen BO3 PAP-Schaden zu erhalten. Du siehst einen Indikator unten rechts auf dem Bildschirm unter der Waffe, der das PAP-Level anzeigt, wobei das höchste EPISCH (gelber Text) ist."
+
+ENDMARKER

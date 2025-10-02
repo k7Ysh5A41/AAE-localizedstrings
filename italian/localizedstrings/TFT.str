@@ -1,0 +1,116 @@
+// Note to translators:
+// Just edit the text inside the quotes, don't edit other code
+
+VERSION             "1"
+CONFIG              "C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           RANDOM_ATTACHMENTS
+LANG_ENGLISH     "Accessori e mimetiche completamente casuali"
+
+REFERENCE           RANDOM_ATTACHMENTS_DESC
+LANG_ENGLISH     "Ogni nuova arma ottenuta avrà accessori, reticolo e mimetica casuali"
+
+REFERENCE           WEAPON_LIMIT
+LANG_ENGLISH     "Limite armi"
+
+REFERENCE           WEAPON_LIMIT_OPTIONS_DESC
+LANG_ENGLISH     "I giocatori non possono usare le stesse armi degli altri"
+
+REFERENCE           PREPATCH_BGB
+LANG_ENGLISH     "Gobblegum pre-patch"
+
+REFERENCE           PREPATCH_BGB_DESC
+LANG_ENGLISH     "La macchina Gobblegum funzionerà come nella versione iniziale (giorno 1) di BO3. Ciò include:\n  - Utilizzabile solo una volta per round\n  - Solo il 37% delle macchine Gobblegum è disponibile\n  - Le macchine Gobblegum possono chiudersi e aprirsi in altre posizioni\n  - Prezzo predefinito: 500 punti"
+
+REFERENCE           ZOMBIE_COUNT
+LANG_ENGLISH     "Algoritmo quantità zombi per round"
+
+REFERENCE           ZOMBIE_COUNT_DESC
+LANG_ENGLISH     "Modifica il modo in cui il gioco calcola quanti zombi devono essere uccisi per terminare il round."
+
+REFERENCE           SPAWNTYPE
+LANG_ENGLISH     "Metodi di comparsa nemici"
+
+REFERENCE           SPAWNTYPE_DESC
+LANG_ENGLISH     "Molti zombi speciali:\nAumenta enormemente il numero di nemici speciali in ogni mappa Treyarch, ad esempio molti Margwa e molti Panzersoldat, con supporto per le seguenti mappe:\nShadows of Evil\nDer Eisendrache\nZetsubou No Shima\nGorod Krovi\nRevelations\nShangri-La\nMoon\nOrigins"
+
+REFERENCE           SPAWNTYPE_OPTION_DESC
+LANG_ENGLISH     "Molti zombi speciali"
+
+REFERENCE           ZOMBIE_H
+LANG_ENGLISH     "Limita la salute degli zombi"
+
+REFERENCE           ZOMBIE_H_DESC
+LANG_ENGLISH     "La salute degli zombi smetterà di aumentare quando si raggiunge questo round."
+
+REFERENCE           CRAZYZOMBIE_DESC
+LANG_ENGLISH     "La velocità degli zombi è raddoppiata per tutte le azioni."
+
+REFERENCE           DAMAGE_NUMBER
+LANG_ENGLISH     "Visibilità del numero di danno"
+
+REFERENCE           DAMAGE_NUMBER_DESC
+LANG_ENGLISH     "Scegli se mostrare o nascondere la quantità di danno inflitto al nemico."
+
+REFERENCE           HUD
+LANG_ENGLISH     "Opzioni HUD"
+
+REFERENCE           HUD_OPTION
+LANG_ENGLISH     "Movimento HUD"
+
+REFERENCE           CENTERCROSS
+LANG_ENGLISH     "Disattiva il piccolo punto al centro dello schermo"
+
+REFERENCE           ITEM_DUPE_RENDER
+LANG_ENGLISH     "Evidenzia le parti costruibili"
+
+REFERENCE           ITEM_DUPE_RENDER_DESC
+LANG_ENGLISH     "Le parti costruibili raccoglibili sulla mappa possono essere viste attraverso i muri."
+
+REFERENCE           ITEM_DUPE_RENDER_OPTION
+LANG_ENGLISH     "Visibili attraverso i muri"
+
+REFERENCE           ITEM_DUPE_RENDER_OPTIONS
+LANG_ENGLISH     "Visibili da un punto di osservazione"
+
+REFERENCE           MODGAMES
+LANG_ENGLISH     "MOD GAMES"
+
+REFERENCE           ROULETTE
+LANG_ENGLISH     "Roulette delle armi"
+
+REFERENCE           ROULETTE_DESC
+LANG_ENGLISH     "Una modalità di gioco mod in cui ad ogni round ottieni un’arma casuale e devi sopravvivere con quella.\nDi default non c’è un obiettivo finale e funziona bene con l’impostazione End Game Challenge dei mod games.\nQuesta modalità è basata sui round e nei round più avanzati (20+) ci sarà una pausa di 30 secondi per permetterti di potenziare le armi e prepararti al round successivo."
+
+REFERENCE           SNAIL
+LANG_ENGLISH     "Lumaca immortale"
+
+REFERENCE           SNAIL_DESC
+LANG_ENGLISH     "Un colpo e sei a terra. Più i round avanzano, più la lumaca diventa veloce."
+
+REFERENCE           DUCK
+LANG_ENGLISH     "Player Quacknarok"
+
+REFERENCE           DUCK_DESC
+LANG_ENGLISH     "Tutti i giocatori indossano un salvagente a forma di anatra"
+
+REFERENCE           ALERT
+LANG_ENGLISH     "\n\n^BBUTTON_CYCLE_LEFT^ Cambiare questa opzione disattiva AAE Carriera, Banca, Armeria"
+
+REFERENCE           RAMPAGE
+LANG_ENGLISH     "Sostituisci la palla 8 del Gambler con il Rampage Inducer"
+
+REFERENCE           RAMPAGE_DESC
+LANG_ENGLISH     "Scambia la posizione del Gambler e del Rampage Inducer per supportare le mappe personalizzate.\n\nRampage Inducer:\nAttivalo per far comparire rapidamente gli zombi e farli muovere più velocemente."
+
+REFERENCE           THEGIANT_WEAPON
+LANG_ENGLISH     "Aggiungi le armi di The Giant alla Scatola Misteriosa"
+
+REFERENCE           HIDE_CUSTOM_MAP_WEAPON
+LANG_ENGLISH     "Nascondi le armi delle mappe personalizzate nella Scatola Misteriosa"
+
+REFERENCE           HIDE_AAE_WEAPON
+LANG_ENGLISH     "Nascondi le armi di AAE nella Scatola Misteriosa"
+
+ENDMARKER

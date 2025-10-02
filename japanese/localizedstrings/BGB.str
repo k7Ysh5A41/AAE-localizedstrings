@@ -1,0 +1,92 @@
+// Note to translators:
+// Just edit the text inside the quotes, don't edit other code
+
+VERSION             "1"
+CONFIG              "C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE            JOIN_THE_PARTY
+LANG_ENGLISH         "パーティーに参加"
+
+REFERENCE            JOIN_THE_PARTY_DESC
+LANG_ENGLISH         "^2MEGA\n^7発動済み (1回の発動)\n観戦中の全プレイヤーが即座にスポーンし、ダウン中のプレイヤーも即座に復活します。失われたパークは復元されません。"
+
+REFERENCE            JOIN_THE_PARTY_HINT
+LANG_ENGLISH         "^3[{+actionslot 1}]^7 を押して発動\n観戦中の全プレイヤーが即座にスポーンし、ダウン中のプレイヤーも即座に復活します。"
+
+REFERENCE            QUACKNAROK
+LANG_ENGLISH         "クァックナロック"
+
+REFERENCE            QUACKNAROK_DESC
+LANG_ENGLISH         "^6F^3A^5N^2T^7A^2S^5T^3I^6C\n^7即座に発動 (5ラウンド継続)\nゾンビがアヒルの浮き輪を装着しますが、ゲームプレイには影響しません。"
+
+REFERENCE            QUACKNAROK_HINT
+LANG_ENGLISH         "5ラウンド継続\nゾンビがアヒルの浮き輪を装着（ゲームプレイには影響なし）"
+
+REFERENCE            TALKIN_BOUT_REGENERATION
+LANG_ENGLISH         "回復について話す"
+
+REFERENCE            TALKIN_BOUT_REGENERATION_DESC
+LANG_ENGLISH         "^7即座に発動 (4分間持続)\n移動中、体力が常に回復します。"
+
+REFERENCE            TALKIN_BOUT_REGENERATION_HINT
+LANG_ENGLISH         "^7即座に発動 (4分間持続)\n移動中、体力が常に回復します。"
+
+REFERENCE            BLOOD_DEBT
+LANG_ENGLISH         "ブラッドデット"
+
+REFERENCE            BLOOD_DEBT_DESC
+LANG_ENGLISH         "^7発動済み (1回の発動、2分間)\n体力を失う代わりにポイントを失います。ダメージを受けるたびに失う量が増え、最大値に達すると終了します。ポイントが0になるとブラッドデットは終了。"
+
+REFERENCE            BLOOD_DEBT_HINT
+LANG_ENGLISH         "^3[{+actionslot 1}]^7 を押して発動\n体力を失う代わりにポイントを失います。ダメージを受けるたびに失う量が増え、最大値に達すると終了します。ポイントが0になるとブラッドデットは終了。"
+
+REFERENCE            CTRL_Z
+LANG_ENGLISH         "Ctrl-Z"
+
+REFERENCE            CTRL_Z_DESC
+LANG_ENGLISH         "^7発動済み (2回の発動)\n近くのゾンビをターンド状態に変化させます。"
+
+REFERENCE            CTRL_Z_HINT
+LANG_ENGLISH         "^3[{+actionslot 1}]^7 を押して発動\n近くのゾンビをターンド状態に変化させます。"
+
+REFERENCE            NOWHERE_BUT_THERE
+LANG_ENGLISH         "そこ以外どこでもない"
+
+REFERENCE            NOWHERE_BUT_THERE_DESC
+LANG_ENGLISH         "^7発動済み (3回の発動)\nダウン中のプレイヤーの位置にテレポートして復活させます。"
+
+REFERENCE            NOWHERE_BUT_THERE_HINT
+LANG_ENGLISH         "^3[{+actionslot 1}]^7 を押して発動\nダウン中のプレイヤーの位置にテレポートして復活させます。"
+
+REFERENCE            FREE_FIRE
+LANG_ENGLISH         "フリーファイア"
+
+REFERENCE            FREE_FIRE_DESC
+LANG_ENGLISH         "^7発動済み (3回の発動、60秒)\nすべてのプレイヤーが弾薬を消費せずに武器を発射します。"
+
+REFERENCE            FREE_FIRE_HINT
+LANG_ENGLISH         "^3[{+actionslot 1}]^7 を押して発動\nすべてのプレイヤーが弾薬を消費せずに武器を発射します。"
+
+REFERENCE            EDDIE
+LANG_ENGLISH         "エディ"
+
+REFERENCE            EDDIE_DESC
+LANG_ENGLISH         "^6F^3A^5N^2T^7A^2S^5T^3I^6C\n^7即座に発動 (5ラウンド継続)\nすべてのゾンビがエドワード・リヒトホーフェンになります。"
+
+REFERENCE            EDDIE_HINT
+LANG_ENGLISH         "5ラウンド継続\nすべてのゾンビがエドワード・リヒトホーフェンになります。"
+
+REFERENCE            LUCKY_CRIT
+LANG_ENGLISH         "ラッキークリット"
+
+REFERENCE            LUCKY_CRIT_DESC
+LANG_ENGLISH         "^7即座に発動 (3ラウンド継続)\nランダムな代替弾薬タイプを発動する確率を上げ、ゼツボウでAA弾を100%取得できます。"
+
+REFERENCE            LUCKY_CRIT_HINT
+LANG_ENGLISH         "3ラウンド継続\nランダムな代替弾薬タイプを発動する確率を上げ、ゼツボウでAA弾を100%取得できます。"
+
+REFERENCE            SWORD_FLAY_DESC
+LANG_ENGLISH         "即座に発動 (2.5分間持続)\n近接攻撃が無限ダメージを与え、範囲内の最大X体のゾンビに影響します（突き攻撃はX=2、振り攻撃はX=4）"
+
+ENDMARKER

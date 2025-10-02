@@ -1,0 +1,95 @@
+// Note to translators:
+// Just edit the text inside the quotes, don't edit other code
+
+VERSION             "1"
+CONFIG              "C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           ZMLEFT
+LANG_ENGLISH     "Enemies Remaining:  ^1"
+
+REFERENCE           ZOMBIERIOT
+LANG_ENGLISH     "^1End Game Challenge!"
+
+REFERENCE           PAP1
+LANG_ENGLISH     "^7Common"
+
+REFERENCE           PAP2
+LANG_ENGLISH     "^4Rare"
+
+REFERENCE           PAP3
+LANG_ENGLISH     "^6Legendary"
+
+REFERENCE           PAP4
+LANG_ENGLISH     "^3Epic"
+
+REFERENCE           PAP_TITLE
+LANG_ENGLISH     "Pack-a Punch Level: "
+
+REFERENCE           EXITLEVEL
+LANG_ENGLISH     "Instant Quit"
+
+REFERENCE           EXITLEVEL_DESC
+LANG_ENGLISH     "All players in the lobby instantly exit the map"
+
+REFERENCE           DISCORD
+LANG_ENGLISH     "^2JOIN DISCORD"
+
+REFERENCE           INFO
+LANG_ENGLISH     "MOD INFO"
+
+REFERENCE           START
+LANG_ENGLISH     "Let's Roll"
+
+REFERENCE           TOMB_LINE2
+LANG_ENGLISH     "Northern France, 1918"
+
+REFERENCE           DIE_LINE1
+LANG_ENGLISH     "GREAT LEAP FORWARD"
+
+REFERENCE           DIE_LINE2
+LANG_ENGLISH     "PROVINCE 22"
+
+REFERENCE           COAST_LINE1
+LANG_ENGLISH     "Ensemble Cast"
+
+REFERENCE           COAST_LINE2
+LANG_ENGLISH     "KRASNOYARS KRAI"
+
+REFERENCE           COAST_LINE3
+LANG_ENGLISH     "CALL OF THE DEAD"
+
+REFERENCE           TEMPLE_LINE1
+LANG_ENGLISH     "Time Travel Will Tell"
+
+REFERENCE           COS_LINE1
+LANG_ENGLISH     "Casimir Mechanism"
+
+REFERENCE           MOON_LINE1
+LANG_ENGLISH     "Richtofen's Grand Scheme"
+
+REFERENCE           TRANZIT_LINE2
+LANG_ENGLISH     "NORTHERN HEMISPHERE"
+
+REFERENCE           MOB_LINE1
+LANG_ENGLISH     "ALCATRAZ ISLAND"
+
+REFERENCE           MOB_LINE2
+LANG_ENGLISH     "SanFrancisco Bay, USA"
+
+REFERENCE           LEV_LINE1
+LANG_ENGLISH     "Leviathan"
+
+REFERENCE           LEV_LINE2
+LANG_ENGLISH     "Underwater Research Facility"
+
+REFERENCE           RAIN_LINE1
+LANG_ENGLISH     "RAINY DEATH"
+
+REFERENCE           RAIN_LINE2
+LANG_ENGLISH     "ABANDONED TOWN"
+
+REFERENCE           GENESIS_LINE1
+LANG_ENGLISH     "A Better Tomorrow"
+
+ENDMARKER

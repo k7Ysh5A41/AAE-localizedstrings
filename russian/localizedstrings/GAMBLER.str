@@ -1,0 +1,107 @@
+// Note to translators:
+// Just edit the text inside the quotes, don't edit other code
+
+VERSION             "1"
+CONFIG              "C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           HINT
+LANG_ENGLISH     "^3[{+activate}]^7 Gambler (^BBUTTON_COD_POINT_ICON^&&1)"
+
+REFERENCE           RUN
+LANG_ENGLISH     "Гэмблер в действии......"
+
+REFERENCE           WIN
+LANG_ENGLISH     "^1Вы ничего не выиграли."
+
+REFERENCE           W500
+LANG_ENGLISH     "^2Вы выиграли ^BBUTTON_COD_POINT_ICON^500."
+
+REFERENCE           W1000
+LANG_ENGLISH     "^2Вы выиграли ^BBUTTON_COD_POINT_ICON^1000."
+
+REFERENCE           W2000
+LANG_ENGLISH     "^2Вы выиграли ^BBUTTON_COD_POINT_ICON^2000."
+
+REFERENCE           L500
+LANG_ENGLISH     "^1Вы проиграли ^BBUTTON_COD_POINT_ICON^500."
+
+REFERENCE           LOSTALL
+LANG_ENGLISH     "^8Сюрприз!"
+
+REFERENCE           LOSTMONEY
+LANG_ENGLISH     "^1Вы потеряли все свои деньги!"
+
+REFERENCE           SHIELD_FIX
+LANG_ENGLISH     "^2Вы получили исправление для бронированного щита!"
+
+REFERENCE           WIN_SHIELD
+LANG_ENGLISH     "^2Вы выиграли бронированный щит на спину!"
+
+REFERENCE           NO_SHIELD
+LANG_ENGLISH     "^2Вы выиграли щит, но мы не можем его вам дать."
+
+REFERENCE           AIRSTRIKE_CL
+LANG_ENGLISH     "^1Воздушный удар по вашей позиции."
+
+REFERENCE           W20000
+LANG_ENGLISH     "^2Вы выиграли ^BBUTTON_COD_POINT_ICON^20000."
+
+REFERENCE           LIVE_DIE
+LANG_ENGLISH     "^1Вы живы или умрёте через 5 секунд."
+
+REFERENCE           LIVE
+LANG_ENGLISH     "^2Вы выжили!"
+
+REFERENCE           DIE
+LANG_ENGLISH     "^1Вы умерли!"
+
+REFERENCE           HEIST
+LANG_ENGLISH     "^3Ограбление!"
+
+REFERENCE           RESTART
+LANG_ENGLISH     "^1Перезапуск Гэмблера."
+
+REFERENCE           ALL_DIE
+LANG_ENGLISH     "^0Через 5 секунд все умрут или умрёт идиот."
+
+REFERENCE           SB_DIE
+LANG_ENGLISH     "^1Идиот умер"
+
+REFERENCE           SB_LIVE
+LANG_ENGLISH     "^1Бууум! Все убиты идиотами! Идиоты выжили! Идиоты получают бесплатный Perkaholic!"
+
+REFERENCE           RICH
+LANG_ENGLISH     "^3Стань богатым!"
+
+REFERENCE           AIRSTRIKE_ZM
+LANG_ENGLISH     "^2Точный воздушный удар!"
+
+REFERENCE           LOST_WP
+LANG_ENGLISH     "^1Вы потеряли всё оружие."
+
+REFERENCE           UNLIMIT
+LANG_ENGLISH     "Неограниченное снаряжение на 1 минуту."
+
+REFERENCE           ONCE
+LANG_ENGLISH     "Гэмблер может быть использован только один раз за раунд"
+
+REFERENCE           UNLIMIT2
+LANG_ENGLISH     "Неограниченное снаряжение закончилось"
+
+REFERENCE           GAMBLERD
+LANG_ENGLISH     "^7 сделал ставку - ^7"
+
+REFERENCE           PLAYER1
+LANG_ENGLISH     "^1Игрок: ^7"
+
+REFERENCE           PLAYER2
+LANG_ENGLISH     "^2Игрок: ^7"
+
+REFERENCE           TOOK_ALL
+LANG_ENGLISH     "^1 забрал все ваши деньги!"
+
+REFERENCE           GIVE_2000
+LANG_ENGLISH     "^2 даёт вам ^BBUTTON_COD_POINT_ICON^2000."
+
+ENDMARKER

@@ -1,0 +1,311 @@
+// Note to translators:
+// Just edit the text inside the quotes, don't edit other code
+
+VERSION             "1"
+CONFIG              "C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           PLAYERMONITOR
+LANG_ENGLISH     "Точка зрения других игроков"
+
+REFERENCE           PLAYERMONITOR_DOA
+LANG_ENGLISH     "Точка зрения других игроков (с неба на землю)"
+
+REFERENCE           WALLBUY
+LANG_ENGLISH     "Отключить подсказки Wall Buy"
+
+REFERENCE           PLAYER_HPBAR
+LANG_ENGLISH     "Отключить полоску здоровья над игроком"
+
+REFERENCE           SMOKE
+LANG_ENGLISH     "Отключить дым из дула"
+
+REFERENCE           KICK
+LANG_ENGLISH     "Отключить дополнительный отдачу новых оружий CoD"
+
+REFERENCE           DISABLE_AFK
+LANG_ENGLISH     "Отключить AFK"
+
+REFERENCE           BGB_DROP
+LANG_ENGLISH     "Выпадение улучшений Gobblegum"
+
+REFERENCE           FPS
+LANG_ENGLISH     "Графика низкого качества"
+
+REFERENCE           SM
+LANG_ENGLISH     "Показать собственную скорость движения"
+
+REFERENCE           AAT
+LANG_ENGLISH     "Отключить AAT"
+
+REFERENCE           ADS
+LANG_ENGLISH     "Без увеличения ADS"
+
+REFERENCE           T6PAP
+LANG_ENGLISH     "BO2 Pack-a-Punch"
+
+REFERENCE           GRENADE_BAR
+LANG_ENGLISH     "Отключить обратный отсчет гранат"
+
+REFERENCE           LH_GES
+LANG_ENGLISH     "Отключить жест левой рукой"
+
+REFERENCE           FSF
+LANG_ENGLISH     "Отключить вспышку на весь экран"
+
+REFERENCE           FSFB
+LANG_ENGLISH     "Инвертировать цвета вспышки на черный"
+
+REFERENCE           RESTART_HINT
+LANG_ENGLISH     "Теперь можно открыть паузу для перезапуска"
+
+REFERENCE           BACKHEAD
+LANG_ENGLISH     "Задняя часть головы"
+
+REFERENCE           UICOLOR
+LANG_ENGLISH     "Цвет интерфейса"
+
+REFERENCE           LIGHTBLUE
+LANG_ENGLISH     "Светло-синий"
+
+REFERENCE           SILVER
+LANG_ENGLISH     "Серебряный"
+
+REFERENCE           BROWN
+LANG_ENGLISH     "Коричневый"
+
+REFERENCE           LIGHTPINK
+LANG_ENGLISH     "Светло-розовый"
+
+REFERENCE           DARKGRAY
+LANG_ENGLISH     "Темно-серый"
+
+REFERENCE           FORESTGREEN
+LANG_ENGLISH     "Лесной зеленый"
+
+REFERENCE           DARKRED
+LANG_ENGLISH     "Темно-красный"
+
+REFERENCE           VIOLET
+LANG_ENGLISH     "Фиолетовый"
+
+REFERENCE           SKYBLUE
+LANG_ENGLISH     "Небесно-голубой"
+
+REFERENCE           ROYALBLUE
+LANG_ENGLISH     "Королевский синий"
+
+REFERENCE           KHAKI
+LANG_ENGLISH     "Хаки"
+
+REFERENCE           DEEPPINK
+LANG_ENGLISH     "Ярко-розовый"
+
+REFERENCE           STEELBLUE
+LANG_ENGLISH     "Стальной синий"
+
+REFERENCE           MINTCREAM
+LANG_ENGLISH     "Мятный крем"
+
+REFERENCE           BEIGE
+LANG_ENGLISH     "Бежевый"
+
+REFERENCE           OLDLACE
+LANG_ENGLISH     "Старая кружевная ткань"
+
+REFERENCE           LIGHTGRAY
+LANG_ENGLISH     "Светло-серый"
+
+REFERENCE           SLATEGRAY
+LANG_ENGLISH     "Сланцевый серый"
+
+REFERENCE           THISTLE
+LANG_ENGLISH     "Чертополох"
+
+REFERENCE           DARKVIOLET
+LANG_ENGLISH     "Темно-фиолетовый"
+
+REFERENCE           FORESTGREEN
+LANG_ENGLISH     "Лесной зеленый"
+
+REFERENCE           LIGHTSLATEGRAY
+LANG_ENGLISH     "Светлый сланцевый серый"
+
+REFERENCE           DARKSLATEBLUE
+LANG_ENGLISH     "Темный сланцевый синий"
+
+REFERENCE           DARKRED
+LANG_ENGLISH     "Темно-красный"
+
+REFERENCE           NAVY
+LANG_ENGLISH     "Темно-синий"
+
+REFERENCE           TEAL
+LANG_ENGLISH     "Сине-зеленый"
+
+REFERENCE           OLIVE
+LANG_ENGLISH     "Оливковый"
+
+REFERENCE           PURPLE
+LANG_ENGLISH     "Пурпурный"
+
+REFERENCE           SEASHELL
+LANG_ENGLISH     "Ракушка"
+
+REFERENCE           SIENNA
+LANG_ENGLISH     "Сиена"
+
+REFERENCE           ORANGERED
+LANG_ENGLISH     "Оранжево-красный"
+
+REFERENCE           FLOD
+LANG_ENGLISH     "Принудительно высокая детализация LOD"
+
+REFERENCE           BB
+LANG_ENGLISH     "Отключить черную полосу"
+
+REFERENCE           STARTINTRO
+LANG_ENGLISH     "Отключить вступление"
+
+REFERENCE           STARTHINT
+LANG_ENGLISH     "Отключить стартовую подсказку"
+
+REFERENCE           LOADING
+LANG_ENGLISH     "Отключить видео загрузки соло"
+
+REFERENCE           LOWAMMO
+LANG_ENGLISH     "Отключить звук низкого боезапаса"
+
+REFERENCE           HINTICON
+LANG_ENGLISH     "Отключить иконку подсказки"
+
+REFERENCE           PERKSLOT
+LANG_ENGLISH     "Выпадение усилений Perk Slot"
+
+REFERENCE           RELOADPROMPT
+LANG_ENGLISH     "Отключить подсказку перезарядки"
+
+REFERENCE           PERKSLOT_SELF
+LANG_ENGLISH     "Добавлять только себе"
+
+REFERENCE           PERKSLOT_ALL
+LANG_ENGLISH     "Добавлять всем"
+
+REFERENCE           SEEWALL
+LANG_ENGLISH     "Отключить показ имен игроков через стены"
+
+REFERENCE           LASTZOMBIE
+LANG_ENGLISH     "Отключить ключевую линию последнего зомби"
+
+REFERENCE           TOMBNAME
+LANG_ENGLISH     "Отключить имена гигантского робота в Origins"
+
+REFERENCE           ZA
+LANG_ENGLISH     "Отключить объявление зоны (ваша текущая зона)"
+
+REFERENCE           SELFHP
+LANG_ENGLISH     "Отключить свою полоску здоровья"
+
+REFERENCE           LAUNCHER_LOCK
+LANG_ENGLISH     "Отключить блокировку ракетницы"
+
+REFERENCE           POINTS_COLOR
+LANG_ENGLISH     "Заменить цвета очков на цвета интерфейса (требуется перезапуск)"
+
+REFERENCE           HIGHROUND_TIMER
+LANG_ENGLISH     "Таймер в игре"
+
+REFERENCE           CURRENT
+LANG_ENGLISH     "ТЕКУЩИЙ"
+
+REFERENCE           LAST
+LANG_ENGLISH     "ПОСЛЕДНИЙ"
+
+REFERENCE           HITM_STAY_M
+LANG_ENGLISH     "Меньший хитмаркер"
+
+REFERENCE           ZCPERK
+LANG_ENGLISH     "Отключить дополнительные машины Perk и PAP на картах ZC (требуется перезапуск)"
+
+REFERENCE           NOPES
+LANG_ENGLISH     "Невозможно взаимодействовать с P.E.S. на Moon"
+
+REFERENCE           PAPBOX
+LANG_ENGLISH     "Pap'd Mystery Box (Требуется AF & 50 EE)"
+
+REFERENCE           MOTIONUI
+LANG_ENGLISH     "Интерфейс движения"
+
+REFERENCE           MOTIONUI_1
+LANG_ENGLISH     "Перевернуть / Двигать"
+
+REFERENCE           MOTIONUI_2
+LANG_ENGLISH     "Перевернуть / Двигать (обратное)"
+
+REFERENCE           MOTIONUI_3
+LANG_ENGLISH     "Двигать"
+
+REFERENCE           MOTIONUI_4
+LANG_ENGLISH     "Перевернуть"
+
+REFERENCE           MOTIONUI_INTENSITY
+LANG_ENGLISH     "Интенсивность интерфейса движения"
+
+REFERENCE           NO_SUPPORT_LINE1
+LANG_ENGLISH     "^1Обнаружена неподдерживаемая версия\n^3Проверьте следующее^7:"
+
+REFERENCE           NO_SUPPORT_LINE2
+LANG_ENGLISH     "\n\n\n^21^7. Вы запускаете Black Ops III через клиент Steam ^BBUTTON_CYCLE_RIGHT^? (Опции для игр вне Steam не учитываются)"
+
+REFERENCE           NO_SUPPORT_LINE3
+LANG_ENGLISH     "\n\n\n\n^22^7. Вы купили Black Ops III на текущей учетной записи Steam ^BBUTTON_CYCLE_RIGHT^?"
+
+REFERENCE           NO_SUPPORT_LINE4
+LANG_ENGLISH     "\n\n\n\n\n^23^7. Вы используете устройство или ОС ^5Windows 10 ^7/ ^5Windows 11 ^7/ ^5Steam Deck ^7/ ^5Linux ^7?"
+
+REFERENCE           MWZCOLOR
+LANG_ENGLISH     "Цвет команды BO6 (требуется перезапуск)"
+
+REFERENCE           AMMOBAG
+LANG_ENGLISH     "Отключить появление сумки с боеприпасами каждые 2 раунда"
+
+REFERENCE           SLOTHUD
+LANG_ENGLISH     "Отключить HUD слота Perk"
+
+REFERENCE           STABAR
+LANG_ENGLISH     "Отключить индикатор выносливости"
+
+REFERENCE           AUTOLEAN
+LANG_ENGLISH     "Отключить автоматический наклон"
+
+REFERENCE           BGB_START
+LANG_ENGLISH     "Старт раунда Gobblegum"
+
+REFERENCE           C4ENDING
+LANG_ENGLISH     "Купаемое окончание C4 (150K+ / раунд 35)"
+
+REFERENCE           GUNPOS
+LANG_ENGLISH     "Положение модели руки от первого лица"
+
+REFERENCE           GUNPOS_ENABLE
+LANG_ENGLISH     "Включить пользовательское положение модели руки от первого лица"
+
+REFERENCE           T7HUD
+LANG_ENGLISH     "Макет HUD (требуется перезапуск)"
+
+REFERENCE           TIPHINT
+LANG_ENGLISH     "Отключить подсказки и счетчик душ"
+
+REFERENCE           BARSPIN
+LANG_ENGLISH     "Плоский интерфейс (требуется перезапуск)"
+
+REFERENCE           T7
+LANG_ENGLISH     "Ваниль"
+
+REFERENCE           T10
+LANG_ENGLISH     "Центральные иконки Perk"
+
+REFERENCE           NOATTACHMENT  
+LANG_ENGLISH     "Нет вложения"  
+
+ENDMARKER

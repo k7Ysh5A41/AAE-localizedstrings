@@ -1,0 +1,101 @@
+// Note to translators:
+// Just edit the text inside the quotes, don't edit other code
+
+VERSION             "1"
+CONFIG              "C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           ROCKETSHIELD_UPGRADED_TITLE
+LANG_ENGLISH     "Rocket Shield Upgrade"
+
+REFERENCE           ROCKETSHIELD_UPGRADED_CONTENT
+LANG_ENGLISH     "1. kill 10 zombies with 12 consecutive bursts with the Rocket Shield\n(If the kills is less than 10, you must start over)\n2. When you hear the cheering sound effect, you will receive an upgraded rocket shield"
+
+REFERENCE           IDGUN_UPGRADED_TITLE
+LANG_ENGLISH     "Apothican Servant Upgrade"
+
+REFERENCE           IDGUN_UPGRADED_CONTENT
+LANG_ENGLISH     "1. Search for the cocoons hanging on the map. When the player has the Apothican Servant, the closer they are to the cocoon, the more frequent the heartbeat sound emitted by the Apothican Servant will be\n2. After finding the cocoon, use the Apothican Servant to kill 100 zombies near the cocoon\n3. Shoot the cocoon, and it will suck the Apothican Servant inside, waiting for the next round\n4. Destroy the cocoon, and the upgraded Apothican Servant will drop, which any player can pick up"
+
+REFERENCE           GASMASK_UPGRADED_TITLE
+LANG_ENGLISH     "Gas Mask Upgrade"
+
+REFERENCE           GASMASK_UPGRADED_CONTENT
+LANG_ENGLISH     "Shooting the mask on the crafting table with Masamune\nWill upgrade the Gasmask to infinite immunity to toxic spore"
+
+REFERENCE           FREEGUM_TITLE
+LANG_ENGLISH     "Free Anywhere But Here!"
+
+REFERENCE           FREEGUM_CONTENT
+LANG_ENGLISH     "You can get one “Anywhere But Here” from here."
+
+REFERENCE           AA_AMMO_CHANCE_TITLE
+LANG_ENGLISH     "Increase the probability of the AA Ammo"
+
+REFERENCE           AA_AMMO_CHANCE_CONTENT
+LANG_ENGLISH     "Lucky Crit Gobblegum will increase the probability of AA gun ammo spawning to 100%"
+
+REFERENCE           GIANT_PERK_EE_TITLE
+LANG_ENGLISH     "5th Perk Machine EE"
+
+REFERENCE           GIANT_PERK_EE_CONTENT
+LANG_ENGLISH     "Throw a monkey bomb into and activate each of the three teleporters to power this switch"
+
+REFERENCE           GENESIS_SHIELD_TITLE
+LANG_ENGLISH     "Dragon Shield Upgrade"
+
+REFERENCE           GENESIS_SHIELD_CONTENT
+LANG_ENGLISH     "1. Use Apothicon Servant to shoot the craft table, and the vortex will suck away the Apothicon Servant and no return. \n2. Once vortex ends, the shield upgrade will be complete."
+
+REFERENCE           TEMPLE_KEY_COMBO_EE_TITLE
+LANG_ENGLISH     "Exploding Monkey Easter Egg"
+
+REFERENCE           TEMPLE_KEY_COMBO_EE_CONTENT
+LANG_ENGLISH     "Stand here and press following buttons to explode the monkey:\n^3[{+actionslot 1}] [{+actionslot 1}] [{+actionslot 2}] [{+gostand}]"
+
+REFERENCE           MOON_SUPER_PES_TITLE
+LANG_ENGLISH     "Super Pressurized External Suit"
+
+REFERENCE           MOON_SUPER_PES_CONTENT
+LANG_ENGLISH     "P.E.S. now is hackable.\nHacking and grab it again, it can coexist with the hacker"
+
+REFERENCE           MOON_DIGGER_HACKING_TITLE
+LANG_ENGLISH     "Excavator control are now hackable"
+
+REFERENCE           MOON_DIGGER_HACKING_CONTENT
+LANG_ENGLISH     "Hacking cost for Omicron and Epsilon panels is 1000\nPi panel hacking cost is 5000 if the gobblegum machine is disabled or random gobblegum is enabled\nif not, Pi panel hacking will be disabled until round 10 and cost changed to 50000\nIf Tunnel 6 is destroyed before hacking, the Pi panel cost changed to 1000"
+
+REFERENCE           MOON_EE_ITEM_TITLE
+LANG_ENGLISH     "Geting EE items from Jump Pad"
+
+REFERENCE           MOON_EE_ITEM_CONTENT
+LANG_ENGLISH     "After round 10\nJump pad will has chance to spawn rare weapons and equipments\nYou have 10 minutes to collect them after spawning"
+
+REFERENCE           FIRETYPE
+LANG_ENGLISH     "Fire Mode"
+
+REFERENCE           MELEETIME
+LANG_ENGLISH     "Melee Time"
+
+REFERENCE           DAMAGE
+LANG_ENGLISH     "Damage"
+
+REFERENCE           STK
+LANG_ENGLISH     "Shots to Kill on Round30"
+
+REFERENCE           SHOTCOUNT
+LANG_ENGLISH     "Shotgun Shot Count"
+
+REFERENCE           BOLTTIME
+LANG_ENGLISH     "Bolt Time"
+
+REFERENCE           RELOADTIME
+LANG_ENGLISH     "Reload Time"
+
+REFERENCE           MAGSIZE
+LANG_ENGLISH     "Mag Size"
+
+REFERENCE           STOCKAMMO
+LANG_ENGLISH     "Stock Ammo"
+
+ENDMARKER

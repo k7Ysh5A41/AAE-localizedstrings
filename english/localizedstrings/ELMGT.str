@@ -1,0 +1,92 @@
+// Note to translators:
+// Just edit the text inside the quotes, don't edit other code
+
+VERSION             "1"
+CONFIG              "C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           SILENCER
+LANG_ENGLISH     "^2Power-ups Booster"
+
+REFERENCE           SILENCER_DESC
+LANG_ENGLISH     "^2Increases the chance for powerups to drop."
+
+REFERENCE           FMJ_DESC
+LANG_ENGLISH     "^2Deals 200% damage against non-zombie enemies."
+
+REFERENCE           EE_COUNT
+LANG_ENGLISH     "^5Easter eggs completed: ^7"
+
+REFERENCE           EE_COMPLETED_START
+LANG_ENGLISH     "I have completed "
+
+REFERENCE           EE_COMPLETED_END
+LANG_ENGLISH     " Easter egg in total"
+
+REFERENCE           ROAMER_LABEL
+LANG_ENGLISH     "Press ^3ADS^7 + ^3[{+melee}]^7 To Start Next Round"
+
+REFERENCE           ROAMER_LABEL_TIMER
+LANG_ENGLISH     "Press ^3ADS^7 + ^3[{+melee}]^7 To Start Next Round\nTime Remaining: ^5"
+
+REFERENCE           PURIFIER_HINT
+LANG_ENGLISH     "Shoot flames at teammates to revive them"
+
+REFERENCE           OUTRIDER_HINT
+LANG_ENGLISH     "Shoot teammates with direct hits to revive them"
+
+REFERENCE           GB_PW
+LANG_ENGLISH     "^8Pixel World"
+
+REFERENCE           GB_RW
+LANG_ENGLISH     "^8Real World"
+
+REFERENCE           GB_SKY
+LANG_ENGLISH     "^8Sky Spinning for 1 minute"
+
+REFERENCE           GB_NOAMMO
+LANG_ENGLISH     "^1GET ME SOME AMMO!!"
+
+REFERENCE           GB_DWARF
+LANG_ENGLISH     "Dwarf"
+
+REFERENCE           GB_DWARFOVER
+LANG_ENGLISH     "Dwarf Over"
+
+REFERENCE           GB_LEAK
+LANG_ENGLISH     "^1Money Leak"
+
+REFERENCE           GB_LEAKOVER
+LANG_ENGLISH     "^5Money Leak Over"
+
+REFERENCE           GB_INFAMMO
+LANG_ENGLISH     "^2SUPPRESS FIRE!!"
+
+REFERENCE           GG_LV
+LANG_ENGLISH     "^2Gun level: ^7"
+
+REFERENCE           MAPINTRO
+LANG_ENGLISH     "Disable loading movies"
+
+REFERENCE           BOTS
+LANG_ENGLISH     "Bots"
+
+REFERENCE           LOBBY_PASSWORD
+LANG_ENGLISH     "Lobby password"
+
+REFERENCE           LOBBY_PASSWORD_DESC
+LANG_ENGLISH     "Add a password to the lobby"
+
+REFERENCE           WINER
+LANG_ENGLISH     "^5Winner^7: "
+
+REFERENCE           GG_UP
+LANG_ENGLISH     "^2Gun Promotion"
+
+REFERENCE           GG_DOWN
+LANG_ENGLISH     "^1Humiliated"
+
+REFERENCE           DPAP_DESC
+LANG_ENGLISH     "The re-PAP system from BO4. Your first PAP will give the normal amount of damage PAP always gave in BO3. After that, you can re-PAP up to 4 more times to get a total of another 80% increase to the normal BO3 PAP damage. You will see an indicator in the bottom right of the screen below the weapon telling you its PAP level, with the highest being EPIC (Yellow Text)."
+
+ENDMARKER

@@ -1,0 +1,311 @@
+// Note to translators:
+// Just edit the text inside the quotes, don't edit other code
+
+VERSION             "1"
+CONFIG              "C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           PLAYERMONITOR
+LANG_ENGLISH     "Other players' POV"
+
+REFERENCE           PLAYERMONITOR_DOA
+LANG_ENGLISH     "Other players' POV(Perspective from the sky to the ground)"
+
+REFERENCE           WALLBUY
+LANG_ENGLISH     "Disable Wall Buy Hints"
+
+REFERENCE           PLAYER_HPBAR
+LANG_ENGLISH     "Disable Player Overhead Healthbar"
+
+REFERENCE           SMOKE
+LANG_ENGLISH     "Disable Muzzle Smoke Trails"
+
+REFERENCE           KICK
+LANG_ENGLISH     "Disable Extra Weapon Kickback For New CoD Weapons"
+
+REFERENCE           DISABLE_AFK
+LANG_ENGLISH     "Disable AFK"
+
+REFERENCE           BGB_DROP
+LANG_ENGLISH     "Gobblegum Powerup Drops"
+
+REFERENCE           FPS
+LANG_ENGLISH     "Potato Graphics"
+
+REFERENCE           SM
+LANG_ENGLISH     "Show your own movement speed"
+
+REFERENCE           AAT
+LANG_ENGLISH     "Disable AAT"
+
+REFERENCE           ADS
+LANG_ENGLISH     "No ADS Zoom"
+
+REFERENCE           T6PAP
+LANG_ENGLISH     "BO2 Pack-a-Punch"
+
+REFERENCE           GRENADE_BAR
+LANG_ENGLISH     "Disable Grenade Countdown"
+
+REFERENCE           LH_GES
+LANG_ENGLISH     "Disable Left Hand Gesture"
+
+REFERENCE           FSF
+LANG_ENGLISH     "Disable Full Screen Flash"
+
+REFERENCE           FSFB
+LANG_ENGLISH     "Full Screen Flash Reverse Color to Black"
+
+REFERENCE           RESTART_HINT
+LANG_ENGLISH     "You can now open the pause menu to restart"
+
+REFERENCE           BACKHEAD
+LANG_ENGLISH     "The back of my head"      
+
+REFERENCE           UICOLOR
+LANG_ENGLISH     "UI Color"      
+
+REFERENCE           LIGHTBLUE
+LANG_ENGLISH     "Light Blue"
+ 
+REFERENCE           SILVER
+LANG_ENGLISH     "Silver"
+ 
+REFERENCE           BROWN
+LANG_ENGLISH     "Brown"
+ 
+REFERENCE           LIGHTPINK
+LANG_ENGLISH     "Light Pink"
+ 
+REFERENCE           DARKGRAY
+LANG_ENGLISH     "Dark Gray"
+ 
+REFERENCE           FORESTGREEN
+LANG_ENGLISH     "Forest Green"
+ 
+REFERENCE           DARKRED
+LANG_ENGLISH     "Dark Red"
+ 
+REFERENCE           VIOLET
+LANG_ENGLISH     "Violet"
+ 
+REFERENCE           SKYBLUE
+LANG_ENGLISH     "Sky Blue"
+ 
+REFERENCE           ROYALBLUE
+LANG_ENGLISH     "Royal Blue"
+ 
+REFERENCE           KHAKI
+LANG_ENGLISH     "Khaki"
+ 
+REFERENCE           DEEPPINK
+LANG_ENGLISH     "Deep Pink"
+ 
+REFERENCE           STEELBLUE
+LANG_ENGLISH     "Steel Blue"
+ 
+REFERENCE           MINTCREAM
+LANG_ENGLISH     "Mint Cream"
+ 
+REFERENCE           BEIGE
+LANG_ENGLISH     "Beige"
+ 
+REFERENCE           OLDLACE
+LANG_ENGLISH     "Old Lace"
+ 
+REFERENCE           LIGHTGRAY
+LANG_ENGLISH     "Light Gray"
+ 
+REFERENCE           SLATEGRAY
+LANG_ENGLISH     "Slate Gray"
+ 
+REFERENCE           THISTLE
+LANG_ENGLISH     "Thistle"
+ 
+REFERENCE           DARKVIOLET
+LANG_ENGLISH     "Dark Violet"
+ 
+REFERENCE           FORESTGREEN
+LANG_ENGLISH     "Forest Green"
+ 
+REFERENCE           LIGHTSLATEGRAY
+LANG_ENGLISH     "Light Slate Gray"
+ 
+REFERENCE           DARKSLATEBLUE
+LANG_ENGLISH     "Dark Slate Blue"
+ 
+REFERENCE           DARKRED
+LANG_ENGLISH     "Dark Red"
+ 
+REFERENCE           NAVY
+LANG_ENGLISH     "Navy"
+ 
+REFERENCE           TEAL
+LANG_ENGLISH     "Teal"
+ 
+REFERENCE           OLIVE
+LANG_ENGLISH     "Olive"
+ 
+REFERENCE           PURPLE
+LANG_ENGLISH     "Purple"
+ 
+REFERENCE           SEASHELL
+LANG_ENGLISH     "Sea Shell"
+ 
+REFERENCE           SIENNA
+LANG_ENGLISH     "Sienna"
+ 
+REFERENCE           ORANGERED
+LANG_ENGLISH     "Orange Red"
+ 
+REFERENCE           FLOD
+LANG_ENGLISH     "Force high LOD rendering"
+ 
+REFERENCE           BB
+LANG_ENGLISH     "Disable Black Bar"
+ 
+REFERENCE           STARTINTRO
+LANG_ENGLISH     "Disable Start Intro"
+ 
+REFERENCE           STARTHINT
+LANG_ENGLISH     "Disable Start Hint"
+
+REFERENCE           LOADING
+LANG_ENGLISH     "Disable Solo Loading Movie"
+
+REFERENCE           LOWAMMO
+LANG_ENGLISH     "Disable Low Ammo Sound"
+
+REFERENCE           HINTICON
+LANG_ENGLISH     "Disable Hintstring Icon"
+ 
+REFERENCE           PERKSLOT
+LANG_ENGLISH     "Perk Slot Powerup Drops"
+ 
+REFERENCE           RELOADPROMPT
+LANG_ENGLISH     "Disable Reload Prompt"
+ 
+REFERENCE           PERKSLOT_SELF
+LANG_ENGLISH     "Only add to self"
+ 
+REFERENCE           PERKSLOT_ALL
+LANG_ENGLISH     "Add to all"
+ 
+REFERENCE           SEEWALL
+LANG_ENGLISH     "Disable Seeing Player Names Through Walls"
+ 
+REFERENCE           LASTZOMBIE
+LANG_ENGLISH     "Disable Keyline of The Last Zombie"
+ 
+REFERENCE           TOMBNAME
+LANG_ENGLISH     "Disable Origins Giant Robot Names"
+ 
+REFERENCE           ZA
+LANG_ENGLISH     "Disable Zone Announcer"
+ 
+REFERENCE           SELFHP
+LANG_ENGLISH     "Disable Self Health Bar"
+ 
+REFERENCE           LAUNCHER_LOCK
+LANG_ENGLISH     "Disable Rocket Launcher LockOn"
+ 
+REFERENCE           POINTS_COLOR
+LANG_ENGLISH     "Override Score Colors With UI Colors(Restart Required)"
+ 
+REFERENCE           HIGHROUND_TIMER
+LANG_ENGLISH     "In-game Timer"
+
+REFERENCE           CURRENT
+LANG_ENGLISH     "CURRENT"
+
+REFERENCE           LAST
+LANG_ENGLISH     "LAST"
+
+REFERENCE           HITM_STAY_M
+LANG_ENGLISH     "Smaller Hitmarker"
+
+REFERENCE           ZCPERK
+LANG_ENGLISH     "Disable Extra Perk Machine and PAP in ZC Maps(restart required)"
+
+REFERENCE           NOPES
+LANG_ENGLISH     "Unable to interact with P.E.S. in Moon"
+
+REFERENCE           PAPBOX
+LANG_ENGLISH     "Pap'd Mystery Box(Requires AF & 50 EE)"
+
+REFERENCE           MOTIONUI
+LANG_ENGLISH     "Motion UI"
+
+REFERENCE           MOTIONUI_1
+LANG_ENGLISH     "Flip / Move"
+
+REFERENCE           MOTIONUI_2
+LANG_ENGLISH     "Flip / Move (Reverse)"
+
+REFERENCE           MOTIONUI_3
+LANG_ENGLISH     "Move"
+
+REFERENCE           MOTIONUI_4
+LANG_ENGLISH     "Flip"
+
+REFERENCE           MOTIONUI_INTENSITY
+LANG_ENGLISH     "Motion UI Intensity"
+
+REFERENCE           NO_SUPPORT_LINE1
+LANG_ENGLISH     "^1Unsupported Version Detected\n^3Please Check The Following^7:"
+
+REFERENCE           NO_SUPPORT_LINE2
+LANG_ENGLISH     "\n\n\n^21^7. Are You Launching Black Ops III Using ^BBUTTON_CYCLE_RIGHT^ Steam Client? ( Non-Steam Game Options Don't Count )"
+
+REFERENCE           NO_SUPPORT_LINE3
+LANG_ENGLISH     "\n\n\n\n^22^7. Have You Purchased and Own Black Ops III On Your Current ^BBUTTON_CYCLE_RIGHT^ Steam Account ?"
+
+REFERENCE           NO_SUPPORT_LINE4
+LANG_ENGLISH     "\n\n\n\n\n^23^7. Are You Currently Using a Device or Operating System That is ^5Windows 10 ^7/ ^5Windows 11 ^7/ ^5Steam Deck ^7/ ^5Linux ^7?"
+
+REFERENCE           MWZCOLOR
+LANG_ENGLISH     "BO6 Teammate Color(restart required)"
+
+REFERENCE           AMMOBAG
+LANG_ENGLISH     "Disable Ammo Bag That Spawn Every 2 Rounds"
+
+REFERENCE           SLOTHUD
+LANG_ENGLISH     "Disable Perk Slot Hud"
+
+REFERENCE           STABAR
+LANG_ENGLISH     "Disable Stamina Bar"
+
+REFERENCE           AUTOLEAN
+LANG_ENGLISH     "Disable Auto Leaning"
+
+REFERENCE           BGB_START
+LANG_ENGLISH     "Gobblegum Start Round"
+
+REFERENCE           C4ENDING
+LANG_ENGLISH     "C4 Buyable Ending(150K+Round 35)"
+
+REFERENCE           GUNPOS
+LANG_ENGLISH     "First Person Arm Model Position"
+
+REFERENCE           GUNPOS_ENABLE
+LANG_ENGLISH     "Enable Custom First Person Arm Model Position"
+
+REFERENCE           T7HUD
+LANG_ENGLISH     "Hud Layout(Restart Required)"
+
+REFERENCE           TIPHINT
+LANG_ENGLISH     "Disable Tip Hint and Soul Counter"
+
+REFERENCE           BARSPIN
+LANG_ENGLISH     "Flat UI(Restart Required)"
+
+REFERENCE           T7
+LANG_ENGLISH     "Vanilla"
+
+REFERENCE           T10
+LANG_ENGLISH     "Perk In The Center"
+
+REFERENCE           NOATTACHMENT
+LANG_ENGLISH     "No Attachment"
+
+ENDMARKER

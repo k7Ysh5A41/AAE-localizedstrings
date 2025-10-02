@@ -1,0 +1,35 @@
+// Note to translators:
+// Just edit the text inside the quotes, don't edit other code
+
+VERSION             "1"
+CONFIG              "C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           DEADSHOT
+LANG_ENGLISH     "Migliora la precisione del fuoco dall’anca e mira automaticamente alla testa degli zombie quando si usa la mira\n^5Bonus AAE^7: Dopo 5 colpi alla testa consecutivi, la precisione del fuoco dall’anca è massimizzata, i danni alla testa sono moltiplicati per 1,5 e puoi vedere gli zombie attraverso i muri"
+
+REFERENCE           DOUBLETAP
+LANG_ENGLISH     "Aumenta la cadenza di fuoco delle armi e raddoppia ogni proiettile sparato\n^5Bonus AAE^7: Le armi speciali si ricaricano più velocemente"
+
+REFERENCE           JUGGER
+LANG_ENGLISH     "Raddoppia la tua salute, permettendoti di cadere dopo 5 colpi invece di 3"
+
+REFERENCE           MULEKICK
+LANG_ENGLISH     "Ti permette di portare 3 armi invece di 2\n^5Bonus AAE^7: Dopo aver perso Mulekick, la prossima volta che lo ottieni riacquisterai l’arma persa"
+
+REFERENCE           REVIVE_SOLO
+LANG_ENGLISH     "Ti rianimi da solo quando sei a terra\n^5Bonus AAE^7: Riduce del 40% il ritardo nella rigenerazione della salute"
+
+REFERENCE           REVIVE
+LANG_ENGLISH     "Rianima un compagno a terra più velocemente\n^5Bonus AAE^7: Riduce del 40% il ritardo nella rigenerazione della salute\nI compagni rianimati non possono subire danni dagli zombie e, se la rianimazione viene interrotta, prolunga il tempo di dissanguamento del giocatore a terra"
+
+REFERENCE           FASTRELOAD
+LANG_ENGLISH     "Aumenta la velocità di ricarica\n^5Bonus AAE^7: Cambio arma più rapido, mira (ADS) più veloce, lancio dell’equipaggiamento più rapido, bevuta dei perk più veloce, masticazione del gobblegum più rapida, salita sulle scale più veloce, nessuna animazione iniziale quando si ottiene una nuova arma, salita sul carro armato più rapida"
+
+REFERENCE           STAMINUP
+LANG_ENGLISH     "Ti permette di correre per periodi di tempo più lunghi\n^5Bonus AAE^7: Sparare mentre corri, sollevare l’arma più velocemente alla fine dello sprint, lanciare l’equipaggiamento mentre corri, ADS più veloce in movimento, sprint infinito"
+
+REFERENCE           WINE
+LANG_ENGLISH     "Ottieni il coltello della Widow's Wine per aumentare i danni corpo a corpo. Sostituisce le granate con granate Widow's Wine che intrappolano gli zombie nelle ragnatele. Un bonus a forma di ragno cadrà per ricaricare le granate. Quando gli zombie ti attaccano, provoca una piccola esplosione che avvolge lo zombie nelle ragnatele.\n^5Bonus AAE^7: Immunità alle esplosioni"
+
+ENDMARKER

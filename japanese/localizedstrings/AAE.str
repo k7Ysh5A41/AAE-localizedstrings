@@ -1,0 +1,266 @@
+// Note to translators:
+// Just edit the text inside the quotes, don't edit other code
+
+VERSION             "1"
+CONFIG              "C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           DISCORD_INVITE
+LANG_ENGLISH     "ゲーム招待を作成"
+
+REFERENCE           DISCORD_INVITE_DESC
+LANG_ENGLISH     "以下のオプションから選択してください。選択後すぐにプロセスが開始されます"
+
+REFERENCE           DISCORD_INVITE_OPTION1
+LANG_ENGLISH     "招待リンクを生成してAAE Discordサーバーに送信"
+
+REFERENCE           DISCORD_INVITE_OPTION2
+LANG_ENGLISH     "招待リンクを生成してブラウザに表示しコピー可能にする"
+
+REFERENCE           SEND_INVITE_TOAST_HEAD1
+LANG_ENGLISH     "後ほど再度お試しください"
+
+REFERENCE           SEND_INVITE_TOAST_HEAD2
+LANG_ENGLISH     "他のプレイヤーは後であなたの招待を見ることができます！"
+
+REFERENCE           SEND_INVITE_TOAST_HEAD3
+LANG_ENGLISH     "招待機能を初期化中"
+
+REFERENCE           SEND_INVITE_TOAST_HEAD4
+LANG_ENGLISH     "リクエストが多すぎます"
+
+REFERENCE           SEND_INVITE_TOAST_FOOT1
+LANG_ENGLISH     "招待できません"
+
+REFERENCE           SEND_INVITE_TOAST_FOOT2
+LANG_ENGLISH     "後ほど再度お試しください"
+
+REFERENCE           CREATE_INVITE_TOAST_HEAD1
+LANG_ENGLISH     "招待リンクをブラウザに送信しました"
+
+REFERENCE           CREATE_INVITE_TOAST_FOOT1
+LANG_ENGLISH     "リンクを生成しました"
+
+REFERENCE           CREATE_INVITE_TOAST_HEAD2
+LANG_ENGLISH     "リンクを生成できませんでした"
+
+REFERENCE           CAREERS
+LANG_ENGLISH     "^3AAE キャリア"
+
+REFERENCE           BANK_BALANCE
+LANG_ENGLISH     "銀行残高"
+
+REFERENCE           PARASITE
+LANG_ENGLISH     "寄生虫"
+
+REFERENCE           HIGHEST
+LANG_ENGLISH     "最高 "
+
+REFERENCE           EE_COUNT
+LANG_ENGLISH     "イースターエッグカウント"
+
+REFERENCE           BOARD_COUNT
+LANG_ENGLISH     "ボードカウント"
+
+REFERENCE           PICKUP
+LANG_ENGLISH     " 回取得"
+
+REFERENCE           BUILDABLES_COUNT
+LANG_ENGLISH     "建造物カウント"
+
+REFERENCE           PLANTED
+LANG_ENGLISH     " 回設置"
+
+REFERENCE           POWER_ON_COUNT
+LANG_ENGLISH     "電源オン回数"
+
+REFERENCE           USES
+LANG_ENGLISH     " 回使用"
+
+REFERENCE           MEATBALLS
+LANG_ENGLISH     "ミートボール"
+
+REFERENCE           WUNDERFIZZ
+LANG_ENGLISH     "ワンダーフィズ"
+
+REFERENCE           GRABBED
+LANG_ENGLISH     " 回掴んだ"
+
+REFERENCE           WALLBUY_PURCHASED
+LANG_ENGLISH     "壁購入済み"
+
+REFERENCE           NOT_GRAABED
+LANG_ENGLISH     " 掴んでいない"
+
+REFERENCE           DIED_REVIVE
+LANG_ENGLISH     "プレイヤー復帰中に死亡"
+
+REFERENCE           WALLBUY_PAP_AMMO
+LANG_ENGLISH     "壁でPaP弾購入済み"
+
+REFERENCE           AAT
+LANG_ENGLISH     "AAT発動回数"
+
+REFERENCE           DOWN_REVIVE
+LANG_ENGLISH     "プレイヤー復帰後にダウン"
+
+REFERENCE           WALLBUY_AMMO
+LANG_ENGLISH     "壁で弾薬購入済み"
+
+REFERENCE           BGB
+LANG_ENGLISH     " 回噛んだ"
+
+REFERENCE           SAVE
+LANG_ENGLISH     "キャリーデータを保存中"
+
+REFERENCE           GAMBLER_DESC
+LANG_ENGLISH     "購入後10秒のカウントダウンがあり、その後ランダムなことが起こります。良いことも悪いことも面白いことも、多くの可能性があります。"
+
+REFERENCE           DISCORD_INVITE_OPTION0
+LANG_ENGLISH     "Discordプロフィールに「ゲームに参加」ボタンを更新・追加"
+
+REFERENCE           RPC_TOAST_FOOT1
+LANG_ENGLISH     "ボタンを更新できません"
+
+REFERENCE           RPC_TOAST_HEAD2
+LANG_ENGLISH     "参加ボタンを更新中"
+
+REFERENCE           RAINBOW_EYE_DESC
+LANG_ENGLISH     "ゾンビの目が虹に変わります"
+
+REFERENCE           CHAT_HELP
+LANG_ENGLISH     "チャットで ^3/?^7 と入力すると、利用可能な全てのチャットコマンドが表示されます。"
+
+REFERENCE           OUT_OF_BOUNDS
+LANG_ENGLISH     "^1エリア外"
+
+REFERENCE           PAP_BUSY
+LANG_ENGLISH     "Pack-a-Punchは使用中"
+
+REFERENCE           PAP_OCTOBOMB
+LANG_ENGLISH     "^3[{+melee}]^7 を押してPack-a-Punchをリルアーニー専用モードに切り替え可能"
+
+REFERENCE           PAP_MONKEY
+LANG_ENGLISH     "^3[{+melee}]^7 を押してPack-a-Punchをシンバルモンキー専用モードに切り替え可能"
+
+REFERENCE           PAP_ONLY_ACCEPTS
+LANG_ENGLISH     "Pack-a-Punchは現在以下のみ受け付けます "
+
+REFERENCE           PAP_NOT_ACCEPTS
+LANG_ENGLISH     "Pack-a-Punchは以下を受け付けていません "
+
+REFERENCE           AFK
+LANG_ENGLISH     "AFK"
+
+REFERENCE           AFK_DESC
+LANG_ENGLISH     "現在ゾンビから無視されており、他のプレイヤーがあなたを押すことができます。"
+
+REFERENCE           PAP_OR_NORMAL
+LANG_ENGLISH     "PaP または 通常"
+
+REFERENCE           PAP_AND_NORMAL
+LANG_ENGLISH     "PaP と 通常"
+
+REFERENCE           THROW_CANCLE
+LANG_ENGLISH     " / 投擲物キャンセル"
+
+REFERENCE           IMMUNE
+LANG_ENGLISH     "無敵"
+
+REFERENCE           RAMPAGE
+LANG_ENGLISH     "ランページ誘導装置"
+
+REFERENCE           VOID
+LANG_ENGLISH     "悪魔の門"
+
+REFERENCE           FIRE
+LANG_ENGLISH     "ルーン牢獄"
+
+REFERENCE           LIGHTING
+LANG_ENGLISH     "嵐"
+
+REFERENCE           WOLF
+LANG_ENGLISH     "狼の遠吠え"
+
+REFERENCE           DEACTIVATE
+LANG_ENGLISH     "無効化"
+
+REFERENCE           GAMBLER
+LANG_ENGLISH     "賭け師"
+
+REFERENCE           MATCHMAKING_SETTINGS
+LANG_ENGLISH     "マッチメイキング設定"
+
+REFERENCE           MATCHMAKING_CREATE
+LANG_ENGLISH     "ロビーのみ作成"
+
+REFERENCE           MATCHMAKING_JOIN
+LANG_ENGLISH     "ロビーに参加 / 作成"
+
+REFERENCE           INVITEDISCORD
+LANG_ENGLISH     "Discordで招待"
+
+REFERENCE           RESTARTHINT
+LANG_ENGLISH     "マップを再起動するには &&1 を ^1&&2^7 回押してください"
+
+REFERENCE           RESTARTING
+LANG_ENGLISH     "再起動中......"
+
+REFERENCE           NORAMPAGE
+LANG_ENGLISH     "ランページ誘導装置を無効化"
+
+REFERENCE           RANDOM_MAP
+LANG_ENGLISH     "ランダムマップ変更"
+
+REFERENCE           COPYLOBBYID
+LANG_ENGLISH     "ロビーIDをクリップボードにコピー"
+
+REFERENCE           JOINLOBBYID
+LANG_ENGLISH     "クリップボードから参加"
+
+REFERENCE           LINKCOPY
+LANG_ENGLISH     "招待リンクをコピーしました"
+
+REFERENCE           LOBBYIDCOPY
+LANG_ENGLISH     "ロビーIDをコピーしました"
+
+REFERENCE           DISCORDRUN
+LANG_ENGLISH     "Discordアプリがバックグラウンドで実行されている必要があります"
+
+REFERENCE           DOWNLOAD_MAP_FROM_CLIPBOARD
+LANG_ENGLISH     "クリップボードからマップをダウンロード"
+
+REFERENCE           DOWNLOAD_MAP_FROM_CLIPBOARD_TITLE
+LANG_ENGLISH     "Steamのダウンロードリストを確認してください"
+
+REFERENCE           DOWNLOAD_MAP_FROM_CLIPBOARD_DESC
+LANG_ENGLISH     "新しいマップをリクエスト中......"
+
+REFERENCE           DOWNLOAD_MAP_FROM_CLIPBOARD_ERROR_TITLE
+LANG_ENGLISH     "正しいマップIDを貼り付けてください"
+
+REFERENCE           DOWNLOAD_MAP_FROM_CLIPBOARD_ERROR_DESC
+LANG_ENGLISH     "マップIDが正しくありません"
+
+REFERENCE           DOWNLOAD_MAP_FROM_CLIPBOARD_INSTALLED_TITLE
+LANG_ENGLISH     "このマップはインストールされました"
+
+REFERENCE           VIDEOPLAYER
+LANG_ENGLISH     "マップシネマティック"
+
+REFERENCE           OUTRO_CAPS
+LANG_ENGLISH     "アウトロ"
+
+REFERENCE           OUTRO
+LANG_ENGLISH     "アウトロ"
+
+REFERENCE           ISLAND_LOAD_AA_GUN
+LANG_ENGLISH     "^3[{+activate}]^7 長押しで対空砲を装填"
+
+REFERENCE           ISLAND_FIRE_AA_GUN
+LANG_ENGLISH     "^3[{+activate}]^7 長押しで対空砲を発射"
+
+REFERENCE           NEED_UPDATE
+LANG_ENGLISH     "新しいAAEアップデートが見つかりました！\nアップデートを受け取り、他のプレイヤーとオンラインでプレイするにはAAEを再購読する必要があります"
+
+ENDMARKER

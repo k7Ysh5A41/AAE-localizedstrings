@@ -1,0 +1,35 @@
+// Note to translators:
+// Just edit the text inside the quotes, don't edit other code
+
+VERSION             "1"
+CONFIG              "C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           DEADSHOT
+LANG_ENGLISH     "Melhora a precisão de tiro a partir do quadril e mira automaticamente na cabeça dos zumbis ao mirar pela mira\n^5Bônus AAE^7: Após 5 tiros consecutivos na cabeça, a precisão de tiro a partir do quadril é maximizada, o dano na cabeça é 1,5x maior e é possível ver zumbis através das paredes"
+
+REFERENCE           DOUBLETAP
+LANG_ENGLISH     "Aumenta a cadência de tiro das armas e dobra cada bala disparada\n^5Bônus AAE^7: Armas especiais recarregam mais rápido"
+
+REFERENCE           JUGGER
+LANG_ENGLISH     "Dobra sua vida, permitindo que o jogador caia após 5 golpes em vez de 3"
+
+REFERENCE           MULEKICK
+LANG_ENGLISH     "Permite carregar 3 armas em vez de 2\n^5Bônus AAE^7: Após perder o Mulekick, da próxima vez que o obtiver você recuperará a arma perdida"
+
+REFERENCE           REVIVE_SOLO
+LANG_ENGLISH     "Revive-se sozinho quando derrubado\n^5Bônus AAE^7: Reduz o tempo de atraso para regeneração de vida em 40%"
+
+REFERENCE           REVIVE
+LANG_ENGLISH     "Revive um companheiro derrubado mais rapidamente\n^5Bônus AAE^7: Reduz o tempo de atraso para regeneração de vida em 40%\nCompanheiros revividos não poderão receber dano de zumbis, e se a reanimação for interrompida, prolongará o tempo de sangramento do jogador derrubado"
+
+REFERENCE           FASTRELOAD
+LANG_ENGLISH     "Aumenta a velocidade de recarga\n^5Bônus AAE^7: Troca de armas mais rápida, mira (ADS) mais rápida, arremesso de equipamentos mais rápido, beber perks mais rápido, mastigar gobblegum mais rápido, subir escadas mais rápido, sem a animação inicial ao pegar uma nova arma, subir no tanque mais rápido"
+
+REFERENCE           STAMINUP
+LANG_ENGLISH     "Permite correr por períodos mais longos\n^5Bônus AAE^7: Atirar enquanto corre, levantar a arma mais rápido ao final da corrida, lançar equipamentos enquanto corre, mira (ADS) mais rápida em movimento, corrida infinita"
+
+REFERENCE           WINE
+LANG_ENGLISH     "Você recebe a faca do Widow's Wine para aumentar o dano corpo a corpo. Substitui granadas por granadas de Widow's Wine que envolvem os zumbis em teias de aranha. Um power-up de aranha cairá para reabastecer as granadas. Quando os zumbis o atacam, ocorre uma pequena explosão que prende o zumbi em teias.\n^5Bônus AAE^7: Imunidade a explosões"
+
+ENDMARKER

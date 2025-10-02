@@ -1,0 +1,32 @@
+// Note to translators:
+// Just edit the text inside the quotes, don't edit other code
+
+VERSION             "1"
+CONFIG              "C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           ZOD
+LANG_ENGLISH     "^31.^7En cuanto al paso de mejorar la espada, el jugador adicional no puede tomar el huevo. pero si el jugador adicional tiene el mismo personaje que el jugador que tomo el huevo, puede ayudar a matar y recargar el huevo junto al jugador con el mismo personaje.\n^32.^7Cuando tomen la espada del guardián, no permitan que más jugadores se unan a la partida, de lo contrario la pelea contra el jefe no funcionará correctamente.\n^33.^7Solo se generarán 5 máscaras de magwa.\n^34.^7Todos los EEs pueden completarse cuando el número total de jugadores es de 8."
+
+REFERENCE           CASTLE
+LANG_ENGLISH     "^31.^7Los jugadores adicionales deberán plantar las Ragnaroks DG-4 en un área cercana a la pirámide lunar (habrá unos modelos de Ragnaroks DG-4 apareciendo en las ubicaciones donde deben ser plantadas).\n^32.^7La duplicación de arcos ha sido desactivada.\n^33.^7Todos los EEs pueden completarse cuando el número total de jugadores es de 8."
+
+REFERENCE           ISLAND
+LANG_ENGLISH     "Es estable solo con 4 jugadores."
+
+REFERENCE           GENESIS
+LANG_ENGLISH     "Es estable solo con 4 jugadores."
+
+REFERENCE           TOMB
+LANG_ENGLISH     "Es estable solo con 8 jugadores."
+
+REFERENCE           STALINGRAD
+LANG_ENGLISH     "^31.^7Solo el host puede obtener la recompensa del desafío y la interfaz de usuario para todos los desafíos ha sido desactivada.\n^32.^7Solo 3 jugadores pueden montar el dragón, si hay 4 jugadores montando el dragón, los demás jugadores experimentarán errores.\n^33.^7Después de completar el EE principal, los jugadores adicionales no serán teletransportados al inicio del mapa.\n^34.^7Todos los EEs pueden completarse cuando el número total de jugadores es de 8."
+
+REFERENCE           DESC
+LANG_ENGLISH     "^3Detalles del problema de 'Conexión interrumpida' que ocurre a mitad del juego^7:\nCuando algunos mapas superan el límite de jugadores especificado, algunas características de este mod dejarán de cargarse para garantizar la máxima estabilidad del juego. Para mejorar aún más la estabilidad del juego, evita utilizar armas maravillosas y armas explosivas. Además, pueden existir razones desconocidas que causen el problema de 'Conexión Interrumpida' en el juego. No hay una solución perfecta para esta situación, ya que la capacidad de cálculo del motor de juego para manejar tanta información es limitada."
+
+REFERENCE           HELP
+LANG_ENGLISH         "^2Comandos de chat^7:\n\n^5Morir inmediatamente\n^7/s\n^5Duración del chat en pantalla\n^7/ct/{segundos}\n^5Emotes\n^7/a/{1-14}\n^5Tragaperra\n^7/g\n^5Recargar el arma actual\n^7/r\n^5Contador de EEs (Se tardara un poco en cargar los datos, por lo que será un poco lento)\n^7/ee\n^5Hacerse TP a otros jugadores (Requisitos: mod menu habilitado o una sala mínima de 5 jugadores)\n^7/tp/{num del jugador}\n^5Guardar las estadísticas del banco manualmente\n^7/save"
+
+ENDMARKER

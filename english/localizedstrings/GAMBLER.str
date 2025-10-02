@@ -1,0 +1,107 @@
+// Note to translators:
+// Just edit the text inside the quotes, don't edit other code
+
+VERSION             "1"
+CONFIG              "C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           HINT
+LANG_ENGLISH     "^3[{+activate}]^7 Gambler (^BBUTTON_COD_POINT_ICON^&&1)"
+
+REFERENCE           RUN
+LANG_ENGLISH     "Gambler Runing......"
+
+REFERENCE           WIN
+LANG_ENGLISH     "^1You win nothing."
+
+REFERENCE           W500
+LANG_ENGLISH     "^2You win ^BBUTTON_COD_POINT_ICON^500."
+
+REFERENCE           W1000
+LANG_ENGLISH     "^2You win ^BBUTTON_COD_POINT_ICON^1000."
+
+REFERENCE           W2000
+LANG_ENGLISH     "^2You win ^BBUTTON_COD_POINT_ICON^2000."
+
+REFERENCE           L500
+LANG_ENGLISH     "^1You lose ^BBUTTON_COD_POINT_ICON^500."
+
+REFERENCE           LOSTALL
+LANG_ENGLISH     "^8Surprise!"
+
+REFERENCE           LOSTMONEY
+LANG_ENGLISH     "^1You lose all money."
+
+REFERENCE           SHIELD_FIX
+LANG_ENGLISH     "^2you got the riotshield fix."
+
+REFERENCE           WIN_SHIELD
+LANG_ENGLISH     "^2You win a riotshield on your back."
+
+REFERENCE           NO_SHIELD
+LANG_ENGLISH     "^2You win a riotshield, but we can't give it to you.."
+
+REFERENCE           AIRSTRIKE_CL
+LANG_ENGLISH     "^1Airstrike at your location."
+
+REFERENCE           W20000
+LANG_ENGLISH     "^2You win ^BBUTTON_COD_POINT_ICON^20000."
+
+REFERENCE           LIVE_DIE
+LANG_ENGLISH     "^1You live or die in 5 second."
+
+REFERENCE           LIVE
+LANG_ENGLISH     "^2You live!"
+
+REFERENCE           DIE
+LANG_ENGLISH     "^1You die!"
+
+REFERENCE           HEIST
+LANG_ENGLISH     "^3Heist!"
+
+REFERENCE           RESTART
+LANG_ENGLISH     "^1Gambler restart."
+
+REFERENCE           ALL_DIE
+LANG_ENGLISH     "^0After 5 seconds everyone dies or the idiot dies."
+
+REFERENCE           SB_DIE
+LANG_ENGLISH     "^1Idiot died"
+
+REFERENCE           SB_LIVE
+LANG_ENGLISH     "^1Booooom! Everyone gets killed by idiots. idiots survives! , idiots have Perkaholic!"
+
+REFERENCE           RICH
+LANG_ENGLISH     "^3Become rich!"
+
+REFERENCE           AIRSTRIKE_ZM
+LANG_ENGLISH     "^2Precision Airstrike incoming!"
+
+REFERENCE           LOST_WP
+LANG_ENGLISH     "^1You lose all weapon."
+
+REFERENCE           UNLIMIT
+LANG_ENGLISH     "Unlimited equipment in 1 min."
+
+REFERENCE           ONCE
+LANG_ENGLISH     "Gambler only allowed once per round"
+
+REFERENCE           UNLIMIT2
+LANG_ENGLISH     "Unlimited equipment over"
+
+REFERENCE           GAMBLERD
+LANG_ENGLISH     "^7 gambled - ^7"
+
+REFERENCE           PLAYER1
+LANG_ENGLISH     "^1Player: ^7"
+
+REFERENCE           PLAYER2
+LANG_ENGLISH     "^2Player: ^7"
+
+REFERENCE           TOOK_ALL
+LANG_ENGLISH     "^1 took all your money!"
+
+REFERENCE           GIVE_2000
+LANG_ENGLISH     "^2 give you ^BBUTTON_COD_POINT_ICON^2000."
+
+ENDMARKER

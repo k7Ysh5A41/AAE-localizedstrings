@@ -1,0 +1,200 @@
+// Note to translators:
+// Just edit the text inside the quotes, don't edit other code
+
+VERSION             "1"
+CONFIG              "C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           SHARE_DROP
+LANG_ENGLISH     "A laissé tomber quelques points ^5"
+
+REFERENCE           SHARE_OUT
+LANG_ENGLISH     "^1Fonds insuffisants"
+
+REFERENCE           ZMS_LEFT
+LANG_ENGLISH     "Zombies restants"
+
+REFERENCE           ZM_LEFT
+LANG_ENGLISH     "Zombies restants"
+
+REFERENCE           DOG_LEFT
+LANG_ENGLISH     "Ennemis restants"
+
+REFERENCE           END_OF_ROUND
+LANG_ENGLISH     "Intermède"
+
+REFERENCE           TRADE_GUN
+LANG_ENGLISH     "Maintenez ^3[{+activate}] ^7pour échanger l'arme avec un joueur."
+
+REFERENCE           TRADE_WAIT
+LANG_ENGLISH     "Attendez l'autre joueur."
+
+REFERENCE           TRADE_BLOCK
+LANG_ENGLISH     "Impossible d'échanger cette arme."
+
+REFERENCE           TRADE_HAS
+LANG_ENGLISH     "L'autre joueur possède déjà cette arme."
+
+REFERENCE           TRADE_YOU_HAS
+LANG_ENGLISH     "Vous ne pouvez pas échanger une arme que l'autre joueur possède déjà."
+
+REFERENCE           ADDED
+LANG_ENGLISH     "Ajouté ^5"
+
+REFERENCE           THE_ZM
+LANG_ENGLISH     " ^7Zombies !"
+
+REFERENCE           GIVE_GUM
+LANG_ENGLISH     "Gobblegum ^5"
+
+REFERENCE           GIVE_AAT
+LANG_ENGLISH     "AAT ^5"
+
+REFERENCE           ADD_CAMO
+LANG_ENGLISH     "Camouflage : ^5"
+
+REFERENCE           TO_PLAYER
+LANG_ENGLISH     "^7 Donné à ^1"
+
+REFERENCE           ALL_PLAYER
+LANG_ENGLISH     "^7 Donné à tous"
+
+REFERENCE           ROUND
+LANG_ENGLISH     "Manche^5 "
+
+REFERENCE           IS_END
+LANG_ENGLISH     " ^7est terminée"
+
+REFERENCE           ZM_SPAWN
+LANG_ENGLISH     "Le délai d'apparition des zombies a été changé à ^5"
+
+REFERENCE           SEC
+LANG_ENGLISH     "^7 sec."
+
+REFERENCE           ZM_LIMIT
+LANG_ENGLISH     "La limite maximale de zombies a été changée à : ^5"
+
+REFERENCE           ZM_PLAYER
+LANG_ENGLISH     "Le nombre total de zombies ajoutés à chaque entrée d'un joueur a été fixé à : ^5"
+
+REFERENCE           ZM_SPEED
+LANG_ENGLISH     "La vitesse de déplacement des zombies sera modifiée au prochain round : ^5%"
+
+REFERENCE           ZM_PERK
+LANG_ENGLISH     "Limite de bonus : ^5"
+
+REFERENCE           ZM_POWER
+LANG_ENGLISH     "État de puissance : ^5"
+
+REFERENCE           CHEAT_ON
+LANG_ENGLISH     "Les commandes de triche sont activées"
+
+REFERENCE           CHEAT_OFF
+LANG_ENGLISH     "Les commandes de triche sont désactivées"
+
+REFERENCE           HITMARKER_ON
+LANG_ENGLISH     "Marqueur de coup activé"
+
+REFERENCE           HITMARKER_OFF
+LANG_ENGLISH     "Marqueur de coup désactivé"
+
+REFERENCE           CANT_BGB_HINT
+LANG_ENGLISH     "GobbleGum indisponible"
+
+REFERENCE           BGB_ON
+LANG_ENGLISH     "Machine GobbleGum activée"
+
+REFERENCE           BGB_OFF
+LANG_ENGLISH     "Machine GobbleGum désactivée"
+
+REFERENCE           SONG_CHANGE
+LANG_ENGLISH     "Changement de musique en cours......"
+
+REFERENCE           SONG_PLAY
+LANG_ENGLISH     "Lecture actuelle : ^5"
+
+REFERENCE           SONG_STOPING
+LANG_ENGLISH     "La musique s'éteint......"
+
+REFERENCE           SONG_STOPED
+LANG_ENGLISH     "Musique arrêtée."
+
+REFERENCE           GG
+LANG_ENGLISH     "Arme : ^5"
+
+REFERENCE           WITHDRAW
+LANG_ENGLISH     "^3[{+activate}]^7 Retirer ^BBUTTON_COD_POINT_ICON^1000 (^BBUTTON_COD_POINT_ICON^&&1 | ^3[{+melee}]^7 Vérifier le solde)"
+
+REFERENCE           DEPOSIT
+LANG_ENGLISH     "^3[{+activate}]^7 Déposer ^BBUTTON_COD_POINT_ICON^1000 (^BBUTTON_COD_POINT_ICON^&&1 | ^3[{+melee}]^7 Vérifier le solde)"
+
+REFERENCE           WEAPONLOCKER_GETBACK
+LANG_ENGLISH     "Maintenez ^3[{+activate}]^7 pour récupérer votre arme [WeaponLocker Weapon: &&1^7]."
+
+REFERENCE           WEAPONLOCKER_STORE
+LANG_ENGLISH     "Maintenez ^3[{+activate}]^7 pour ranger l'arme."
+
+REFERENCE           WEAPONLOCKER_LOADING
+LANG_ENGLISH     "Traitement en cours......"
+
+REFERENCE           BANK_SCORE
+LANG_ENGLISH     "^5Solde actuel : ^7"
+
+REFERENCE           BANK_OVERLOAD
+LANG_ENGLISH     "^1La banque est pleine !"
+
+REFERENCE           AF_TITLE
+LANG_ENGLISH     "Fonctionnalités avancées en jeu"
+
+REFERENCE           AF_DESC
+LANG_ENGLISH     "Si les fonctionnalités avancées sont activées, le WeaponLocker et la Banque ne seront pas utilisables.\nActive un menu mod de style GSC accessible en maintenant ^3[{+stance}] ^7+ ^3[{+reload}]\n^1<Si vous ne comprenez pas comment utiliser cette fonctionnalité, NE L’ACTIVEZ PAS !>"
+
+REFERENCE           AF
+LANG_ENGLISH     "FONCTIONNALITÉS AVANCÉES"
+
+REFERENCE           PAUSE_TITLE
+LANG_ENGLISH     "Mettre le jeu en pause ?"
+
+REFERENCE           PAUSE_DESC
+LANG_ENGLISH     "Appuyez sur ^3Non ^7pour désactiver la pause."
+
+REFERENCE           LOCKER_BAN
+LANG_ENGLISH     "^1Scores illégaux détectés, WeaponLocker & Banque inutilisables."
+
+REFERENCE           PAUSE
+LANG_ENGLISH     "PAUSE COOP"
+
+REFERENCE           BOXSHARE_TAKE
+LANG_ENGLISH     "^3[{+activate}]^7 Prendre l'arme."
+
+REFERENCE           SHIELD_HINT
+LANG_ENGLISH     "Maintenez ^3[{+activate}]^7 pour le Bouclier Anti-émeute"
+
+REFERENCE           SHIELD_HINT_HOWTO
+LANG_ENGLISH     "Appuyez sur ^3[{+actionslot 2}]^7 pour équiper le Bouclier Anti-émeute"
+
+REFERENCE           SPIKE_HINT
+LANG_ENGLISH     "Double appui ^3[{+activate}]^7/^3[{+melee}] ^7pour faire exploser les pointes"
+
+REFERENCE           BOXSHARE_HINT
+LANG_ENGLISH     "Appuyez sur ^3[{+melee}]^7 pour partager cette arme avec un coéquipier."
+
+REFERENCE           START_HINT_GAMEPAD
+LANG_ENGLISH     "^3[{+breath_sprint}] ^7+ ^3[{+reload}] ^7Inspecter les armes\n^3[{+melee}]^7 + ^3[{+actionslot 3}] ^7Lampe torche\n^3[{+breath_sprint}]^7 + ^3[{+actionslot 3}] ^7Lâcher quelques points\n^3[{+gostand}]^7 + ^3[{+actionslot 3}] ^7Vision améliorée"
+
+REFERENCE           START_HINT
+LANG_ENGLISH     "^3[{+reload}] ^7Inspecter les armes\n^3[{+melee}]^7 + ^3[{+actionslot 3}] ^7Lampe torche\n^3[{+breath_sprint}]^7 + ^3[{+actionslot 3}] ^7Lâcher quelques points\n^3[{+gostand}]^7 + ^3[{+actionslot 3}] ^7Vision améliorée DNI"
+
+REFERENCE           REMOVEPERK_HINT
+LANG_ENGLISH     "Appuyez sur ^3[{+activate}]^7 + ^3[{+melee}] ^7 pour retirer ce bonus à la machine à perks."
+
+REFERENCE           KATANA_HINT
+LANG_ENGLISH     "^3[{+attack}]^7 Frappe impitoyable\n^3[{+reload}]^7 In Plain Sight & Munitions illimitées (Une fois par manche)\n^3[{+melee}]^7 Régénérer la santé"
+
+REFERENCE           KATANA_HINT_GAMEPAD
+LANG_ENGLISH     "^3[{+attack}]^7 Frappe impitoyable\n^3[{+breath_sprint}] ^7+ ^3[{+reload}]^7 In Plain Sight & Munitions illimitées (Une fois par manche)\n^3[{+melee}]^7 Régénérer la santé"
+
+REFERENCE           MOD_DESC
+LANG_ENGLISH     "Bienvenue dans le mod All-Around Enhancement ! Ce mod ajoute de nombreuses fonctionnalités QoL et corrige plusieurs bugs du mode Zombies vanilla de Black Ops III, offrant ainsi l'expérience zombies définitive."
+
+ENDMARKER

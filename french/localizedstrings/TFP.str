@@ -1,0 +1,116 @@
+// Note to translators:
+// Just edit the text inside the quotes, don't edit other code
+
+VERSION             "1"
+CONFIG              "C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           STATUS
+LANG_ENGLISH     "Moniteur de statut"
+
+REFERENCE           STATUS_DESC
+LANG_ENGLISH     "Affiche les informations de statut actuelles sur le côté gauche de l'écran (des bugs peuvent survenir)."
+
+REFERENCE           SWITCH_DESC
+LANG_ENGLISH     "^3Doit être activé pour que les options suivantes prennent effet"
+
+REFERENCE           VCLUT
+LANG_ENGLISH     "Contraste"
+
+REFERENCE           VCLUT_DESC
+LANG_ENGLISH     "Augmente ou diminue la quantité de couleur dans le jeu. 0 est par défaut. Si l'écran devient trop sombre, passer en mode couleur sRGB et/ou augmenter la luminosité peut corriger. Permet aux joueurs qui trouvent le jeu trop coloré de le rendre plus proche de World At War, avec une palette de couleurs plus terne."
+
+REFERENCE           EXTPLAYER
+LANG_ENGLISH     "Support pour plus de joueurs"
+
+REFERENCE           EXTPLAYER_DESC
+LANG_ENGLISH     "Nombre maximum de joueurs augmenté à 10 (^1très instable^7), et les machines Gobblegum seront désactivées à cause des ^3limites du moteur du jeu^7.\n\nDétails du support des cartes:\n\nZombies Chronicles toutes les cartes\n(^2Stable, compatible Main EE^7)\n\nSoE/DE/GK\n(^3Moins stable, compatible Main EE^7)\n\nAutres cartes 3arc (^3Moins stable^7)\nCarte personnalisée (Inconnu)"
+
+REFERENCE           FFFIVE
+LANG_ENGLISH     "Friendly Fire mais ne tue pas"
+
+REFERENCE           ROUNDLIMIT
+LANG_ENGLISH     "Finir la partie à ce tour"
+
+REFERENCE           ROUNDTIME
+LANG_ENGLISH     "Défi End Game"
+
+REFERENCE           ROUNDTIME_DESC
+LANG_ENGLISH     "Vous êtes maintenant dans l'End Game. Après avoir terminé le tour spécifié dans l'option 'Finir la partie à ce tour', testez vos compétences en survivant à une vague infinie de zombies apparaissant instantanément pour la durée spécifiée. Affrontez les nouveaux Super Sprinter et Tranzit Bus Sprinter. Si lancé avant le tour 40, la pénalité pour échec est de savoir que la horde vous a battu..."
+
+REFERENCE           TRADE_DESC
+LANG_ENGLISH     "Échanger des armes avec un autre joueur. Approchez-vous du joueur et regardez son arme. Les deux joueurs doivent maintenir l'invite à l'écran jusqu'à ce que la barre soit pleine, puis les armes seront échangées."
+
+REFERENCE           GAMBLER_DESC
+LANG_ENGLISH     "Fait apparaître une boule flottante Lucky 8 au point de spawn du joueur, qui peut être utilisée pour 1000 points pour un effet aléatoire. Certains bons, certains mauvais, certains intermédiaires. Achat limité à une fois par tour."
+
+REFERENCE           SOLOREVIVE
+LANG_ENGLISH     "Réanimation solo illimitée"
+
+REFERENCE           PERKPLUS
+LANG_ENGLISH     "Désactiver les améliorations de Perk"
+
+REFERENCE           PERKPLUS_DESC
+LANG_ENGLISH     "Désactive les effets de perks suivants ajoutés par le mod:\n\n^2Speed Cola^7: Achat plus rapide des perks et gobblegum, ADS, changement d'arme et vitesse corps à corps, supprime l'animation 'premier lever'\n^3Stamin-Up^7: Arme plus rapidement après sprint, tirer et lancer des grenades en courant, sprint infini\n^3Double Tap Root Beer^7: Arme spéciale se charge plus vite\n^1Widow’s Wine^7: Donne résistance aux explosions PhD Flopper (fonctionne seulement si un seul perk de protection sur la carte)\nDeadshot Daiquiri: Avec 4 perks incluant Deadshot, tuez 5 zombies avec des headshots consécutifs pour activer x1.25 de dégâts headshot. L’icône Deadshot apparaît à côté des munitions, disparaît/reset si pas headshot."
+
+REFERENCE           NOSLIDE
+LANG_ENGLISH     "Désactiver le Slide"
+
+REFERENCE           RJ
+LANG_ENGLISH     "Saut fusée"
+
+REFERENCE           RJ_DESC
+LANG_ENGLISH     "Vos explosifs vous propulsent sur une distance définie. Combinez avec la résistance aux explosions de Widow's Wine pour un saut fusée!"
+
+REFERENCE           SHOCK
+LANG_ENGLISH     "Mode Grief mais pour une seule équipe"
+
+REFERENCE           SHOCK_DESC
+LANG_ENGLISH     "Les actions qui seraient normalement friendly fire ralentissent les joueurs et étourdissent l'écran."
+
+REFERENCE           BLOOD
+LANG_ENGLISH     "Désactiver les éclaboussures de sang"
+
+REFERENCE           FLAMER
+LANG_ENGLISH     "Désactiver Purifier (Lance-flammes)"
+
+REFERENCE           ROAMER_DESC
+LANG_ENGLISH     "Permet de définir un temps de repos entre chaque tour. Peut démarrer manuellement le tour suivant avant la fin du temps selon l’invite à l’écran."
+
+REFERENCE           DPAP
+LANG_ENGLISH     "BO4 Pack-a-Punch Repack"
+
+REFERENCE           LOADOUTSAVE2
+LANG_ENGLISH     "Effacer l’équipement sauvegardé après bleed out"
+
+REFERENCE           LOADOUTSAVE2_DESC
+LANG_ENGLISH     "Efface vos armes sauvegardées après bleedout, respawn uniquement avec le pistolet. Compatible avec “Weapon Restore & Mule Kick Weapon Restore”."
+
+REFERENCE           RIPPER
+LANG_ENGLISH     "Désactiver remplacement Bowie Knife par Ripper"
+
+REFERENCE           RIPPER_DESC
+LANG_ENGLISH     "En tenant Bowie Knife avec Widow's Wine, l’arme est remplacée par Ripper du Multiplayer avec plus de dégâts et attaque guidée. Cette option désactive cela."
+
+REFERENCE           DW
+LANG_ENGLISH     "Désactiver Dualwield PAP Wonder Weapons"
+
+REFERENCE           DW_DESC
+LANG_ENGLISH     "Ray Gun Mark I et Thundergun deviennent dualwield avec PAP + All Around Enhancement. Cette option désactive cela."
+
+REFERENCE           ZMBAR
+LANG_ENGLISH     "Barre de santé des zombies"
+
+REFERENCE           JUKE
+LANG_ENGLISH     "Zombie Juke"
+
+REFERENCE           JUKE_DESC
+LANG_ENGLISH     "Les zombies bougeront aléatoirement à gauche et à droite au lieu de venir droit vers vous, comme dans Black Ops 1."
+
+REFERENCE           AUTORUN
+LANG_ENGLISH     "Désactiver les super sprinters après le tour 40"
+
+REFERENCE           AUTORUN_DESC
+LANG_ENGLISH     "Tous les zombies deviennent super sprinters après le tour 40 avec All Around Enhancement. Cette option limite seulement quelques zombies par tour."
+
+ENDMARKER

@@ -1,0 +1,71 @@
+// Note to translators:
+// Just edit the text inside the quotes, don't edit other code
+
+VERSION             "1"
+CONFIG              "C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           STORED
+LANG_ENGLISH     "Schowałem mój"
+
+REFERENCE           GOT_MY
+LANG_ENGLISH     "Mam mój"
+
+REFERENCE           BACK
+LANG_ENGLISH     "z powrotem"
+
+REFERENCE           LOADINGMAP
+LANG_ENGLISH     "Ładuję mapę"
+
+REFERENCE           GOT_PAP
+LANG_ENGLISH     "Mam Pack-A-Punched"
+
+REFERENCE           DROPSOME
+LANG_ENGLISH     "Upuściłem tu trochę punktów!"
+
+REFERENCE           GOTPERK
+LANG_ENGLISH     "Mam Perk"
+
+REFERENCE           READY
+LANG_ENGLISH     "Jestem gotowy"
+
+REFERENCE           AUTOREVIVE
+LANG_ENGLISH     "Mam Auto Revive"
+
+REFERENCE           GOTSOMEPERK
+LANG_ENGLISH     "Mam"
+
+REFERENCE           GOTWP
+LANG_ENGLISH     "Mam"
+
+REFERENCE           SHAREWP
+LANG_ENGLISH     "Podzieliłem się"
+
+REFERENCE           SHAREWPHERE
+LANG_ENGLISH     "tutaj"
+
+REFERENCE           TRADEWP
+LANG_ENGLISH     "Wymieniłem"
+
+REFERENCE           LASTZM
+LANG_ENGLISH     "Ostatni zombie został zabity"
+
+REFERENCE           OPENDOOR
+LANG_ENGLISH     "Otworzyłem drzwi"
+
+REFERENCE           DOT
+LANG_ENGLISH     "."
+
+REFERENCE           PAYHALF_DOOR
+LANG_ENGLISH     "Zapłaciłem połowę ceny za te drzwi, nadal potrzebuje "
+
+REFERENCE           PAYHALF_DEBRIS
+LANG_ENGLISH     "Zapłaciłem połowę ceny za te ruiny, nadal potrzebuje "
+
+REFERENCE           PAYHALF
+LANG_ENGLISH     "^3K ^7Zapłać połowę"
+
+REFERENCE           PAYHALF_GAMEPAD
+LANG_ENGLISH     "[{+melee}] Zapłać połowę"
+
+ENDMARKER

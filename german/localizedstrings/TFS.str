@@ -1,0 +1,29 @@
+// Note to translators:
+// Just edit the text inside the quotes, don't edit other code
+
+VERSION             "1"
+CONFIG              "C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           HOTJOIN
+LANG_ENGLISH     "Hot Join deaktivieren"
+
+REFERENCE           HOTJOIN_DESC
+LANG_ENGLISH     "Spieler können nach Spielbeginn nicht mehr beitreten."
+
+REFERENCE           GAMBLER
+LANG_ENGLISH     "Gambler deaktivieren"
+
+REFERENCE           DOG
+LANG_ENGLISH     "Spezialrunden deaktivieren"
+
+REFERENCE           DOG_DESC
+LANG_ENGLISH     "Runden mit Spezialgegnern überspringen.\n\nUnterstützte Karten:\n\nShadows of Evil\nThe Giant\nDer Eisendrache\nZetsubou No Shima\nGorod Krovi\nRevelations\nShi No Numa\nKino der Toten\nAscension"
+
+REFERENCE           RAINBOW
+LANG_ENGLISH     "Zombie Regenbogenaugen"
+
+REFERENCE           DUST
+LANG_ENGLISH     "Zombiespawn-Staub deaktivieren"
+
+ENDMARKER

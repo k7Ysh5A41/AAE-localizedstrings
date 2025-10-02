@@ -1,0 +1,35 @@
+// Note to translators:
+// Just edit the text inside the quotes, don't edit other code
+
+VERSION             "1"
+CONFIG              "C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           DEADSHOT
+LANG_ENGLISH     "Verbessert die Hüftfeuer-Genauigkeit und zielt beim Zielen über Kimme und Korn automatisch auf den Kopf der Zombies\n^5AAE-Bonus^7: Nach 5 aufeinanderfolgenden Kopfschüssen ist die Hüftfeuer-Genauigkeit maximal, Kopfschussschaden 1,5x und du kannst Zombies durch Wände sehen"
+
+REFERENCE           DOUBLETAP
+LANG_ENGLISH     "Erhöht die Feuerrate der Waffen und verdoppelt jede abgefeuerte Kugel\n^5AAE-Bonus^7: Spezialwaffen laden sich schneller auf"
+
+REFERENCE           JUGGER
+LANG_ENGLISH     "Verdoppelt deine Gesundheit, sodass du nach 5 Treffern statt nach 3 zu Boden gehst"
+
+REFERENCE           MULEKICK
+LANG_ENGLISH     "Ermöglicht es dir, 3 Waffen statt 2 zu tragen\n^5AAE-Bonus^7: Nachdem Mulekick verloren wurde, erhältst du beim nächsten Mulekick die verlorene Waffe zurück"
+
+REFERENCE           REVIVE_SOLO
+LANG_ENGLISH     "Belebe dich selbst wieder, wenn du zu Boden gehst\n^5AAE-Bonus^7: Verringert die Verzögerung der Gesundheitsregeneration um 40 %"
+
+REFERENCE           REVIVE
+LANG_ENGLISH     "Belebt einen am Boden liegenden Teamkameraden schneller\n^5AAE-Bonus^7: Verringert die Verzögerung der Gesundheitsregeneration um 40 %\nWiederbelebte Teamkameraden können keinen Schaden von Zombies erleiden, und wenn die Wiederbelebung unterbrochen wird, verlängert sich die Ausblutzeit des am Boden liegenden Spielers"
+
+REFERENCE           FASTRELOAD
+LANG_ENGLISH     "Erhöht die Nachladegeschwindigkeit\n^5AAE-Bonus^7: Schnellere Waffenwechsel, schnelleres Zielen (ADS), schnelleres Werfen von Ausrüstung, schnelleres Trinken von Perks, schnelleres Kauen von Gobblegum, schnelleres Klettern auf Leitern, keine erste Anhebe-Animation beim Erhalten einer neuen Waffe, schnelleres Aufsteigen auf den Panzer"
+
+REFERENCE           STAMINUP
+LANG_ENGLISH     "Ermöglicht längeres Sprinten\n^5AAE-Bonus^7: Schießen während des Sprints, schnelleres Anlegen der Waffe am Ende des Sprints, Ausrüstung während des Sprints werfen, schnelleres Zielen beim Bewegen (ADS), unendlicher Sprint"
+
+REFERENCE           WINE
+LANG_ENGLISH     "Du erhältst das Widow's-Wine-Messer, um deinen Nahkampfschaden zu erhöhen. Ersetzt Granaten durch Widow's-Wine-Granaten, die Zombies in Spinnweben einhüllen. Ein Spinnen-Power-Up erscheint, das Granaten wieder auffüllt. Wenn Zombies dich angreifen, verursacht dies eine kleine Explosion, die den Zombie in Netze hüllt.\n^5AAE-Bonus^7: Immunität gegen Explosionen"
+
+ENDMARKER

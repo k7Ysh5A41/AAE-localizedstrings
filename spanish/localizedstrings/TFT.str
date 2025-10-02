@@ -1,0 +1,116 @@
+// Note to translators:
+// Just edit the text inside the quotes, don't edit other code
+
+VERSION             "1"
+CONFIG              "C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           RANDOM_ATTACHMENTS
+LANG_ENGLISH     "Acceso. y camos aleat."
+
+REFERENCE           RANDOM_ATTACHMENTS_DESC
+LANG_ENGLISH     "Cada nueva arma que obtengas tendrá accesorios, retículas y camuflajes aleatorios."
+
+REFERENCE           WEAPON_LIMIT
+LANG_ENGLISH     "Límite de armas"
+
+REFERENCE           WEAPON_LIMIT_OPTIONS_DESC
+LANG_ENGLISH     "No repetir armas maravillosas"
+
+REFERENCE           PREPATCH_BGB
+LANG_ENGLISH     "El reto del GobbleGum"
+
+REFERENCE           PREPATCH_BGB_DESC
+LANG_ENGLISH     "Las máquinas de GobbleGum cambiarán para funcionar con una mayor dificultad.\n\nContendrá lo siguiente:\n\nSólo se podrán usar una vez por ronda\n\nEl 37% de las máquinas de GobbleGum serán funcionales\n\nLas máquinas de GobbleGum tendrán la posibilidad de desactivarse y activarse en otras ubicaciones\n\nEl precio por defecto será de 500 puntos"
+
+REFERENCE           ZOMBIE_COUNT
+LANG_ENGLISH     "Generación de zombis"
+
+REFERENCE           ZOMBIE_COUNT_DESC
+LANG_ENGLISH     "Escoge el tipo de generación de zombis que tendrás en tu partida, ya sea el estilo clásico de (^1World at War^7), o uno más moderno como el de (^1Cold War^7), o déjalo en su estado estándar de (^1Black Ops 3^7)."
+
+REFERENCE           SPAWNTYPE
+LANG_ENGLISH     "Enemigos especiales"
+
+REFERENCE           SPAWNTYPE_DESC
+LANG_ENGLISH     "Al seleccionar 'Más enemigos especiales', se incrementará significativamente la cantidad de enemigos en cada mapa de Treyarch, como un considerable aumento de Margwas o un incremento considerable de los Panzer Soldats.\n\nMapas soportados:\n\nShadows of Evil\nDer Eisendrache\nZetsubou No Shima\nGorod Krovi\nRevelations\nShangri-La\nMoon\nOrigins"
+
+REFERENCE           SPAWNTYPE_OPTION_DESC
+LANG_ENGLISH     "Más enemigos especiales"
+
+REFERENCE           ZOMBIE_H
+LANG_ENGLISH     "Limitar la salud enemiga"
+
+REFERENCE           ZOMBIE_H_DESC
+LANG_ENGLISH     "La salud de los enemigos dejará de aumentar al alcanzar la ronda establecida. Por ejemplo, si seleccionaste la ronda 10 los enemigos dejarán de tener vida infinita después de esa ronda."
+
+REFERENCE           CRAZYZOMBIE_DESC
+LANG_ENGLISH     "La velocidad de los zombis y sus acciones se duplicarán de manera significativa."
+
+REFERENCE           DAMAGE_NUMBER
+LANG_ENGLISH     "Daño numérico"
+
+REFERENCE           DAMAGE_NUMBER_DESC
+LANG_ENGLISH     "Mostrará el daño que le causas al enemigo con números en pantalla."
+
+REFERENCE           HUD
+LANG_ENGLISH     "Opciones del HUD"
+
+REFERENCE           HUD_OPTION
+LANG_ENGLISH     "HUD con movimiento"
+
+REFERENCE           CENTERCROSS
+LANG_ENGLISH     "Deshabilitar el punto en el centro de la pantalla"
+
+REFERENCE           ITEM_DUPE_RENDER
+LANG_ENGLISH     "Resaltar construibles"
+
+REFERENCE           ITEM_DUPE_RENDER_DESC
+LANG_ENGLISH     "Con esta opción podrás resaltar las piezas de los construibles que se pueden recoger en el mapa y también verlos a través de las paredes."
+
+REFERENCE           ITEM_DUPE_RENDER_OPTION
+LANG_ENGLISH     "Verlos a través de la pared"
+
+REFERENCE           ITEM_DUPE_RENDER_OPTIONS
+LANG_ENGLISH     "Verlos solo por destellos"
+
+REFERENCE           MODGAMES
+LANG_ENGLISH     "MINI JUEGOS"
+
+REFERENCE           ROULETTE
+LANG_ENGLISH     "Ruleta del caos"
+
+REFERENCE           ROULETTE_DESC
+LANG_ENGLISH     "Este modo de juego, llamado 'Ruleta del caos', en cada ronda obtendrás un arma aleatoria y deberás sobrevivir la ronda completa con dicha arma. No existe un objetivo final y es compatible con la opción llamada 'El reto de la ronda final'. Este modo de juego es por rondas y, después de la ronda 20 en adelante, se te dará un descanso de 30 segundos para que puedas potenciar tu arma."
+
+REFERENCE           SNAIL
+LANG_ENGLISH     "Toque mortal"
+
+REFERENCE           SNAIL_DESC
+LANG_ENGLISH     "Este modo de juego, llamado 'Toque mortal', si un enemigo logra golpearte, estarás muerto al instante. A medida que subes de ronda, te moverás cada vez más rápido, y los enemigos incrementan su velocidad y fuerza. El más mínimo toque será mortal, ^1¡así que esquiva y resiste si quieres sobrevivir!^7"
+
+REFERENCE           DUCK
+LANG_ENGLISH     "Pato al ataque"
+
+REFERENCE           DUCK_DESC
+LANG_ENGLISH     "¡Todos los jugadores llevan un flotador de pato, añadiendo un toque divertido en tu partida!"
+
+REFERENCE           ALERT
+LANG_ENGLISH     "\n\n^BBUTTON_CYCLE_LEFT^ (^1Al modificar esta opción, se deshabilitarán las estadísticas AAE, así como el banco y el depósito de armas.^7)"
+
+REFERENCE           RAMPAGE
+LANG_ENGLISH     "Intercambiar la tragaperra por el inductor de frenesí"
+
+REFERENCE           RAMPAGE_DESC
+LANG_ENGLISH     "Cambia la ubicación de la Tragaperra por la del Inductor de Frenesí para que funcione en mapas personalizados.\n\nInductor de Frenesí:\nActívalo para que los zombis aparezcan rápidamente y se muevan más rápido."
+
+REFERENCE           THEGIANT_WEAPON
+LANG_ENGLISH     "Habilitar las armas de The Giant en todos los mapas"
+
+REFERENCE           HIDE_CUSTOM_MAP_WEAPON
+LANG_ENGLISH     "Deshabilitar las armas de los mapas personalizados"
+
+REFERENCE           HIDE_AAE_WEAPON
+LANG_ENGLISH     "Deshabilitar las armas del mod AAE"
+
+ENDMARKER

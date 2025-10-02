@@ -1,0 +1,107 @@
+// Note to translators:
+// Just edit the text inside the quotes, don't edit other code
+
+VERSION             "1"
+CONFIG              "C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           HINT
+LANG_ENGLISH     "^3[{+activate}]^7 Gambler (^BBUTTON_COD_POINT_ICON^&&1)"
+
+REFERENCE           RUN
+LANG_ENGLISH     "Gambler em execução......"
+
+REFERENCE           WIN
+LANG_ENGLISH     "^1Você não ganhou nada."
+
+REFERENCE           W500
+LANG_ENGLISH     "^2Você ganha ^BBUTTON_COD_POINT_ICON^500."
+
+REFERENCE           W1000
+LANG_ENGLISH     "^2Você ganha ^BBUTTON_COD_POINT_ICON^1000."
+
+REFERENCE           W2000
+LANG_ENGLISH     "^2Você ganha ^BBUTTON_COD_POINT_ICON^2000."
+
+REFERENCE           L500
+LANG_ENGLISH     "^1Você perde ^BBUTTON_COD_POINT_ICON^500."
+
+REFERENCE           LOSTALL
+LANG_ENGLISH     "^8Surpresa!"
+
+REFERENCE           LOSTMONEY
+LANG_ENGLISH     "^1Você perdeu todo o seu dinheiro!"
+
+REFERENCE           SHIELD_FIX
+LANG_ENGLISH     "^2Você recebeu a correção do escudo antibalístico!"
+
+REFERENCE           WIN_SHIELD
+LANG_ENGLISH     "^2Você ganhou um escudo antibalístico nas costas!"
+
+REFERENCE           NO_SHIELD
+LANG_ENGLISH     "^2Você ganhou um escudo antibalístico, mas não podemos entregá-lo."
+
+REFERENCE           AIRSTRIKE_CL
+LANG_ENGLISH     "^1Ataque aéreo na sua localização."
+
+REFERENCE           W20000
+LANG_ENGLISH     "^2Você ganha ^BBUTTON_COD_POINT_ICON^20000."
+
+REFERENCE           LIVE_DIE
+LANG_ENGLISH     "^1Você vive ou morre em 5 segundos."
+
+REFERENCE           LIVE
+LANG_ENGLISH     "^2Você sobreviveu!"
+
+REFERENCE           DIE
+LANG_ENGLISH     "^1Você morreu!"
+
+REFERENCE           HEIST
+LANG_ENGLISH     "^3Assalto!"
+
+REFERENCE           RESTART
+LANG_ENGLISH     "^1Reinício do Gambler."
+
+REFERENCE           ALL_DIE
+LANG_ENGLISH     "^0Após 5 segundos todos morrem ou o idiota morre."
+
+REFERENCE           SB_DIE
+LANG_ENGLISH     "^1Idiota morreu"
+
+REFERENCE           SB_LIVE
+LANG_ENGLISH     "^1Booooom! Todos são mortos pelos idiotas! Idiotas sobrevivem! Idiotas ganham um Perkaholic grátis!"
+
+REFERENCE           RICH
+LANG_ENGLISH     "^3Fique rico!"
+
+REFERENCE           AIRSTRIKE_ZM
+LANG_ENGLISH     "^2Ataque aéreo de precisão chegando!"
+
+REFERENCE           LOST_WP
+LANG_ENGLISH     "^1Você perdeu todas as suas armas."
+
+REFERENCE           UNLIMIT
+LANG_ENGLISH     "Equipamento ilimitado por 1 minuto."
+
+REFERENCE           ONCE
+LANG_ENGLISH     "Gambler só é permitido uma vez por rodada"
+
+REFERENCE           UNLIMIT2
+LANG_ENGLISH     "O equipamento ilimitado acabou"
+
+REFERENCE           GAMBLERD
+LANG_ENGLISH     "^7 apostou - ^7"
+
+REFERENCE           PLAYER1
+LANG_ENGLISH     "^1Jogador: ^7"
+
+REFERENCE           PLAYER2
+LANG_ENGLISH     "^2Jogador: ^7"
+
+REFERENCE           TOOK_ALL
+LANG_ENGLISH     "^1 levou todo o seu dinheiro!"
+
+REFERENCE           GIVE_2000
+LANG_ENGLISH     "^2 te dá ^BBUTTON_COD_POINT_ICON^2000."
+
+ENDMARKER

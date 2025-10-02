@@ -1,0 +1,101 @@
+// Note to translators:
+// Just edit the text inside the quotes, don't edit other code
+
+VERSION             "1"
+CONFIG              "C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           ROCKETSHIELD_UPGRADED_TITLE
+LANG_ENGLISH     "Улучшение Ракетного Щита"
+
+REFERENCE           ROCKETSHIELD_UPGRADED_CONTENT
+LANG_ENGLISH     "1. Убейте 10 зомби 12 последовательными залпами с Ракетного Щита\n(Если количество убийств меньше 10, нужно начать заново)\n2. Когда услышите звук аплодисментов, получите улучшенный ракетный щит"
+
+REFERENCE           IDGUN_UPGRADED_TITLE
+LANG_ENGLISH     "Улучшение Apothican Servant"
+
+REFERENCE           IDGUN_UPGRADED_CONTENT
+LANG_ENGLISH     "1. Ищите коконы, висящие на карте. Когда игрок держит Apothican Servant, чем ближе он к кокону, тем чаще слышен сердечный ритм Apothican Servant\n2. После нахождения кокона используйте Apothican Servant, чтобы убить 100 зомби рядом с коконом\n3. Выстрелите в кокон, он всосет Apothican Servant, дождитесь следующего раунда\n4. Разрушьте кокон, и улучшенный Apothican Servant выпадет, любой игрок может его поднять"
+
+REFERENCE           GASMASK_UPGRADED_TITLE
+LANG_ENGLISH     "Улучшение Противогаза"
+
+REFERENCE           GASMASK_UPGRADED_CONTENT
+LANG_ENGLISH     "Выстрел в маску на верстаке с Masamune\nУлучшит противогаз до бесконечной защиты от токсичных спор"
+
+REFERENCE           FREEGUM_TITLE
+LANG_ENGLISH     "Бесплатно Anywhere But Here!"
+
+REFERENCE           FREEGUM_CONTENT
+LANG_ENGLISH     "Вы можете получить один Gobblegum “Anywhere But Here” здесь."
+
+REFERENCE           AA_AMMO_CHANCE_TITLE
+LANG_ENGLISH     "Увеличить шанс появления патронов для AA"
+
+REFERENCE           AA_AMMO_CHANCE_CONTENT
+LANG_ENGLISH     "Lucky Crit Gobblegum увеличит вероятность появления патронов для AA до 100%"
+
+REFERENCE           GIANT_PERK_EE_TITLE
+LANG_ENGLISH     "EE 5-й Машины Перков"
+
+REFERENCE           GIANT_PERK_EE_CONTENT
+LANG_ENGLISH     "Бросьте обезьянью бомбу в каждый телепорт и активируйте их, чтобы включить этот переключатель"
+
+REFERENCE           GENESIS_SHIELD_TITLE
+LANG_ENGLISH     "Улучшение Драконьего Щита"
+
+REFERENCE           GENESIS_SHIELD_CONTENT
+LANG_ENGLISH     "1. Используйте Apothican Servant, чтобы выстрелить по верстаку, вихрь всосет Apothican Servant, ПРИМЕЧАНИЕ: оружие не возвращается.\n2. После окончания вихря улучшение щита будет завершено"
+
+REFERENCE           TEMPLE_KEY_COMBO_EE_TITLE
+LANG_ENGLISH     "EE Взрывающаяся Обезьяна"
+
+REFERENCE           TEMPLE_KEY_COMBO_EE_CONTENT
+LANG_ENGLISH     "Встаньте сюда и нажмите следующие кнопки, чтобы взорвать обезьянью бомбу:\n^3[{+actionslot 1}] [{+actionslot 1}] [{+actionslot 2}] [{+gostand}]"
+
+REFERENCE           MOON_SUPER_PES_TITLE
+LANG_ENGLISH     "Супер Давление Внешний Костюм"
+
+REFERENCE           MOON_SUPER_PES_CONTENT
+LANG_ENGLISH     "P.E.S. теперь можно взломать.\nВзлом и повторное получение позволит переносить хакера и P.E.S. вместе"
+
+REFERENCE           MOON_DIGGER_HACKING_TITLE
+LANG_ENGLISH     "Управление Экскаватором теперь можно взломать"
+
+REFERENCE           MOON_DIGGER_HACKING_CONTENT
+LANG_ENGLISH     "Стоимость взлома панелей Omicron и Epsilon — 1000\nСтоимость взлома панели Pi — 5000, если машина Gobblegum отключена или включен случайный Gobblegum\nИначе взлом панели Pi будет отключен до раунда 10, а стоимость изменится на 50000\nЕсли туннель 6 будет разрушен до взлома, стоимость панели Pi изменится на 1000"
+
+REFERENCE           MOON_EE_ITEM_TITLE
+LANG_ENGLISH     "Получение предметов EE с Прыжковой Площадки"
+
+REFERENCE           MOON_EE_ITEM_CONTENT
+LANG_ENGLISH     "После раунда 10\nПрыжковая площадка может сгенерировать редкое оружие и экипировку\nУ вас есть 10 минут, чтобы собрать их после первого появления"
+
+REFERENCE           FIRETYPE
+LANG_ENGLISH     "Режим Огня"
+
+REFERENCE           MELEETIME
+LANG_ENGLISH     "Время Ближнего Боя"
+
+REFERENCE           DAMAGE
+LANG_ENGLISH     "Урон"
+
+REFERENCE           STK
+LANG_ENGLISH     "Выстрелов для убийства на Раунде 30"
+
+REFERENCE           SHOTCOUNT
+LANG_ENGLISH     "Количество выстрелов дробовика"
+
+REFERENCE           BOLTTIME
+LANG_ENGLISH     "Время затвора"
+
+REFERENCE           RELOADTIME
+LANG_ENGLISH     "Время перезарядки"
+
+REFERENCE           MAGSIZE
+LANG_ENGLISH     "Размер магазина"
+
+REFERENCE           STOCKAMMO
+LANG_ENGLISH     "Запас патронов"
+
+ENDMARKER

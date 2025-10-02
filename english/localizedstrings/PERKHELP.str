@@ -1,0 +1,35 @@
+// Note to translators:
+// Just edit the text inside the quotes, don't edit other code
+
+VERSION             "1"
+CONFIG              "C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           DEADSHOT
+LANG_ENGLISH     "Improves weapon hip-fire accuracy and will auto aim towards a zombies head when aiming down the sights\n^5AAE Bonus^7: After 5 consecutive headshots, hip-fire accuracy is maximized and has 1.5x headshot damage and can see zombies through walls"
+
+REFERENCE           DOUBLETAP
+LANG_ENGLISH     "Increases the fire rate of the weapons and doubles each bullet being fired\n^5AAE Bonus^7: Special weapons recharge faster"
+
+REFERENCE           JUGGER
+LANG_ENGLISH     "Double your health, allowing players to go down after 5 hits instead of 3"
+
+REFERENCE           MULEKICK
+LANG_ENGLISH     "Allows you to carry 3 weapons instead of 2\n^5AAE Bonus^7: After losing a Mulekick, the next time you get a Mulekick you will regain the lost weapon"
+
+REFERENCE           REVIVE_SOLO
+LANG_ENGLISH     "Revive yourself when downed\n^5AAE Bonus^7: Reduces health regain delay by 40%"
+
+REFERENCE           REVIVE
+LANG_ENGLISH     "Revive a downed teammate quicker\n^5AAE Bonus^7: Reduces health regain delay by 40%\nRevive teammates will not be able to take damage from zombies, and if the revive is not completed, it will prolong the bleeding time of the downed player"
+
+REFERENCE           FASTRELOAD
+LANG_ENGLISH     "Increases reload speed\n^5AAE Bonus^7: Switching weapons faster, faster ADS, throwing equipment faster, Drinking perk faster,Eat gobblegum faster, Climbing ladders faster, no Raise animation when getting a new weapon, Climbing up tank faster"
+
+REFERENCE           STAMINUP
+LANG_ENGLISH     "Allows you to run for longer periods of time\n^5AAE Bonus^7: Fire while sprinting, raise gun faster at end of sprint, can throw equipment while sprinting, ADS moves faster, infinite sprints"
+
+REFERENCE           WINE
+LANG_ENGLISH     "You'll get Widow's Wine Knife to increase your Melee damage. Replaces grenades with Widow's Wine grenades that wraps zombies in spider webs. A spider power up will drop that replenishes grenades. When zombies attacks you will cause a small explosion that will wrap the zombie in webs.\n^5AAE Bonus^7: Explosion immunity "
+
+ENDMARKER

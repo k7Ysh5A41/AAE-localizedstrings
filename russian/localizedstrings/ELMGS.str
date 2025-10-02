@@ -1,0 +1,95 @@
+// Note to translators:
+// Just edit the text inside the quotes, don't edit other code
+
+VERSION             "1"
+CONFIG              "C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           ZMLEFT
+LANG_ENGLISH     "Оставшиеся враги:  ^1"
+
+REFERENCE           ZOMBIERIOT
+LANG_ENGLISH     "^1Финальный вызов!"
+
+REFERENCE           PAP1
+LANG_ENGLISH     "^7Обычный"
+
+REFERENCE           PAP2
+LANG_ENGLISH     "^4Редкий"
+
+REFERENCE           PAP3
+LANG_ENGLISH     "^6Легендарный"
+
+REFERENCE           PAP4
+LANG_ENGLISH     "^3Эпический"
+
+REFERENCE           PAP_TITLE
+LANG_ENGLISH     "Уровень Pack-a-Punch: "
+
+REFERENCE           EXITLEVEL
+LANG_ENGLISH     "Мгновенный выход"
+
+REFERENCE           EXITLEVEL_DESC
+LANG_ENGLISH     "Все игроки в лобби немедленно покидают карту"
+
+REFERENCE           DISCORD
+LANG_ENGLISH     "^2ПРИСОЕДИНИТЕСЬ К DISCORD"
+
+REFERENCE           INFO
+LANG_ENGLISH     "Информация о МОДе"
+
+REFERENCE           START
+LANG_ENGLISH     "Поехали"
+
+REFERENCE           TOMB_LINE2
+LANG_ENGLISH     "Северная Франция, 1918"
+
+REFERENCE           DIE_LINE1
+LANG_ENGLISH     "ВЕЛИКИЙ ПРЫЖОК ВПЕРЕД"
+
+REFERENCE           DIE_LINE2
+LANG_ENGLISH     "ПРОВИНЦИЯ 22"
+
+REFERENCE           COAST_LINE1
+LANG_ENGLISH     "Полный состав"
+
+REFERENCE           COAST_LINE2
+LANG_ENGLISH     "КРАСНОЯРСКИЙ КРАЙ"
+
+REFERENCE           COAST_LINE3
+LANG_ENGLISH     "CALL OF THE DEAD"
+
+REFERENCE           TEMPLE_LINE1
+LANG_ENGLISH     "Время покажет"
+
+REFERENCE           COS_LINE1
+LANG_ENGLISH     "Механизм Казимира"
+
+REFERENCE           MOON_LINE1
+LANG_ENGLISH     "Грандиозный план Рихтгофена"
+
+REFERENCE           TRANZIT_LINE2
+LANG_ENGLISH     "СЕВЕРНОЕ ПОЛУШАРИЕ"
+
+REFERENCE           MOB_LINE1
+LANG_ENGLISH     "ОСТРОВ АЛЬКАТРАС"
+
+REFERENCE           MOB_LINE2
+LANG_ENGLISH     "Залив Сан-Франциско, США"
+
+REFERENCE           LEV_LINE1
+LANG_ENGLISH     "Левиафан"
+
+REFERENCE           LEV_LINE2
+LANG_ENGLISH     "Подводная исследовательская станция"
+
+REFERENCE           RAIN_LINE1
+LANG_ENGLISH     "ДОЖДЕВАЯ СМЕРТЬ"
+
+REFERENCE           RAIN_LINE2
+LANG_ENGLISH     "ПОКИНУТЫЙ ГОРОД"
+
+REFERENCE           GENESIS_LINE1
+LANG_ENGLISH     "Лучшее завтра"
+
+ENDMARKER

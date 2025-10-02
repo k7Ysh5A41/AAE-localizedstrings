@@ -1,0 +1,578 @@
+// Note to translators:
+// Just edit the text inside the quotes, don't edit other code
+
+VERSION             "1"
+CONFIG              "C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE            TITLE
+LANG_ENGLISH         "^6TF'S ZOMBIE OPTIONS PRO"
+
+REFERENCE            SWITCH
+LANG_ENGLISH         "Abilita TF Zombie Options Pro / Ripristina Predefinito"
+
+REFERENCE            WEAPON
+LANG_ENGLISH         "Opzioni Armi"
+
+REFERENCE            MYSTERYBOX
+LANG_ENGLISH         "Filtro Mystery Box"
+
+REFERENCE            POWERUP
+LANG_ENGLISH         "Opzioni Powerup"
+
+REFERENCE            PERK
+LANG_ENGLISH         "Opzioni Perk"
+
+REFERENCE            BGB
+LANG_ENGLISH         "Opzioni GobbleGum"
+
+REFERENCE            WEAPON_DESC
+LANG_ENGLISH         "Apri il menu delle opzioni armi."
+
+REFERENCE            MYSTERYBOX_DESC
+LANG_ENGLISH         "Questi filtri permettono di disabilitare armi extra aggiunte nelle mappe personalizzate dai rispettivi giochi. Per esempio, 'Disabilita Armi BO1' impedirà alle mappe personalizzate che utilizzano armi BO1 di aggiungerle alla scatola. Questi NON aggiungono armi di tutti i giochi nella scatola."
+
+REFERENCE            POWERUP_DESC
+LANG_ENGLISH         "Apri il menu delle opzioni powerup."
+
+REFERENCE            PERK_DESC
+LANG_ENGLISH         "Apri il menu delle opzioni perk."
+
+REFERENCE            BGB_DESC
+LANG_ENGLISH         "Apri il menu delle opzioni GobbleGum."
+
+REFERENCE            ZOMBIE
+LANG_ENGLISH         "Opzioni Zombie"
+
+REFERENCE            PLAYER
+LANG_ENGLISH         "Opzioni Giocatore"
+
+REFERENCE            ROAMER
+LANG_ENGLISH         "Opzioni Roamer"
+
+REFERENCE            GAME
+LANG_ENGLISH         "Opzioni Gioco"
+
+REFERENCE            SAVE_H
+LANG_ENGLISH         "Area Sicura Orizzontale"
+
+REFERENCE            SAVE_V
+LANG_ENGLISH         "Area Sicura Verticale"
+
+REFERENCE            ZOMBIE_DESC
+LANG_ENGLISH         "Apri il menu delle opzioni zombie."
+
+REFERENCE            PLAYER_DESC
+LANG_ENGLISH         "Apri il menu delle opzioni giocatore."
+
+REFERENCE            ROAMER_DESC
+LANG_ENGLISH         "Apri il menu delle opzioni roamer."
+
+REFERENCE            GAME_DESC
+LANG_ENGLISH         "Apri il menu delle opzioni gioco."
+
+REFERENCE            SAVE_H_DESC
+LANG_ENGLISH         "Regola l'intervallo orizzontale dell'area sicura."
+
+REFERENCE            SAVE_V_DESC
+LANG_ENGLISH         "Regola l'intervallo verticale dell'area sicura."
+
+REFERENCE            GAMEPLAY
+LANG_ENGLISH         "GIOCO"
+
+REFERENCE            AI
+LANG_ENGLISH         "IA"
+
+REFERENCE            SYSTEM
+LANG_ENGLISH         "SISTEMA"
+
+REFERENCE            DEFAULT
+LANG_ENGLISH         "Predefinito"
+
+REFERENCE            SPRINT
+LANG_ENGLISH         "Corsa"
+
+REFERENCE            SUPER_SPRINT
+LANG_ENGLISH         "Super Corsa"
+
+REFERENCE            KNOCK_BACK
+LANG_ENGLISH         "Contraccolpo"
+
+REFERENCE            PLAYER_HEALTH_1
+LANG_ENGLISH         "1 Colpo (35%)"
+
+REFERENCE            PLAYER_HEALTH_2
+LANG_ENGLISH         "2 Colpi (75%)"
+
+REFERENCE            PLAYER_HEALTH_3
+LANG_ENGLISH         "4 Colpi (150%)"
+
+REFERENCE            PLAYER_HEALTH_4
+LANG_ENGLISH         "5 Colpi (200%)"
+
+REFERENCE            ZOD
+LANG_ENGLISH         "Shadows of Evil"
+
+REFERENCE            FACTORY
+LANG_ENGLISH         "The Giant"
+
+REFERENCE            CASTLE
+LANG_ENGLISH         "Der Eisendrache"
+
+REFERENCE            ISLAND
+LANG_ENGLISH         "Zetsubou No Shima"
+
+REFERENCE            GK
+LANG_ENGLISH         "Gorod Krovi"
+
+REFERENCE            GENESIS
+LANG_ENGLISH         "Revelations"
+
+REFERENCE            KINO
+LANG_ENGLISH         "Kino der Toten"
+
+REFERENCE            TOMB
+LANG_ENGLISH         "Origins"
+
+REFERENCE            LESS
+LANG_ENGLISH         "Meno"
+
+REFERENCE            MORE
+LANG_ENGLISH         "Più"
+
+REFERENCE            INSANE
+LANG_ENGLISH         "Folle"
+
+REFERENCE            STOOPID
+LANG_ENGLISH         "Stupido"
+
+REFERENCE            INFINITE
+LANG_ENGLISH         "Infinito"
+
+REFERENCE            UI_30S
+LANG_ENGLISH         "30 Secondi"
+
+REFERENCE            UI_1M
+LANG_ENGLISH         "1 Minuto"
+
+REFERENCE            BGB_OFF
+LANG_ENGLISH         "Disabilita Macchine GobbleGum"
+
+REFERENCE            BGB_RDM
+LANG_ENGLISH         "GobbleGum Casuale"
+
+REFERENCE            BGB_FIX
+LANG_ENGLISH         "Costo Fisso GobbleGum"
+
+REFERENCE            BGB_COST
+LANG_ENGLISH         "Costo Base GobbleGum"
+
+REFERENCE            BGB_LIMIT
+LANG_ENGLISH         "Limite Acquisto GobbleGum"
+
+REFERENCE            BGB_SP
+LANG_ENGLISH         "Disabilita Musica Shopping Gratuito"
+
+REFERENCE            BGB_NT
+LANG_ENGLISH         "Negazione Newtoniana Illimitata"
+
+REFERENCE            BGB_OFF_DESC
+LANG_ENGLISH         "Disabilita tutte le macchine GobbleGum nella mappa."
+
+REFERENCE            BGB_RDM_DESC
+LANG_ENGLISH         "Il GobbleGum non userà più il loadout del giocatore, ma sarà selezionato casualmente da una lista di tutti i GobbleGum."
+
+REFERENCE            BGB_COST_DESC
+LANG_ENGLISH         "Costo base delle macchine GobbleGum."
+
+REFERENCE            BGB_FIX_DESC
+LANG_ENGLISH         "Costo fisso delle macchine GobbleGum."
+
+REFERENCE            BGB_LIMIT_DESC
+LANG_ENGLISH         "Limite di acquisto per le macchine GobbleGum."
+
+REFERENCE            BGB_TITLE
+LANG_ENGLISH         "OPZIONI GOBBLEGUM"
+
+REFERENCE            ROUND
+LANG_ENGLISH         "Round Iniziale"
+
+REFERENCE            ZC
+LANG_ENGLISH         "Contatore Zombie Attivo"
+
+REFERENCE            HITMARKER
+LANG_ENGLISH         "Hitmarker Zombie"
+
+REFERENCE            SE
+LANG_ENGLISH         "Eventi Punti"
+
+REFERENCE            TIMEPLAY
+LANG_ENGLISH         "Modalità a Tempo"
+
+REFERENCE            DOOR
+LANG_ENGLISH         "Inizia con Tutte le Porte Aperte"
+
+REFERENCE            BOX_ALL
+LANG_ENGLISH         "Mystery Box in Tutte le Posizioni"
+
+REFERENCE            POWER
+LANG_ENGLISH         "Inizia con Energia Attiva"
+
+REFERENCE            TRADE
+LANG_ENGLISH         "Scambio Armi"
+
+REFERENCE            SS
+LANG_ENGLISH         "Respawn Spettatore"
+
+REFERENCE            LOCKER
+LANG_ENGLISH         "Disabilita Armadietto & Banca"
+
+REFERENCE            DELAY
+LANG_ENGLISH         "Nessun Ritardo Round"
+
+REFERENCE            ROUND_DESC
+LANG_ENGLISH         "Scegli il round da cui iniziare."
+
+REFERENCE            ZC_DESC
+LANG_ENGLISH         "Aggiunge un contatore di zombie in alto a sinistra per mostrarti quanti zombie rimangono nel round."
+
+REFERENCE            DELAY_DESC
+LANG_ENGLISH         "Rimuove il ritardo tra i round. Inutile se hai il roamer abilitato."
+
+REFERENCE            HITMARKER_DESC
+LANG_ENGLISH         "Mostra gli hitmarker quando danneggi gli zombie."
+
+REFERENCE            SE_DESC
+LANG_ENGLISH         "Come in Cold War Zombies, mostra come hai ottenuto il punteggio accanto al mirino."
+
+REFERENCE            TIMEPLAY_DESC
+LANG_ENGLISH         "Abilita la modalità di gioco a tempo. Quando attiva, gli zombie non smettono di spawnare e l'obiettivo è durare il più a lungo possibile. Non compatibile con roamer o contatore zombie."
+
+REFERENCE            DOOR_DESC
+LANG_ENGLISH         "Apre tutte le porte sulla mappa."
+
+REFERENCE            BOX_ALL_DESC
+LANG_ENGLISH         "Genera la Mystery Box in tutte le posizioni possibili contemporaneamente. Impedisce alla scatola di spostarsi."
+
+REFERENCE            POWER_DESC
+LANG_ENGLISH         "Accende l'energia all'inizio del gioco."
+
+REFERENCE            ROUNDREVIVE_DESC
+LANG_ENGLISH         "Rianima tutti i giocatori alla fine del round con salute piena."
+
+REFERENCE            TRADE_DESC
+LANG_ENGLISH         "Scambia armi con un altro giocatore."
+
+REFERENCE            SS_DESC
+LANG_ENGLISH         "Gli spettatori respawnano 5 minuti dopo la morte."
+
+REFERENCE            GAME_TITLE
+LANG_ENGLISH         "OPZIONI GIOCO"
+
+REFERENCE            BOX_FILTER_DESC
+LANG_ENGLISH         "Questi filtri permettono di disabilitare armi extra aggiunte nelle mappe personalizzate dai rispettivi giochi. Per esempio, 'Disabilita Armi BO1' impedirà alle mappe personalizzate che utilizzano armi BO1 di aggiungerle alla scatola. Questi NON aggiungono armi di tutti i giochi nella scatola."
+
+REFERENCE            T4
+LANG_ENGLISH         "Disabilita Armi WAW"
+
+REFERENCE            IW4
+LANG_ENGLISH         "Disabilita Armi MW2"
+
+REFERENCE            T5
+LANG_ENGLISH         "Disabilita Armi BO1"
+
+REFERENCE            IW5
+LANG_ENGLISH         "Disabilita Armi MW3"
+
+REFERENCE            T6
+LANG_ENGLISH         "Disabilita Armi BO2"
+
+REFERENCE            IW6
+LANG_ENGLISH         "Disabilita Armi GHOSTS"
+
+REFERENCE            S1
+LANG_ENGLISH         "Disabilita Armi AW"
+
+REFERENCE            IW7
+LANG_ENGLISH         "Disabilita Armi IW"
+
+REFERENCE            H1
+LANG_ENGLISH         "Disabilita Armi MWR"
+
+REFERENCE            S2
+LANG_ENGLISH         "Disabilita Armi WW2"
+
+REFERENCE            T8
+LANG_ENGLISH         "Disabilita Armi BO4"
+
+REFERENCE            IW8
+LANG_ENGLISH         "Disabilita Armi MW 2019"
+
+REFERENCE            T9
+LANG_ENGLISH         "Disabilita Armi BO-CW"
+
+REFERENCE            ELMG_WEAPON
+LANG_ENGLISH         "Disabilita Armi AAE"
+
+REFERENCE            MYSTERYBOX_TITLE
+LANG_ENGLISH         "FILTRO MYSTERY BOX"
+
+REFERENCE            PERKLIMIT
+LANG_ENGLISH         "Rimuovi Limite Perk"
+
+REFERENCE            QUADKICK
+LANG_ENGLISH         "Mulekick Maggiore"
+
+REFERENCE            PERKAHOLIC
+LANG_ENGLISH         "Inizia con Perkaholic"
+
+REFERENCE            REVIVE
+LANG_ENGLISH         "Inizia con Quick Revive"
+
+REFERENCE            ROUNDREVIVE
+LANG_ENGLISH         "Rianimazione Round"
+
+REFERENCE            T8PERK
+LANG_ENGLISH         "Perdita Perk Basata sul Tempo"
+
+REFERENCE            PERKLIMIT_DESC
+LANG_ENGLISH         "Permetti al giocatore di scegliere il limite di perk."
+
+REFERENCE            QUADKICK_DESC
+LANG_ENGLISH         "Mulekick ora permette di portare 4 armi.\n\n^1Avviso^7: \nRipristino Armi & Mule Kick Ripristino Armi e Perdita Perk Basata sul Tempo smetteranno di funzionare."
+
+REFERENCE            PERKAHOLIC_DESC
+LANG_ENGLISH         "Scegli se vuoi iniziare con Perkaholic."
+
+REFERENCE            T8PERK_DESC
+LANG_ENGLISH         "I perk non verranno tutti persi quando si entra in Laststand come prima, ma persi gradualmente uno ad uno. Quando tieni troppi perk, la velocità di perdita aumenta, e quando tieni pochi perk, la velocità di perdita rallenta."
+
+REFERENCE            REVIVE_DESC
+LANG_ENGLISH         "Scegli se vuoi iniziare con Quick Revive."
+
+REFERENCE            PERK_TITLE
+LANG_ENGLISH         "OPZIONI PERK"
+
+REFERENCE            SCORE
+LANG_ENGLISH         "Punti Iniziali"
+
+REFERENCE            SPEED
+LANG_ENGLISH         "Moltiplicatore Velocità Movimento"
+
+REFERENCE            HEALTH
+LANG_ENGLISH         "Salute Giocatore"
+
+REFERENCE            EXO
+LANG_ENGLISH         "Movimento EXO"
+
+REFERENCE            SCORE_DESC
+LANG_ENGLISH         "Scegli quanti punti avere all'inizio del gioco."
+
+REFERENCE            SPEED_DESC
+LANG_ENGLISH         "Regola la velocità del giocatore. 1 è il valore predefinito."
+
+REFERENCE            HEALTH_DESC
+LANG_ENGLISH         "Scegli quanta salute iniziale per il giocatore.\nSalute Predefinita = 100, Colpo Zombie Normale = 45"
+
+REFERENCE            EXO_DESC
+LANG_ENGLISH         "Abilita movimento EXO. (Probabilmente non funzionerà su mappe che usano EXO, come Shadows Of Evil o Der Eisendrache)"
+
+REFERENCE            FIRENDLYFIRE_DESC
+LANG_ENGLISH         "Riflesso: Danno fatto a un compagno viene applicato a te.\n\nCondiviso: Danno fatto a un compagno viene diviso tra te e il compagno.\n\nContraccolpo: Non infliggi danno ai compagni, ma i giocatori vengono respinti dai colpi."
+
+REFERENCE            PLAYER_TITLE
+LANG_ENGLISH         "OPZIONI GIOCATORE"
+
+REFERENCE            POWERUP_SPAWN
+LANG_ENGLISH         "Quantità Spawn Powerup"
+
+REFERENCE            NUKE
+LANG_ENGLISH         "Nuke Migliorata"
+
+REFERENCE            NUKE_SCORE
+LANG_ENGLISH         "Punti Nuke Migliorata"
+
+REFERENCE            CARPENTER
+LANG_ENGLISH         "BO4 Carpenter"
+
+REFERENCE            FREEPERK
+LANG_ENGLISH         "Abilita Powerup Perk Gratis"
+
+REFERENCE            POWERUP_SPAWN_DESC
+LANG_ENGLISH         "Scegli quanti powerup spawnano per round."
+
+REFERENCE            NUKE_DESC
+LANG_ENGLISH         "Le nukes ora danno un certo numero di punti per zombie ucciso (minimo 400)."
+
+REFERENCE            NUKE_SCORE_DESC
+LANG_ENGLISH         "Scegli quanti punti per ogni zombie."
+
+REFERENCE            CARPENTER_DESC
+LANG_ENGLISH         "I carpenters riparano anche il tuo scudo."
+
+REFERENCE            FREEPERK_DESC
+LANG_ENGLISH         "Permette agli zombie di lasciare un perk gratis come powerup normale."
+
+REFERENCE            POWERUP_TITLE
+LANG_ENGLISH         "OPZIONI POWERUP"
+
+REFERENCE            MAXAMMO
+LANG_ENGLISH         "BO4 Max Ammo"
+
+REFERENCE            MAXAMMO_DESC
+LANG_ENGLISH         "I Max Ammo ricaricano anche il caricatore."
+
+REFERENCE            ROAMER
+LANG_ENGLISH         "Opzione Roamer"
+
+REFERENCE            ROAMERTIME
+LANG_ENGLISH         "Tempo Roamer tra i Round"
+
+REFERENCE            ROMAER_DESC
+LANG_ENGLISH         "Roamer permette di aspettare alla fine di ogni round prima che inizi il successivo. Non servono più crawlers! Per iniziare il round successivo, premi ADS + Mischia"
+
+REFERENCE            ROAMERTIME_DESC
+LANG_ENGLISH         "Scegli quanto tempo avere tra i round."
+
+REFERENCE            ROAMER_TITLE
+LANG_ENGLISH         "OPZIONI ROAMER"
+
+REFERENCE            T7
+LANG_ENGLISH         "Aggiungi Armi BO3"
+
+REFERENCE            STARTAMMO
+LANG_ENGLISH         "Inizia con Max Ammo"
+
+REFERENCE            RK5
+LANG_ENGLISH         "Inizia con RK5"
+
+REFERENCE            BOWIE
+LANG_ENGLISH         "Inizia con Coltello Bowie"
+
+REFERENCE            RADM_WEAPON
+LANG_ENGLISH         "Arma Casuale Iniziale"
+
+REFERENCE            OWNCAMO
+LANG_ENGLISH         "Usa il Tuo Camo"
+
+REFERENCE            PAPCAMO
+LANG_ENGLISH         "Scegli Camo Pack-a-Punch"
+
+REFERENCE            BOXSHARE
+LANG_ENGLISH         "Condivisione Mystery Box"
+
+REFERENCE            LOADOUTSAVE
+LANG_ENGLISH         "Ripristino Armi & Mule Kick Ripristino Armi"
+
+REFERENCE            C4
+LANG_ENGLISH         "Disabilita C4 Buyable Ending"
+
+REFERENCE            T7_DESC
+LANG_ENGLISH         "Forza l'aggiunta di tutte le armi BO3 nella Mystery Box."
+
+REFERENCE            STARTAMMO_DESC
+LANG_ENGLISH         "Scegli se iniziare il gioco con munizioni massime nella pistola."
+
+REFERENCE            RK5_DESC
+LANG_ENGLISH         "Aggiunge l'RK5 insieme alla pistola iniziale della mappa, come se il giocatore avesse completato il super Easter Egg."
+
+REFERENCE            BOWIE_DESC
+LANG_ENGLISH         "Dà a ogni giocatore il coltello bowie."
+
+REFERENCE            RADM_WEAPON_DESC
+LANG_ENGLISH         "Dà a ogni giocatore un'arma iniziale casuale."
+
+REFERENCE            OWNCAMO_DESC
+LANG_ENGLISH         "Le armi dopo il Pack-a-Punch useranno ancora il tuo camo originale."
+
+REFERENCE            PAPCAMO_DESC
+LANG_ENGLISH         "Scegli il camo Pack-a-Punch da usare."
+
+REFERENCE            BOXSHARE_DESC
+LANG_ENGLISH         "Usa la mischia sulla Mystery Box per condividere armi con i compagni."
+
+REFERENCE            LOADOUTSAVE_DESC
+LANG_ENGLISH         "Quando sei disconnesso dall'host corrente, il lobby corrente memorizzerà le tue armi, perk e punti. Dopo la riconnessione, riavrai ciò che hai perso (vale anche per il round successivo dopo la morte)."
+
+REFERENCE            C4_DESC
+LANG_ENGLISH         "Dopo 35 ondate, avere 150.000 punti e detonare il C4 può terminare il gioco. Disattiva questo effetto quando selezionato."
+
+REFERENCE            WEAPON_TITLE
+LANG_ENGLISH         "OPZIONI ARMI"
+
+REFERENCE            KILL
+LANG_ENGLISH         "Punti Extra per Uccisione"
+
+REFERENCE            MELEEKILL
+LANG_ENGLISH         "Punti Extra per Uccisione Corpo a Corpo"
+
+REFERENCE            HEADSHOTKILL
+LANG_ENGLISH         "Punti Extra per Headshot"
+
+REFERENCE            MAXZM
+LANG_ENGLISH         "Numero Massimo Zombie Generati"
+
+REFERENCE            SLOWZM
+LANG_ENGLISH         "Zombie Deboli"
+
+REFERENCE            ZMSPEED
+LANG_ENGLISH         "Velocità Movimento Zombie"
+
+REFERENCE            SPAWNDELAY
+LANG_ENGLISH         "Nessun Ritardo Spawn Zombie"
+
+REFERENCE            KILL_DESC
+LANG_ENGLISH         "Ottieni punti extra per uccidere zombie."
+
+REFERENCE            MELEEKILL_DESC
+LANG_ENGLISH         "Ottieni punti extra per uccidere zombie corpo a corpo."
+
+REFERENCE            HEADSHOTKILL_DESC
+LANG_ENGLISH         "Ottieni punti extra per uccidere zombie con headshot."
+
+REFERENCE            MAXZM_DESC
+LANG_ENGLISH         "Numero massimo di zombie che possono essere generati contemporaneamente. 24 è il predefinito. Numeri più alti possono causare lag. Il valore massimo testato è 40."
+
+REFERENCE            SLOWZM_DESC
+LANG_ENGLISH         "La forza degli zombie aumenta più gradualmente."
+
+REFERENCE            ZMSPEED_DESC
+LANG_ENGLISH         "Tutti gli zombie useranno questa velocità di movimento."
+
+REFERENCE            SPAWNDELAY_DESC
+LANG_ENGLISH         "Imposta il ritardo di spawn degli zombie a 0. Ciò significa che gli zombie spawnano istantaneamente."
+
+REFERENCE            ZOMBIE_TITLE
+LANG_ENGLISH         "OPZIONI ZOMBIE"
+
+REFERENCE            MW2019
+LANG_ENGLISH         "IW/MW2019"
+
+REFERENCE            CW
+LANG_ENGLISH         "Cold War"
+
+REFERENCE            BO4
+LANG_ENGLISH         "Black Ops 4"
+
+REFERENCE            HITMARKER_SOUND
+LANG_ENGLISH         "Suono Hitmarker"
+
+REFERENCE            DAMAGE
+LANG_ENGLISH         "Analisi Danno"
+
+REFERENCE            CRAZYZOMBIE
+LANG_ENGLISH         "Zombie Horror"
+
+REFERENCE            HUD
+LANG_ENGLISH         "No HUD"
+
+REFERENCE            LIMIT
+LANG_ENGLISH         "Permetti copie dell'Arma Meraviglia della mappa nella scatola"
+
+REFERENCE            HPBAR
+LANG_ENGLISH         "Barra Salute Giocatore"
+
+REFERENCE            HPBAR_DESC
+LANG_ENGLISH         "Mostra la salute del giocatore in basso a sinistra."
+
+ENDMARKER

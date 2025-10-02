@@ -1,0 +1,32 @@
+// Note to translators:
+// Just edit the text inside the quotes, don't edit other code
+
+VERSION             "1"
+CONFIG              "C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           ZOD
+LANG_ENGLISH     "^31.^7Beim Schritt der Schwert-Aufwertung kann der zusätzliche Spieler das Ei nicht nehmen, aber wenn der Charakter des zusätzlichen Spielers derselbe ist wie der des Hauptspielers, kann der zusätzliche Spieler das Ei gemeinsam mit dem Hauptspieler töten und aufladen, nahe beim Ei\n^32.^7Wenn das Schwert des Keepers genommen wird, dürfen keine weiteren Spieler dem Lobby beitreten, sonst funktioniert der Bosskampf nicht\n^33.^7Es werden nur 5 Margwa-Helme erscheinen\n^34.^7Alle EEs können erfolgreich abgeschlossen werden, wenn die Gesamtspielerzahl 8 beträgt"
+
+REFERENCE           CASTLE
+LANG_ENGLISH     "^31.^7Zusätzliche Spieler müssen das Ragnarok DG-4 in einem Bereich in der Nähe des MPD platzieren (es erscheint ein Ragnarok DG-4 Modell an der Stelle, an der es platziert werden muss)\n^32.^7Bogenduplikation wurde deaktiviert\n^33.^7Alle EEs können erfolgreich abgeschlossen werden, wenn die Gesamtspielerzahl 8 beträgt"
+
+REFERENCE           ISLAND
+LANG_ENGLISH     "Stabile Funktion nur mit 4 Spielern"
+
+REFERENCE           GENESIS
+LANG_ENGLISH     "Stabile Funktion nur mit 4 Spielern"
+
+REFERENCE           TOMB
+LANG_ENGLISH     "Stabile Funktion nur mit 8 Spielern"
+
+REFERENCE           STALINGRAD
+LANG_ENGLISH     "^31.^7Nur der Host kann die Herausforderungsbelohnung erhalten, und die Benutzeroberfläche für alle Herausforderungen wurde deaktiviert\n^32.^7Nur 3 Spieler können den Drachen reiten; wenn 4 Spieler reiten, werden die übrigen Spieler glitchy\n^33.^7Nach Abschluss des EEs werden zusätzliche Spieler nicht zum Spawnpunkt teleportiert\n^34.^7Alle EEs können erfolgreich abgeschlossen werden, wenn die Gesamtspielerzahl 8 beträgt"
+
+REFERENCE           DESC
+LANG_ENGLISH     "^3Details zum Problem 'Verbindung unterbrochen', das mitten im Spiel auftreten kann^7:\nWenn einige Karten die angegebene Spielerbegrenzung überschreiten, werden einige Funktionen dieses Mods nicht mehr geladen, um die maximale Spielstabilität zu gewährleisten. Um die Stabilität weiter zu verbessern, verwenden Sie bitte keine Wunderwaffen und Sprengwaffen. Außerdem können unbekannte Gründe dazu führen, dass das Problem 'Verbindung unterbrochen' dennoch auftritt. Es gibt keine perfekte Lösung, da die Rechenleistung der Spiel-Engine begrenzt ist, um so viele Spieler-Daten zu verarbeiten."
+
+REFERENCE           HELP
+LANG_ENGLISH         "^2Unterstützte Chat-Befehle^7:\n\n^5Sofort umwerfen\n^7/s\n^5Chat-Dauer\n^7/ct/{second}\n^5Spieler-Emotes\n^7/a/{1-14}\n^5Glücksspieler\n^7/g\n^5Aktuelle Waffe nachladen\n^7/r\n^5EE-Zähler (Das Laden der Daten dauert etwas, daher etwas langsam)\n^7/ee\n^5Zu anderen Spielern teleportieren (erfordert aktiviertes AF oder Spielerlimit > 4)\n^7/tp/{Spieler Nummer}\n^5Bank manuell aktualisieren\n^7/save"
+
+ENDMARKER

@@ -1,0 +1,266 @@
+// Note to translators:
+// Just edit the text inside the quotes, don't edit other code
+
+VERSION             "1"
+CONFIG              "C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           DISCORD_INVITE
+LANG_ENGLISH     "Create a Game Invite"
+
+REFERENCE           DISCORD_INVITE_DESC
+LANG_ENGLISH     "Please select from the following options and the process will start immediately after selection"
+
+REFERENCE           DISCORD_INVITE_OPTION1
+LANG_ENGLISH     "Generate a invite link and send it to the AAE Discord server"
+
+REFERENCE           DISCORD_INVITE_OPTION2
+LANG_ENGLISH     "Generate a invite link and show it in your browser for you to copy"
+
+REFERENCE           SEND_INVITE_TOAST_HEAD1
+LANG_ENGLISH     "Please try again later"
+
+REFERENCE           SEND_INVITE_TOAST_HEAD2
+LANG_ENGLISH     "Other players will see your Invite later!"
+
+REFERENCE           SEND_INVITE_TOAST_HEAD3
+LANG_ENGLISH     "Invitation function is being initialized"
+
+REFERENCE           SEND_INVITE_TOAST_HEAD4
+LANG_ENGLISH     "You're requesting too much"
+
+REFERENCE           SEND_INVITE_TOAST_FOOT1
+LANG_ENGLISH     "Unable to Invite"
+
+REFERENCE           SEND_INVITE_TOAST_FOOT2
+LANG_ENGLISH     "Please try again later"
+
+REFERENCE           CREATE_INVITE_TOAST_HEAD1
+LANG_ENGLISH     "Invite Link has been sent to the browser"
+
+REFERENCE           CREATE_INVITE_TOAST_FOOT1
+LANG_ENGLISH     "Link Generated"
+
+REFERENCE           CREATE_INVITE_TOAST_HEAD2
+LANG_ENGLISH     "Unable to Generate link"
+
+REFERENCE           CAREERS
+LANG_ENGLISH     "^3AAE CAREERS"
+
+REFERENCE           BANK_BALANCE
+LANG_ENGLISH     "Bank Balance"
+
+REFERENCE           PARASITE
+LANG_ENGLISH     "Parasite"
+
+REFERENCE           HIGHEST
+LANG_ENGLISH     "Highest "
+
+REFERENCE           EE_COUNT
+LANG_ENGLISH     "Easter Egg Count"
+
+REFERENCE           BOARD_COUNT
+LANG_ENGLISH     "Board Count"
+
+REFERENCE           PICKUP
+LANG_ENGLISH     " Pickup"
+
+REFERENCE           BUILDABLES_COUNT
+LANG_ENGLISH     "Buildables Count"
+
+REFERENCE           PLANTED
+LANG_ENGLISH     " Planted"
+
+REFERENCE           POWER_ON_COUNT
+LANG_ENGLISH     "Power On Count"
+
+REFERENCE           USES
+LANG_ENGLISH     " Uses"
+
+REFERENCE           MEATBALLS
+LANG_ENGLISH     "Meatballs"
+
+REFERENCE           WUNDERFIZZ
+LANG_ENGLISH     "Wunderfizz"
+
+REFERENCE           GRABBED
+LANG_ENGLISH     " Grabbed"
+
+REFERENCE           WALLBUY_PURCHASED
+LANG_ENGLISH     "Wallbuy Purchased"
+
+REFERENCE           NOT_GRAABED
+LANG_ENGLISH     " Not Grabbed"
+
+REFERENCE           DIED_REVIVE
+LANG_ENGLISH     "Died while reviving player"
+
+REFERENCE           WALLBUY_PAP_AMMO
+LANG_ENGLISH     "Wallbuy PAP Ammo Purchased"
+
+REFERENCE           AAT
+LANG_ENGLISH     "AAT Trigger Count"
+
+REFERENCE           DOWN_REVIVE
+LANG_ENGLISH     "Downed after reviving a player"
+
+REFERENCE           WALLBUY_AMMO
+LANG_ENGLISH     "Wallbuy Ammo Purchased"
+
+REFERENCE           BGB
+LANG_ENGLISH     " Chewed"
+
+REFERENCE           SAVE
+LANG_ENGLISH     "Your career data is being saved"
+
+REFERENCE           GAMBLER_DESC
+LANG_ENGLISH     "There's a 10-second countdown after purchase and then random things happen, some good, some bad, some interesting, lots of possibilities."
+
+REFERENCE           DISCORD_INVITE_OPTION0
+LANG_ENGLISH     "Update and add the Join Game button to your Discord profile"
+
+REFERENCE           RPC_TOAST_FOOT1
+LANG_ENGLISH     "Unable to update the button"
+
+REFERENCE           RPC_TOAST_HEAD2
+LANG_ENGLISH     "The Join button is being updated"
+
+REFERENCE           RAINBOW_EYE_DESC
+LANG_ENGLISH     "Zombie eyes turn into rainbows"
+
+REFERENCE           CHAT_HELP
+LANG_ENGLISH     "Type ^3/?^7 in chat to get all available chat commands."
+
+REFERENCE           OUT_OF_BOUNDS
+LANG_ENGLISH     "^1OUT OF BOUNDS"
+
+REFERENCE           PAP_BUSY
+LANG_ENGLISH     "Pack-a-Punch is Busy"
+
+REFERENCE           PAP_OCTOBOMB
+LANG_ENGLISH     "You can now press ^3[{+melee}]^7 to toggle Pack-a-Punch into Li'l Arnie Only mode"
+
+REFERENCE           PAP_MONKEY
+LANG_ENGLISH     "You can now press ^3[{+melee}]^7 to toggle Pack-a-Punch into Cymbal Monkey Only mode"
+
+REFERENCE           PAP_ONLY_ACCEPTS
+LANG_ENGLISH     "Pack-a-Punch now only accepts "
+
+REFERENCE           PAP_NOT_ACCEPTS
+LANG_ENGLISH     "Pack-a-Punch not accepting "
+
+REFERENCE           AFK
+LANG_ENGLISH     "AFK"
+
+REFERENCE           AFK_DESC
+LANG_ENGLISH     "You are currently ignored by zombies and other players can push you."
+
+REFERENCE           PAP_OR_NORMAL
+LANG_ENGLISH     "PAP or Normal"
+
+REFERENCE           PAP_AND_NORMAL
+LANG_ENGLISH     "PAP and Normal"
+
+REFERENCE           THROW_CANCLE
+LANG_ENGLISH     " / Throwable Cancel"
+
+REFERENCE           IMMUNE
+LANG_ENGLISH     "Immune"
+
+REFERENCE           RAMPAGE
+LANG_ENGLISH     "Rampage Inducer"
+
+REFERENCE           VOID
+LANG_ENGLISH     "Demon Gate"
+
+REFERENCE           FIRE
+LANG_ENGLISH     "Rune Prison"
+
+REFERENCE           LIGHTING
+LANG_ENGLISH     "Storm"
+
+REFERENCE           WOLF
+LANG_ENGLISH     "Wolf Howl"
+
+REFERENCE           DEACTIVATE
+LANG_ENGLISH     "Deactivate"
+
+REFERENCE           GAMBLER
+LANG_ENGLISH     "Gambler"
+
+REFERENCE           MATCHMAKING_SETTINGS
+LANG_ENGLISH     "MATCHMAKING PREFERENCES"
+
+REFERENCE           MATCHMAKING_CREATE
+LANG_ENGLISH     "Create Lobby Only"
+
+REFERENCE           MATCHMAKING_JOIN
+LANG_ENGLISH     "Join / Create Lobby"
+
+REFERENCE           INVITEDISCORD
+LANG_ENGLISH     "Invite via Discord"
+
+REFERENCE           RESTARTHINT
+LANG_ENGLISH     "Press &&1 ^1&&2^7 Times To Restart The Map"
+
+REFERENCE           RESTARTING
+LANG_ENGLISH     "Restarting......"
+
+REFERENCE           NORAMPAGE
+LANG_ENGLISH     "Disable Rampage Inducer"
+
+REFERENCE           RANDOM_MAP
+LANG_ENGLISH     "RANDOM MAP CHANGE"
+
+REFERENCE           COPYLOBBYID
+LANG_ENGLISH     "Copy Lobby ID to Clipboard"
+
+REFERENCE           JOINLOBBYID
+LANG_ENGLISH     "Join via Clipboard"
+
+REFERENCE           LINKCOPY
+LANG_ENGLISH     "Invite link Copied"
+
+REFERENCE           LOBBYIDCOPY
+LANG_ENGLISH     "Lobby ID Copied"
+
+REFERENCE           DISCORDRUN
+LANG_ENGLISH     "Discord App needs to run in the background"
+
+REFERENCE           DOWNLOAD_MAP_FROM_CLIPBOARD
+LANG_ENGLISH     "Download Map From Clipboard"
+
+REFERENCE           DOWNLOAD_MAP_FROM_CLIPBOARD_TITLE
+LANG_ENGLISH     "Check Your Steam Download List"
+
+REFERENCE           DOWNLOAD_MAP_FROM_CLIPBOARD_DESC
+LANG_ENGLISH     "Requesting New Maps......"
+
+REFERENCE           DOWNLOAD_MAP_FROM_CLIPBOARD_ERROR_TITLE
+LANG_ENGLISH     "Paste The Correct Map ID"
+
+REFERENCE           DOWNLOAD_MAP_FROM_CLIPBOARD_ERROR_DESC
+LANG_ENGLISH     "Incorrect Map ID"
+
+REFERENCE           DOWNLOAD_MAP_FROM_CLIPBOARD_INSTALLED_TITLE
+LANG_ENGLISH     "This Map Has Been Installed"
+
+REFERENCE           VIDEOPLAYER
+LANG_ENGLISH     "MAP CINEMATICS"
+
+REFERENCE           OUTRO_CAPS
+LANG_ENGLISH     "OUTRO"
+
+REFERENCE           OUTRO
+LANG_ENGLISH     "Outro"
+
+REFERENCE           ISLAND_LOAD_AA_GUN
+LANG_ENGLISH     "Hold ^3[{+activate}]^7 to Load the Anti-Aircraft Gun"
+
+REFERENCE           ISLAND_FIRE_AA_GUN
+LANG_ENGLISH     "Hold ^3[{+activate}]^7 to Fire the Anti-Aircraft Gun"
+
+REFERENCE           NEED_UPDATE
+LANG_ENGLISH     "New AAE update found!\nYou must resubscribe AAE to receive updates and play with other players"
+
+ENDMARKER

@@ -1,0 +1,242 @@
+// Note to translators:
+// Just edit the text inside the quotes, don't edit other code
+
+VERSION             "1"
+CONFIG              "C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE            FOV_SCALE
+LANG_ENGLISH         "Масштаб FoV"
+
+REFERENCE            SHORTCUT_KEY
+LANG_ENGLISH         "^5Все горячие клавиши\n\n^7Фонарь\nМаркер\nСброс очков\nDNI Ночное видение\nГлубина резкости\nТретье лицо\nПолный обзор карты\nСкрыть HUD\nСпреи\nОтмена броска\nУстановить оружие Mulekick\nСмена камуфляжа\nСмена прицела"
+
+REFERENCE            DRONE_KILL
+LANG_ENGLISH         "Уничтожение дрона Valkyrie"
+
+REFERENCE            DRONE_EXPLOSIVE_KILL
+LANG_ENGLISH         "Взрывное уничтожение дрона Valkyrie"
+
+REFERENCE            DRONE_MELEE_KILL
+LANG_ENGLISH         "Ближний бой с дроном Valkyrie"
+
+REFERENCE            DRONE_HEADSHOT_KILL
+LANG_ENGLISH         "Убийство дрона Valkyrie выстрелом в голову"
+
+REFERENCE            C_DRONE_CRITICAL_KILL
+LANG_ENGLISH         "^3Критическое убийство дрона Valkyrie"
+
+REFERENCE            C_DRONE_EXPLOSIVE_KILL
+LANG_ENGLISH         "^3Взрывное убийство дрона Valkyrie"
+
+REFERENCE            C_DRONE_MELEE_KILL
+LANG_ENGLISH         "^3Ближний бой с дроном Valkyrie"
+
+REFERENCE            C_DRONE_HEADSHOT_KILL
+LANG_ENGLISH         "^3Убийство дрона Valkyrie выстрелом в голову"
+
+REFERENCE            KEEPER
+LANG_ENGLISH         "Хранители"
+
+REFERENCE            SHRIEKER
+LANG_ENGLISH         "Кричащий"
+
+REFERENCE            NAPALM
+LANG_ENGLISH         "Напалм"
+
+REFERENCE            MONKEY
+LANG_ENGLISH         "Обезьяна"
+
+REFERENCE            PARASITE
+LANG_ENGLISH         "Паразит"
+
+REFERENCE            MEATBALL
+LANG_ENGLISH         "Фрикаделька"
+
+REFERENCE            ZNS_PLANE
+LANG_ENGLISH         "Бомбардировщик MIL-B17"
+
+REFERENCE            DRONE
+LANG_ENGLISH         "Дрон Valkyrie"
+
+REFERENCE            ASTROUAUT
+LANG_ENGLISH         "Астронавт"
+
+REFERENCE            THRASHER
+LANG_ENGLISH         "Трэшер"
+
+REFERENCE            NOVA
+LANG_ENGLISH         "Краулер Нова"
+
+REFERENCE            FURY
+LANG_ENGLISH         "Ярость Апотиона"
+
+REFERENCE            PANZER
+LANG_ENGLISH         "Панцершолд"
+
+REFERENCE            MARGWA
+LANG_ENGLISH         "Маргва"
+
+REFERENCE            MANGLER
+LANG_ENGLISH         "Мэнглер"
+
+REFERENCE            BUY_DRINK
+LANG_ENGLISH         "Вы можете купить другу напиток, нажав ^3[{+actionslot 3}] ^7у машины перков"
+
+REFERENCE            CASTLE_EE_TIMER
+LANG_ENGLISH         "Обратный отсчет путешествия во времени: "
+
+REFERENCE            GUM_DISABLE
+LANG_ENGLISH         " GobbleGum отключен из-за размера лобби"
+
+REFERENCE            MONKEY_PAP
+LANG_ENGLISH         "Нажмите ^3[{+melee}]^7 Pack-a-Punch Monkey Bomb [Стоимость: 5000]"
+
+REFERENCE            OCTOBOMB_PAP
+LANG_ENGLISH         "Нажмите ^3[{+melee}]^7 Pack-a-Punch Li'l Arnies [Стоимость: 5000]"
+
+REFERENCE            ZOMBIE_BASE_HEALTH
+LANG_ENGLISH         "Множитель базового здоровья зомби"
+
+REFERENCE          VE_MAP
+LANG_ENGLISH       "КАРТЫ С ОДНИМ ОКНОМ"
+
+REFERENCE          VE_MAP_DESC
+LANG_ENGLISH       "Карты с одним окном, расположенные в небольшой или средней комнате."
+
+REFERENCE          MIN_MAP
+LANG_ENGLISH       "КАРТЫ MINECRAFT"
+
+REFERENCE          MIN_MAP_DESC
+LANG_ENGLISH       "Карты популярной игры Minecraft, полные весёлых испытаний и множества зомби."
+
+REFERENCE          TOR_MAP
+LANG_ENGLISH       "КАРТЫ БАШЕН"
+
+REFERENCE          TOR_MAP_DESC
+LANG_ENGLISH       "Башенные карты, где ваша цель — подняться или спуститься с башни, купить её конечное приобретение или выполнить испытания."
+
+REFERENCE          IN_MAP
+LANG_ENGLISH       "ВДОХНОВЛЁННЫЕ КАРТЫ"
+
+REFERENCE          IN_MAP_DESC
+LANG_ENGLISH       "Карты, вдохновлённые дизайном Treyarch."
+
+REFERENCE          MP_MAP
+LANG_ENGLISH       "МНОГОПОЛЬЗОВАТЕЛЬСКИЕ КАРТЫ"
+
+REFERENCE          MP_MAP_DESC
+LANG_ENGLISH       "Мультиплеерные карты, созданные или изменённые для новой темы с зомби."
+
+REFERENCE          FC_MAP
+LANG_ENGLISH       "КАРТЫ FULL CIRCLE"
+
+REFERENCE          FC_MAP_DESC
+LANG_ENGLISH       "Удивительные карты от популярного создателя AlfaTheseus."
+
+REFERENCE          DS_MAP
+LANG_ENGLISH       "КАРТЫ COD DS"
+
+REFERENCE          DS_MAP_DESC
+LANG_ENGLISH       "Эксклюзивные и развлекательные карты версии Black Ops для Nintendo DS."
+
+REFERENCE          WW_MAP
+LANG_ENGLISH       "КАРТЫ COD WAW"
+
+REFERENCE          WW_MAP_DESC
+LANG_ENGLISH       "Карты, полные действия, напоминающие оригинальную эру World at War."
+
+REFERENCE          B1_MAP
+LANG_ENGLISH       "КАРТЫ COD BO1"
+
+REFERENCE          B1_MAP_DESC
+LANG_ENGLISH       "Мифические карты из интенсивной эры Black Ops 1."
+
+REFERENCE          B2_MAP
+LANG_ENGLISH       "КАРТЫ COD BO2"
+
+REFERENCE          B2_MAP_DESC
+LANG_ENGLISH       "Таинственные и крутые карты, основанные на игре Black Ops 2."
+
+REFERENCE          MW_MAP
+LANG_ENGLISH       "КАРТЫ COD MW"
+
+REFERENCE          MW_MAP_DESC
+LANG_ENGLISH       "Легендарные мультиплеерные карты, теперь залитые кровью и зомби."
+
+REFERENCE            QU_MAP
+LANG_ENGLISH         "КАРТЫ СЕРИИ QUIET"
+
+REFERENCE            QU_MAP_DESC
+LANG_ENGLISH         "Потрясающие карты от популярного создателя Markus Darius. ПРИМЕЧАНИЕ: эти карты будут работать только в облегчённой версии этого мода."
+
+REFERENCE            KO_MAP
+LANG_ENGLISH         "КАРТЫ VERK0"
+
+REFERENCE            KO_MAP_DESC
+LANG_ENGLISH         "Потрясающие карты от популярного создателя Verk0, некоторые карты будут работать только в облегчённой версии этого мода."
+
+REFERENCE            ICE_MAP
+LANG_ENGLISH         "КАРТЫ ICEGRENADE"
+
+REFERENCE            ICE_MAP_DESC
+LANG_ENGLISH         "Потрясающие карты от популярного создателя IceGrenade, некоторые карты будут работать только в облегчённой версии этого мода."
+
+REFERENCE            WEE_MAP
+LANG_ENGLISH         "КАРТЫ LOGICAL"
+
+REFERENCE            WEE_MAP_DESC
+LANG_ENGLISH         "Потрясающие карты от популярного создателя Logical, некоторые карты будут работать только в облегчённой версии этого мода."
+
+REFERENCE            CH_MAP
+LANG_ENGLISH         "КАРТЫ ВЫЗОВОВ"
+
+REFERENCE            CH_MAP_DESC
+LANG_ENGLISH         "Карты, полные испытаний, некоторые более экстремальные, чем другие, проверяющие ваши навыки и способности."
+
+REFERENCE            NO_MAP
+LANG_ENGLISH         "КАРТЫ УЖАСОВ"
+
+REFERENCE            NO_MAP_DESC
+LANG_ENGLISH         "Карты ужасов, где интенсивность кричит, а отчаяние пронизывает тело, испытывая ваши пределы каждую секунду."
+
+REFERENCE            NOM_MAP
+LANG_ENGLISH         "КАРТЫ ФИЛЬМОВ"
+
+REFERENCE            NOM_MAP_DESC
+LANG_ENGLISH         "Карты, вдохновлённые фильмами, которые перенесут вас в кинематографические сценарии, полные волнения и действия."
+
+REFERENCE            SEA_MAP
+LANG_ENGLISH         "КАРТЫ SEATOWN"
+
+REFERENCE            SEA_MAP_DESC
+LANG_ENGLISH         "Карты с духом SEATOWN, где ваши навыки будут проверены в интенсивных битвах."
+
+REFERENCE            SAW_MAP
+LANG_ENGLISH         "КАРТЫ SAW"
+
+REFERENCE            SAW_MAP_DESC
+LANG_ENGLISH         "Ужасные карты на уровне Saw, где вы будете проверены в тревожных локациях с мрачными поворотами."
+
+REFERENCE            XMA_MAP
+LANG_ENGLISH         "КАРТЫ РОЖДЕСТВА"
+
+REFERENCE            XMA_MAP_DESC
+LANG_ENGLISH         "Рождественские карты, полные радости, до полуночи, когда нежить ищет свои подарки."
+
+REFERENCE            UNSU_MAP
+LANG_ENGLISH         "^1НЕПОДДЕРЖИВАЕМЫЕ КАРТЫ^7"
+
+REFERENCE            UNSU_MAP_DESC
+LANG_ENGLISH         "Здесь, на вкладке, будут показаны карты, которые не совместимы с модом All Around Enhancement."
+
+REFERENCE            WHIMSICAL
+LANG_ENGLISH         "Фантазийный"
+
+REFERENCE            ZC_MAP
+LANG_ENGLISH         "ZOMBIES CHRONICLES II"
+
+REFERENCE            ZC_MAP_DESC
+LANG_ENGLISH         "Эпические ремейки от сообщества, предлагающие увлекательный и уникальный способ пройти эти классические карты!"
+
+ENDMARKER

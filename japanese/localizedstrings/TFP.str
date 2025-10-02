@@ -1,0 +1,116 @@
+// Note to translators:
+// Just edit the text inside the quotes, don't edit other code
+
+VERSION             "1"
+CONFIG              "C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           STATUS
+LANG_ENGLISH     "ステータスモニター"
+
+REFERENCE           STATUS_DESC
+LANG_ENGLISH     "画面左側に現在のステータス情報を表示します（不具合が発生する場合があります）。"
+
+REFERENCE           SWITCH_DESC
+LANG_ENGLISH     "^3以下のオプションを有効にするには、このオプションを有効にする必要があります"
+
+REFERENCE           VCLUT
+LANG_ENGLISH     "コントラスト"
+
+REFERENCE           VCLUT_DESC
+LANG_ENGLISH     "ゲーム内の色の量を増減します。0がデフォルトです。画面が暗くなりすぎた場合は、カラーモードをsRGBに変更し、明るさを上げると改善されます。色が派手すぎると感じる人は、World At Warに近い鈍いカラーパレットにできます。"
+
+REFERENCE           EXTPLAYER
+LANG_ENGLISH     "プレイヤー数サポート拡張"
+
+REFERENCE           EXTPLAYER_DESC
+LANG_ENGLISH     "最大プレイヤー数を10に増加（^1非常に不安定^7）、ゴブルガムマシンは^3ゲームエンジンの制限^7により無効になります。\n\nマップサポート詳細:\n\nZombies Chronicles全マップ\n(^2安定、メインEE対応^7)\n\nSoE/DE/GK\n(^3やや不安定、メインEE対応^7)\n\nその他のTreyarchマップ (^3やや不安定^7)\nカスタムマップ（不明）"
+
+REFERENCE           FFFIVE
+LANG_ENGLISH     "味方攻撃は有効だがキル不可"
+
+REFERENCE           ROUNDLIMIT
+LANG_ENGLISH     "このラウンドでマッチ終了"
+
+REFERENCE           ROUNDTIME
+LANG_ENGLISH     "エンドゲームチャレンジ"
+
+REFERENCE           ROUNDTIME_DESC
+LANG_ENGLISH     "今あなたはエンドゲームです。「このラウンドでマッチ終了」オプションで指定されたラウンド後、無限に出現するゾンビを指定時間生き延びてスキルを試します。新しいスーパー・スプリンタやトランジット・バス・スプリンタにも注意してください。ラウンド40未満で開始すると失敗時の罰は……群れに負けたことを知ることです。"
+
+REFERENCE           TRADE_DESC
+LANG_ENGLISH     "別のプレイヤーと武器を交換します。交換したいプレイヤーに近づき、その武器を見ます。両プレイヤーは画面のプロンプトをバーが満タンになるまで保持し、武器が交換されます。"
+
+REFERENCE           GAMBLER_DESC
+LANG_ENGLISH     "プレイヤーのスポーン地点に浮遊するラッキー8ボールを出現させ、1000ポイントで操作してランダムな効果を発生させます。良いものも悪いものもあります。1ラウンドにつき1回のみ購入可能。"
+
+REFERENCE           SOLOREVIVE
+LANG_ENGLISH     "無限ソロリバイブ"
+
+REFERENCE           PERKPLUS
+LANG_ENGLISH     "パーク強化を無効化"
+
+REFERENCE           PERKPLUS_DESC
+LANG_ENGLISH     "MODによって追加された以下のパーク効果を無効化します:\n\n^2スピードコーラ^7: パークとゴブルガムの購入速度、ADS、武器切替、近接速度を向上し、“最初の構え”アニメを削除\n^3スタミナアップ^7: ダッシュ後の武器構えが速く、走りながら投擲や射撃可能、無限ダッシュ\n^3ダブルタップ ルートビア^7: 特殊武器のチャージ速度増加\n^1ウィドウズワイン^7: PhDフロッパー耐性付与（マップに保護パークが1つのみの場合に有効）\nデッドショットダイキリ: デッドショット含むパーク4つで、ヘッドショット5体連続でx1.25倍率。武器弾数横にアイコン表示。ヘッドショット以外でリセット。"
+
+REFERENCE           NOSLIDE
+LANG_ENGLISH     "スライド無効化"
+
+REFERENCE           RJ
+LANG_ENGLISH     "ロケットジャンプ"
+
+REFERENCE           RJ_DESC
+LANG_ENGLISH     "爆発物で一定距離ジャンプ。ウィドウズワインの耐爆効果と組み合わせてロケットジャンプ可能！"
+
+REFERENCE           SHOCK
+LANG_ENGLISH     "チーム専用グリーフモード"
+
+REFERENCE           SHOCK_DESC
+LANG_ENGLISH     "通常の味方攻撃はプレイヤーをスローダウンし、画面をスタンさせます。"
+
+REFERENCE           BLOOD
+LANG_ENGLISH     "血しぶき無効化"
+
+REFERENCE           FLAMER
+LANG_ENGLISH     "パリファイヤー（火炎放射器）無効化"
+
+REFERENCE           ROAMER_DESC
+LANG_ENGLISH     "各ラウンド間に休憩時間を設定可能。時間をカスタマイズでき、プロンプトに従って手動で次ラウンド開始可能。"
+
+REFERENCE           DPAP
+LANG_ENGLISH     "BO4 パックアパンチ再配布"
+
+REFERENCE           LOADOUTSAVE2
+LANG_ENGLISH     "出血後に保存ロードアウトをクリア"
+
+REFERENCE           LOADOUTSAVE2_DESC
+LANG_ENGLISH     "出血後に武器をリセットしてピストルのみで復活。Mule Kickを有効にしている場合も武器保持可能。"
+
+REFERENCE           RIPPER
+LANG_ENGLISH     "Bowie KnifeをRipperに置換無効化"
+
+REFERENCE           RIPPER_DESC
+LANG_ENGLISH     "Bowie Knifeとウィドウズワイン所持時にマルチプレイヤーのRipperにアップグレード。ダメージ増加＆ホーミング攻撃。無効化可。"
+
+REFERENCE           DW
+LANG_ENGLISH     "デュアルウェルドPAP特殊武器無効化"
+
+REFERENCE           DW_DESC
+LANG_ENGLISH     "Ray Gun Mark IとThundergunはPAPでデュアルウェルド化。無効化可能。"
+
+REFERENCE           ZMBAR
+LANG_ENGLISH     "ゾンビ体力バー"
+
+REFERENCE           JUKE
+LANG_ENGLISH     "ゾンビのジューク"
+
+REFERENCE           JUKE_DESC
+LANG_ENGLISH     "ゾンビがランダムに左右に動く、Black Ops 1風"
+
+REFERENCE           AUTORUN
+LANG_ENGLISH     "ラウンド40以降の全ゾンビスーパーランナー無効化"
+
+REFERENCE           AUTORUN_DESC
+LANG_ENGLISH     "All Around Enhancement MODでラウンド40以降、全ゾンビがスーパーランナーになります。このオプションで一部のみスーパーランナーに制限可能。"
+
+ENDMARKER

@@ -1,0 +1,312 @@
+// Note to translators:
+// Just edit the text inside the quotes, don't edit other code
+
+VERSION             "1"
+CONFIG              "C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           PLAYERMONITOR
+LANG_ENGLISH     "Widok innych graczy"
+
+REFERENCE           PLAYERMONITOR_DOA
+LANG_ENGLISH     "Widok innych graczy (perspektywa z góry na dół)"
+
+REFERENCE           WALLBUY
+LANG_ENGLISH     "Wyłącz wskazówki zakupu przy ścianie"
+
+REFERENCE           PLAYER_HPBAR
+LANG_ENGLISH     "Wyłącz pasek zdrowia nad graczem"
+
+REFERENCE           SMOKE
+LANG_ENGLISH     "Wyłącz smugi dymu przy lufie"
+
+REFERENCE           KICK
+LANG_ENGLISH     "Wyłącz dodatkowy odrzut nowych broni CoD"
+
+REFERENCE           DISABLE_AFK
+LANG_ENGLISH     "Wyłącz AFK"
+
+REFERENCE           BGB_DROP
+LANG_ENGLISH     "Upuszczanie power-upów Gobblegum"
+
+REFERENCE           FPS
+LANG_ENGLISH     "Niska jakość grafiki"
+
+REFERENCE           SM
+LANG_ENGLISH     "Pokaż własną prędkość poruszania się"
+
+REFERENCE           AAT
+LANG_ENGLISH     "Wyłącz AAT"
+
+REFERENCE           ADS
+LANG_ENGLISH     "Brak powiększenia ADS"
+
+REFERENCE           T6PAP
+LANG_ENGLISH     "BO2 Pack-a-Punch"
+
+REFERENCE           GRENADE_BAR
+LANG_ENGLISH     "Wyłącz odliczanie granatów"
+
+REFERENCE           LH_GES
+LANG_ENGLISH     "Wyłącz gest lewą ręką"
+
+REFERENCE           FSF
+LANG_ENGLISH     "Wyłącz błysk na pełnym ekranie"
+
+REFERENCE           FSFB
+LANG_ENGLISH     "Odwróć kolory błysku na czarny"
+
+REFERENCE           RESTART_HINT
+LANG_ENGLISH     "Możesz teraz otworzyć menu pauzy, aby zrestartować"
+
+REFERENCE           BACKHEAD
+LANG_ENGLISH     "Tył głowy"
+
+REFERENCE           UICOLOR
+LANG_ENGLISH     "Kolor interfejsu"
+
+REFERENCE           LIGHTBLUE
+LANG_ENGLISH     "Jasnoniebieski"
+
+REFERENCE           SILVER
+LANG_ENGLISH     "Srebrny"
+
+REFERENCE           BROWN
+LANG_ENGLISH     "Brązowy"
+
+REFERENCE           LIGHTPINK
+LANG_ENGLISH     "Jasnoróżowy"
+
+REFERENCE           DARKGRAY
+LANG_ENGLISH     "Ciemnoszary"
+
+REFERENCE           FORESTGREEN
+LANG_ENGLISH     "Leśna zieleń"
+
+REFERENCE           DARKRED
+LANG_ENGLISH     "Ciemnoczerwony"
+
+REFERENCE           VIOLET
+LANG_ENGLISH     "Fioletowy"
+
+REFERENCE           SKYBLUE
+LANG_ENGLISH     "Błękitny"
+
+REFERENCE           ROYALBLUE
+LANG_ENGLISH     "Królewski niebieski"
+
+REFERENCE           KHAKI
+LANG_ENGLISH     "Khaki"
+
+REFERENCE           DEEPPINK
+LANG_ENGLISH     "Głęboki różowy"
+
+REFERENCE           STEELBLUE
+LANG_ENGLISH     "Stalowy niebieski"
+
+REFERENCE           MINTCREAM
+LANG_ENGLISH     "Miętowa śmietana"
+
+REFERENCE           BEIGE
+LANG_ENGLISH     "Beżowy"
+
+REFERENCE           OLDLACE
+LANG_ENGLISH     "Stara koronka"
+
+REFERENCE           LIGHTGRAY
+LANG_ENGLISH     "Jasnoszary"
+
+REFERENCE           SLATEGRAY
+LANG_ENGLISH     "Łupkowy szary"
+
+REFERENCE           THISTLE
+LANG_ENGLISH     "Ost"
+
+REFERENCE           DARKVIOLET
+LANG_ENGLISH     "Ciemny fiolet"
+
+REFERENCE           FORESTGREEN
+LANG_ENGLISH     "Leśna zieleń"
+
+REFERENCE           LIGHTSLATEGRAY
+LANG_ENGLISH     "Jasny łupkowy szary"
+
+REFERENCE           DARKSLATEBLUE
+LANG_ENGLISH     "Ciemny łupkowy niebieski"
+
+REFERENCE           DARKRED
+LANG_ENGLISH     "Ciemnoczerwony"
+
+REFERENCE           NAVY
+LANG_ENGLISH     "Granatowy"
+
+REFERENCE           TEAL
+LANG_ENGLISH     "Morski"
+
+REFERENCE           OLIVE
+LANG_ENGLISH     "Oliwkowy"
+
+REFERENCE           PURPLE
+LANG_ENGLISH     "Purpurowy"
+
+REFERENCE           SEASHELL
+LANG_ENGLISH     "Muszla"
+
+REFERENCE           SIENNA
+LANG_ENGLISH     "Siena"
+
+REFERENCE           ORANGERED
+LANG_ENGLISH     "Pomarańczowoczerwony"
+
+REFERENCE           FLOD
+LANG_ENGLISH     "Wymuś wysokie LOD"
+
+REFERENCE           BB
+LANG_ENGLISH     "Wyłącz czarny pasek"
+
+REFERENCE           STARTINTRO
+LANG_ENGLISH     "Wyłącz intro startowe"
+
+REFERENCE           STARTHINT
+LANG_ENGLISH     "Wyłącz wskazówkę startową"
+
+REFERENCE           LOADING
+LANG_ENGLISH     "Wyłącz film ładowania solo"
+
+REFERENCE           LOWAMMO
+LANG_ENGLISH     "Wyłącz dźwięk niskiej amunicji"
+
+REFERENCE           HINTICON
+LANG_ENGLISH     "Wyłącz ikonę wskazówki"
+
+REFERENCE           PERKSLOT
+LANG_ENGLISH     "Upuszczanie power-upów Perk Slot"
+
+REFERENCE           RELOADPROMPT
+LANG_ENGLISH     "Wyłącz podpowiedź przeładowania"
+
+REFERENCE           PERKSLOT_SELF
+LANG_ENGLISH     "Dodaj tylko dla siebie"
+
+REFERENCE           PERKSLOT_ALL
+LANG_ENGLISH     "Dodaj dla wszystkich"
+
+REFERENCE           SEEWALL
+LANG_ENGLISH     "Wyłącz widok nazw graczy przez ściany"
+
+REFERENCE           LASTZOMBIE
+LANG_ENGLISH     "Wyłącz linię kluczową ostatniego zombie"
+
+REFERENCE           TOMBNAME
+LANG_ENGLISH     "Wyłącz nazwy robota gigant z Origins"
+
+REFERENCE           ZA
+LANG_ENGLISH     "Wyłącz ogłoszenia strefy (Twoja obecna strefa)"
+
+REFERENCE           SELFHP
+LANG_ENGLISH     "Wyłącz pasek zdrowia gracza"
+
+REFERENCE           LAUNCHER_LOCK
+LANG_ENGLISH     "Wyłącz blokadę wyrzutni rakiet"
+
+REFERENCE           POINTS_COLOR
+LANG_ENGLISH     "Zastąp kolory punktów kolorami UI (wymagany restart)"
+
+REFERENCE           HIGHROUND_TIMER
+LANG_ENGLISH     "Timer w grze"
+
+REFERENCE           CURRENT
+LANG_ENGLISH     "AKTUALNY"
+
+REFERENCE           LAST
+LANG_ENGLISH     "OSTATNI"
+
+REFERENCE           HITM_STAY_M
+LANG_ENGLISH     "Mniejszy hitmarker"
+
+REFERENCE           ZCPERK
+LANG_ENGLISH     "Wyłącz dodatkowe maszyny Perk i PAP w mapach ZC (wymagany restart)"
+
+REFERENCE           NOPES
+LANG_ENGLISH     "Nie można wchodzić w interakcję z P.E.S. na Moon"
+
+REFERENCE           PAPBOX
+LANG_ENGLISH     "Pap'd Mystery Box (Wymaga AF & 50 EE)"
+
+REFERENCE           MOTIONUI
+LANG_ENGLISH     "Interfejs ruchu"
+
+REFERENCE           MOTIONUI_1
+LANG_ENGLISH     "Odwróć / Przesuń"
+
+REFERENCE           MOTIONUI_2
+LANG_ENGLISH     "Odwróć / Przesuń (Odwrócone)"
+
+REFERENCE           MOTIONUI_3
+LANG_ENGLISH     "Przesuń"
+
+REFERENCE           MOTIONUI_4
+LANG_ENGLISH     "Odwróć"
+
+REFERENCE           MOTIONUI_INTENSITY
+LANG_ENGLISH     "Intensywność interfejsu ruchu"
+
+REFERENCE           NO_SUPPORT_LINE1
+LANG_ENGLISH     "^1Wykryto nieobsługiwaną wersję\n^3Sprawdź następujące^7:"
+
+REFERENCE           NO_SUPPORT_LINE2
+LANG_ENGLISH     "\n\n\n^21^7. Czy uruchamiasz Black Ops III przez klienta Steam ^BBUTTON_CYCLE_RIGHT^? (Opcje gry spoza Steam się nie liczą)"
+
+REFERENCE           NO_SUPPORT_LINE3
+LANG_ENGLISH     "\n\n\n\n^22^7. Czy zakupiłeś Black Ops III na swoim obecnym koncie Steam ^BBUTTON_CYCLE_RIGHT^?"
+
+REFERENCE           NO_SUPPORT_LINE4
+LANG_ENGLISH     "\n\n\n\n\n^23^7. Czy używasz obecnie urządzenia lub systemu operacyjnego ^5Windows 10 ^7/ ^5Windows 11 ^7/ ^5Steam Deck ^7/ ^5Linux ^7?"
+
+REFERENCE           MWZCOLOR
+LANG_ENGLISH     "Kolor zespołu BO6 (wymagany restart)"
+
+REFERENCE           AMMOBAG
+LANG_ENGLISH     "Wyłącz spawnowanie Ammo Baga co 2 rundy"
+
+REFERENCE           SLOTHUD
+LANG_ENGLISH     "Wyłącz HUD Perk Slot"
+
+REFERENCE           STABAR
+LANG_ENGLISH     "Wyłącz pasek wytrzymałości"
+
+REFERENCE           AUTOLEAN
+LANG_ENGLISH     "Wyłącz automatyczne pochylanie"
+
+REFERENCE           BGB_START
+LANG_ENGLISH     "Start rundy Gobblegum"
+
+REFERENCE           C4ENDING
+LANG_ENGLISH     "Kupowalne zakończenie C4 (150K+ / Runda 35)"
+
+REFERENCE           GUNPOS
+LANG_ENGLISH     "Pozycja modelu ramienia w pierwszej osobie"
+
+REFERENCE           GUNPOS_ENABLE
+LANG_ENGLISH     "Włącz niestandardową pozycję modelu ramienia w pierwszej osobie"
+
+REFERENCE           T7HUD
+LANG_ENGLISH     "Układ HUD (wymagany restart)"
+
+REFERENCE           TIPHINT
+LANG_ENGLISH     "Wyłącz podpowiedzi i licznik dusz"
+
+REFERENCE           BARSPIN
+LANG_ENGLISH     "Płaski interfejs (wymagany restart)"
+
+REFERENCE           T7
+LANG_ENGLISH     "Vanilla"
+
+REFERENCE           T10
+LANG_ENGLISH     "Centralne ikony Perk"
+
+REFERENCE           NOATTACHMENT  
+LANG_ENGLISH      "Brak załącznika"  
+
+
+ENDMARKER

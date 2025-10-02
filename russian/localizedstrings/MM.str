@@ -1,0 +1,494 @@
+// Note to translators:
+// Just edit the text inside the quotes, don't edit other code
+
+VERSION             "1"
+CONFIG              "C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           WEAPONSMODSMENU
+LANG_ENGLISH     "Меню модификаций оружия" 
+
+REFERENCE           PACKERPUNCHOPTIONS
+LANG_ENGLISH     "Опции Pack-a-Punch"
+
+REFERENCE           DROPCURRENTWEAPON
+LANG_ENGLISH     "Выбросить текущее оружие"
+
+REFERENCE           TOGGLEHIDECURRENTWEAPON
+LANG_ENGLISH     "Переключить скрытие текущего оружия"
+
+REFERENCE           TOGGLEHIDECROSSHAIR
+LANG_ENGLISH     "Переключить скрытие перекрестия"
+
+REFERENCE           TOGGLESHOOTPOWERUPS
+LANG_ENGLISH     "Переключить стрельбу силовыми апгрейдами"
+
+REFERENCE           TOGGLELEFTSIDEWEAPON
+LANG_ENGLISH     "Переключить оружие на левую сторону"
+
+REFERENCE           PACKERPUNCHCURRENTWEAPON
+LANG_ENGLISH     "Pack-a-Punch текущего оружия"
+
+REFERENCE           UNPACKCURRENTWEAPON
+LANG_ENGLISH     "Распаковать текущее оружие"
+
+REFERENCE           MESSAGESMENU
+LANG_ENGLISH     "Меню сообщений"
+
+REFERENCE           MISCMESSAGES
+LANG_ENGLISH     "Различные сообщения"
+
+REFERENCE           MESSAGETYPE
+LANG_ENGLISH     "Тип сообщения"
+
+REFERENCE           MISCMESSAGES
+LANG_ENGLISH     "Меню различных сообщений"
+
+REFERENCE           VISIONSMENU
+LANG_ENGLISH     "Меню видений"
+
+REFERENCE           FUNMENU
+LANG_ENGLISH     "Развлекательное меню"
+
+REFERENCE           TOGGLEFLASHINGPLAYER
+LANG_ENGLISH     "Переключить мигание игрока"
+
+REFERENCE           TOGGLE3RDPERSON
+LANG_ENGLISH     "Переключить 3-е лицо"
+
+REFERENCE           SPAWNICESKATER
+LANG_ENGLISH     "Спавн Ледового катальщика"
+
+REFERENCE           SENDEARTHQUAKE
+LANG_ENGLISH     "Отправить землетрясение"
+
+REFERENCE           TOGGLEROTATEPLAYERANGLES
+LANG_ENGLISH     "Переключить вращение углов игрока"
+
+REFERENCE           DROPPHYSICALVENDING
+LANG_ENGLISH     "Выбросить физический торговый автомат"
+
+REFERENCE           PHYSICALEXPLOSION
+LANG_ENGLISH     "Физический взрыв"
+
+REFERENCE           TOGGLERAPIDFIRE
+LANG_ENGLISH     "Переключить автоматический огонь"
+
+REFERENCE           PRINTENTITIES
+LANG_ENGLISH     "Печать сущностей"
+
+REFERENCE           CLONEPLAYER
+LANG_ENGLISH     "Клонировать игрока"
+
+REFERENCE           GRAPHICSEFFECTSMENU
+LANG_ENGLISH     "Меню графических эффектов"
+
+REFERENCE           MYSTERYBOXMODS
+LANG_ENGLISH     "Модификации Таинственного ящика"
+
+REFERENCE           TOGGLESUPERSPEED
+LANG_ENGLISH     "Переключить суперскорость"
+
+REFERENCE           TOGGLESUPERGRAVITY
+LANG_ENGLISH     "Переключить супергравитацию"
+
+REFERENCE           TOGGLESUPERPHYSICALGRAVITY
+LANG_ENGLISH     "Переключить супер физическую гравитацию"
+
+REFERENCE           TOGGLETIMESCALE
+LANG_ENGLISH     "Переключить временную шкалу"
+
+REFERENCE           TOGGLEDISABLEAISPAWNERS
+LANG_ENGLISH     "Переключить отключение спаунеров ИИ"
+
+REFERENCE           TOGGLEFRIENDLYFIRE
+LANG_ENGLISH     "Переключить дружественный огонь"
+
+REFERENCE           TOGGLEENTITYCOLLISION
+LANG_ENGLISH     "Переключить коллизию сущностей"
+
+REFERENCE           REVIVEALLCLIENTS
+LANG_ENGLISH     "Воскресить всех клиентов"
+
+REFERENCE           MYSTERYBOXMODS
+LANG_ENGLISH     "Модификации Таинственного ящика"
+
+REFERENCE           MYSTERYBOXNEVERMOVES
+LANG_ENGLISH     "Таинственный ящик никогда не двигается"
+
+REFERENCE           MYSTERYBOXOPENINGPRICE
+LANG_ENGLISH     "Стоимость открытия Таинственного ящика"
+
+REFERENCE           MYSTERYBOXOPENINGPRICE
+LANG_ENGLISH     "Стоимость открытия Таинственного ящика"
+
+REFERENCE           SETPRICETO5100000
+LANG_ENGLISH     "Установить цену на ^5 100000"
+
+REFERENCE           SETPRICETO51337
+LANG_ENGLISH     "Установить цену на ^5 1337"
+
+REFERENCE           SETPRICETO5950
+LANG_ENGLISH     "Установить цену на ^5 950"
+
+REFERENCE           SETPRICETO51
+LANG_ENGLISH     "Установить цену на ^5 1"
+
+REFERENCE           SETPRICETO0
+LANG_ENGLISH     "Установить цену на 0"
+
+REFERENCE           SETPRICETO1D950
+LANG_ENGLISH     "Установить цену на ^1 -950"
+
+REFERENCE           SETPRICETO1D1337
+LANG_ENGLISH     "Установить цену на ^1 -1337"
+
+REFERENCE           SETPRICETO1D100000
+LANG_ENGLISH     "Установить цену на ^1 -100000"
+
+REFERENCE           GODMODE
+LANG_ENGLISH     "Режим бога"
+
+REFERENCE           PLAYERSCOREMENU
+LANG_ENGLISH     "Меню счета игрока"
+
+REFERENCE           GIVEMENU
+LANG_ENGLISH     "Меню дарения"
+
+REFERENCE           TELEPORTTOPLAYER
+LANG_ENGLISH     "Телепортироваться к игроку"
+
+REFERENCE           TELEPORTPLAYERTOYOU
+LANG_ENGLISH     "Телепортировать игрока к вам"
+
+REFERENCE           GIVEPOINTSO10000
+LANG_ENGLISH     "Дать очки +10000"
+
+REFERENCE           GIVEPOINTS500
+LANG_ENGLISH     "Дать очки +500"
+
+REFERENCE           GIVEPOINTSD500
+LANG_ENGLISH     "Дать очки -500"
+
+REFERENCE           GIVEPOINTSD10000
+LANG_ENGLISH     "Дать очки -10000"
+
+REFERENCE           CLIENTMAINMODIFICATIONS
+LANG_ENGLISH     "Основные модификации клиента"
+
+REFERENCE           FUNMODS
+LANG_ENGLISH     "Развлекательные моды"
+
+REFERENCE           PERKMENU
+LANG_ENGLISH     "Меню перков"
+
+REFERENCE           SENDPOWERUPSMENU
+LANG_ENGLISH     "Меню отправки силовых апгрейдов"
+
+REFERENCE           MESSAGEMENU
+LANG_ENGLISH     "Меню сообщений"
+
+REFERENCE           WEAPONSMENU
+LANG_ENGLISH     "Меню оружия"
+
+REFERENCE           WEAPONSMODSMENU
+LANG_ENGLISH     "Меню модификаций оружия"
+
+REFERENCE           BULLETSMENU
+LANG_ENGLISH     "Меню пуль"
+
+REFERENCE           TELEPORTMENU
+LANG_ENGLISH     "Меню телепорта"
+
+REFERENCE           AIMBOTMENU
+LANG_ENGLISH     "Меню автоприцела"
+
+REFERENCE           ENTITYMENU
+LANG_ENGLISH     "Меню сущностей"
+
+REFERENCE           VISIONSMENU
+LANG_ENGLISH     "Меню видений"
+
+REFERENCE           SFXMENU
+LANG_ENGLISH     "Меню звуковых эффектов"
+
+REFERENCE           GRAPHICSEFFECTSMENU
+LANG_ENGLISH     "Меню графических эффектов"
+
+REFERENCE           ROUNDMENU
+LANG_ENGLISH     "Меню раунда"
+
+REFERENCE           HOSTMENU
+LANG_ENGLISH     "Меню хоста"
+
+REFERENCE           LOBBYMENU
+LANG_ENGLISH     "Меню лобби"
+
+REFERENCE           CLIENTS
+LANG_ENGLISH     "Клиенты"
+
+REFERENCE           CUSTOMIZEMENU
+LANG_ENGLISH     "Меню настройки"
+
+REFERENCE           EXTRAPERKEASTEREGG
+LANG_ENGLISH     "Дополнительный перковый пасхалка"
+
+REFERENCE           STARTGIANTCLOCK
+LANG_ENGLISH     "Запустить гигантские часы"
+
+REFERENCE           STOPGIANTCLOCK
+LANG_ENGLISH     "Остановить гигантские часы"
+
+REFERENCE           UPGRADETELEPORTER
+LANG_ENGLISH     "Улучшить телепорт"
+
+REFERENCE           SPAWNMODELWITHLIST
+LANG_ENGLISH     "Спавн модели из списка"
+
+REFERENCE           SPAWNMODEL
+LANG_ENGLISH     "Спавн модели"
+
+REFERENCE           PLACEMODEL
+LANG_ENGLISH     "Разместить модель"
+
+REFERENCE           DROPMODELWITHPHYSICS
+LANG_ENGLISH     "Выбросить модель с физикой"
+
+REFERENCE           ROTATEMODEL
+LANG_ENGLISH     "Вращать модель"
+
+REFERENCE           DELETEMODEL
+LANG_ENGLISH     "Удалить модель"
+
+REFERENCE           COSTUMIZEMODELDISTANCE
+LANG_ENGLISH     "Настроить дистанцию модели"
+
+REFERENCE           DELETEALLENTITYS
+LANG_ENGLISH     "Удалить все сущности"
+
+REFERENCE           ROTATEMODEL
+LANG_ENGLISH     "Вращать модель"
+
+REFERENCE           ROTATEANGLE1O
+LANG_ENGLISH     "Вращать угол 1 +"
+
+REFERENCE           ROTATEANGLE1D
+LANG_ENGLISH     "Вращать угол 1 -"
+
+REFERENCE           ROTATEANGLE2O
+LANG_ENGLISH     "Вращать угол 2 +"
+
+REFERENCE           ROTATEANGLE2D
+LANG_ENGLISH     "Вращать угол 2 -"
+
+REFERENCE           ROTATEANGLE3O
+LANG_ENGLISH     "Вращать угол 3 +"
+
+REFERENCE           ROTATEANGLE3D
+LANG_ENGLISH     "Вращать угол 3 -"
+
+REFERENCE           RESETANGLES
+LANG_ENGLISH     "Сбросить углы"
+
+REFERENCE           TELEPORTMENU
+LANG_ENGLISH     "Меню телепорта"
+
+REFERENCE           SAVEPOSITION
+LANG_ENGLISH     "Сохранить позицию"
+
+REFERENCE           MODIFYPOSITION
+LANG_ENGLISH     "Изменить позицию"
+
+REFERENCE           LOADSAVEDPOSTION
+LANG_ENGLISH     "Загрузить сохраненную позицию"
+
+REFERENCE           TELEPORTALLZOMBIESTOSAVEDPOSTION
+LANG_ENGLISH     "Телепортировать всех зомби к сохраненной позиции"
+
+REFERENCE           CREATESPAWNPOINTFORZOMBIES
+LANG_ENGLISH     "Создать точку спауна для зомби"
+
+REFERENCE           CREATESPAWNTRAPPERFORZOMBIES
+LANG_ENGLISH     "Создать точку ловли для зомби"
+
+REFERENCE           TELEPORTTOSKY
+LANG_ENGLISH     "Телепортироваться в небо"
+
+REFERENCE           TELEPORTTOGROUND
+LANG_ENGLISH     "Телепортироваться на землю"
+
+REFERENCE           TELEPORTTOCROSSHAIRPOSITION
+LANG_ENGLISH     "Телепортироваться в позицию перекрестия"
+
+REFERENCE           TELEPORTTONEARESTZOMBIE
+LANG_ENGLISH     "Телепортироваться к ближайшему зомби"
+
+REFERENCE           TOGGLEVISIBLECHECK
+LANG_ENGLISH     "Переключить проверку видимости"
+
+REFERENCE           SETTOROUND50
+LANG_ENGLISH     "Установить на раунд 50"
+
+REFERENCE           O50ROUNDS
+LANG_ENGLISH     "+ 50 раундов"
+
+REFERENCE           D50ROUNDS
+LANG_ENGLISH     "- 50 раундов"
+
+REFERENCE           SETTOROUND25
+LANG_ENGLISH     "+ 25 раундов"
+
+REFERENCE           O25ROUNDS
+LANG_ENGLISH     "- 25 раундов"
+
+REFERENCE           D25ROUNDS
+LANG_ENGLISH     "- 25 раундов"
+
+REFERENCE           O1ROUNDS
+LANG_ENGLISH     "+ 1 раунд"
+
+REFERENCE           D1ROUNDS
+LANG_ENGLISH     "- 1 раунд"
+
+REFERENCE           SETTOROUND1
+LANG_ENGLISH     "Установить на раунд 1"
+
+REFERENCE           TOGGLEGODMODE
+LANG_ENGLISH     "Переключить режим бога"
+
+REFERENCE           TOGGLEUNLIMITEDAMMO
+LANG_ENGLISH     "Переключить бесконечные патроны"
+
+REFERENCE           REFILLAMMO
+LANG_ENGLISH     "Пополнить боеприпасы"
+
+REFERENCE           TOGGLEUFOMODE
+LANG_ENGLISH     "Переключить режим НЛО"
+
+REFERENCE           TOGGLEQUICKFIELDOFVIEW
+LANG_ENGLISH     "Переключить быстрое поле зрения"
+
+REFERENCE           SCOREMENU
+LANG_ENGLISH     "Меню счета"
+
+REFERENCE           TOGGLE3RDPERSON
+LANG_ENGLISH     "Переключить 3-е лицо"
+
+REFERENCE           3RDPERSONRANGEBAR
+LANG_ENGLISH     "3-е лицо, полоса дальности"
+
+REFERENCE           PRINTORIGIN
+LANG_ENGLISH     "Печать происхождения"
+
+REFERENCE           PRINTZOMBIECOUNT
+LANG_ENGLISH     "Печать количества зомби"
+
+REFERENCE           TOGGLEZOMBIESIGNOREYOU
+LANG_ENGLISH     "Переключить игнорирование зомби вами"
+
+REFERENCE           TOGGLEAQUATICSCREEN
+LANG_ENGLISH     "Переключить водный экран"
+
+REFERENCE           BULLETSMODS
+LANG_ENGLISH     "Меню пуль"
+
+REFERENCE           WEAPONBULLETS
+LANG_ENGLISH     "Пули оружия"
+
+REFERENCE           EFFECTBULLETS
+LANG_ENGLISH     "Эффектные пули"
+
+REFERENCE           WEAPONBULLETS1OFF
+LANG_ENGLISH     "Отключить пули оружия"
+
+REFERENCE           EFFECTBULLETS1OFF
+LANG_ENGLISH     "Отключить эффектные пули"
+
+REFERENCE           MENUNAME
+LANG_ENGLISH     "^5Центральное управление"
+
+REFERENCE           TOGGLEINVISIBLE
+LANG_ENGLISH     "Переключить невидимость"
+
+REFERENCE           PHYSICALCYLINDER
+LANG_ENGLISH     "Физический цилиндр"
+
+REFERENCE           GIVEALLPERKS
+LANG_ENGLISH     "Дать все перки"
+
+REFERENCE           REMOVEALLPERKS
+LANG_ENGLISH     "Убрать все перки"
+
+REFERENCE           KEEPALLPERKSONDEATH
+LANG_ENGLISH     "Сохранить все перки при смерти"
+
+REFERENCE           NORMALWEAPONS
+LANG_ENGLISH     "Обычное оружие"
+
+REFERENCE           UPGRADEDWEAPONS
+LANG_ENGLISH     "Улучшенное оружие"
+
+REFERENCE           REMOVEALLPERKS
+LANG_ENGLISH     "Убрать все перки"
+
+REFERENCE           BLACKWHITE
+LANG_ENGLISH     "Черно-белый"
+
+REFERENCE           WHITEMODE
+LANG_ENGLISH     "Белый режим"
+
+REFERENCE           DEFAULT
+LANG_ENGLISH     "По умолчанию"
+
+REFERENCE           TOGGLEDISABLEFXS
+LANG_ENGLISH     "Переключить отключение эффектов"
+
+REFERENCE           TOGGLEFOGEFFECT
+LANG_ENGLISH     "Переключить эффект тумана"
+
+REFERENCE           TOGGLEWATERSHEETINGEFFECT
+LANG_ENGLISH     "Переключить эффект струй воды"
+
+REFERENCE           TOGGLERENDERDISTANCE
+LANG_ENGLISH     "Переключить дистанцию отрисовки"
+
+REFERENCE           TOGGLEDOF
+LANG_ENGLISH     "Переключить эффект размытия глубины резкости"
+
+REFERENCE           TOGGLEDOFBIAS
+LANG_ENGLISH     "Переключить смещение эффекта размытия глубины резкости"
+
+REFERENCE           TOGGLEOVERRIDEDOF
+LANG_ENGLISH     "Переключить переопределение эффекта размытия глубины резкости"
+
+REFERENCE           TOGGLECROSSHAIR
+LANG_ENGLISH     "Переключить мушку"
+
+REFERENCE           TOGGLECROSSHAIRENEMYEFFECT
+LANG_ENGLISH     "Переключить эффект мушки на враге"
+
+REFERENCE           TOGGLETRISLINES
+LANG_ENGLISH     "Переключить трислинии"
+
+REFERENCE           MODIFYSCORE
+LANG_ENGLISH     "Изменить счет"
+
+REFERENCE           MAXOUTSCORE
+LANG_ENGLISH     "Максимальный счет"
+
+REFERENCE           RESETSCORE
+LANG_ENGLISH     "Сбросить счет"
+
+REFERENCE           SPAWNCLONE
+LANG_ENGLISH     "Спавн клонов"
+
+REFERENCE           PLAYANIMATION
+LANG_ENGLISH     "Воспроизвести анимацию"
+
+REFERENCE           DELETECURRENTCLONE
+LANG_ENGLISH     "Удалить текущий клон"
+
+REFERENCE           POWERUPSMENU
+LANG_ENGLISH     "Меню силовых апгрейдов"
+
+ENDMARKER

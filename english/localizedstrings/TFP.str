@@ -1,0 +1,116 @@
+// Note to translators:
+// Just edit the text inside the quotes, don't edit other code
+
+VERSION             "1"
+CONFIG              "C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           STATUS
+LANG_ENGLISH     "Status Monitor"
+
+REFERENCE           STATUS_DESC
+LANG_ENGLISH     "Display current status information on the left side of the screen ( glitches may occur )."
+
+REFERENCE           SWITCH_DESC
+LANG_ENGLISH     "^3Must be enabled for the following options to take effect"
+
+REFERENCE           VCLUT
+LANG_ENGLISH     "Contrast"
+
+REFERENCE           VCLUT_DESC
+LANG_ENGLISH     "Increase or decrease the amount of color in the game. 0 is the default. If the screen becomes too dark, changing the color mode to sRGB and/or increasing the brightness can fix it. This will allow people who feel the game is too colorful to make it look more like World At War, with a duller color palette."
+
+REFERENCE           EXTPLAYER
+LANG_ENGLISH     "More Player Count Support"
+
+REFERENCE           EXTPLAYER_DESC
+LANG_ENGLISH     "Increased max player count to 10 (^1highly unstable^7), and gobblegum machines will be disabled due to ^3game engine limitations^7.\n\nMap support details:\n\nZombies Chronicles all maps\n(^2Stable, Main EE Compatible^7)\n\nSoE/DE/GK\n(^3Less stable, Main EE Compatible^7)\n\nOther 3arc maps (^3Less stable^7)\nCustom Map (Unknown)"
+
+REFERENCE           FFFIVE
+LANG_ENGLISH     "Friendly Fire But Can't Kill"
+
+REFERENCE           ROUNDLIMIT
+LANG_ENGLISH     "Finish Match On This Round"
+
+REFERENCE           ROUNDTIME
+LANG_ENGLISH     "End Game Challenge"
+
+REFERENCE           ROUNDTIME_DESC
+LANG_ENGLISH     "You're In The End Game Now. After finishing the round specified in the 'Finish Match On This Round' option, put your skills and gear to the test by surviving an endless wave of instantly spawning zombies for the time limit specified to finish the match. Face the additional horror of new Super Sprinter and Tranzit Sprinter zombies if launching the End game Challenge below Round 40. The penalty for failing the End Game Challenge is knowing you let the horde best you."
+
+REFERENCE           TRADE_DESC
+LANG_ENGLISH     "Trade weapons with another player. Walk up to the player you want to trade with and look at their gun. Both players must then hold the prompt on-screen until the bar is full for each player, then the weapons will be traded."
+
+REFERENCE           GAMBLER_DESC
+LANG_ENGLISH     "Spawns a floating Lucky 8 ball at the player spawn location which can be interacted with for 1000 points to have a random effect happen. Some are good, some are bad, some are in-between, it’s a gamble! Can only be bought once per round."
+
+REFERENCE           SOLOREVIVE
+LANG_ENGLISH     "Unlimited solo revive"
+
+REFERENCE           PERKPLUS
+LANG_ENGLISH     "Disable perk enhancements"
+
+REFERENCE           PERKPLUS_DESC
+LANG_ENGLISH     "Disables the following perk effects added by the mod:\n\n^5Quick Revive^7: Reduces health regain delay by 40%. ^2Speed Cola^7: Speeds use of perks and gobblegum, ADS, weapon switch and meleeing. Removes “first raise” animation. ^3Stamin-Up^7: Unlimited stamina, fire and throw grenades while running, walk faster while aiming and raise your weapon faster after sprinting. ^3Double Tap Root Beer^7: Special Weapon charges faster. ^1Widow’s Wine^7: Gives PhD Flopper explosive resistance (only if there is no other similar effect perk on the map). ^6Deadshot Daiquiri^7: While having 4 or more perks, getting 5 headshot kills in a row gives the player a x1.25 headshot damage bonus, maximize their hip fire accuracy and allows them to see enemies though walls. A Deadshot icon next to the weapon’s ammo will indicate when it’s active. Disappears/resets when you get a non-headshot kill."
+
+REFERENCE           NOSLIDE
+LANG_ENGLISH     "No Slide"
+
+REFERENCE           RJ
+LANG_ENGLISH     "Rocket Jump"
+
+REFERENCE           RJ_DESC
+LANG_ENGLISH     "Your explosives will move you a set distance. Pair with the new explosive resistance from Widow's Wine to achieve a rocket jump!"
+
+REFERENCE           SHOCK
+LANG_ENGLISH     "Grief Mode but only one team"
+
+REFERENCE           SHOCK_DESC
+LANG_ENGLISH     "Actions which would normally be friendly fire instead slow players down and stun their screens."
+
+REFERENCE           BLOOD
+LANG_ENGLISH     "Disable Blood Splatter"
+
+REFERENCE           FLAMER
+LANG_ENGLISH     "Disable Purifier"
+
+REFERENCE           ROAMER_DESC
+LANG_ENGLISH     "Allows you to specify a rest period in between each round so you can do anything you need to before the next round starts. The length in-between each round can be customized, and the next round can be manually started before the time is over by following the prompt in-game."
+
+REFERENCE           DPAP
+LANG_ENGLISH     "BO4 Pack-a-Punch Repack"
+
+REFERENCE           LOADOUTSAVE2
+LANG_ENGLISH     "Clear saved loadout after bleed out"
+
+REFERENCE           LOADOUTSAVE2_DESC
+LANG_ENGLISH     "Clear your saved weapons after bleedout so that you will respawn only with the pistol like normal. You can use this with the “Weapon Restore & Mule Kick Weapon Restore” option enabled so that Mule Kick will still save your mule kick weapon if you lose the perk or bleedout."
+
+REFERENCE           RIPPER
+LANG_ENGLISH     "Disable Bowie Knife replaced by Ripper"
+
+REFERENCE           RIPPER_DESC
+LANG_ENGLISH     "When holding the Bowie Knife while also having Widow's Wine, it will be upgraded to the Ripper blade from multiplayer, which does more damage and has a homing attack. This option disables it."
+
+REFERENCE           DW
+LANG_ENGLISH     "Disable Dualwield PAP'd Wonderweapons"
+
+REFERENCE           DW_DESC
+LANG_ENGLISH     "The Ray Gun Mark 1 and Thundergun become dualwield when PAP'd with the all around enhancement mod. This option disables that."
+
+REFERENCE           ZMBAR
+LANG_ENGLISH     "Zombie Health Bar"
+
+REFERENCE           JUKE
+LANG_ENGLISH     "Zombie Juke"
+
+REFERENCE           JUKE_DESC
+LANG_ENGLISH     "Zombies will randomly juke left and right instead of coming at you in a straight line, similar to Black Ops 1"
+
+REFERENCE           AUTORUN
+LANG_ENGLISH     "Disable all zombies as super sprinters after round 40"
+
+REFERENCE           AUTORUN_DESC
+LANG_ENGLISH     "All zombies become super sprinters at around 40 with the all around enhancement mod, meaning they run as fast as you sprint without stamin-up. This option disables that, so that only a handful of zombies become super sprinters each round after round 40."
+
+ENDMARKER

@@ -1,0 +1,92 @@
+// Note to translators:
+// Just edit the text inside the quotes, don't edit other code
+
+VERSION             "1"
+CONFIG              "C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE            JOIN_THE_PARTY
+LANG_ENGLISH         "Join The Party"
+
+REFERENCE            JOIN_THE_PARTY_DESC
+LANG_ENGLISH         "^2MEGA\n^7Activated (1x Activations)\nAll players in spectate will spawn in immediately and all downed players will be immediately revived.Will not restore lost Perks."
+
+REFERENCE            JOIN_THE_PARTY_HINT
+LANG_ENGLISH         "Press ^3[{+actionslot 1}]^7 to activate\nAll players in spectate spawn in immediately and all downed players immediately revived"
+
+REFERENCE            QUACKNAROK
+LANG_ENGLISH         "Quacknarok"
+
+REFERENCE            QUACKNAROK_DESC
+LANG_ENGLISH         "^6W^3H^5I^2M^7S^2I^5C^3A^6L\n^7Activates Immediately (Lasts 5 full rounds)\nZombies wear a duck float, but it doesn't help anything."
+
+REFERENCE            QUACKNAROK_HINT
+LANG_ENGLISH         "Active for 5 full rounds\nZombies wear a duck float, but it doesn't help anything."
+
+REFERENCE            TALKIN_BOUT_REGENERATION
+LANG_ENGLISH         "Talkin' Bout Regeneration"
+
+REFERENCE            TALKIN_BOUT_REGENERATION_DESC
+LANG_ENGLISH         "^7Activates Immediately (Lasts 4 minutes)\nYour health constantly regenerates while moving."
+
+REFERENCE            TALKIN_BOUT_REGENERATION_HINT
+LANG_ENGLISH         "^7Activates Immediately (Lasts 4 minutes)\nYour health constantly regenerates while moving."
+
+REFERENCE            BLOOD_DEBT
+LANG_ENGLISH         "Blood Debt"
+
+REFERENCE            BLOOD_DEBT_DESC
+LANG_ENGLISH         "^7Activated (1x Activation, 2 minutes)\nInstead of losing health, you lose points. Amount lost increases each time you are hit until max amount is hit. if you have 0 points, Blood Debt ends."
+
+REFERENCE            BLOOD_DEBT_HINT
+LANG_ENGLISH         "Press ^3[{+actionslot 1}]^7 to activate\nInstead of losing health, you lose points. Amount lost increases each time you are hit until max amount is hit. if you have 0 points, Blood Debt ends."
+
+REFERENCE            CTRL_Z
+LANG_ENGLISH         "Ctrl-Z"
+
+REFERENCE            CTRL_Z_DESC
+LANG_ENGLISH         "^7Activated (2x Activation)\nTurns zombies near you into allies."
+
+REFERENCE            CTRL_Z_HINT
+LANG_ENGLISH         "Press ^3[{+actionslot 1}]^7 to activate\nTurns zombies near you into allies."
+
+REFERENCE            NOWHERE_BUT_THERE
+LANG_ENGLISH         "Nowhere But There"
+
+REFERENCE            NOWHERE_BUT_THERE_DESC
+LANG_ENGLISH         "^7Activated (3x Activation)\nTeleport to a downed player's location and revive them."
+
+REFERENCE            NOWHERE_BUT_THERE_HINT
+LANG_ENGLISH         "Press ^3[{+actionslot 1}]^7 to activate\nTeleport to a downed player's location and revive them."
+
+REFERENCE            FREE_FIRE
+LANG_ENGLISH         "Free Fire"
+
+REFERENCE            FREE_FIRE_DESC
+LANG_ENGLISH         "^7Activated (3x Activation, 60 seconds)\nAll Players Fire weapons without using up bullets."
+
+REFERENCE            FREE_FIRE_HINT
+LANG_ENGLISH         "Press ^3[{+actionslot 1}]^7 to activate\nAll Players Fire weapons without using up bullets."
+
+REFERENCE            EDDIE
+LANG_ENGLISH         "Eddie"
+
+REFERENCE            EDDIE_DESC
+LANG_ENGLISH         "^6W^3H^5I^2M^7S^2I^5C^3A^6L\n^7Activates Immediately (Lasts 5 full rounds)\nAll zombies turn into Richtofen."
+
+REFERENCE            EDDIE_HINT
+LANG_ENGLISH         "Active for 5 full rounds\nAll zombies turn into Richtofen."
+
+REFERENCE            LUCKY_CRIT
+LANG_ENGLISH         "Lucky Crit"
+
+REFERENCE            LUCKY_CRIT_DESC
+LANG_ENGLISH         "^7Activates Immediately (Lasts 3 full rounds)\nImproves your chances of activating an random Alternate Ammo Type."
+
+REFERENCE            LUCKY_CRIT_HINT
+LANG_ENGLISH         "Active for 3 full rounds\nImproves your chances of activating an random Alternate Ammo Type."
+
+REFERENCE            SWORD_FLAY_DESC
+LANG_ENGLISH         "Activates Immediately (Lasts 2.5 minutes)\nMelee attacks deal infinite damage, affecting up to X zombies within range(X is 2 for stabbing, X is 4 for swiping)"
+
+ENDMARKER

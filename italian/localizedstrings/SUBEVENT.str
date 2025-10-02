@@ -1,0 +1,71 @@
+// Note to translators:
+// Just edit the text inside the quotes, don't edit other code
+
+VERSION             "1"
+CONFIG              "C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           STORED
+LANG_ENGLISH     "Ho conservato il mio"
+
+REFERENCE           GOT_MY
+LANG_ENGLISH     "Ho preso il mio"
+
+REFERENCE           BACK
+LANG_ENGLISH     "indietro"
+
+REFERENCE           LOADINGMAP
+LANG_ENGLISH     "Sto caricando una mappa"
+
+REFERENCE           GOT_PAP
+LANG_ENGLISH     "Ho ottenuto un Pack-A-Punched"
+
+REFERENCE           DROPSOME
+LANG_ENGLISH     "Ho lasciato cadere qualche punto qui!"
+
+REFERENCE           GOTPERK
+LANG_ENGLISH     "Ho preso un Perk"
+
+REFERENCE           READY
+LANG_ENGLISH     "Sono pronto"
+
+REFERENCE           AUTOREVIVE
+LANG_ENGLISH     "Ho preso Auto Revive"
+
+REFERENCE           GOTSOMEPERK
+LANG_ENGLISH     "Ho preso"
+
+REFERENCE           GOTWP
+LANG_ENGLISH     "Ho preso il"
+
+REFERENCE           SHAREWP
+LANG_ENGLISH     "Ho condiviso un"
+
+REFERENCE           SHAREWPHERE
+LANG_ENGLISH     "qui"
+
+REFERENCE           TRADEWP
+LANG_ENGLISH     "Ho scambiato un"
+
+REFERENCE           LASTZM
+LANG_ENGLISH     "L'ultimo zombie è stato ucciso"
+
+REFERENCE           OPENDOOR
+LANG_ENGLISH     "Ho aperto una porta"
+
+REFERENCE           DOT
+LANG_ENGLISH     "."
+
+REFERENCE           PAYHALF_DOOR
+LANG_ENGLISH     "Ho pagato metà del prezzo per questa porta, serve ancora "
+
+REFERENCE           PAYHALF_DEBRIS
+LANG_ENGLISH     "Ho pagato metà del prezzo per questi detriti, serve ancora "
+
+REFERENCE           PAYHALF
+LANG_ENGLISH     "^3K ^7Paga metà"
+
+REFERENCE           PAYHALF_GAMEPAD
+LANG_ENGLISH     "[{+melee}] Paga metà"
+
+ENDMARKER

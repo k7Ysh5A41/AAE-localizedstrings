@@ -1,0 +1,311 @@
+// Note to translators:
+// Just edit the text inside the quotes, don't edit other code
+
+VERSION             "1"
+CONFIG              "C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           PLAYERMONITOR
+LANG_ENGLISH     "Sicht anderer Spieler"
+
+REFERENCE           PLAYERMONITOR_DOA
+LANG_ENGLISH     "Sicht anderer Spieler (Perspektive vom Himmel bis zum Boden)"
+
+REFERENCE           WALLBUY
+LANG_ENGLISH     "Wand-Kauf-Hinweise deaktivieren"
+
+REFERENCE           PLAYER_HPBAR
+LANG_ENGLISH     "Spieler-Healthbar deaktivieren"
+
+REFERENCE           SMOKE
+LANG_ENGLISH     "Laufende Rauchspuren deaktivieren"
+
+REFERENCE           KICK
+LANG_ENGLISH     "Zusätzlichen Rückstoß für neue CoD-Waffen deaktivieren"
+
+REFERENCE           DISABLE_AFK
+LANG_ENGLISH     "AFK deaktivieren"
+
+REFERENCE           BGB_DROP
+LANG_ENGLISH     "Gobblegum Powerup Drops"
+
+REFERENCE           FPS
+LANG_ENGLISH     "Low Graphics"
+
+REFERENCE           SM
+LANG_ENGLISH     "Eigene Bewegungsgeschwindigkeit anzeigen"
+
+REFERENCE           AAT
+LANG_ENGLISH     "AAT deaktivieren"
+
+REFERENCE           ADS
+LANG_ENGLISH     "Kein ADS-Zoom"
+
+REFERENCE           T6PAP
+LANG_ENGLISH     "BO2 Pack-a-Punch"
+
+REFERENCE           GRENADE_BAR
+LANG_ENGLISH     "Granaten-Countdown deaktivieren"
+
+REFERENCE           LH_GES
+LANG_ENGLISH     "Linke-Hand-Geste deaktivieren"
+
+REFERENCE           FSF
+LANG_ENGLISH     "Vollbild-Blitz deaktivieren"
+
+REFERENCE           FSFB
+LANG_ENGLISH     "Vollbild-Blitz umkehren (Schwarz)"
+
+REFERENCE           RESTART_HINT
+LANG_ENGLISH     "Pause-Menü zum Neustart öffnen möglich"
+
+REFERENCE           BACKHEAD
+LANG_ENGLISH     "Rückseite des Kopfes"
+
+REFERENCE           UICOLOR
+LANG_ENGLISH     "UI-Farbe"
+
+REFERENCE           LIGHTBLUE
+LANG_ENGLISH     "Hellblau"
+
+REFERENCE           SILVER
+LANG_ENGLISH     "Silber"
+
+REFERENCE           BROWN
+LANG_ENGLISH     "Braun"
+
+REFERENCE           LIGHTPINK
+LANG_ENGLISH     "Hellrosa"
+
+REFERENCE           DARKGRAY
+LANG_ENGLISH     "Dunkelgrau"
+
+REFERENCE           FORESTGREEN
+LANG_ENGLISH     "Waldgrün"
+
+REFERENCE           DARKRED
+LANG_ENGLISH     "Dunkelrot"
+
+REFERENCE           VIOLET
+LANG_ENGLISH     "Violett"
+
+REFERENCE           SKYBLUE
+LANG_ENGLISH     "Himmelblau"
+
+REFERENCE           ROYALBLUE
+LANG_ENGLISH     "Royalblau"
+
+REFERENCE           KHAKI
+LANG_ENGLISH     "Khaki"
+
+REFERENCE           DEEPPINK
+LANG_ENGLISH     "Tiefrosa"
+
+REFERENCE           STEELBLUE
+LANG_ENGLISH     "Stahlblau"
+
+REFERENCE           MINTCREAM
+LANG_ENGLISH     "Mintcreme"
+
+REFERENCE           BEIGE
+LANG_ENGLISH     "Beige"
+
+REFERENCE           OLDLACE
+LANG_ENGLISH     "Altspitze"
+
+REFERENCE           LIGHTGRAY
+LANG_ENGLISH     "Hellgrau"
+
+REFERENCE           SLATEGRAY
+LANG_ENGLISH     "Schiefergrau"
+
+REFERENCE           THISTLE
+LANG_ENGLISH     "Distel"
+
+REFERENCE           DARKVIOLET
+LANG_ENGLISH     "Dunkelviolett"
+
+REFERENCE           FORESTGREEN
+LANG_ENGLISH     "Waldgrün"
+
+REFERENCE           LIGHTSLATEGRAY
+LANG_ENGLISH     "Hell-Schiefergrau"
+
+REFERENCE           DARKSLATEBLUE
+LANG_ENGLISH     "Dunkelschieferblau"
+
+REFERENCE           DARKRED
+LANG_ENGLISH     "Dunkelrot"
+
+REFERENCE           NAVY
+LANG_ENGLISH     "Marineblau"
+
+REFERENCE           TEAL
+LANG_ENGLISH     "Teal"
+
+REFERENCE           OLIVE
+LANG_ENGLISH     "Olive"
+
+REFERENCE           PURPLE
+LANG_ENGLISH     "Lila"
+
+REFERENCE           SEASHELL
+LANG_ENGLISH     "Muschelweiß"
+
+REFERENCE           SIENNA
+LANG_ENGLISH     "Sienna"
+
+REFERENCE           ORANGERED
+LANG_ENGLISH     "Orange-Rot"
+
+REFERENCE           FLOD
+LANG_ENGLISH     "Hohe LOD-Darstellung erzwingen"
+
+REFERENCE           BB
+LANG_ENGLISH     "Schwarze Balken deaktivieren"
+
+REFERENCE           STARTINTRO
+LANG_ENGLISH     "Startintro deaktivieren"
+
+REFERENCE           STARTHINT
+LANG_ENGLISH     "Start-Hinweis deaktivieren"
+
+REFERENCE           LOADING
+LANG_ENGLISH     "Solo-Ladebildschirm-Film deaktivieren"
+
+REFERENCE           LOWAMMO
+LANG_ENGLISH     "Wenig-Munition-Sound deaktivieren"
+
+REFERENCE           HINTICON
+LANG_ENGLISH     "Hinweis-Icon deaktivieren"
+
+REFERENCE           PERKSLOT
+LANG_ENGLISH     "Perk Slot Powerup Drops"
+
+REFERENCE           RELOADPROMPT
+LANG_ENGLISH     "Nachladehinweis deaktivieren"
+
+REFERENCE           PERKSLOT_SELF
+LANG_ENGLISH     "Nur für sich selbst hinzufügen"
+
+REFERENCE           PERKSLOT_ALL
+LANG_ENGLISH     "Allen hinzufügen"
+
+REFERENCE           SEEWALL
+LANG_ENGLISH     "Spielernamen durch Wände sehen deaktivieren"
+
+REFERENCE           LASTZOMBIE
+LANG_ENGLISH     "Letzten Zombie Keyline deaktivieren"
+
+REFERENCE           TOMBNAME
+LANG_ENGLISH     "Origins Riesenroboter-Namen deaktivieren"
+
+REFERENCE           ZA
+LANG_ENGLISH     "Zonenansager deaktivieren (aktuelle Zone)"
+
+REFERENCE           SELFHP
+LANG_ENGLISH     "Eigene Gesundheitsleiste deaktivieren"
+
+REFERENCE           LAUNCHER_LOCK
+LANG_ENGLISH     "Raketenwerfer-Zielerfassung deaktivieren"
+
+REFERENCE           POINTS_COLOR
+LANG_ENGLISH     "Punktfarben durch UI-Farben überschreiben (Neustart erforderlich)"
+
+REFERENCE           HIGHROUND_TIMER
+LANG_ENGLISH     "In-Game Timer"
+
+REFERENCE           CURRENT
+LANG_ENGLISH     "AKTUELL"
+
+REFERENCE           LAST
+LANG_ENGLISH     "LETZTER"
+
+REFERENCE           HITM_STAY_M
+LANG_ENGLISH     "Kleinerer Hitmarker"
+
+REFERENCE           ZCPERK
+LANG_ENGLISH     "Extra Perk Machine und PAP in ZC-Karten deaktivieren (Neustart erforderlich)"
+
+REFERENCE           NOPES
+LANG_ENGLISH     "Keine Interaktion mit P.E.S. auf Moon möglich"
+
+REFERENCE           PAPBOX
+LANG_ENGLISH     "Pap'd Mystery Box (Benötigt AF & 50 EE)"
+
+REFERENCE           MOTIONUI
+LANG_ENGLISH     "Bewegungs-UI"
+
+REFERENCE           MOTIONUI_1
+LANG_ENGLISH     "Flip / Bewegen"
+
+REFERENCE           MOTIONUI_2
+LANG_ENGLISH     "Flip / Bewegen (Umgekehrt)"
+
+REFERENCE           MOTIONUI_3
+LANG_ENGLISH     "Bewegen"
+
+REFERENCE           MOTIONUI_4
+LANG_ENGLISH     "Flip"
+
+REFERENCE           MOTIONUI_INTENSITY
+LANG_ENGLISH     "Bewegungs-UI Intensität"
+
+REFERENCE           NO_SUPPORT_LINE1
+LANG_ENGLISH     "^1Nicht unterstützte Version erkannt\n^3Bitte prüfen Sie Folgendes^7:"
+
+REFERENCE           NO_SUPPORT_LINE2
+LANG_ENGLISH     "\n\n\n^21^7. Starten Sie Black Ops III über den ^BBUTTON_CYCLE_RIGHT^ Steam-Client? (Nicht-Steam Spiele zählen nicht)"
+
+REFERENCE           NO_SUPPORT_LINE3
+LANG_ENGLISH     "\n\n\n\n^22^7. Haben Sie Black Ops III auf Ihrem aktuellen ^BBUTTON_CYCLE_RIGHT^ Steam-Konto gekauft?"
+
+REFERENCE           NO_SUPPORT_LINE4
+LANG_ENGLISH     "\n\n\n\n\n^23^7. Verwenden Sie aktuell ein Gerät oder OS ^5Windows 10 ^7/ ^5Windows 11 ^7/ ^5Steam Deck ^7/ ^5Linux ^7?"
+
+REFERENCE           MWZCOLOR
+LANG_ENGLISH     "BO6 Teamfarbe (Neustart erforderlich)"
+
+REFERENCE           AMMOBAG
+LANG_ENGLISH     "Ammo Bag, das alle 2 Runden erscheint, deaktivieren"
+
+REFERENCE           SLOTHUD
+LANG_ENGLISH     "Perk Slot HUD deaktivieren"
+
+REFERENCE           STABAR
+LANG_ENGLISH     "Ausdauerleiste deaktivieren"
+
+REFERENCE           AUTOLEAN
+LANG_ENGLISH     "Automatisches Lehnen deaktivieren"
+
+REFERENCE           BGB_START
+LANG_ENGLISH     "Gobblegum Start Runde"
+
+REFERENCE           C4ENDING
+LANG_ENGLISH     "C4 kaufbares Ende (150K+ / Runde 35)"
+
+REFERENCE           GUNPOS
+LANG_ENGLISH     "Position des 1st-Person Arm-Modells"
+
+REFERENCE           GUNPOS_ENABLE
+LANG_ENGLISH     "Benutzerdefinierte 1st-Person Arm-Modell Position aktivieren"
+
+REFERENCE           T7HUD
+LANG_ENGLISH     "HUD Layout (Neustart erforderlich)"
+
+REFERENCE           TIPHINT
+LANG_ENGLISH     "Tip Hinweis und Seelenzähler deaktivieren"
+
+REFERENCE           BARSPIN
+LANG_ENGLISH     "Flat UI (Neustart erforderlich)"
+
+REFERENCE           T7
+LANG_ENGLISH     "Vanille"
+
+REFERENCE           T10
+LANG_ENGLISH     "Zentrale Perk-Icons"
+
+REFERENCE           NOATTACHMENT  
+LANG_ENGLISH     "Kein Anhang"  
+
+ENDMARKER

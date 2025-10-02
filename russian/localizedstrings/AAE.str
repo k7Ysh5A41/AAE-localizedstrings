@@ -1,0 +1,266 @@
+// Note to translators:
+// Just edit the text inside the quotes, don't edit other code
+
+VERSION             "1"
+CONFIG              "C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           DISCORD_INVITE
+LANG_ENGLISH     "Создать приглашение в игру"
+
+REFERENCE           DISCORD_INVITE_DESC
+LANG_ENGLISH     "Выберите один из вариантов ниже, и процесс начнется сразу после выбора"
+
+REFERENCE           DISCORD_INVITE_OPTION1
+LANG_ENGLISH     "Создать ссылку-приглашение и отправить на сервер Discord AAE"
+
+REFERENCE           DISCORD_INVITE_OPTION2
+LANG_ENGLISH     "Создать ссылку-приглашение и показать её в браузере для копирования"
+
+REFERENCE           SEND_INVITE_TOAST_HEAD1
+LANG_ENGLISH     "Попробуйте позже"
+
+REFERENCE           SEND_INVITE_TOAST_HEAD2
+LANG_ENGLISH     "Другие игроки увидят ваше приглашение позже!"
+
+REFERENCE           SEND_INVITE_TOAST_HEAD3
+LANG_ENGLISH     "Функция приглашения инициализируется"
+
+REFERENCE           SEND_INVITE_TOAST_HEAD4
+LANG_ENGLISH     "Вы отправляете слишком много запросов"
+
+REFERENCE           SEND_INVITE_TOAST_FOOT1
+LANG_ENGLISH     "Невозможно пригласить"
+
+REFERENCE           SEND_INVITE_TOAST_FOOT2
+LANG_ENGLISH     "Попробуйте позже"
+
+REFERENCE           CREATE_INVITE_TOAST_HEAD1
+LANG_ENGLISH     "Ссылка-приглашение отправлена в браузер"
+
+REFERENCE           CREATE_INVITE_TOAST_FOOT1
+LANG_ENGLISH     "Ссылка создана"
+
+REFERENCE           CREATE_INVITE_TOAST_HEAD2
+LANG_ENGLISH     "Невозможно создать ссылку"
+
+REFERENCE           CAREERS
+LANG_ENGLISH     "^3КАРЬЕРЫ AAE"
+
+REFERENCE           BANK_BALANCE
+LANG_ENGLISH     "Баланс счета"
+
+REFERENCE           PARASITE
+LANG_ENGLISH     "Паразит"
+
+REFERENCE           HIGHEST
+LANG_ENGLISH     "Рекорд "
+
+REFERENCE           EE_COUNT
+LANG_ENGLISH     "Количество Пасхальных Яиц"
+
+REFERENCE           BOARD_COUNT
+LANG_ENGLISH     "Количество досок"
+
+REFERENCE           PICKUP
+LANG_ENGLISH     " Подобрано"
+
+REFERENCE           BUILDABLES_COUNT
+LANG_ENGLISH     "Количество построек"
+
+REFERENCE           PLANTED
+LANG_ENGLISH     " Посажено"
+
+REFERENCE           POWER_ON_COUNT
+LANG_ENGLISH     "Количество включений питания"
+
+REFERENCE           USES
+LANG_ENGLISH     " Использований"
+
+REFERENCE           MEATBALLS
+LANG_ENGLISH     "Фрикадельки"
+
+REFERENCE           WUNDERFIZZ
+LANG_ENGLISH     "Вундерфизз"
+
+REFERENCE           GRABBED
+LANG_ENGLISH     " Взято"
+
+REFERENCE           WALLBUY_PURCHASED
+LANG_ENGLISH     "Покупка у стены"
+
+REFERENCE           NOT_GRAABED
+LANG_ENGLISH     " Не взято"
+
+REFERENCE           DIED_REVIVE
+LANG_ENGLISH     "Погиб при спасении игрока"
+
+REFERENCE           WALLBUY_PAP_AMMO
+LANG_ENGLISH     "Покупка патронов PaP у стены"
+
+REFERENCE           AAT
+LANG_ENGLISH     "Количество активаций AAT"
+
+REFERENCE           DOWN_REVIVE
+LANG_ENGLISH     "Повален при спасении игрока"
+
+REFERENCE           WALLBUY_AMMO
+LANG_ENGLISH     "Покупка патронов у стены"
+
+REFERENCE           BGB
+LANG_ENGLISH     " Прожевано"
+
+REFERENCE           SAVE
+LANG_ENGLISH     "Ваши карьерные данные сохраняются"
+
+REFERENCE           GAMBLER_DESC
+LANG_ENGLISH     "После покупки начинается обратный отсчет 10 секунд, затем происходят случайные события: некоторые хорошие, некоторые плохие, некоторые интересные, множество возможностей."
+
+REFERENCE           DISCORD_INVITE_OPTION0
+LANG_ENGLISH     "Обновите и добавьте кнопку 'Присоединиться к игре' в свой профиль Discord"
+
+REFERENCE           RPC_TOAST_FOOT1
+LANG_ENGLISH     "Не удалось обновить кнопку"
+
+REFERENCE           RPC_TOAST_HEAD2
+LANG_ENGLISH     "Кнопка 'Присоединиться' обновляется"
+
+REFERENCE           RAINBOW_EYE_DESC
+LANG_ENGLISH     "Глаза зомби становятся радужными"
+
+REFERENCE           CHAT_HELP
+LANG_ENGLISH     "Введите ^3/?^7 в чате, чтобы увидеть все доступные команды чата."
+
+REFERENCE           OUT_OF_BOUNDS
+LANG_ENGLISH     "^1ЗА ПРЕДЕЛАМИ"
+
+REFERENCE           PAP_BUSY
+LANG_ENGLISH     "Pack-a-Punch занят"
+
+REFERENCE           PAP_OCTOBOMB
+LANG_ENGLISH     "Нажмите ^3[{+melee}]^7, чтобы переключить Pack-a-Punch в режим Только Li'l Arnie"
+
+REFERENCE           PAP_MONKEY
+LANG_ENGLISH     "Нажмите ^3[{+melee}]^7, чтобы переключить Pack-a-Punch в режим Только Обезьяна-Барабан"
+
+REFERENCE           PAP_ONLY_ACCEPTS
+LANG_ENGLISH     "Pack-a-Punch теперь принимает только "
+
+REFERENCE           PAP_NOT_ACCEPTS
+LANG_ENGLISH     "Pack-a-Punch не принимает "
+
+REFERENCE           AFK
+LANG_ENGLISH     "AFK"
+
+REFERENCE           AFK_DESC
+LANG_ENGLISH     "Вы в данный момент игнорируетесь зомби, и другие игроки могут вас толкать."
+
+REFERENCE           PAP_OR_NORMAL
+LANG_ENGLISH     "PaP или обычный"
+
+REFERENCE           PAP_AND_NORMAL
+LANG_ENGLISH     "PaP и обычный"
+
+REFERENCE           THROW_CANCLE
+LANG_ENGLISH     " / Отменить бросок"
+
+REFERENCE           IMMUNE
+LANG_ENGLISH     "Невосприимчивый"
+
+REFERENCE           RAMPAGE
+LANG_ENGLISH     "Индикатор ярости"
+
+REFERENCE           VOID
+LANG_ENGLISH     "Врата Демонов"
+
+REFERENCE           FIRE
+LANG_ENGLISH     "Руническая тюрьма"
+
+REFERENCE           LIGHTING
+LANG_ENGLISH     "Буря"
+
+REFERENCE           WOLF
+LANG_ENGLISH     "Вой волка"
+
+REFERENCE           DEACTIVATE
+LANG_ENGLISH     "Деактивировать"
+
+REFERENCE           GAMBLER
+LANG_ENGLISH     "Азартный игрок"
+
+REFERENCE           MATCHMAKING_SETTINGS
+LANG_ENGLISH     "НАСТРОЙКИ ПОИСКА ИГРЫ"
+
+REFERENCE           MATCHMAKING_CREATE
+LANG_ENGLISH     "Только создать лобби"
+
+REFERENCE           MATCHMAKING_JOIN
+LANG_ENGLISH     "Присоединиться / Создать лобби"
+
+REFERENCE           INVITEDISCORD
+LANG_ENGLISH     "Пригласить через Discord"
+
+REFERENCE           RESTARTHINT
+LANG_ENGLISH     "Нажмите &&1 ^1&&2^7 раз, чтобы перезапустить карту"
+
+REFERENCE           RESTARTING
+LANG_ENGLISH     "Перезапуск......"
+
+REFERENCE           NORAMPAGE
+LANG_ENGLISH     "Выключить Индикатор ярости"
+
+REFERENCE           RANDOM_MAP
+LANG_ENGLISH     "СЛУЧАЙНАЯ СМЕНА КАРТЫ"
+
+REFERENCE           COPYLOBBYID
+LANG_ENGLISH     "Скопировать ID лобби в буфер обмена"
+
+REFERENCE           JOINLOBBYID
+LANG_ENGLISH     "Присоединиться через буфер обмена"
+
+REFERENCE           LINKCOPY
+LANG_ENGLISH     "Ссылка-приглашение скопирована"
+
+REFERENCE           LOBBYIDCOPY
+LANG_ENGLISH     "ID лобби скопирован"
+
+REFERENCE           DISCORDRUN
+LANG_ENGLISH     "Приложение Discord должно быть запущено в фоновом режиме"
+
+REFERENCE           DOWNLOAD_MAP_FROM_CLIPBOARD
+LANG_ENGLISH     "Скачать карту из буфера обмена"
+
+REFERENCE           DOWNLOAD_MAP_FROM_CLIPBOARD_TITLE
+LANG_ENGLISH     "Проверьте свой список загрузок Steam"
+
+REFERENCE           DOWNLOAD_MAP_FROM_CLIPBOARD_DESC
+LANG_ENGLISH     "Запрос новых карт......"
+
+REFERENCE           DOWNLOAD_MAP_FROM_CLIPBOARD_ERROR_TITLE
+LANG_ENGLISH     "Вставьте действительный ID карты"
+
+REFERENCE           DOWNLOAD_MAP_FROM_CLIPBOARD_ERROR_DESC
+LANG_ENGLISH     "Недействительный ID карты"
+
+REFERENCE           DOWNLOAD_MAP_FROM_CLIPBOARD_INSTALLED_TITLE
+LANG_ENGLISH     "Эта карта уже установлена"
+
+REFERENCE           VIDEOPLAYER
+LANG_ENGLISH     "КИНЕМАТИКИ КАРТЫ"
+
+REFERENCE           OUTRO_CAPS
+LANG_ENGLISH     "ОУТРО"
+
+REFERENCE           OUTRO
+LANG_ENGLISH     "Оутро"
+
+REFERENCE           ISLAND_LOAD_AA_GUN
+LANG_ENGLISH     "Держите ^3[{+activate}]^7, чтобы зарядить зенитку"
+
+REFERENCE           ISLAND_FIRE_AA_GUN
+LANG_ENGLISH     "Держите ^3[{+activate}]^7, чтобы выстрелить из зенитки"
+
+REFERENCE           NEED_UPDATE
+LANG_ENGLISH     "Найдено новое обновление AAE!\nВам нужно повторно подписаться на AAE, чтобы получать обновления и играть онлайн с другими игроками"
+
+ENDMARKER

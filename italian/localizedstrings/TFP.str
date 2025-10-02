@@ -1,0 +1,116 @@
+// Note to translators:
+// Just edit the text inside the quotes, don't edit other code
+
+VERSION             "1"
+CONFIG              "C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           STATUS
+LANG_ENGLISH     "Monitor Stato"
+
+REFERENCE           STATUS_DESC
+LANG_ENGLISH     "Mostra le informazioni di stato attuali sul lato sinistro dello schermo (possono verificarsi glitch)."
+
+REFERENCE           SWITCH_DESC
+LANG_ENGLISH     "^3Deve essere abilitato affinché le opzioni seguenti abbiano effetto"
+
+REFERENCE           VCLUT
+LANG_ENGLISH     "Contrasto"
+
+REFERENCE           VCLUTH_DESC
+LANG_ENGLISH     "Aumenta o diminuisci la quantità di colore nel gioco. 0 è il valore predefinito. Se lo schermo diventa troppo scuro, cambiare la modalità colore in sRGB e/o aumentare la luminosità può risolvere. Permette a chi trova il gioco troppo colorato di farlo sembrare più simile a World At War, con palette più opaca."
+
+REFERENCE           EXTPLAYER
+LANG_ENGLISH     "Supporto più giocatori"
+
+REFERENCE           EXTPLAYER_DESC
+LANG_ENGLISH     "Numero massimo di giocatori aumentato a 10 (^1molto instabile^7), e le macchine Gobblegum saranno disabilitate a causa delle ^3limitazioni del motore di gioco^7.\n\nDettagli supporto mappe:\n\nZombies Chronicles tutte le mappe\n(^2Stabile, compatibile Main EE^7)\n\nSoE/DE/GK\n(^3Meno stabile, compatibile Main EE^7)\n\nAltre mappe 3arc (^3Meno stabile^7)\nMappa personalizzata (Sconosciuta)"
+
+REFERENCE           FFFIVE
+LANG_ENGLISH     "Friendly Fire ma non uccide"
+
+REFERENCE           ROUNDLIMIT
+LANG_ENGLISH     "Termina partita a questo round"
+
+REFERENCE           ROUNDTIME
+LANG_ENGLISH     "Sfida End Game"
+
+REFERENCE           ROUNDTIME_DESC
+LANG_ENGLISH     "Sei nell'End Game. Dopo aver completato il round specificato in 'Termina partita a questo round', metti alla prova le tue abilità sopravvivendo a un'ondata infinita di zombie che spawnano istantaneamente per il tempo specificato. Affronta nuovi Super Sprinter e Tranzit Bus Sprinter. Se avviato prima del round 40, la penalità per il fallimento è sapere che l'orda ti ha sconfitto..."
+
+REFERENCE           TRADE_DESC
+LANG_ENGLISH     "Scambia armi con un altro giocatore. Avvicinati al giocatore e guarda la sua arma. Entrambi devono tenere premuto il prompt a schermo fino a completare la barra, quindi le armi saranno scambiate."
+
+REFERENCE           GAMBLER_DESC
+LANG_ENGLISH     "Genera una palla flottante Lucky 8 al punto di spawn del giocatore, utilizzabile per 1000 punti per un effetto casuale. Alcuni buoni, alcuni cattivi, alcuni intermedi. Può essere comprata solo una volta per round."
+
+REFERENCE           SOLOREVIVE
+LANG_ENGLISH     "Rianimazione solo illimitata"
+
+REFERENCE           PERKPLUS
+LANG_ENGLISH     "Disabilita potenziamenti Perk"
+
+REFERENCE           PERKPLUS_DESC
+LANG_ENGLISH     "Disabilita i seguenti effetti perk aggiunti dalla mod:\n\n^2Speed Cola^7: Acquisto perk e gobblegum più veloce, ADS, cambio arma e velocità corpo a corpo, rimuove animazione 'primo sollevamento'\n^3Stamin-Up^7: Solleva arma più velocemente dopo sprint, può sparare e lanciare granate correndo, sprint illimitato\n^3Double Tap Root Beer^7: Armi speciali si caricano più velocemente\n^1Widow’s Wine^7: Dà resistenza PhD Flopper (funziona solo se c'è un solo perk di protezione sulla mappa)\nDeadshot Daiquiri: Con 4 perk incluso Deadshot, uccidi 5 zombie con headshot consecutivi per attivare x1.25 danno headshot. Icona Deadshot appare vicino alle munizioni, scompare/reset con kill non headshot."
+
+REFERENCE           NOSLIDE
+LANG_ENGLISH     "Disabilita scivolata"
+
+REFERENCE           RJ
+LANG_ENGLISH     "Salto razzo"
+
+REFERENCE           RJ_DESC
+LANG_ENGLISH     "Le tue esplosioni ti spingeranno a una distanza fissa. Combina con resistenza esplosivi di Widow's Wine per salto razzo!"
+
+REFERENCE           SHOCK
+LANG_ENGLISH     "Modalità Grief solo per un team"
+
+REFERENCE           SHOCK_DESC
+LANG_ENGLISH     "Azioni che normalmente sarebbero friendly fire rallentano i giocatori e stordiscono lo schermo."
+
+REFERENCE           BLOOD
+LANG_ENGLISH     "Disabilita schizzi di sangue"
+
+REFERENCE           FLAMER
+LANG_ENGLISH     "Disabilita Purifier (Lanciafiamme)"
+
+REFERENCE           ROAMER_DESC
+LANG_ENGLISH     "Permette di impostare una pausa tra i round. Il round successivo può essere avviato manualmente tramite prompt in-game."
+
+REFERENCE           DPAP
+LANG_ENGLISH     "BO4 Pack-a-Punch Repack"
+
+REFERENCE           LOADOUTSAVE2
+LANG_ENGLISH     "Cancella loadout salvato dopo bleed out"
+
+REFERENCE           LOADOUTSAVE2_DESC
+LANG_ENGLISH     "Cancella le armi salvate dopo bleedout, respawn solo con pistola. Funziona con “Weapon Restore & Mule Kick Weapon Restore” attivato."
+
+REFERENCE           RIPPER
+LANG_ENGLISH     "Disabilita Bowie Knife sostituito da Ripper"
+
+REFERENCE           RIPPER_DESC
+LANG_ENGLISH     "Tenendo Bowie Knife con Widow's Wine, l'arma viene aggiornata a Ripper dal Multiplayer con più danni e attacco homing. Questa opzione disabilita ciò."
+
+REFERENCE           DW
+LANG_ENGLISH     "Disabilita Dualwield PAP Wonder Weapons"
+
+REFERENCE           DW_DESC
+LANG_ENGLISH     "Ray Gun Mark I e Thundergun diventano dualwield con PAP + All Around Enhancement. Questa opzione disabilita ciò."
+
+REFERENCE           ZMBAR
+LANG_ENGLISH     "Barra salute zombie"
+
+REFERENCE           JUKE
+LANG_ENGLISH     "Zombie Juke"
+
+REFERENCE           JUKE_DESC
+LANG_ENGLISH     "Gli zombie si muoveranno casualmente a sinistra/destra invece che dritto, come in Black Ops 1."
+
+REFERENCE           AUTORUN
+LANG_ENGLISH     "Disabilita super-sprinter dopo il round 40"
+
+REFERENCE           AUTORUN_DESC
+LANG_ENGLISH     "Tutti gli zombie diventano super-sprinter dopo il round 40 con All Around Enhancement. Questa opzione limita solo pochi zombie per round."
+
+ENDMARKER

@@ -1,0 +1,71 @@
+// Note to translators:
+// Just edit the text inside the quotes, don't edit other code
+
+VERSION             "1"
+CONFIG              "C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           STORED
+LANG_ENGLISH     "I stored my"
+
+REFERENCE           GOT_MY
+LANG_ENGLISH     "I got my"
+
+REFERENCE           BACK
+LANG_ENGLISH     "back"
+
+REFERENCE           LOADINGMAP
+LANG_ENGLISH     "I'm loading a map"
+
+REFERENCE           GOT_PAP
+LANG_ENGLISH     "I got a Pack-A-Punched"
+
+REFERENCE           DROPSOME
+LANG_ENGLISH     "I dropped some points"
+
+REFERENCE           GOTPERK
+LANG_ENGLISH     "I got a Perk"
+
+REFERENCE           READY
+LANG_ENGLISH     "I'm ready"
+
+REFERENCE           AUTOREVIVE
+LANG_ENGLISH     "I got AutoRevive"
+
+REFERENCE           GOTSOMEPERK
+LANG_ENGLISH     "I got the"
+
+REFERENCE           GOTWP
+LANG_ENGLISH     "I got the"
+
+REFERENCE           SHAREWP
+LANG_ENGLISH     "I shared a"
+
+REFERENCE           SHAREWPHERE
+LANG_ENGLISH     "here"
+
+REFERENCE           TRADEWP
+LANG_ENGLISH     "Traded a"
+
+REFERENCE           LASTZM
+LANG_ENGLISH     "The last zombie has been killed"
+
+REFERENCE           OPENDOOR
+LANG_ENGLISH     "I opened a door"
+
+REFERENCE           DOT
+LANG_ENGLISH     "."
+
+REFERENCE           PAYHALF_DOOR
+LANG_ENGLISH     "I paid half the price for this door, it still needs "
+
+REFERENCE           PAYHALF_DEBRIS
+LANG_ENGLISH     "I paid half the price for this debris, it still needs "
+
+REFERENCE           PAYHALF
+LANG_ENGLISH     "^3K ^7Pay Half"
+
+REFERENCE           PAYHALF_GAMEPAD
+LANG_ENGLISH     "[{+melee}] Pay Half"
+
+ENDMARKER

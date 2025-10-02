@@ -1,0 +1,578 @@
+// Note to translators:
+// Just edit the text inside the quotes, don't edit other code
+
+VERSION             "1"
+CONFIG              "C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE            TITLE
+LANG_ENGLISH         "^6TF'S ZOMBIE OPTIONS PRO"
+
+REFERENCE            SWITCH
+LANG_ENGLISH         "Включить TF Zombie Options Pro / Сбросить по умолчанию"
+
+REFERENCE            WEAPON
+LANG_ENGLISH         "Настройки оружия"
+
+REFERENCE            MYSTERYBOX
+LANG_ENGLISH         "Фильтр Mystery Box"
+
+REFERENCE            POWERUP
+LANG_ENGLISH         "Настройки Powerup"
+
+REFERENCE            PERK
+LANG_ENGLISH         "Настройки Perk"
+
+REFERENCE            BGB
+LANG_ENGLISH         "Настройки GobbleGum"
+
+REFERENCE            WEAPON_DESC
+LANG_ENGLISH         "Откройте меню настроек оружия."
+
+REFERENCE            MYSTERYBOX_DESC
+LANG_ENGLISH         "Эти фильтры позволяют отключить дополнительные оружия на пользовательских картах из их игр. Например, 'Отключить оружие BO1' не позволит картам с оружием BO1 добавлять его в ящик. Это НЕ добавляет оружие из всех игр в ящик."
+
+REFERENCE            POWERUP_DESC
+LANG_ENGLISH         "Откройте меню настроек powerup."
+
+REFERENCE            PERK_DESC
+LANG_ENGLISH         "Откройте меню настроек perk."
+
+REFERENCE            BGB_DESC
+LANG_ENGLISH         "Откройте меню настроек GobbleGum."
+
+REFERENCE            ZOMBIE
+LANG_ENGLISH         "Настройки Zombie"
+
+REFERENCE            PLAYER
+LANG_ENGLISH         "Настройки игрока"
+
+REFERENCE            ROAMER
+LANG_ENGLISH         "Настройки Roamer"
+
+REFERENCE            GAME
+LANG_ENGLISH         "Настройки игры"
+
+REFERENCE            SAVE_H
+LANG_ENGLISH         "Безопасная зона по горизонтали"
+
+REFERENCE            SAVE_V
+LANG_ENGLISH         "Безопасная зона по вертикали"
+
+REFERENCE            ZOMBIE_DESC
+LANG_ENGLISH         "Откройте меню настроек zombie."
+
+REFERENCE            PLAYER_DESC
+LANG_ENGLISH         "Откройте меню настроек игрока."
+
+REFERENCE            ROAMER_DESC
+LANG_ENGLISH         "Откройте меню настроек roamer."
+
+REFERENCE            GAME_DESC
+LANG_ENGLISH         "Откройте меню настроек игры."
+
+REFERENCE            SAVE_H_DESC
+LANG_ENGLISH         "Настройте горизонтальный диапазон безопасной зоны."
+
+REFERENCE            SAVE_V_DESC
+LANG_ENGLISH         "Настройте вертикальный диапазон безопасной зоны."
+
+REFERENCE            GAMEPLAY
+LANG_ENGLISH         "ИГРОВОЙ ПРОЦЕСС"
+
+REFERENCE            AI
+LANG_ENGLISH         "ИИ"
+
+REFERENCE            SYSTEM
+LANG_ENGLISH         "СИСТЕМА"
+
+REFERENCE            DEFAULT
+LANG_ENGLISH         "По умолчанию"
+
+REFERENCE            SPRINT
+LANG_ENGLISH         "Бег"
+
+REFERENCE            SUPER_SPRINT
+LANG_ENGLISH         "Супер бег"
+
+REFERENCE            KNOCK_BACK
+LANG_ENGLISH         "Отбрасывание"
+
+REFERENCE            PLAYER_HEALTH_1
+LANG_ENGLISH         "1 удар (35%)"
+
+REFERENCE            PLAYER_HEALTH_2
+LANG_ENGLISH         "2 удара (75%)"
+
+REFERENCE            PLAYER_HEALTH_3
+LANG_ENGLISH         "4 удара (150%)"
+
+REFERENCE            PLAYER_HEALTH_4
+LANG_ENGLISH         "5 ударов (200%)"
+
+REFERENCE            ZOD
+LANG_ENGLISH         "Shadows of Evil"
+
+REFERENCE            FACTORY
+LANG_ENGLISH         "The Giant"
+
+REFERENCE            CASTLE
+LANG_ENGLISH         "Der Eisendrache"
+
+REFERENCE            ISLAND
+LANG_ENGLISH         "Zetsubou No Shima"
+
+REFERENCE            GK
+LANG_ENGLISH         "Gorod Krovi"
+
+REFERENCE            GENESIS
+LANG_ENGLISH         "Revelations"
+
+REFERENCE            KINO
+LANG_ENGLISH         "Kino der Toten"
+
+REFERENCE            TOMB
+LANG_ENGLISH         "Origins"
+
+REFERENCE            LESS
+LANG_ENGLISH         "Меньше"
+
+REFERENCE            MORE
+LANG_ENGLISH         "Больше"
+
+REFERENCE            INSANE
+LANG_ENGLISH         "Безумие"
+
+REFERENCE            STOOPID
+LANG_ENGLISH         "Глупо"
+
+REFERENCE            INFINITE
+LANG_ENGLISH         "Бесконечно"
+
+REFERENCE            UI_30S
+LANG_ENGLISH         "30 секунд"
+
+REFERENCE            UI_1M
+LANG_ENGLISH         "1 минута"
+
+REFERENCE            BGB_OFF
+LANG_ENGLISH         "Отключить машины GobbleGum"
+
+REFERENCE            BGB_RDM
+LANG_ENGLISH         "Случайный GobbleGum"
+
+REFERENCE            BGB_FIX
+LANG_ENGLISH         "Фиксированная цена GobbleGum"
+
+REFERENCE            BGB_COST
+LANG_ENGLISH         "Базовая стоимость GobbleGum"
+
+REFERENCE            BGB_LIMIT
+LANG_ENGLISH         "Лимит покупки GobbleGum"
+
+REFERENCE            BGB_SP
+LANG_ENGLISH         "Отключить бесплатную музыку при покупке"
+
+REFERENCE            BGB_NT
+LANG_ENGLISH         "Бесконечная Newtonian Negation"
+
+REFERENCE            BGB_OFF_DESC
+LANG_ENGLISH         "Отключает все машины GobbleGum на карте."
+
+REFERENCE            BGB_RDM_DESC
+LANG_ENGLISH         "GobbleGum больше не использует набор игрока, а выбирается случайным образом из списка всех GobbleGum."
+
+REFERENCE            BGB_COST_DESC
+LANG_ENGLISH         "Базовая стоимость машин GobbleGum."
+
+REFERENCE            BGB_FIX_DESC
+LANG_ENGLISH         "Фиксированная стоимость машин GobbleGum."
+
+REFERENCE            BGB_LIMIT_DESC
+LANG_ENGLISH         "Лимит покупок для машин GobbleGum."
+
+REFERENCE            BGB_TITLE
+LANG_ENGLISH         "НАСТРОЙКИ GOBBLEGUM"
+
+REFERENCE            ROUND
+LANG_ENGLISH         "Начальный раунд"
+
+REFERENCE            ZC
+LANG_ENGLISH         "Счетчик зомби включен"
+
+REFERENCE            HITMARKER
+LANG_ENGLISH         "Hitmarkers для зомби"
+
+REFERENCE            SE
+LANG_ENGLISH         "События очков"
+
+REFERENCE            TIMEPLAY
+LANG_ENGLISH         "Время игры"
+
+REFERENCE            DOOR
+LANG_ENGLISH         "Начать со всеми открытыми дверями"
+
+REFERENCE            BOX_ALL
+LANG_ENGLISH         "Mystery Box во всех локациях"
+
+REFERENCE            POWER
+LANG_ENGLISH         "Начать с включенным питанием"
+
+REFERENCE            TRADE
+LANG_ENGLISH         "Обмен оружием"
+
+REFERENCE            SS
+LANG_ENGLISH         "Возрождение зрителей"
+
+REFERENCE            LOCKER
+LANG_ENGLISH         "Отключить шкаф и банк"
+
+REFERENCE            DELAY
+LANG_ENGLISH         "Без задержки между раундами"
+
+REFERENCE            ROUND_DESC
+LANG_ENGLISH         "Выберите, с какого раунда начать."
+
+REFERENCE            ZC_DESC
+LANG_ENGLISH         "Добавляет счетчик зомби в верхнем левом углу, чтобы показать, сколько зомби осталось."
+
+REFERENCE            DELAY_DESC
+LANG_ENGLISH         "Удаляет задержку между раундами. Бессмысленно, если включен Roamer."
+
+REFERENCE            HITMARKER_DESC
+LANG_ENGLISH         "Показывать hitmarkers при нанесении урона зомби."
+
+REFERENCE            SE_DESC
+LANG_ENGLISH         "Как в Cold War Zombies, показывает, как вы получили очки рядом с прицелом."
+
+REFERENCE            TIMEPLAY_DESC
+LANG_ENGLISH         "Включает режим ограниченного времени. Зомби не перестают появляться, цель – продержаться как можно дольше. Не совместимо с Roamer или счетчиком зомби."
+
+REFERENCE            DOOR_DESC
+LANG_ENGLISH         "Открывает все двери на карте."
+
+REFERENCE            BOX_ALL_DESC
+LANG_ENGLISH         "Создает Mystery Box во всех возможных местах одновременно. Блокирует перемещение коробки."
+
+REFERENCE            POWER_DESC
+LANG_ENGLISH         "Включает питание в начале игры."
+
+REFERENCE            ROUNDREVIVE_DESC
+LANG_ENGLISH         "Возрождает всех игроков в конце раунда с полным здоровьем."
+
+REFERENCE            TRADE_DESC
+LANG_ENGLISH         "Обменяйтесь оружием с другим игроком."
+
+REFERENCE            SS_DESC
+LANG_ENGLISH         "Зрители возрождаются через 5 минут после смерти."
+
+REFERENCE            GAME_TITLE
+LANG_ENGLISH         "НАСТРОЙКИ ИГРЫ"
+
+REFERENCE            BOX_FILTER_DESC
+LANG_ENGLISH         "Эти фильтры позволяют отключить оружие на пользовательских картах из их игр. Например, 'Отключить оружие BO1' не позволит картам с BO1 добавлять его в ящик. Это НЕ добавляет оружие из всех игр."
+
+REFERENCE            T4
+LANG_ENGLISH         "Отключить оружие WAW"
+
+REFERENCE            IW4
+LANG_ENGLISH         "Отключить оружие MW2"
+
+REFERENCE            T5
+LANG_ENGLISH         "Отключить оружие BO1"
+
+REFERENCE            IW5
+LANG_ENGLISH         "Отключить оружие MW3"
+
+REFERENCE            T6
+LANG_ENGLISH         "Отключить оружие BO2"
+
+REFERENCE            IW6
+LANG_ENGLISH         "Отключить оружие GHOSTS"
+
+REFERENCE            S1
+LANG_ENGLISH         "Отключить оружие AW"
+
+REFERENCE            IW7
+LANG_ENGLISH         "Отключить оружие IW"
+
+REFERENCE            H1
+LANG_ENGLISH         "Отключить оружие MWR"
+
+REFERENCE            S2
+LANG_ENGLISH         "Отключить оружие WW2"
+
+REFERENCE            T8
+LANG_ENGLISH         "Отключить оружие BO4"
+
+REFERENCE            IW8
+LANG_ENGLISH         "Отключить оружие MW 2019"
+
+REFERENCE            T9
+LANG_ENGLISH         "Отключить оружие BO-CW"
+
+REFERENCE            ELMG_WEAPON
+LANG_ENGLISH         "Отключить оружие AAE"
+
+REFERENCE            MYSTERYBOX_TITLE
+LANG_ENGLISH         "ФИЛЬТР MYSTERY BOX"
+
+REFERENCE            PERKLIMIT
+LANG_ENGLISH         "Снять ограничение на перки"
+
+REFERENCE            QUADKICK
+LANG_ENGLISH         "Большой Mulekick"
+
+REFERENCE            PERKAHOLIC
+LANG_ENGLISH         "Начать с Perkaholic"
+
+REFERENCE            REVIVE
+LANG_ENGLISH         "Начать с Quick Revive"
+
+REFERENCE            ROUNDREVIVE
+LANG_ENGLISH         "Возрождение в конце раунда"
+
+REFERENCE            T8PERK
+LANG_ENGLISH         "Потеря перка по времени"
+
+REFERENCE            PERKLIMIT_DESC
+LANG_ENGLISH         "Позволяет игроку выбрать лимит перков."
+
+REFERENCE            QUADKICK_DESC
+LANG_ENGLISH         "Mulekick теперь позволяет носить 4 оружия.\n\n^1Внимание^7: Восстановление оружия & Mule Kick восстановление и потеря перков по времени перестанут работать."
+
+REFERENCE            PERKAHOLIC_DESC
+LANG_ENGLISH         "Выберите, хотите ли начать с Perkaholic."
+
+REFERENCE            T8PERK_DESC
+LANG_ENGLISH         "Перки будут теряться постепенно, один за другим, вместо мгновенной потери. Если у вас слишком много перков, скорость потери увеличивается, если слишком мало — замедляется."
+
+REFERENCE            REVIVE_DESC
+LANG_ENGLISH         "Выберите, хотите ли начать с quick revive."
+
+REFERENCE            PERK_TITLE
+LANG_ENGLISH         "НАСТРОЙКИ PERK"
+
+REFERENCE            SCORE
+LANG_ENGLISH         "Начальные очки"
+
+REFERENCE            SPEED
+LANG_ENGLISH         "Множитель скорости движения"
+
+REFERENCE            HEALTH
+LANG_ENGLISH         "Здоровье игрока"
+
+REFERENCE            EXO
+LANG_ENGLISH         "EXO движение"
+
+REFERENCE            SCORE_DESC
+LANG_ENGLISH         "Выберите количество очков для начала игры."
+
+REFERENCE            SPEED_DESC
+LANG_ENGLISH         "Настройте скорость игрока. 1 — по умолчанию."
+
+REFERENCE            HEALTH_DESC
+LANG_ENGLISH         "Выберите количество здоровья игрока.\nПо умолчанию = 100, урон от обычного зомби = 45"
+
+REFERENCE            EXO_DESC
+LANG_ENGLISH         "Включить EXO движение. (Скорее всего не работает на картах, где EXO движение используется, например, Shadows Of Evil или Der Eisendrache)"
+
+REFERENCE            FIRENDLYFIRE_DESC
+LANG_ENGLISH         "Отражение: урон, нанесенный товарищу, возвращается вам.\n\nРазделение: урон делится между вами и товарищем.\n\nОтбрасывание: урон не наносится, но игроки отбрасываются от выстрелов."
+
+REFERENCE            PLAYER_TITLE
+LANG_ENGLISH         "НАСТРОЙКИ ИГРОКА"
+
+REFERENCE            POWERUP_SPAWN
+LANG_ENGLISH         "Количество спавна Powerup"
+
+REFERENCE            NUKE
+LANG_ENGLISH         "Улучшенная Ядерная бомба"
+
+REFERENCE            NUKE_SCORE
+LANG_ENGLISH         "Очки за улучшенную Ядерную бомбу"
+
+REFERENCE            CARPENTER
+LANG_ENGLISH         "BO4 Carpenter"
+
+REFERENCE            FREEPERK
+LANG_ENGLISH         "Включить Free Perk Powerup"
+
+REFERENCE            POWERUP_SPAWN_DESC
+LANG_ENGLISH         "Выберите количество спавна powerup за раунд."
+
+REFERENCE            NUKE_DESC
+LANG_ENGLISH         "Ядерная бомба теперь дает фиксированное количество очков за убитого зомби (минимум 400)."
+
+REFERENCE            NUKE_SCORE_DESC
+LANG_ENGLISH         "Выберите количество очков за зомби."
+
+REFERENCE            CARPENTER_DESC
+LANG_ENGLISH         "Carpenter теперь чинит ваш щит."
+
+REFERENCE            FREEPERK_DESC
+LANG_ENGLISH         "Позволяет зомби ронять бесплатный перк как обычный powerup."
+
+REFERENCE            POWERUP_TITLE
+LANG_ENGLISH         "НАСТРОЙКИ POWERUP"
+
+REFERENCE            MAXAMMO
+LANG_ENGLISH         "BO4 Max Ammo"
+
+REFERENCE            MAXAMMO_DESC
+LANG_ENGLISH         "Max Ammo также пополняет магазин."
+
+REFERENCE            ROAMER
+LANG_ENGLISH         "Настройка Roamer"
+
+REFERENCE            ROAMERTIME
+LANG_ENGLISH         "Время Roamer между раундами"
+
+REFERENCE            ROMAER_DESC
+LANG_ENGLISH         "Roamer позволяет ждать в конце раунда перед следующим раундом. Чтобы начать следующий раунд, нажмите ADS + Melee."
+
+REFERENCE            ROAMERTIME_DESC
+LANG_ENGLISH         "Выберите, сколько времени между раундами."
+
+REFERENCE            ROAMER_TITLE
+LANG_ENGLISH         "НАСТРОЙКИ ROAMER"
+
+REFERENCE            T7
+LANG_ENGLISH         "Добавить оружие BO3"
+
+REFERENCE            STARTAMMO
+LANG_ENGLISH         "Начать с Max Ammo"
+
+REFERENCE            RK5
+LANG_ENGLISH         "Начать с RK5"
+
+REFERENCE            BOWIE
+LANG_ENGLISH         "Начать с ножа Bowie"
+
+REFERENCE            RADM_WEAPON
+LANG_ENGLISH         "Случайное стартовое оружие"
+
+REFERENCE            OWNCAMO
+LANG_ENGLISH         "Использовать свою камуфляж"
+
+REFERENCE            PAPCAMO
+LANG_ENGLISH         "Выбрать Pack-a-Punch камуфляж"
+
+REFERENCE            BOXSHARE
+LANG_ENGLISH         "Делиться Mystery Box"
+
+REFERENCE            LOADOUTSAVE
+LANG_ENGLISH         "Сохранение оружия и Mule Kick"
+
+REFERENCE            C4
+LANG_ENGLISH         "Отключить C4 Buyable ending"
+
+REFERENCE            T7_DESC
+LANG_ENGLISH         "Добавляет все оружие BO3 в Mystery Box."
+
+REFERENCE            STARTAMMO_DESC
+LANG_ENGLISH         "Выберите, начинать ли с Max Ammo для пистолета."
+
+REFERENCE            RK5_DESC
+LANG_ENGLISH         "Добавляет RK5 вместе со стартовым пистолетом карты, как если бы игрок завершил супер пасхальное яйцо."
+
+REFERENCE            BOWIE_DESC
+LANG_ENGLISH         "Даёт каждому игроку нож Bowie."
+
+REFERENCE            RADM_WEAPON_DESC
+LANG_ENGLISH         "Дает каждому игроку случайное стартовое оружие."
+
+REFERENCE            OWNCAMO_DESC
+LANG_ENGLISH         "Оружие после Pack-a-Punch использует оригинальный камуфляж."
+
+REFERENCE            PAPCAMO_DESC
+LANG_ENGLISH         "Выберите камуфляж Pack-a-Punch."
+
+REFERENCE            BOXSHARE_DESC
+LANG_ENGLISH         "Используйте ближний бой на Mystery Box, чтобы делиться оружием с командой."
+
+REFERENCE            LOADOUTSAVE_DESC
+LANG_ENGLISH         "При отключении от хоста, лобби сохраняет оружие, перки и очки. После подключения вы возвращаете потерянное (также применимо к следующему раунду после смерти)."
+
+REFERENCE            C4_DESC
+LANG_ENGLISH         "После 35 волн, при 150000 очках, взрыв C4 может закончить игру. Выключите этот эффект, если выбрано."
+
+REFERENCE            WEAPON_TITLE
+LANG_ENGLISH         "НАСТРОЙКИ ОРУЖИЯ"
+
+REFERENCE            KILL
+LANG_ENGLISH         "Доп. очки за убийство"
+
+REFERENCE            MELEEKILL
+LANG_ENGLISH         "Доп. очки за убийство ближним боем"
+
+REFERENCE            HEADSHOTKILL
+LANG_ENGLISH         "Доп. очки за убийство в голову"
+
+REFERENCE            MAXZM
+LANG_ENGLISH         "Максимальное количество зомби"
+
+REFERENCE            SLOWZM
+LANG_ENGLISH         "Слабее зомби"
+
+REFERENCE            ZMSPEED
+LANG_ENGLISH         "Скорость зомби"
+
+REFERENCE            SPAWNDELAY
+LANG_ENGLISH         "Без задержки спавна зомби"
+
+REFERENCE            KILL_DESC
+LANG_ENGLISH         "Получайте доп. очки за убийство зомби."
+
+REFERENCE            MELEEKILL_DESC
+LANG_ENGLISH         "Получайте доп. очки за убийство зомби ближним боем."
+
+REFERENCE            HEADSHOTKILL_DESC
+LANG_ENGLISH         "Получайте доп. очки за убийство зомби в голову."
+
+REFERENCE            MAXZM_DESC
+LANG_ENGLISH         "Максимальное количество зомби одновременно. По умолчанию 24. Большее число может вызвать лаги. Максимум протестирован 40."
+
+REFERENCE            SLOWZM_DESC
+LANG_ENGLISH         "Сила зомби увеличивается постепенно."
+
+REFERENCE            ZMSPEED_DESC
+LANG_ENGLISH         "Все зомби будут использовать эту скорость движения."
+
+REFERENCE            SPAWNDELAY_DESC
+LANG_ENGLISH         "Устанавливает задержку спавна зомби на 0. Зомби появляются мгновенно."
+
+REFERENCE            ZOMBIE_TITLE
+LANG_ENGLISH         "НАСТРОЙКИ ZOMBIE"
+
+REFERENCE            MW2019
+LANG_ENGLISH         "IW/MW2019"
+
+REFERENCE            CW
+LANG_ENGLISH         "Cold War"
+
+REFERENCE            BO4
+LANG_ENGLISH         "Black Ops 4"
+
+REFERENCE            HITMARKER_SOUND
+LANG_ENGLISH         "Звук Hitmarker"
+
+REFERENCE            DAMAGE
+LANG_ENGLISH         "Анализ урона"
+
+REFERENCE            CRAZYZOMBIE
+LANG_ENGLISH         "Horror Zombie"
+
+REFERENCE            HUD
+LANG_ENGLISH         "без HUD"
+
+REFERENCE            LIMIT
+LANG_ENGLISH         "Разрешить копии оружия Wonder Weapon из карты в ящике"
+
+REFERENCE            HPBAR
+LANG_ENGLISH         "Полоса здоровья игрока"
+
+REFERENCE            HPBAR_DESC
+LANG_ENGLISH         "Показывает здоровье игрока в левом нижнем углу."
+
+ENDMARKER

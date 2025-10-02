@@ -1,0 +1,71 @@
+// Note to translators:
+// Just edit the text inside the quotes, don't edit other code
+
+VERSION             "1"
+CONFIG              "C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           STORED
+LANG_ENGLISH     "Я сохранил мой"
+
+REFERENCE           GOT_MY
+LANG_ENGLISH     "Я получил мой"
+
+REFERENCE           BACK
+LANG_ENGLISH     "назад"
+
+REFERENCE           LOADINGMAP
+LANG_ENGLISH     "Я загружаю карту"
+
+REFERENCE           GOT_PAP
+LANG_ENGLISH     "Я получил Pack-A-Punched"
+
+REFERENCE           DROPSOME
+LANG_ENGLISH     "Я здесь сбросил немного очков!"
+
+REFERENCE           GOTPERK
+LANG_ENGLISH     "Я получил Perk"
+
+REFERENCE           READY
+LANG_ENGLISH     "Я готов"
+
+REFERENCE           AUTOREVIVE
+LANG_ENGLISH     "Я получил Auto Revive"
+
+REFERENCE           GOTSOMEPERK
+LANG_ENGLISH     "Я получил"
+
+REFERENCE           GOTWP
+LANG_ENGLISH     "Я получил"
+
+REFERENCE           SHAREWP
+LANG_ENGLISH     "Я поделился"
+
+REFERENCE           SHAREWPHERE
+LANG_ENGLISH     "здесь"
+
+REFERENCE           TRADEWP
+LANG_ENGLISH     "Я обменял"
+
+REFERENCE           LASTZM
+LANG_ENGLISH     "Последний зомби убит"
+
+REFERENCE           OPENDOOR
+LANG_ENGLISH     "Я открыл дверь"
+
+REFERENCE           DOT
+LANG_ENGLISH     "."
+
+REFERENCE           PAYHALF_DOOR
+LANG_ENGLISH     "Я заплатил половину за эти двери, еще нужно "
+
+REFERENCE           PAYHALF_DEBRIS
+LANG_ENGLISH     "Я заплатил половину за этот обломок, еще нужно "
+
+REFERENCE           PAYHALF
+LANG_ENGLISH     "^3K ^7Заплатить половину"
+
+REFERENCE           PAYHALF_GAMEPAD
+LANG_ENGLISH     "[{+melee}] Заплатить половину"
+
+ENDMARKER

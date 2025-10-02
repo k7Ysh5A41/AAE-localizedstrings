@@ -1,0 +1,590 @@
+// Note to translators:
+// Just edit the text inside the quotes, don't edit other code
+
+VERSION             "1"
+CONFIG              "C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE            TITLE
+LANG_ENGLISH         "^6TF'S ZOMBIE OPTION PRO"
+
+REFERENCE            SWITCH
+LANG_ENGLISH         "Enable TF Zombie Option / Reset to Default"
+
+REFERENCE            WEAPON
+LANG_ENGLISH         "Weapon Options"
+
+REFERENCE            MYSTERYBOX
+LANG_ENGLISH         "Mystery Box Filter"
+
+REFERENCE            POWERUP
+LANG_ENGLISH         "Powerup Options"
+
+REFERENCE            PERK
+LANG_ENGLISH         "Perk Options"
+
+REFERENCE            BGB
+LANG_ENGLISH         "GobbleGum Options"
+
+REFERENCE            WEAPON_DESC
+LANG_ENGLISH         "Open the weapon options menu."
+
+REFERENCE            MYSTERYBOX_DESC
+LANG_ENGLISH         "These filters allow you to disable extra weapons added on custom maps from their respective games. For example, "Disable BO1 Weapons" will stop custom maps which use BO1 weapons from adding them to the box. These do NOT add weapons from every game into the box."
+
+REFERENCE            POWERUP_DESC
+LANG_ENGLISH         "Open the powerup options menu."
+
+REFERENCE            PERK_DESC
+LANG_ENGLISH         "Open the perk options menu."
+
+REFERENCE            BGB_DESC
+LANG_ENGLISH         "Open the GobbleGum options menu."
+
+REFERENCE            ZOMBIE
+LANG_ENGLISH         "Zombie Options"
+
+REFERENCE            PLAYER
+LANG_ENGLISH         "Player Options"
+
+REFERENCE            ROAMER
+LANG_ENGLISH         "Roamer Options"
+
+REFERENCE            GAME
+LANG_ENGLISH         "Game Options"
+
+REFERENCE            SAVE_H
+LANG_ENGLISH         "SafeArea Horizontal"
+
+REFERENCE            SAVE_V
+LANG_ENGLISH         "SafeArea Vertical"
+
+REFERENCE            ZOMBIE_DESC
+LANG_ENGLISH         "Open the zombie options menu."
+
+REFERENCE            PLAYER_DESC
+LANG_ENGLISH         "Open the player options menu."
+
+REFERENCE            ROAMER_DESC
+LANG_ENGLISH         "Open the roamer options menu."
+
+REFERENCE            GAME_DESC
+LANG_ENGLISH         "Open the game options menu."
+
+REFERENCE            SAVE_H_DESC
+LANG_ENGLISH         "Adjust the horizontal range of the Safearea."
+
+REFERENCE            SAVE_V_DESC
+LANG_ENGLISH         "Adjust the vertical range of the Safearea."
+
+REFERENCE            GAMEPLAY
+LANG_ENGLISH         "GAMEPLAY"
+
+REFERENCE            AI
+LANG_ENGLISH         "AI"
+
+REFERENCE            SYSTEM
+LANG_ENGLISH         "SYSTEM"
+
+REFERENCE            DEFAULT
+LANG_ENGLISH         "Default"
+
+REFERENCE            SPRINT
+LANG_ENGLISH         "Sprint"
+
+REFERENCE            SUPER_SPRINT
+LANG_ENGLISH         "Super Sprint"
+
+REFERENCE            KNOCK_BACK
+LANG_ENGLISH         "Knock Back"
+
+REFERENCE            PLAYER_HEALTH_1
+LANG_ENGLISH         "1 Hit (35%)"
+
+REFERENCE            PLAYER_HEALTH_2
+LANG_ENGLISH         "2 Hits (75%)"
+
+REFERENCE            PLAYER_HEALTH_3
+LANG_ENGLISH         "4 Hits (150%)"
+
+REFERENCE            PLAYER_HEALTH_4
+LANG_ENGLISH         "5 Hits (200%)"
+
+REFERENCE            ZOD
+LANG_ENGLISH         "Shadows of Evil"
+
+REFERENCE            FACTORY
+LANG_ENGLISH         "The Giant"
+
+REFERENCE            CASTLE
+LANG_ENGLISH         "Der Eisendrache"
+
+REFERENCE            ISLAND
+LANG_ENGLISH         "Zetsubou No Shima"
+
+REFERENCE            GK
+LANG_ENGLISH         "Gorod Krovi"
+
+REFERENCE            GENESIS
+LANG_ENGLISH         "Revelations"
+
+REFERENCE            KINO
+LANG_ENGLISH         "Kino der Toten"
+
+REFERENCE            TOMB
+LANG_ENGLISH         "Origins"
+
+REFERENCE            LESS
+LANG_ENGLISH         "Less"
+
+REFERENCE            MORE
+LANG_ENGLISH         "More"
+
+REFERENCE            INSANE
+LANG_ENGLISH         "Insane"
+
+REFERENCE            STOOPID
+LANG_ENGLISH         "STOOPID"
+
+REFERENCE            INFINITE
+LANG_ENGLISH         "Infinite"
+
+REFERENCE            UI_30S
+LANG_ENGLISH         "30 Seconds"
+
+REFERENCE            UI_1M
+LANG_ENGLISH         "1 Minute"
+
+REFERENCE            BGB_OFF
+LANG_ENGLISH         "Disable GobbleGum Machine"
+
+REFERENCE            BGB_RDM
+LANG_ENGLISH         "Random GobbleGum"
+
+REFERENCE            BGB_FIX
+LANG_ENGLISH         "Fixed GobbleGum Cost"
+
+REFERENCE            BGB_COST
+LANG_ENGLISH         "GobbleGum Base Cost"
+
+REFERENCE            BGB_LIMIT
+LANG_ENGLISH         "GobbleGum Purchase Limit"
+
+REFERENCE            BGB_SP
+LANG_ENGLISH         "Disable Shopping Free Music"
+
+REFERENCE            BGB_NT
+LANG_ENGLISH         "Unlimited Newtonian Negation"
+
+REFERENCE            BGB_SP
+LANG_ENGLISH         "Disable Shopping Free Music"
+
+REFERENCE            BGB_OFF_DESC
+LANG_ENGLISH         "Disable all GobbleGum Machines on the map."
+
+REFERENCE            BGB_RDM_DESC
+LANG_ENGLISH         "GobbleGum will no longer use player's loadout, but will be randomly selected from a list of all GobbleGums."
+
+REFERENCE            BGB_COST_DESC
+LANG_ENGLISH         "Base Cost of GobbleGum Machines."
+
+REFERENCE            BGB_FIX_DESC
+LANG_ENGLISH         "Fixed cost of Gobblegum machines."
+
+REFERENCE            BGB_LIMIT_DESC
+LANG_ENGLISH         "Purchase limit for GobbleGum machines."
+
+REFERENCE            BGB_TITLE
+LANG_ENGLISH         "GOBBLEGUM OPTIONS"
+
+REFERENCE            ROUND
+LANG_ENGLISH         "Starting Round"
+
+REFERENCE            ZC
+LANG_ENGLISH         "Zombie Counter Enabled"
+
+REFERENCE            HITMARKER
+LANG_ENGLISH         "Zombie Hitmarkers"
+
+REFERENCE            SE
+LANG_ENGLISH         "Score Events"
+
+REFERENCE            TIMEPLAY
+LANG_ENGLISH         "Timed Gameplay"
+
+REFERENCE            DOOR
+LANG_ENGLISH         "Start with All Doors Open"
+
+REFERENCE            BOX_ALL
+LANG_ENGLISH         "Mystery Box in All Locations"
+
+REFERENCE            POWER
+LANG_ENGLISH         "Start with Power Enabled"
+
+REFERENCE            TRADE
+LANG_ENGLISH         "Weapon Trade"
+
+REFERENCE            SS
+LANG_ENGLISH         "Spectator Spawn"
+
+REFERENCE            LOCKER
+LANG_ENGLISH         "Disable WeaponLocker & Bank"
+
+REFERENCE            POWER
+LANG_ENGLISH         "Start with Power Enabled"
+
+REFERENCE            DELAY
+LANG_ENGLISH         "No Round Delay"
+
+REFERENCE            ROUND_DESC
+LANG_ENGLISH         "Choose which round to start on."
+
+REFERENCE            ZC_DESC
+LANG_ENGLISH         "Adds a zombie counter at the top left of the screen to show you how many zombies are left in the wave."
+
+REFERENCE            DELAY_DESC
+LANG_ENGLISH         "Removes the delay between rounds. Obviously pointless if you have roamer enabled."
+
+REFERENCE            HITMARKER_DESC
+LANG_ENGLISH         "Show hitmarkers when damaging zombies."
+
+REFERENCE            SE_DESC
+LANG_ENGLISH         "Just like the Cold War Zombies, it will show how you got the score next to the crosshair."
+
+REFERENCE            TIMEPLAY_DESC
+LANG_ENGLISH         "Enables timed gameplay mode. When active, zombies don't stop spawning and the goal is to last as long as possible. Not compatible with roamer or the zombie counter."
+
+REFERENCE            DOOR_DESC
+LANG_ENGLISH         "Opens all doors on the map."
+
+REFERENCE            BOX_ALL_DESC
+LANG_ENGLISH         "Spawns the mystery box in every possible location at once. Prevents teddies."
+
+REFERENCE            POWER_DESC
+LANG_ENGLISH         "Turn on the power when the game starts."
+
+REFERENCE            ROUNDREVIVE_DESC
+LANG_ENGLISH         "Revive all players at the end of the round and gain full health."
+
+REFERENCE            TRADE_DESC
+LANG_ENGLISH         "Trade Weapons with another player."
+
+REFERENCE            SS_DESC
+LANG_ENGLISH         "Spectators respawn 5 mins after dying."
+
+REFERENCE            GAME_TITLE
+LANG_ENGLISH         "GAME OPTIONS"
+
+REFERENCE            BOX_FILTER_DESC
+LANG_ENGLISH         "These filters allow you to disable extra weapons added on custom maps from their respective games. For example, "Disable BO1 Weapons" will stop custom maps which use BO1 weapons from adding them to the box. These do NOT add weapons from every game into the box."
+
+REFERENCE            T4
+LANG_ENGLISH         "Disable WAW Weapons"
+
+REFERENCE            IW4
+LANG_ENGLISH         "Disable MW2 Weapons"
+
+REFERENCE            T5
+LANG_ENGLISH         "Disable BO1 Weapons"
+
+REFERENCE            IW5
+LANG_ENGLISH         "Disable MW3 Weapons"
+
+REFERENCE            T6
+LANG_ENGLISH         "Disable BO2 Weapons"
+
+REFERENCE            IW6
+LANG_ENGLISH         "Disable GHOSTS Weapons"
+
+REFERENCE            S1
+LANG_ENGLISH         "Disable AW Weapons"
+
+REFERENCE            IW7
+LANG_ENGLISH         "Disable IW Weapons"
+
+REFERENCE            H1
+LANG_ENGLISH         "Disable MWR Weapons"
+
+REFERENCE            S2
+LANG_ENGLISH         "Disable WW2 Weapons"
+
+REFERENCE            T8
+LANG_ENGLISH         "Disable BO4 Weapons"
+
+REFERENCE            IW8
+LANG_ENGLISH         "Disable MW2019 Weapons"
+
+REFERENCE            T9
+LANG_ENGLISH         "Disable BOCW Weapons"
+
+REFERENCE            ELMG_WEAPON
+LANG_ENGLISH         "Disable Weapons of this mod"
+
+REFERENCE            MYSTERYBOX_TITLE
+LANG_ENGLISH         "MYSTERY BOX FILTER"
+
+REFERENCE            PERKLIMIT
+LANG_ENGLISH         "Remove Perk Limit"
+
+REFERENCE            QUADKICK
+LANG_ENGLISH         "Bigger Mulekick"
+
+REFERENCE            PERKAHOLIC
+LANG_ENGLISH         "Spawn With Perkaholic"
+
+REFERENCE            REVIVE
+LANG_ENGLISH         "Spawn With Quick Revive"
+
+REFERENCE            ROUNDREVIVE
+LANG_ENGLISH         "Round Revive"
+
+REFERENCE            T8PERK
+LANG_ENGLISH         "Time-based perk loss"
+
+REFERENCE            PERKLIMIT_DESC
+LANG_ENGLISH         "Let the player buy unlimited perks."
+
+REFERENCE            T8PERK
+LANG_ENGLISH         "Time-based perk loss"
+
+REFERENCE            QUADKICK_DESC
+LANG_ENGLISH         "Mulekick now lets you carry 4 weapons.\n\n^1Notice^7: \nWeapon Restore & Mule Kick Weapon Restore and Time-based perk loss will stop working."
+
+REFERENCE            PERKAHOLIC_DESC
+LANG_ENGLISH         "Choose whether to start with perkaholic."
+
+REFERENCE            T8PERK_DESC
+LANG_ENGLISH         "Perks will not all be lost when entering the laststand as before, but gradually lost one by one. When you hold too many perks, your loss speed will increase, and when you hold too few perks, the loss speed will slow down."
+
+REFERENCE            REVIVE_DESC
+LANG_ENGLISH         "Choose whether to start with quick revive."
+
+REFERENCE            PERK_TITLE
+LANG_ENGLISH         "PERK OPTIONS"
+
+REFERENCE            SCORE
+LANG_ENGLISH         "Starting Points"
+
+REFERENCE            SPEED
+LANG_ENGLISH         "Move Speed Multiplier"
+
+REFERENCE            HEALTH
+LANG_ENGLISH         "Player Health"
+
+REFERENCE            EXO
+LANG_ENGLISH         "EXO Movement"
+
+REFERENCE            SCORE_DESC
+LANG_ENGLISH         "Choose how many points to start a game with."
+
+REFERENCE            SPEED_DESC
+LANG_ENGLISH         "Tweak the player speed. 1 is default."
+
+REFERENCE            HEALTH_DESC
+LANG_ENGLISH         "Choose how many health set to player.\nDefault Health = 100, Normal Zombie hits=45"
+
+REFERENCE            EXO_DESC
+LANG_ENGLISH         "Enable EXO movement. (Probably won't work on any maps that use EXO movement, such as SoE or Der Eisendrache)"
+
+REFERENCE            FIRENDLYFIRE_DESC
+LANG_ENGLISH         "Reflect: Damage done to a teammate is applied back to you.\n\nShared: Damage done to a teammate is split between you and that teammate.\n\nKnock Back: You will not cause damage to a teammate, but will knock the teammate back."
+
+REFERENCE            PLAYER_TITLE
+LANG_ENGLISH         "PLAYER OPTIONS"
+
+REFERENCE            POWERUP_SPAWN
+LANG_ENGLISH         "Powerup Spawn Amount"
+
+REFERENCE            NUKE
+LANG_ENGLISH         "Improved Nuke"
+
+REFERENCE            NUKE_SCORE
+LANG_ENGLISH         "Improved Nuke Points"
+
+REFERENCE            CARPENTER
+LANG_ENGLISH         "BO4 Carpenter"
+
+REFERENCE            FREEPERK
+LANG_ENGLISH         "Enable Free Perk Powerup"
+
+REFERENCE            POWERUP_SPAWN_DESC
+LANG_ENGLISH         "Choose how many powerups spawn per round."
+
+REFERENCE            NUKE_DESC
+LANG_ENGLISH         "Nukes now give a set amount of points per zombie killed (Minimum of 400)."
+
+REFERENCE            NUKE_SCORE_DESC
+LANG_ENGLISH         "Choose how many points per zombie you get."
+
+REFERENCE            CARPENTER_DESC
+LANG_ENGLISH         "Carpenters repair your shield."
+
+REFERENCE            FREEPERK_DESC
+LANG_ENGLISH         "Allows zombies to drop the free perk bottle as a normal power up"
+
+REFERENCE            POWERUP_TITLE
+LANG_ENGLISH         "POWERUP OPTIONS"
+
+REFERENCE            MAXAMMO
+LANG_ENGLISH         "BO4 Maxammo"
+
+REFERENCE            MAXAMMO_DESC
+LANG_ENGLISH         "Max Ammos refill your clip as well."
+
+REFERENCE            MAXAMMO
+LANG_ENGLISH         "BO4 Maxammo"
+
+REFERENCE            ROAMER
+LANG_ENGLISH         "Roamer Option"
+
+REFERENCE            ROAMERTIME
+LANG_ENGLISH         "Roamer Time Between Rounds"
+
+REFERENCE            ROMAER_DESC
+LANG_ENGLISH         "Roamer allows you to wait at the end of every round, before the next round starts. No more crawlers! To start the next round, press ADS + Melee"
+
+REFERENCE            ROAMERTIME_DESC
+LANG_ENGLISH         "Choose how long you have between rounds."
+
+REFERENCE            ROAMER_TITLE
+LANG_ENGLISH         "ROAMER OPTIONS"
+
+REFERENCE            T7
+LANG_ENGLISH         "Add BO3 weapons"
+
+REFERENCE            STARTAMMO
+LANG_ENGLISH         "Start With Max Ammo"
+
+REFERENCE            RK5
+LANG_ENGLISH         "Start With RK5"
+
+REFERENCE            BOWIE
+LANG_ENGLISH         "Start With Bowie Knife"
+
+REFERENCE            RADM_WEAPON
+LANG_ENGLISH         "Random Starting Weapon"
+
+REFERENCE            OWNCAMO
+LANG_ENGLISH         "Use your own camo"
+
+REFERENCE            PAPCAMO
+LANG_ENGLISH         "Choose Pack-a-Punch camo"
+
+REFERENCE            BOXSHARE
+LANG_ENGLISH         "Mystery Box Share"
+
+REFERENCE            LOADOUTSAVE
+LANG_ENGLISH         "Weapon Restore & Mule Kick Weapon Restore"
+
+REFERENCE            C4
+LANG_ENGLISH         "Disable C4 Buyable ending"
+
+REFERENCE            T7_DESC
+LANG_ENGLISH         "Force adds all BO3 weapons to the Mystery Box."
+
+REFERENCE            STARTAMMO_DESC
+LANG_ENGLISH         "Choose whether you start the game with max ammo in your pistol."
+
+REFERENCE            RK5_DESC
+LANG_ENGLISH         "Changes the starting pistol to the RK5, as if the player has completed the super ee."
+
+REFERENCE            BOWIE_DESC
+LANG_ENGLISH         "Gives every player the bowie knife."
+
+REFERENCE            RADM_WEAPON_DESC
+LANG_ENGLISH         "Gives every player a random starting weapon."
+
+REFERENCE            OWNCAMO_DESC
+LANG_ENGLISH         "The weapons after pap still use your original camo."
+
+REFERENCE            PAPCAMO_DESC
+LANG_ENGLISH         "Choose the Pack-a-Punch camo you want to use."
+
+REFERENCE            BOXSHARE_DESC
+LANG_ENGLISH         "Use melee on the MysteryBox to share weapons with teammates."
+
+REFERENCE            LOADOUTSAVE_DESC
+LANG_ENGLISH         "When you are disconnected from the current host, the current host will store your weapons, perks and points. After reconnecting, you will regain what you lost (also applies to the next round of respawn after death)."
+
+REFERENCE            C4_DESC
+LANG_ENGLISH         "After 35 waves, having 150,000 points and detonating C4 can end the game. Turn off this effect when selected."
+
+REFERENCE            WEAPON_TITLE
+LANG_ENGLISH         "WEAPON OPTIONS"
+
+REFERENCE            KILL
+LANG_ENGLISH         "Extra Points Per Kill"
+
+REFERENCE            MELEEKILL
+LANG_ENGLISH         "Extra Points Per Melee Kill"
+
+REFERENCE            HEADSHOTKILL
+LANG_ENGLISH         "Extra Points Per Headshot Kill"
+
+REFERENCE            MAXZM
+LANG_ENGLISH         "Max Spawned Zombies"
+
+REFERENCE            SLOWZM
+LANG_ENGLISH         "Weaker Zombies"
+
+REFERENCE            ZMSPEED
+LANG_ENGLISH         "Zombie movement speed"
+
+REFERENCE            SPAWNDELAY
+LANG_ENGLISH         "No Zombie Spawn Delay"
+
+REFERENCE            KILL_DESC
+LANG_ENGLISH         "Get extra points for killing zombies."
+
+REFERENCE            MELEEKILL_DESC
+LANG_ENGLISH         "Get extra points for killing zombies by melee."
+
+REFERENCE            HEADSHOTKILL_DESC
+LANG_ENGLISH         "Get extra points for killing zombies by headshots."
+
+REFERENCE            MAXZM_DESC
+LANG_ENGLISH         "Maximum number of zombies that can be spawned at any time. 24 is the default. Higher numbers can cause issues with lag. Highest value I've tested is 40."
+
+REFERENCE            SLOWZM_DESC
+LANG_ENGLISH         "Zombie's strength increases slower."
+
+REFERENCE            ZMSPEED_DESC
+LANG_ENGLISH         "All zombies will force this movement speed."
+
+REFERENCE            SPAWNDELAY_DESC
+LANG_ENGLISH         "Sets the zombie spawn delay to 0. With this, zombies spawn instantly."
+
+REFERENCE            ZOMBIE_TITLE
+LANG_ENGLISH         "ZOMBIE OPTIONS"
+
+REFERENCE            MW2019
+LANG_ENGLISH         "IW/MW2019"
+
+REFERENCE            CW
+LANG_ENGLISH         "Cold War"
+
+REFERENCE            BO4
+LANG_ENGLISH         "Black Ops 4"
+
+REFERENCE            HITMARKER_SOUND
+LANG_ENGLISH         "Hitmarker Sound"
+
+REFERENCE            DAMAGE
+LANG_ENGLISH         "Damage Analysis"
+
+REFERENCE            CRAZYZOMBIE
+LANG_ENGLISH         "Horror Zombie"
+
+REFERENCE            HUD
+LANG_ENGLISH         "no HUD"
+
+REFERENCE            LIMIT
+LANG_ENGLISH         "Allow copies of wonderweapon in box"
+
+REFERENCE            HPBAR
+LANG_ENGLISH         "Player Health Bar"
+
+REFERENCE            HPBAR_DESC
+LANG_ENGLISH         "Displays player health in bottom left corner."
+
+ENDMARKER

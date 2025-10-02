@@ -1,0 +1,251 @@
+// Note to translators:
+// Just edit the text inside the quotes, don't edit other code
+
+VERSION             "1"
+CONFIG              "C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE            FOV_SCALE
+LANG_ENGLISH         "FoV Scale"
+
+REFERENCE            SHORTCUT_KEY
+LANG_ENGLISH         "^5All Shortcut Keys\n\n^7Flashlight\nMarker\nDrop Points\nDNI Nightvision\nDepth of Field\nThirdperson\nFull map view\nHide Heads Up Display\nSprays\nThrowable Cancel\nSet Mulekick Weapon\nCamo change\nReticle change"
+
+REFERENCE            DRONE_KILL
+LANG_ENGLISH         "Valkyrie Drone Elimination"
+
+REFERENCE            DRONE_KILL
+LANG_ENGLISH         "Valkyrie Drone Elimination"
+ 
+REFERENCE            DRONE_EXPLOSIVE_KILL
+LANG_ENGLISH         "Valkyrie Drone Explosive Kill"
+ 
+REFERENCE            DRONE_MELEE_KILL
+LANG_ENGLISH         "Valkyrie Drone Melee Kill"
+ 
+REFERENCE            DRONE_HEADSHOT_KILL
+LANG_ENGLISH         "Valkyrie Drone Headshot Kill"
+ 
+REFERENCE            C_DRONE_CRITICAL_KILL
+LANG_ENGLISH         "^3Valkyrie Drone Critical Kill"
+ 
+REFERENCE            C_DRONE_EXPLOSIVE_KILL
+LANG_ENGLISH         "^3Valkyrie Drone Explosive Kill"
+ 
+REFERENCE            C_DRONE_MELEE_KILL
+LANG_ENGLISH         "^3Valkyrie Drone Melee Kill"
+ 
+REFERENCE            C_DRONE_HEADSHOT_KILL
+LANG_ENGLISH         "^3Valkyrie Drone Headshot Kill"
+
+REFERENCE            KEEPER
+LANG_ENGLISH         "Keepers"
+ 
+REFERENCE            SHRIEKER
+LANG_ENGLISH         "Shrieker"
+ 
+REFERENCE            NAPALM
+LANG_ENGLISH         "Napalm"
+ 
+REFERENCE            MONKEY
+LANG_ENGLISH         "Monkey"
+ 
+REFERENCE            PARASITE
+LANG_ENGLISH         "Parasite"
+ 
+REFERENCE            MEATBALL
+LANG_ENGLISH         "Meatball"
+ 
+REFERENCE            ZNS_PLANE
+LANG_ENGLISH         "MIL-B17 Bomber"
+ 
+REFERENCE            DRONE
+LANG_ENGLISH         "Valkyrie Drone"
+ 
+REFERENCE            ASTROUAUT
+LANG_ENGLISH         "Astronaut"
+ 
+REFERENCE            THRASHER
+LANG_ENGLISH         "Thrasher"
+ 
+REFERENCE            NOVA
+LANG_ENGLISH         "Nova Crawler"
+ 
+REFERENCE            FURY
+LANG_ENGLISH         "Apothicon Fury"
+ 
+REFERENCE            PANZER
+LANG_ENGLISH         "Panzersoldat"
+ 
+REFERENCE            MARGWA
+LANG_ENGLISH         "Margwa"
+ 
+REFERENCE            MANGLER
+LANG_ENGLISH         "Mangler"
+ 
+REFERENCE            BUY_DRINK
+LANG_ENGLISH         "You can buy your friend a drink by pressing ^3[{+actionslot 3}] ^7at the perk machine"
+
+REFERENCE            CASTLE_EE_TIMER
+LANG_ENGLISH         "Time Travel Countdown: "
+
+REFERENCE            GUM_DISABLE
+LANG_ENGLISH         " GobbleGum is disabled due to lobby size"
+
+REFERENCE            MONKEY_PAP
+LANG_ENGLISH         "Press ^3[{+melee}]^7 Pack-a-Punch Monkey Bomb [Cost: 5000]"
+
+REFERENCE            OCTOBOMB_PAP
+LANG_ENGLISH         "Press ^3[{+melee}]^7 Pack-a-Punch Li'l Arnies [Cost: 5000]"
+
+REFERENCE            ZOMBIE_BASE_HEALTH
+LANG_ENGLISH         "Zombie Base Health Multiplier"
+
+REFERENCE          VE_MAP
+LANG_ENGLISH       "ONE WINDOW MAPS"
+
+REFERENCE          VE_MAP_DESC
+LANG_ENGLISH       "Maps where there is only one window, located in a small or medium-sized room."
+
+REFERENCE          MIN_MAP
+LANG_ENGLISH       "MINECRAFT MAPS"
+
+REFERENCE          MIN_MAP_DESC
+LANG_ENGLISH       "Maps from the popular game Minecraft filled with fun challenges and lots of zombies."
+
+REFERENCE          TOR_MAP
+LANG_ENGLISH       "TOWER MAPS"
+
+REFERENCE          TOR_MAP_DESC
+LANG_ENGLISH       "Tower maps where your objective is to climb or descend the tower, purchase its final buyable ending, or complete challenges."
+
+REFERENCE          IN_MAP
+LANG_ENGLISH       "INSPIRED MAPS"
+
+REFERENCE          IN_MAP_DESC
+LANG_ENGLISH       "Inspired maps taking design cues from Treyarch."
+
+REFERENCE          MP_MAP
+LANG_ENGLISH       "MULTIPLAYER MAPS"
+
+REFERENCE          MP_MAP_DESC
+LANG_ENGLISH       "Multiplayer maps created and modified to have a new theme with zombies."
+
+REFERENCE          FC_MAP
+LANG_ENGLISH       "FULL CIRCLE MAPS"
+
+REFERENCE          FC_MAP_DESC
+LANG_ENGLISH       "Amazing maps from the popular map creator AlfaTheseus."
+
+REFERENCE          DS_MAP
+LANG_ENGLISH       "COD DS MAPS"
+
+REFERENCE          DS_MAP_DESC
+LANG_ENGLISH       "Exclusive and entertaining maps from the Black Ops version for the Nintendo DS."
+
+REFERENCE          WW_MAP
+LANG_ENGLISH       "COD WAW MAPS"
+
+REFERENCE          WW_MAP_DESC
+LANG_ENGLISH       "Action-packed maps reminiscent of the original World at War era."
+
+REFERENCE          B1_MAP
+LANG_ENGLISH       "COD BO1 MAPS"
+
+REFERENCE          B1_MAP_DESC
+LANG_ENGLISH       "Mythical maps from the intense era of Black Ops 1."
+
+REFERENCE          B2_MAP
+LANG_ENGLISH       "COD BO2 MAPS"
+
+REFERENCE          B2_MAP_DESC
+LANG_ENGLISH       "Mysterious and cool maps based on the game Black Ops 2."
+
+REFERENCE          MW_MAP
+LANG_ENGLISH       "COD MW MAPS"
+
+REFERENCE          MW_MAP_DESC
+LANG_ENGLISH       "Legendary multiplayer maps now bathed in blood and zombies."
+
+REFERENCE            QU_MAP
+LANG_ENGLISH         "QUIET SERIES MAPS"
+
+REFERENCE            QU_MAP_DESC
+LANG_ENGLISH         "Amazing maps from the popular map creator Markus Darius, NOTE: these maps will only work in the lite version of this mod."
+
+REFERENCE            KO_MAP
+LANG_ENGLISH         "VERK0 MAPS"
+
+REFERENCE            KO_MAP_DESC
+LANG_ENGLISH         "Amazing maps from the popular map creator: Verk0, some maps will only work in the lite version of this mod."
+
+REFERENCE            RTT_MAP
+LANG_ENGLISH         "RETURN TO TRANZIT"
+
+REFERENCE            RTT_MAP_DESC
+LANG_ENGLISH         "Relive Tranzit playing as the victis crew just hours before the rockets hit earth!"
+
+REFERENCE            ICE_MAP
+LANG_ENGLISH         "ICEGRENADE MAPS"
+
+REFERENCE            ICE_MAP_DESC
+LANG_ENGLISH         "Amazing maps from the popular map creator: IceGrenade, some maps will only work in the lite version of this mod."
+
+REFERENCE            WEE_MAP
+LANG_ENGLISH         "LOGICAL MAPS"
+
+REFERENCE            WEE_MAP_DESC
+LANG_ENGLISH         "Amazing maps from the popular map creator: Logical, some maps will only work in the lite version of this mod."
+
+REFERENCE            CH_MAP
+LANG_ENGLISH         "CHALLENGE MAPS"
+
+REFERENCE            CH_MAP_DESC
+LANG_ENGLISH         "Maps filled with challenges, some more extreme than others, that will test your skills and abilities."
+
+REFERENCE            NO_MAP
+LANG_ENGLISH         "HORROR MAPS"
+
+REFERENCE            NO_MAP_DESC
+LANG_ENGLISH         "Horror maps where intensity screams, and despair will run through your body, challenging your limits every second."
+
+REFERENCE            NOM_MAP
+LANG_ENGLISH         "MOVIE MAPS"
+
+REFERENCE            NOM_MAP_DESC
+LANG_ENGLISH         "Maps inspired by movies that will transport you to cinematic scenarios full of excitement and action."
+
+REFERENCE            SEA_MAP
+LANG_ENGLISH         "SEATOWN MAPS"
+
+REFERENCE            SEA_MAP_DESC
+LANG_ENGLISH         "Maps with the essence of SEATOWN, where your skills will be tested in intense battles."
+
+REFERENCE            SAW_MAP
+LANG_ENGLISH         "SAW MAPS"
+
+REFERENCE            SAW_MAP_DESC
+LANG_ENGLISH         "Terror maps on par with Saw, where you will be tested in disturbing environments full of macabre twists."
+
+REFERENCE            XMA_MAP
+LANG_ENGLISH         "CHRISTMAS MAPS"
+
+REFERENCE            XMA_MAP_DESC
+LANG_ENGLISH         "Christmas maps full of joy, until midnight strikes and the undead seek their gifts."
+
+REFERENCE            UNSU_MAP
+LANG_ENGLISH         "^1UNSUPPORTED MAPS^7"
+
+REFERENCE            UNSU_MAP_DESC
+LANG_ENGLISH         "Here the maps that are not compatible with the All Around Enhancement mod will be shown in this tab."
+
+REFERENCE            WHIMSICAL
+LANG_ENGLISH         "Whimsical"
+
+REFERENCE            ZC_MAP
+LANG_ENGLISH         "ZOMBIES CHRONICLES II"
+
+REFERENCE            ZC_MAP_DESC
+LANG_ENGLISH         "Epic remakes made by the community, serving as a fun and unique way to play these classic experiences!"
+
+ENDMARKER

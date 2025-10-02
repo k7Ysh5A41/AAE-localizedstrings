@@ -1,0 +1,92 @@
+// Note to translators:
+// Just edit the text inside the quotes, don't edit other code
+
+VERSION             "1"
+CONFIG              "C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE            JOIN_THE_PARTY
+LANG_ENGLISH         "Der Party beitreten"
+
+REFERENCE            JOIN_THE_PARTY_DESC
+LANG_ENGLISH         "^2MEGA\n^7Aktiviert (1x Aktivierung)\nAlle Spieler im Zuschauer-Modus erscheinen sofort und alle niedergeschlagenen Spieler werden sofort wiederbelebt. Verlorene Perks werden nicht wiederhergestellt."
+
+REFERENCE            JOIN_THE_PARTY_HINT
+LANG_ENGLISH         "Drücke ^3[{+actionslot 1}]^7 zum Aktivieren\nAlle Spieler im Zuschauer-Modus erscheinen sofort und alle niedergeschlagenen Spieler werden sofort wiederbelebt."
+
+REFERENCE            QUACKNAROK
+LANG_ENGLISH         "Quacknarok"
+
+REFERENCE            QUACKNAROK_DESC
+LANG_ENGLISH         "^6F^3A^5N^2T^7A^2S^5T^3I^6S\n^7Sofort aktiviert (Dauert 5 volle Runden)\nZombies tragen eine Enten-Schwimmhilfe, hat aber keinen Nutzen."
+
+REFERENCE            QUACKNAROK_HINT
+LANG_ENGLISH         "Aktiv für 5 volle Runden\nZombies tragen eine Enten-Schwimmhilfe (beeinflusst das Gameplay nicht)."
+
+REFERENCE            TALKIN_BOUT_REGENERATION
+LANG_ENGLISH         "Über Regeneration reden"
+
+REFERENCE            TALKIN_BOUT_REGENERATION_DESC
+LANG_ENGLISH         "^7Sofort aktiviert (Dauert 4 Minuten)\nDeine Gesundheit regeneriert sich kontinuierlich beim Bewegen."
+
+REFERENCE            TALKIN_BOUT_REGENERATION_HINT
+LANG_ENGLISH         "^7Sofort aktiviert (Dauert 4 Minuten)\nDeine Gesundheit regeneriert sich kontinuierlich beim Bewegen."
+
+REFERENCE            BLOOD_DEBT
+LANG_ENGLISH         "Blutschuld"
+
+REFERENCE            BLOOD_DEBT_DESC
+LANG_ENGLISH         "^7Aktiviert (1x Aktivierung, 2 Minuten)\nAnstatt Gesundheit zu verlieren, verlierst du Punkte. Die verlorene Menge steigt bei jedem Treffer bis zum Maximum. Bei 0 Punkten endet die Blutschuld."
+
+REFERENCE            BLOOD_DEBT_HINT
+LANG_ENGLISH         "Drücke ^3[{+actionslot 1}]^7 zum Aktivieren\nAnstatt Gesundheit zu verlieren, verlierst du Punkte. Die verlorene Menge steigt bei jedem Treffer bis zum Maximum. Bei 0 Punkten endet die Blutschuld."
+
+REFERENCE            CTRL_Z
+LANG_ENGLISH         "Ctrl-Z"
+
+REFERENCE            CTRL_Z_DESC
+LANG_ENGLISH         "^7Aktiviert (2x Aktivierung)\nMacht nahe Zombies zu Verwandten."
+
+REFERENCE            CTRL_Z_HINT
+LANG_ENGLISH         "Drücke ^3[{+actionslot 1}]^7 zum Aktivieren\nMacht nahe Zombies zu Verwandten."
+
+REFERENCE            NOWHERE_BUT_THERE
+LANG_ENGLISH         "Nirgendwo außer Dort"
+
+REFERENCE            NOWHERE_BUT_THERE_DESC
+LANG_ENGLISH         "^7Aktiviert (3x Aktivierung)\nTeleportiere dich zum Standort eines niedergeschlagenen Spielers, um ihn zu retten."
+
+REFERENCE            NOWHERE_BUT_THERE_HINT
+LANG_ENGLISH         "Drücke ^3[{+actionslot 1}]^7 zum Aktivieren\nTeleportiere dich zum Standort eines niedergeschlagenen Spielers, um ihn zu retten."
+
+REFERENCE            FREE_FIRE
+LANG_ENGLISH         "Freies Feuer"
+
+REFERENCE            FREE_FIRE_DESC
+LANG_ENGLISH         "^7Aktiviert (3x Aktivierung, 60 Sekunden)\nAlle Spieler schießen, ohne Munition zu verbrauchen."
+
+REFERENCE            FREE_FIRE_HINT
+LANG_ENGLISH         "Drücke ^3[{+actionslot 1}]^7 zum Aktivieren\nAlle Spieler schießen, ohne Munition zu verbrauchen."
+
+REFERENCE            EDDIE
+LANG_ENGLISH         "Eddie"
+
+REFERENCE            EDDIE_DESC
+LANG_ENGLISH         "^6F^3A^5N^2T^7A^2S^5T^3I^6S\n^7Sofort aktiviert (Dauert 5 volle Runden)\nAlle Zombies werden zu Edward Richtofen."
+
+REFERENCE            EDDIE_HINT
+LANG_ENGLISH         "Aktiv für 5 volle Runden\nAlle Zombies werden zu Edward Richtofen."
+
+REFERENCE            LUCKY_CRIT
+LANG_ENGLISH         "Glückstreffer"
+
+REFERENCE            LUCKY_CRIT_DESC
+LANG_ENGLISH         "^7Sofort aktiviert (Dauert 3 volle Runden)\nErhöht die Chance, einen zufälligen alternativen Munitions-Typ zu aktivieren, und garantiert 100% Chance auf die AA-Kugel in Zetsubou."
+
+REFERENCE            LUCKY_CRIT_HINT
+LANG_ENGLISH         "Aktiv für 3 volle Runden\nErhöht die Chance, einen zufälligen alternativen Munitions-Typ zu aktivieren, und garantiert 100% Chance auf die AA-Kugel in Zetsubou."
+
+REFERENCE            SWORD_FLAY_DESC
+LANG_ENGLISH         "Sofort aktiviert (Dauert 2,5 Minuten)\nNahkampfangriffe verursachen unendlichen Schaden und treffen bis zu X Zombies im Umkreis (X = 2 für Stechen, X = 4 für Schwingen)"
+
+ENDMARKER
