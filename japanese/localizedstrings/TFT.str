@@ -113,4 +113,7 @@ LANG_ENGLISH     "カスタムマップの武器をミステリーボックス�
 REFERENCE           HIDE_AAE_WEAPON
 LANG_ENGLISH     "AAEの武器をミステリーボックスで非表示"
 
+REFERENCE           ALLWALLBUY
+LANG_ENGLISH    "v3.2.3で導入されたウォール購入の変更を元に戻す"
+
 ENDMARKER
