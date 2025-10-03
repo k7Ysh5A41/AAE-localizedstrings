@@ -239,4 +239,10 @@ LANG_ENGLISH         "ZOMBIS CHRONICLES II"
 REFERENCE            ZC_MAP_DESC
 LANG_ENGLISH         "Mapas épicos hechos por la comunidad, celebrando la historia y esencia del modo Zombi."
 
+REFERENCE            RTT_MAP
+LANG_ENGLISH        "UN RETORNO A TRANZIT"
+
+REFERENCE            RTT_MAP_DESC
+LANG_ENGLISH        "Mapas inspirados en las icónicas secciones de Tranzit, sobreviviendo con los Victis antes de que los cohetes cayeran a la Tierra."
+
 ENDMARKER
