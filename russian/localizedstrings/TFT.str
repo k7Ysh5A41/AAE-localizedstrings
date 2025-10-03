@@ -113,4 +113,7 @@ LANG_ENGLISH     "Скрыть оружие с пользовательских 
 REFERENCE           HIDE_AAE_WEAPON
 LANG_ENGLISH     "Скрыть оружие из AAE в Mystery Box"
 
+REFERENCE           ALLWALLBUY
+LANG_ENGLISH     "Отменить изменение wallbuy, введённое в версии v3.2.3"
+
 ENDMARKER
