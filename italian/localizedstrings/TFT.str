@@ -113,4 +113,7 @@ LANG_ENGLISH     "Nascondi le armi delle mappe personalizzate nella Scatola Mist
 REFERENCE           HIDE_AAE_WEAPON
 LANG_ENGLISH     "Nascondi le armi di AAE nella Scatola Misteriosa"
 
+REFERENCE           ALLWALLBUY
+LANG_ENGLISH     "Annulla la modifica al wallbuy introdotta nella v3.2.3"
+
 ENDMARKER
