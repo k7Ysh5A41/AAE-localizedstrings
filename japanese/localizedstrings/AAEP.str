@@ -239,4 +239,10 @@ LANG_ENGLISH         "ZOMBIES CHRONICLES II"
 REFERENCE            ZC_MAP_DESC
 LANG_ENGLISH         "コミュニティによる壮大なリメイクで、クラシック体験を楽しくユニークにプレイできます！"
 
+REFERENCE            RTT_MAP
+LANG_ENGLISH       "トランジットへ戻る"
+
+REFERENCE            RTT_MAP_DESC
+LANG_ENGLISH        "ロケットが地球に落ちる数時間前、ビクティスのクルーとしてトランジットを再び体験せよ！"
+
 ENDMARKER
