@@ -9,7 +9,7 @@ REFERENCE           PLAYERMONITOR
 LANG_ENGLISH     "Other players' POV"
 
 REFERENCE           PLAYERMONITOR_DOA
-LANG_ENGLISH     "Other players' POV(Perspective from the sky to the ground)"
+LANG_ENGLISH     "Other players' POV(Top-down view)"
 
 REFERENCE           WALLBUY
 LANG_ENGLISH     "Disable Wall Buy Hints"
@@ -33,7 +33,7 @@ REFERENCE           FPS
 LANG_ENGLISH     "Potato Graphics"
 
 REFERENCE           SM
-LANG_ENGLISH     "Show your own movement speed"
+LANG_ENGLISH     "Display movement speed"
 
 REFERENCE           AAT
 LANG_ENGLISH     "Disable AAT"
@@ -54,13 +54,13 @@ REFERENCE           FSF
 LANG_ENGLISH     "Disable Full Screen Flash"
 
 REFERENCE           FSFB
-LANG_ENGLISH     "Full Screen Flash Reverse Color to Black"
+LANG_ENGLISH     "Full Screen Flash Swap from White to Black"
 
 REFERENCE           RESTART_HINT
 LANG_ENGLISH     "You can now open the pause menu to restart"
 
 REFERENCE           BACKHEAD
-LANG_ENGLISH     "The back of my head"      
+LANG_ENGLISH     "Back-of-head view"      
 
 REFERENCE           UICOLOR
 LANG_ENGLISH     "UI Color"      
@@ -162,7 +162,7 @@ REFERENCE           FLOD
 LANG_ENGLISH     "Force high LOD rendering"
  
 REFERENCE           BB
-LANG_ENGLISH     "Disable Black Bar"
+LANG_ENGLISH     "Disable Black Bars"
  
 REFERENCE           STARTINTRO
 LANG_ENGLISH     "Disable Start Intro"
@@ -171,7 +171,7 @@ REFERENCE           STARTHINT
 LANG_ENGLISH     "Disable Start Hint"
 
 REFERENCE           LOADING
-LANG_ENGLISH     "Disable Solo Loading Movie"
+LANG_ENGLISH     "Disable Solo Loading Movies"
 
 REFERENCE           LOWAMMO
 LANG_ENGLISH     "Disable Low Ammo Sound"
@@ -195,7 +195,7 @@ REFERENCE           SEEWALL
 LANG_ENGLISH     "Disable Seeing Player Names Through Walls"
  
 REFERENCE           LASTZOMBIE
-LANG_ENGLISH     "Disable Keyline of The Last Zombie"
+LANG_ENGLISH     "Disable Last Zombie Outline"
  
 REFERENCE           TOMBNAME
 LANG_ENGLISH     "Disable Origins Giant Robot Names"
@@ -234,7 +234,7 @@ REFERENCE           PAPBOX
 LANG_ENGLISH     "Pap'd Mystery Box(Requires AF & 50 EE)"
 
 REFERENCE           MOTIONUI
-LANG_ENGLISH     "Motion UI"
+LANG_ENGLISH     "UI Mouse Motion"
 
 REFERENCE           MOTIONUI_1
 LANG_ENGLISH     "Flip / Move"
@@ -249,28 +249,28 @@ REFERENCE           MOTIONUI_4
 LANG_ENGLISH     "Flip"
 
 REFERENCE           MOTIONUI_INTENSITY
-LANG_ENGLISH     "Motion UI Intensity"
+LANG_ENGLISH     "UI Motion Intensity"
 
 REFERENCE           NO_SUPPORT_LINE1
-LANG_ENGLISH     "^1Unsupported Version Detected\n^3Please Check The Following^7:"
+LANG_ENGLISH     " "
 
 REFERENCE           NO_SUPPORT_LINE2
-LANG_ENGLISH     "\n\n\n^21^7. Are You Launching Black Ops III Using ^BBUTTON_CYCLE_RIGHT^ Steam Client? ( Non-Steam Game Options Don't Count )"
+LANG_ENGLISH     " "
 
 REFERENCE           NO_SUPPORT_LINE3
-LANG_ENGLISH     "\n\n\n\n^22^7. Have You Purchased and Own Black Ops III On Your Current ^BBUTTON_CYCLE_RIGHT^ Steam Account ?"
+LANG_ENGLISH     " "
 
 REFERENCE           NO_SUPPORT_LINE4
-LANG_ENGLISH     "\n\n\n\n\n^23^7. Are You Currently Using a Device or Operating System That is ^5Windows 10 ^7/ ^5Windows 11 ^7/ ^5Steam Deck ^7/ ^5Linux ^7?"
+LANG_ENGLISH     " "
 
 REFERENCE           MWZCOLOR
 LANG_ENGLISH     "BO6 Teammate Color(restart required)"
 
 REFERENCE           AMMOBAG
-LANG_ENGLISH     "Disable Ammo Bag That Spawn Every 2 Rounds"
+LANG_ENGLISH     "Disable Spawning Ammo Bag"
 
 REFERENCE           SLOTHUD
-LANG_ENGLISH     "Disable Perk Slot Hud"
+LANG_ENGLISH     "Disable Perk Slot HUD"
 
 REFERENCE           STABAR
 LANG_ENGLISH     "Disable Stamina Bar"
@@ -279,7 +279,7 @@ REFERENCE           AUTOLEAN
 LANG_ENGLISH     "Disable Auto Leaning"
 
 REFERENCE           BGB_START
-LANG_ENGLISH     "Gobblegum Start Round"
+LANG_ENGLISH     "Gobblegum Starting Round"
 
 REFERENCE           C4ENDING
 LANG_ENGLISH     "C4 Buyable Ending(150K+Round 35)"
@@ -291,13 +291,13 @@ REFERENCE           GUNPOS_ENABLE
 LANG_ENGLISH     "Enable Custom First Person Arm Model Position"
 
 REFERENCE           T7HUD
-LANG_ENGLISH     "Hud Layout(Restart Required)"
+LANG_ENGLISH     "HUD Layout(Restart Required)"
 
 REFERENCE           TIPHINT
 LANG_ENGLISH     "Disable Tip Hint and Soul Counter"
 
 REFERENCE           BARSPIN
-LANG_ENGLISH     "Flat UI(Restart Required)"
+LANG_ENGLISH     "Flat UI (Restart Required)"
 
 REFERENCE           T7
 LANG_ENGLISH     "Vanilla"
