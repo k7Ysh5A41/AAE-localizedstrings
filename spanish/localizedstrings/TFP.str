@@ -24,7 +24,7 @@ REFERENCE           EXTPLAYER
 LANG_ENGLISH     "Soporte para más jugadores"
 
 REFERENCE           EXTPLAYER_DESC
-LANG_ENGLISH     "Se aumentó el número máximo de jugadores a 10 (^1muy inestable^7), y las máquinas de GobbleGum se desactivarán debido a ^3limitaciones del motor del juego^7.\n\nDetalles del soporte de los mapas:\n\nZombies Chronicles en todos los mapas\n(^2Estable, compatible con todos los EE^7)\n\nDer Eisendrache\n(^3Menos estable, compatible con el EE principal^7)\n\nOtros mapas de 3arc (^1No son jugables^7)\nMapas personalizados (Desconocido)"
+LANG_ENGLISH     "Se aumentó el número máximo de jugadores a 10\n(^1muy inestable^7), y las máquinas de GobbleGum se desactivarán debido a ^3limitaciones del motor del juego^7.\n\nDetalles del soporte de los mapas:\n\nMapas de Zombies Chronicles\n(^2Estable, compatible con todos los EE^7)\n\nMapas Principales\n(^3Menos estable, compatible con el EE principal^7)\n\nOtros mapas de 3arc (^1No son jugables^7)\n\nMapas personalizados (Desconocido)"
 
 REFERENCE           FFFIVE
 LANG_ENGLISH     "Fuego amigo sin matar"
