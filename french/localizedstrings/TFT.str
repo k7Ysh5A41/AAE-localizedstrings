@@ -113,4 +113,7 @@ LANG_ENGLISH     "Masquer les armes des cartes personnalisées dans la boîte my
 REFERENCE           HIDE_AAE_WEAPON
 LANG_ENGLISH     "Masquer les armes de l’AAE dans la boîte mystère"
 
+REFERENCE           ALLWALLBUY
+LANG_ENGLISH      "Annuler le changement de wallbuy introduit dans la v3.2.3"
+
 ENDMARKER
