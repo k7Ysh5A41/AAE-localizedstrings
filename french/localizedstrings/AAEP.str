@@ -239,4 +239,10 @@ LANG_ENGLISH         "ZOMBIES CHRONICLES II"
 REFERENCE            ZC_MAP_DESC
 LANG_ENGLISH         "Remakes épiques réalisés par la communauté, offrant une façon amusante et unique de revivre ces expériences classiques !"
 
+REFERENCE            RTT_MAP
+LANG_ENGLISH          "RETOUR À TRANZIT"
+
+REFERENCE            RTT_MAP_DESC
+LANG_ENGLISH         "Revivez Tranzit en jouant avec l’équipage Victis, quelques heures avant que les fusées ne frappent la Terre !"
+
 ENDMARKER
