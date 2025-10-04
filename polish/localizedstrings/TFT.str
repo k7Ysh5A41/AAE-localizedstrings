@@ -113,4 +113,7 @@ LANG_ENGLISH     "Ukryj bronie z map niestandardowych w Mystery Box"
 REFERENCE           HIDE_AAE_WEAPON
 LANG_ENGLISH     "Ukryj bronie z AAE w Mystery Box"
 
+REFERENCE           ALLWALLBUY
+LANG_ENGLISH      "Cofnij zmianę wallbuy wprowadzoną w wersji v3.2.3"
+
 ENDMARKER
