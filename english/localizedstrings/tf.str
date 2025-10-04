@@ -30,7 +30,7 @@ REFERENCE            WEAPON_DESC
 LANG_ENGLISH         "Open the weapon options menu."
 
 REFERENCE            MYSTERYBOX_DESC
-LANG_ENGLISH         "These filters allow you to disable extra weapons added on custom maps from their respective games. For example, "Disable BO1 Weapons" will stop custom maps which use BO1 weapons from adding them to the box. These do NOT add weapons from every game into the box."
+LANG_ENGLISH         "These filters allow you to change the Mystery Box weapon pool behavior. By enabling them, you can prevent certain weapons from appearing. For example, you can disable custom maps from using their own custom weapons in their Mystery Box, or force them to load the default BO3 base game weapons. \nNotice: it is NOT possible to use these settings to add exclusive wonder weapons and custom weapons from one map into the Mystery Box of a different map."
 
 REFERENCE            POWERUP_DESC
 LANG_ENGLISH         "Open the powerup options menu."
@@ -213,13 +213,13 @@ REFERENCE            TIMEPLAY
 LANG_ENGLISH         "Timed Gameplay"
 
 REFERENCE            DOOR
-LANG_ENGLISH         "Start with All Doors Open"
+LANG_ENGLISH         "Start With All Doors Open"
 
 REFERENCE            BOX_ALL
 LANG_ENGLISH         "Mystery Box in All Locations"
 
 REFERENCE            POWER
-LANG_ENGLISH         "Start with Power Enabled"
+LANG_ENGLISH         "Start With Power Enabled"
 
 REFERENCE            TRADE
 LANG_ENGLISH         "Weapon Trade"
@@ -231,7 +231,7 @@ REFERENCE            LOCKER
 LANG_ENGLISH         "Disable WeaponLocker & Bank"
 
 REFERENCE            POWER
-LANG_ENGLISH         "Start with Power Enabled"
+LANG_ENGLISH         "Start With Power Enabled"
 
 REFERENCE            DELAY
 LANG_ENGLISH         "No Round Delay"
@@ -276,7 +276,7 @@ REFERENCE            GAME_TITLE
 LANG_ENGLISH         "GAME OPTIONS"
 
 REFERENCE            BOX_FILTER_DESC
-LANG_ENGLISH         "These filters allow you to disable extra weapons added on custom maps from their respective games. For example, "Disable BO1 Weapons" will stop custom maps which use BO1 weapons from adding them to the box. These do NOT add weapons from every game into the box."
+LANG_ENGLISH         "These filters allow you to change the Mystery Box weapon pool behavior. By enabling them, you can prevent certain weapons from appearing. For example, you can disable custom maps from using their own custom weapons in their Mystery Box, or force them to load the default BO3 base game weapons. \nNotice: it is NOT possible to use these settings to add exclusive wonder weapons and custom weapons from one map into the Mystery Box of a different map."
 
 REFERENCE            T4
 LANG_ENGLISH         "Disable WAW Weapons"
@@ -324,7 +324,7 @@ REFERENCE            MYSTERYBOX_TITLE
 LANG_ENGLISH         "MYSTERY BOX FILTER"
 
 REFERENCE            PERKLIMIT
-LANG_ENGLISH         "Remove Perk Limit"
+LANG_ENGLISH         "Adjust the Perk Limit"
 
 REFERENCE            QUADKICK
 LANG_ENGLISH         "Bigger Mulekick"
@@ -342,10 +342,10 @@ REFERENCE            T8PERK
 LANG_ENGLISH         "Time-based perk loss"
 
 REFERENCE            PERKLIMIT_DESC
-LANG_ENGLISH         "Let the player buy unlimited perks."
+LANG_ENGLISH         "Increase or decrease the number of perks that players can buy."
 
 REFERENCE            T8PERK
-LANG_ENGLISH         "Time-based perk loss"
+LANG_ENGLISH         "Time-based Perk Loss"
 
 REFERENCE            QUADKICK_DESC
 LANG_ENGLISH         "Mulekick now lets you carry 4 weapons.\n\n^1Notice^7: \nWeapon Restore & Mule Kick Weapon Restore and Time-based perk loss will stop working."
@@ -465,10 +465,10 @@ REFERENCE            RADM_WEAPON
 LANG_ENGLISH         "Random Starting Weapon"
 
 REFERENCE            OWNCAMO
-LANG_ENGLISH         "Use your own camo"
+LANG_ENGLISH         "Use Your Own Camo"
 
 REFERENCE            PAPCAMO
-LANG_ENGLISH         "Choose Pack-a-Punch camo"
+LANG_ENGLISH         "Choose Pack-a-Punch Camo"
 
 REFERENCE            BOXSHARE
 LANG_ENGLISH         "Mystery Box Share"
@@ -477,7 +477,7 @@ REFERENCE            LOADOUTSAVE
 LANG_ENGLISH         "Weapon Restore & Mule Kick Weapon Restore"
 
 REFERENCE            C4
-LANG_ENGLISH         "Disable C4 Buyable ending"
+LANG_ENGLISH         "Disable C4 Buyable Ending"
 
 REFERENCE            T7_DESC
 LANG_ENGLISH         "Force adds all BO3 weapons to the Mystery Box."
@@ -495,10 +495,10 @@ REFERENCE            RADM_WEAPON_DESC
 LANG_ENGLISH         "Gives every player a random starting weapon."
 
 REFERENCE            OWNCAMO_DESC
-LANG_ENGLISH         "The weapons after pap still use your original camo."
+LANG_ENGLISH         "Weapons, once upgraded with Pack-a-Punch, will keep the camo that was assigned in Weapon Kits."
 
 REFERENCE            PAPCAMO_DESC
-LANG_ENGLISH         "Choose the Pack-a-Punch camo you want to use."
+LANG_ENGLISH         "Choose the Pack-a-Punch camo you want to use. Won't work for certain weapons if you have the “Use Your Own Camo” setting enabled."
 
 REFERENCE            BOXSHARE_DESC
 LANG_ENGLISH         "Use melee on the MysteryBox to share weapons with teammates."
@@ -528,7 +528,7 @@ REFERENCE            SLOWZM
 LANG_ENGLISH         "Weaker Zombies"
 
 REFERENCE            ZMSPEED
-LANG_ENGLISH         "Zombie movement speed"
+LANG_ENGLISH         "Zombie Movement Speed"
 
 REFERENCE            SPAWNDELAY
 LANG_ENGLISH         "No Zombie Spawn Delay"
