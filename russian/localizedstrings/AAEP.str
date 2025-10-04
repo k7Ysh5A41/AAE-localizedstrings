@@ -239,4 +239,10 @@ LANG_ENGLISH         "ZOMBIES CHRONICLES II"
 REFERENCE            ZC_MAP_DESC
 LANG_ENGLISH         "Эпические ремейки от сообщества, предлагающие увлекательный и уникальный способ пройти эти классические карты!"
 
+REFERENCE            RTT_MAP
+LANG_ENGLISH         "ВОЗВРАЩЕНИЕ В TRANZIT"
+
+REFERENCE            RTT_MAP_DESC
+LANG_ENGLISH         "Переживите Транзит снова, играя за команду Виктис за несколько часов до того, как ракеты поразят Землю!"
+
 ENDMARKER
