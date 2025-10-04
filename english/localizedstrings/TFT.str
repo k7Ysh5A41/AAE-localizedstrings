@@ -6,7 +6,7 @@ CONFIG              "C:\projects\cod\t7\bin\StringEd.cfg"
 FILENOTES           ""
 
 REFERENCE           RANDOM_ATTACHMENTS
-LANG_ENGLISH     "Completely random attachments and camos"
+LANG_ENGLISH     "Completely Random Attachments and Camos"
 
 REFERENCE           RANDOM_ATTACHMENTS_DESC
 LANG_ENGLISH     "Each new weapon you get will have randomized attachments and reticle and camo"
@@ -30,7 +30,7 @@ REFERENCE           ZOMBIE_COUNT_DESC
 LANG_ENGLISH     "Change how the game calculates how many zombies need to be killed for a round to end."
 
 REFERENCE           SPAWNTYPE
-LANG_ENGLISH     "Enemy spawning methods"
+LANG_ENGLISH     "Enemy Spawning Methods"
 
 REFERENCE           SPAWNTYPE_DESC
 LANG_ENGLISH     "Lots of special zombies: \nMassively increase the number of special enemies in each 3arc map, e.g. a whole bunch of Margwas and a whole bunch of Panzersoldats, with support for the following maps:\nShadows of Evil\nDer Eisendrache\nZetsubou No Shima\nGorod Krovi\nRevelations\nShangri-La\nMoon\nOrigins"
@@ -39,7 +39,7 @@ REFERENCE           SPAWNTYPE_OPTION_DESC
 LANG_ENGLISH     "Lots of special zombies"
 
 REFERENCE           ZOMBIE_H
-LANG_ENGLISH     "Limit zombie health"
+LANG_ENGLISH     "Limit Zombie Health"
 
 REFERENCE           ZOMBIE_H_DESC
 LANG_ENGLISH     "The zombie's health will stop increasing when reaches this round."
@@ -60,10 +60,10 @@ REFERENCE           HUD_OPTION
 LANG_ENGLISH     "Hud Movement"
 
 REFERENCE           CENTERCROSS
-LANG_ENGLISH     "Disable the dot in the center of the screen"
+LANG_ENGLISH     "Disable the Dot in the Center of the Screen"
 
 REFERENCE           ITEM_DUPE_RENDER
-LANG_ENGLISH     "Highlighted craftable parts"
+LANG_ENGLISH     "Highlighted Craftable Parts"
 
 REFERENCE           ITEM_DUPE_RENDER_DESC
 LANG_ENGLISH     "Craftable parts that can be picked up on the map can be seen through the walls."
@@ -105,15 +105,15 @@ REFERENCE           RAMPAGE_DESC
 LANG_ENGLISH     "Swap the location of Gambler and Rampage Inducer to support custom maps.\n\nRampage Inducer:\nActivate to make zombies rapidly appear and move faster."
 
 REFERENCE           THEGIANT_WEAPON
-LANG_ENGLISH     "Add Weapons From The Giant To The Box"
+LANG_ENGLISH     "Force Custom Maps to Load Default BO3 Weapons into the Box"
 
 REFERENCE           HIDE_CUSTOM_MAP_WEAPON
-LANG_ENGLISH     "Hide Weapons From Custom Maps In The Box"
+LANG_ENGLISH     "Hide Weapons from Custom Maps in the Box"
 
 REFERENCE           HIDE_AAE_WEAPON
-LANG_ENGLISH     "Hide Weapons From AAE In The Box"
+LANG_ENGLISH     "Hide Weapons from AAE in the Box"
 
 REFERENCE           ALLWALLBUY
-LANG_ENGLISH     "Reverse the wallbuy change introduced in v3.2.3"
+LANG_ENGLISH     "Enable Low-Cost Wall Buy Weapons in the Box"
 
 ENDMARKER
