@@ -114,6 +114,6 @@ REFERENCE           HIDE_AAE_WEAPON
 LANG_ENGLISH     "Ocultar armas do AAE na Caixa Misteriosa"
 
 REFERENCE           ALLWALLBUY
-LANG_ENGLISH  "Reverter a alteração de wallbuy introduzida na v3.2.3"
+LANG_ENGLISH      "Ativar armas de parede de baixo custo na caixa"
 
 ENDMARKER
