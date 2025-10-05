@@ -114,6 +114,6 @@ REFERENCE           HIDE_AAE_WEAPON
 LANG_ENGLISH     "Verstecke Waffen von AAE in der Mystery Box"
 
 REFERENCE           ALLWALLBUY
-LANG_ENGLISH      "Die in v3.2.3 eingeführte Wallbuy-Änderung rückgängig machen"
+LANG_ENGLISH         "Günstige Wandwaffen in der Box aktivieren"
 
 ENDMARKER
