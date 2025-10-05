@@ -87,6 +87,6 @@ REFERENCE           GG_DOWN
 LANG_ENGLISH     "^1Humiliated"
 
 REFERENCE           DPAP_DESC
-LANG_ENGLISH     "The re-PAP system from BO4. Your first PAP will give the normal amount of damage PAP always gave in BO3. After that, you can re-PAP up to 4 more times to get a total of another 80% increase to the normal BO3 PAP damage. You will see an indicator in the bottom right of the screen below the weapon telling you its PAP level, with the highest being EPIC (Yellow Text)."
+LANG_ENGLISH     "The re-PAP system from BO4. Your first PAP will give the normal amount of damage PAP always gave in BO3. After that, you can re-PAP up to 4 more times to get a total of another 80% increase to the normal BO3 PAP damage. You will see an indicator in the bottom right of the screen below the weapon telling you it's PAP level, with the highest being EPIC (Yellow Text)."
 
 ENDMARKER

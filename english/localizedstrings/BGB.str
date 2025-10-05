@@ -81,10 +81,10 @@ REFERENCE            LUCKY_CRIT
 LANG_ENGLISH         "Lucky Crit"
 
 REFERENCE            LUCKY_CRIT_DESC
-LANG_ENGLISH         "^7Activates Immediately (Lasts 3 full rounds)\nImproves your chances of activating an random Alternate Ammo Type."
+LANG_ENGLISH         "^7Activates Immediately (Lasts 3 full rounds)\nImproves your chances of activating an random Alternate Ammo Type, also gives a 100% chance of getting the AA bullet in Zetsubou."
 
 REFERENCE            LUCKY_CRIT_HINT
-LANG_ENGLISH         "Active for 3 full rounds\nImproves your chances of activating an random Alternate Ammo Type."
+LANG_ENGLISH         "Active for 3 full rounds\nImproves your chances of activating an random Alternate Ammo Type, also gives a 100% chance of getting the AA bullet in Zetsubou."
 
 REFERENCE            SWORD_FLAY_DESC
 LANG_ENGLISH         "Activates Immediately (Lasts 2.5 minutes)\nMelee attacks deal infinite damage, affecting up to X zombies within range(X is 2 for stabbing, X is 4 for swiping)"

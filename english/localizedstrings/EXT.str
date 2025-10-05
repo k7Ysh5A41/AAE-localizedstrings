@@ -6,7 +6,7 @@ CONFIG              "C:\projects\cod\t7\bin\StringEd.cfg"
 FILENOTES           ""
 
 REFERENCE           ZOD
-LANG_ENGLISH     "^31.^7When it comes to the step of upgrading the sword, the extra player cannot take the egg, but if the extra player's character is the same as the non-extra player, the extra player can kill and recharge the egg together with the non-extra player near the egg\n^32.^7When the keeper's sword is taken, do not continue to allow players to join the lobby, otherwise the bossfight will not work\n^33.^7Only 5 Magwa helmets will be spawned\n^34.^7All EEs can be successfully completed when the total number of players is 8"
+LANG_ENGLISH     "^31.^7When it comes to the step of upgrading the sword, the extra player cannot take the egg, but if the extra player's character is the same as the non-extra player, the extra player can kill and recharge the egg together with the non-extra player near the egg\n^32.^7When the Keeper's sword is taken, do not continue to allow players to join the lobby, otherwise the boss fight will not work\n^33.^7Only 5 Margwa helmets will be spawned\n^34.^7All EEs can be successfully completed when the total number of players is 8"
 
 REFERENCE           CASTLE
 LANG_ENGLISH     "^31.^7Additional players will need to plant the Ragnarok DG-4 in an area near the MPD (there will be a Ragnarok DG-4 model spawning in the location where it needs to be planted)\n^32.^7Bow duplication has been disabled\n^33.^7All EEs can be successfully completed when the total number of players is 8"

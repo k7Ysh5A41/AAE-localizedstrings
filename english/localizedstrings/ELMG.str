@@ -24,7 +24,7 @@ REFERENCE           END_OF_ROUND
 LANG_ENGLISH     "Intermission"
 
 REFERENCE           TRADE_GUN
-LANG_ENGLISH     "Hold ^3[{+activate}] ^7to trade weapon with the player."
+LANG_ENGLISH     "Hold ^3[{+activate}] ^7to trade weapon with player."
 
 REFERENCE           TRADE_WAIT
 LANG_ENGLISH     "Wait for the other player."
@@ -45,7 +45,7 @@ REFERENCE           THE_ZM
 LANG_ENGLISH     " ^7Zombies!"
 
 REFERENCE           GIVE_GUM
-LANG_ENGLISH     "GobbleGum ^5"
+LANG_ENGLISH     "Gobblegum ^5"
 
 REFERENCE           GIVE_AAT
 LANG_ENGLISH     "AAT ^5"
@@ -194,6 +194,6 @@ REFERENCE           KATANA_HINT_GAMEPAD
 LANG_ENGLISH     "^3[{+attack}]^7 Merciless Dash\n^3[{+breath_sprint}] ^7+ ^3[{+reload}]^7 In Plain Sight & Unlimited Ammo(Once per Round)\n^3[{+melee}]^7 Regain Health"
 
 REFERENCE           MOD_DESC
-LANG_ENGLISH     "Welcome to the all-encompassing Zombies All-Around Enhancement mod. This mod adds in lot of QoL features and put several fixes for vanilla BO3 issues into one mod, make this the definitive zombies mod."
+LANG_ENGLISH     "Welcome to the all-encompassing All-Around Enhancement mod! This mod adds a lot of QoL features and adds several bug fixes for the vanilla Black Ops III Zombies mode, making this the definitive zombies experience."
 
 ENDMARKER

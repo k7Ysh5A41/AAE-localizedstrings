@@ -21,7 +21,7 @@ REFERENCE           PREPATCH_BGB
 LANG_ENGLISH     "Pre-Patch Gobblegum"
 
 REFERENCE           PREPATCH_BGB_DESC
-LANG_ENGLISH     "The Gobblegum machine will be changed to how it works in Pre-Patch. will contain the following:\n  - Can only be used once per round\n  - Only 37% of the Gobblegum machines are allowed to be used\n  - Gobblegum machines will have a chance to be closed and open in other locations\n  - The default price is 500"
+LANG_ENGLISH     "The Gobblegum machine will be changed to how it works in the pre-patch, day 1 version of BO3. This will contain the following:\n  - Can only be used once per round\n  - Only 37% of the Gobblegum machines are allowed to be used\n  - Gobblegum machines will have a chance to be closed and open in other locations\n  - The default price is 500"
 
 REFERENCE           ZOMBIE_COUNT
 LANG_ENGLISH     "Zombie Round Amount Algorithm"

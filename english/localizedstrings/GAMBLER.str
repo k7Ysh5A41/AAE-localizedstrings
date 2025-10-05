@@ -12,7 +12,7 @@ REFERENCE           RUN
 LANG_ENGLISH     "Gambler Runing......"
 
 REFERENCE           WIN
-LANG_ENGLISH     "^1You win nothing."
+LANG_ENGLISH     "^1You did not win anything."
 
 REFERENCE           W500
 LANG_ENGLISH     "^2You win ^BBUTTON_COD_POINT_ICON^500."
@@ -30,16 +30,16 @@ REFERENCE           LOSTALL
 LANG_ENGLISH     "^8Surprise!"
 
 REFERENCE           LOSTMONEY
-LANG_ENGLISH     "^1You lose all money."
+LANG_ENGLISH     "^1You lost all your money!"
 
 REFERENCE           SHIELD_FIX
-LANG_ENGLISH     "^2you got the riotshield fix."
+LANG_ENGLISH     "^2you got the riotshield fix!"
 
 REFERENCE           WIN_SHIELD
-LANG_ENGLISH     "^2You win a riotshield on your back."
+LANG_ENGLISH     "^2You win a riotshield on your back!"
 
 REFERENCE           NO_SHIELD
-LANG_ENGLISH     "^2You win a riotshield, but we can't give it to you.."
+LANG_ENGLISH     "^2You won a riotshield, but we can't give it to you."
 
 REFERENCE           AIRSTRIKE_CL
 LANG_ENGLISH     "^1Airstrike at your location."
@@ -48,7 +48,7 @@ REFERENCE           W20000
 LANG_ENGLISH     "^2You win ^BBUTTON_COD_POINT_ICON^20000."
 
 REFERENCE           LIVE_DIE
-LANG_ENGLISH     "^1You live or die in 5 second."
+LANG_ENGLISH     "^1You live or die in 5 seconds."
 
 REFERENCE           LIVE
 LANG_ENGLISH     "^2You live!"
@@ -69,7 +69,7 @@ REFERENCE           SB_DIE
 LANG_ENGLISH     "^1Idiot died"
 
 REFERENCE           SB_LIVE
-LANG_ENGLISH     "^1Booooom! Everyone gets killed by idiots. idiots survives! , idiots have Perkaholic!"
+LANG_ENGLISH     "^1Booooom! Everyone gets killed by the idiots! idiots survives! , idiots have a free Perkaholic!"
 
 REFERENCE           RICH
 LANG_ENGLISH     "^3Become rich!"
@@ -78,16 +78,16 @@ REFERENCE           AIRSTRIKE_ZM
 LANG_ENGLISH     "^2Precision Airstrike incoming!"
 
 REFERENCE           LOST_WP
-LANG_ENGLISH     "^1You lose all weapon."
+LANG_ENGLISH     "^1You lose all your weapons."
 
 REFERENCE           UNLIMIT
-LANG_ENGLISH     "Unlimited equipment in 1 min."
+LANG_ENGLISH     "Unlimited equipment for 1 minute."
 
 REFERENCE           ONCE
-LANG_ENGLISH     "Gambler only allowed once per round"
+LANG_ENGLISH     "Gambler is only allowed once per round"
 
 REFERENCE           UNLIMIT2
-LANG_ENGLISH     "Unlimited equipment over"
+LANG_ENGLISH     "Unlimited equipment is now over"
 
 REFERENCE           GAMBLERD
 LANG_ENGLISH     "^7 gambled - ^7"

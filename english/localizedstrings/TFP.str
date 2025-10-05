@@ -5,21 +5,6 @@ VERSION             "1"
 CONFIG              "C:\projects\cod\t7\bin\StringEd.cfg"
 FILENOTES           ""
 
-REFERENCE           STATUS
-LANG_ENGLISH     "Status Monitor"
-
-REFERENCE           STATUS_DESC
-LANG_ENGLISH     "Display current status information on the left side of the screen ( glitches may occur )."
-
-REFERENCE           SWITCH_DESC
-LANG_ENGLISH     "^3Must be enabled for the following options to take effect"
-
-REFERENCE           VCLUT
-LANG_ENGLISH     "Contrast"
-
-REFERENCE           VCLUT_DESC
-LANG_ENGLISH     "Increase or decrease the amount of color in the game. 0 is the default. If the screen becomes too dark, changing the color mode to sRGB and/or increasing the brightness can fix it. This will allow people who feel the game is too colorful to make it look more like World At War, with a duller color palette."
-
 REFERENCE           EXTPLAYER
 LANG_ENGLISH     "More Player Count Support"
 

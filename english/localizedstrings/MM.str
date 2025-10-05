@@ -9,7 +9,7 @@ REFERENCE            WEAPONSMODSMENU
 LANG_ENGLISH     "Weapons Mods Menu"
 
 REFERENCE           PACKERPUNCHOPTIONS
-LANG_ENGLISH     "Packer Punch Options"
+LANG_ENGLISH     "Pack A Punch Options"
 
 REFERENCE           DROPCURRENTWEAPON
 LANG_ENGLISH     "Drop Current Weapon"
@@ -27,10 +27,10 @@ REFERENCE           TOGGLELEFTSIDEWEAPON
 LANG_ENGLISH     "Toggle Left Side Weapon"
 
 REFERENCE           PACKERPUNCHCURRENTWEAPON
-LANG_ENGLISH     "Packer Punch Current Weapon"
+LANG_ENGLISH     "Pack A Punch Current Weapon"
 
 REFERENCE           UNPACKCURRENTWEAPON
-LANG_ENGLISH     "Unpack Current Weapon"
+LANG_ENGLISH     "Unpack Current Held Weapon"
 
 REFERENCE           MESSAGESMENU
 LANG_ENGLISH     "Message Menu"
@@ -60,13 +60,13 @@ REFERENCE           SPAWNICESKATER
 LANG_ENGLISH     "Spawn Ice Skater"
 
 REFERENCE           SENDEARTHQUAKE
-LANG_ENGLISH     "Send Earthquake"
+LANG_ENGLISH     "Make an Earthquake"
 
 REFERENCE           TOGGLEROTATEPLAYERANGLES
 LANG_ENGLISH     "Toggle Rotate Player Angles"
 
 REFERENCE           DROPPHYSICALVENDING
-LANG_ENGLISH     "Drop Physical Vending"
+LANG_ENGLISH     "Drop Juggernog Machine"
 
 REFERENCE           PHYSICALEXPLOSION
 LANG_ENGLISH     "Physical Explosion"
@@ -99,10 +99,10 @@ REFERENCE           TOGGLETIMESCALE
 LANG_ENGLISH     "Toggle Timescale"
 
 REFERENCE           TOGGLEDISABLEAISPAWNERS
-LANG_ENGLISH     "Toggle Disable Ai Spawners"
+LANG_ENGLISH     "Toggle Disable AI Spawners"
 
 REFERENCE           TOGGLEFRIENDLYFIRE
-LANG_ENGLISH     "Toggle Friendlyfire"
+LANG_ENGLISH     "Toggle Friendly fire"
 
 REFERENCE           TOGGLEENTITYCOLLISION
 LANG_ENGLISH     "Toggle Entity Collision"
@@ -183,7 +183,7 @@ REFERENCE           PERKMENU
 LANG_ENGLISH     "Perk Menu"
 
 REFERENCE           SENDPOWERUPSMENU
-LANG_ENGLISH     "Send Power Ups Menu"
+LANG_ENGLISH     "Power Ups Menu"
 
 REFERENCE           MESSAGEMENU
 LANG_ENGLISH     "Message Menu"
@@ -192,7 +192,7 @@ REFERENCE           WEAPONSMENU
 LANG_ENGLISH     "Weapons Menu"
 
 REFERENCE           WEAPONSMODSMENU
-LANG_ENGLISH     "Weapons Mods Menu"
+LANG_ENGLISH     "Weapon Mods Menu"
 
 REFERENCE           BULLETSMENU
 LANG_ENGLISH     "Bullets Menu"
@@ -213,7 +213,7 @@ REFERENCE           SFXMENU
 LANG_ENGLISH     "SFX Menu"
 
 REFERENCE           GRAPHICSEFFECTSMENU
-LANG_ENGLISH     "Graphics Effects Menu"
+LANG_ENGLISH     "Graphic Effects Menu"
 
 REFERENCE           ROUNDMENU
 LANG_ENGLISH     "Round Menu"
@@ -318,10 +318,10 @@ REFERENCE           TELEPORTTOGROUND
 LANG_ENGLISH     "Teleport to Ground"
 
 REFERENCE           TELEPORTTOCROSSHAIRPOSITION
-LANG_ENGLISH     "Teleport to Crosshair Position"
+LANG_ENGLISH     "Teleport to Current Crosshair Position"
 
 REFERENCE           TELEPORTTONEARESTZOMBIE
-LANG_ENGLISH     "Teleport to nearest Zombie"
+LANG_ENGLISH     "Teleport to the nearest Zombie"
 
 REFERENCE           TOGGLEVISIBLECHECK
 LANG_ENGLISH     "Toggle Visible Check"
@@ -363,10 +363,10 @@ REFERENCE           REFILLAMMO
 LANG_ENGLISH     "Refill Ammo"
 
 REFERENCE           TOGGLEUFOMODE
-LANG_ENGLISH     "Toggle Ufo Mode"
+LANG_ENGLISH     "Toggle UFO Mode"
 
 REFERENCE           TOGGLEQUICKFIELDOFVIEW
-LANG_ENGLISH     "Toggle Quick Field Of View"
+LANG_ENGLISH     "Toggle Field Of View"
 
 REFERENCE           SCOREMENU
 LANG_ENGLISH     "Score Menu"
@@ -408,7 +408,7 @@ REFERENCE           MENUNAME
 LANG_ENGLISH     "^5Center Control"
 
 REFERENCE           TOGGLEINVISIBLE
-LANG_ENGLISH     "Toggle Invisible"
+LANG_ENGLISH     "Toggle Invisibility"
 
 REFERENCE           PHYSICALCYLINDER
 LANG_ENGLISH     "Physical Cylinder"
@@ -480,15 +480,15 @@ REFERENCE           RESETSCORE
 LANG_ENGLISH     "Reset Score"
 
 REFERENCE           SPAWNCLONE
-LANG_ENGLISH     "Spawn Clone"
+LANG_ENGLISH     "Spawn Player Clone"
 
 REFERENCE           PLAYANIMATION
 LANG_ENGLISH     "Play Animation"
 
 REFERENCE           DELETECURRENTCLONE
-LANG_ENGLISH     "Delete Current Clone"
+LANG_ENGLISH     "Delete Current Player Clone"
 
 REFERENCE           POWERUPSMENU
-LANG_ENGLISH     "Power Ups Menu"
+LANG_ENGLISH     "Powerups Menu"
 
 ENDMARKER
