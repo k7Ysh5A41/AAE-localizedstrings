@@ -89,4 +89,7 @@ LANG_ENGLISH         "Active for 3 full rounds\nImproves your chances of activat
 REFERENCE            SWORD_FLAY_DESC
 LANG_ENGLISH         "Activates Immediately (Lasts 2.5 minutes)\nMelee attacks deal infinite damage, affecting up to X zombies within range(X is 2 for stabbing, X is 4 for swiping)"
 
+REFERENCE            SHARE
+LANG_ENGLISH         "Press ^3[{+melee}] ^7to share this GobbleGum"
+
 ENDMARKER
