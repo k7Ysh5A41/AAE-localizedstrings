@@ -24,7 +24,7 @@ REFERENCE           EXTPLAYER
 LANG_ENGLISH     "Soporte para más jugadores"
 
 REFERENCE           EXTPLAYER_DESC
-LANG_ENGLISH     "Se aumentó el número máximo de jugadores a 10 (^1muy inestable^7), y las máquinas de GobbleGum se desactivarán debido a ^3limitaciones del motor del juego^7.\n\nDetalles del soporte de los mapas:\n\nZombies Chronicles en todos los mapas\n(^2Estable, compatible con todos los EE^7)\n\nDer Eisendrache\n(^3Menos estable, compatible con el EE principal^7)\n\nOtros mapas de 3arc (^1No son jugables^7)\nMapas personalizados (Desconocido)"
+LANG_ENGLISH     "Se aumentó el número máximo de jugadores a 10\n(^1muy inestable^7), y las máquinas de GobbleGum se desactivarán debido a ^3limitaciones del motor del juego^7.\n\nDetalles del soporte de los mapas:\n\nMapas de Zombies Chronicles\n(^2Estable, compatible con todos los EE^7)\n\nMapas Principales\n(^3Menos estable, compatible con el EE principal^7)\n\nOtros mapas de 3arc (^1No son jugables^7)\n\nMapas personalizados (Desconocido)"
 
 REFERENCE           FFFIVE
 LANG_ENGLISH     "Fuego amigo sin matar"
@@ -51,7 +51,7 @@ REFERENCE           PERKPLUS
 LANG_ENGLISH     "Deshabilitar las mejoras de las ventajas"
 
 REFERENCE           PERKPLUS_DESC
-LANG_ENGLISH     "Deshabilitará las siguientes mejoras de estas ventajas:\n\n^2Cola rápida^7: Acelera la compra de ventajas y GobbleGums, cambiarás de arma más rápido y tendrás más velocidad CaC\n^3Resistencia+^7: Levantarás tu arma más rápido después de correr, dispara y lanza granadas mientras corres y podras correr sin límite\n^9Doble tiro^7: El arma especial cargara más rápido al matar zombis\n^1Vino de la viuda^7: Inmunidad a explosiones (funcional si solo hay 1 ventaja de protección en el mapa)\n^6Daiquiri letal^7: Con 5 disparos consecutivos a la cabeza tendrás un multiplicador 1.5x que maximizará tu precisión al disparar desde la cadera, y podrás ver a los zombis a través de las paredes\n^5Reanimación^7: Recupera la salud un 40% más rápido"
+LANG_ENGLISH     "Deshabilitará las siguientes mejoras de estas ventajas:\n\n^5Reanimación^7: Recupera la salud un 40% más rápido. ^2Cola rápida^7: Acelera la compra de ventajas y GobbleGums, cambiarás de arma más rápido y tendrás más velocidad CaC.\n^3Resistencia+^7: Levantarás tu arma más rápido después de correr, dispara y lanza granadas mientras corres y podras correr sin límite.\n^9Doble tiro^7: El arma especial cargara más rápido al matar zombis.\n^1Vino de la viuda^7: Inmunidad a explosiones (funcional si solo hay 1 ventaja de protección en el mapa)\n^6Daiquiri letal^7: Con 5 disparos consecutivos a la cabeza tendrás un multiplicador 1.5x que maximizará tu precisión al disparar desde la cadera, y podrás ver a los zombis a través de las paredes."
 
 REFERENCE           NOSLIDE
 LANG_ENGLISH     "Deshabilitar el deslizamiento del personaje"
