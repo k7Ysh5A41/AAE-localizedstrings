@@ -114,6 +114,6 @@ REFERENCE           HIDE_AAE_WEAPON
 LANG_ENGLISH     "Deshabilitar las armas del mod AAE"
 
 REFERENCE           ALLWALLBUY
-LANG_ENGLISH     "Habilitar las armas de pared en la caja"
+LANG_ENGLISH     "Habilitar armas de pared economicas en la caja"
 
 ENDMARKER
