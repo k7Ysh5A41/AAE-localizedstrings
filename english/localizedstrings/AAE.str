@@ -263,4 +263,7 @@ LANG_ENGLISH     "Hold ^3[{+activate}]^7 to Fire the Anti-Aircraft Gun"
 REFERENCE           NEED_UPDATE
 LANG_ENGLISH     "New AAE update found!\nYou must resubscribe AAE to receive updates and play with other players"
 
+REFERENCE           QUIT
+LANG_ENGLISH     "Quit to Desktop"
+
 ENDMARKER
