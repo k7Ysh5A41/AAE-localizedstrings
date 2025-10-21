@@ -308,4 +308,7 @@ LANG_ENGLISH     "Perks In The Center"
 REFERENCE           NOATTACHMENT
 LANG_ENGLISH     "No Attachment"
 
+REFERENCE           HUDMOVEMENT
+LANG_ENGLISH     "Disable HUD shaking"
+
 ENDMARKER

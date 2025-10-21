@@ -53,12 +53,6 @@ LANG_ENGLISH     "Damage Number Visibility"
 REFERENCE           DAMAGE_NUMBER_DESC
 LANG_ENGLISH     "Choose whether to show or hide the amount of damage dealt to the enemy."
 
-REFERENCE           HUD
-LANG_ENGLISH     "Hud Options"
-
-REFERENCE           HUD_OPTION
-LANG_ENGLISH     "Hud Movement"
-
 REFERENCE           CENTERCROSS
 LANG_ENGLISH     "Disable the Dot in the Center of the Screen"
 

@@ -9,7 +9,7 @@ REFERENCE            FOV_SCALE
 LANG_ENGLISH         "FoV Scale"
 
 REFERENCE            SHORTCUT_KEY
-LANG_ENGLISH         "^5All Shortcut Keys\n\n^7Flashlight\nMarker\nDrop Points\nDNI Nightvision\nDepth of Field\nThirdperson\nFull map view\nHide Heads Up Display\nSprays\nThrowable Cancel\nSet Mulekick Weapon\nCamo change\nReticle change"
+LANG_ENGLISH         "^5All Shortcut Keys\n\n^7Flashlight\nMarker\nDrop Points\nDNI Nightvision\nThirdperson\nFull map view\nHide Heads Up Display\nSprays\nThrowable Cancel\nSet Mulekick Weapon\nCamo change\nReticle change"
 
 REFERENCE            DRONE_KILL
 LANG_ENGLISH         "Valkyrie Drone Elimination"
