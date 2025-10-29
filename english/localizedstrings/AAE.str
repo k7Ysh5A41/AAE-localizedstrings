@@ -282,9 +282,9 @@ REFERENCE           BOOKMARKER_ERROR
 LANG_ENGLISH     "Unable to perform actions"
 
 REFERENCE           OPENINSTEAM
-LANG_ENGLISH     "Open in Steam"
+LANG_ENGLISH     "Open in  ^BBUTTON_CYCLE_RIGHT^"
 
 REFERENCE           OPENINSTEAMCURRENTMAP
-LANG_ENGLISH     "Open the Current Map in Steam"
+LANG_ENGLISH     "Open the Map in  ^BBUTTON_CYCLE_RIGHT^"
 
 ENDMARKER
