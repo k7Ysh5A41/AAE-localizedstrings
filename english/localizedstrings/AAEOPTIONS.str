@@ -311,4 +311,16 @@ LANG_ENGLISH     "No Attachment"
 REFERENCE           HUDMOVEMENT
 LANG_ENGLISH     "Disable HUD shaking"
 
+REFERENCE           BATTLECHAT
+LANG_ENGLISH     "Disable Player Chatter Subtitles"
+
+REFERENCE           IE_OVERLAY
+LANG_ENGLISH     "Disable Idle Eyes Filter"
+
+REFERENCE           HPBAR_RANDOM_NAMES
+LANG_ENGLISH     "Enable and Use Random Names"
+
+REFERENCE           PLAYER_HEALTHBAR
+LANG_ENGLISH     "Player Overhead Health Bar"
+
 ENDMARKER
