@@ -51,13 +51,13 @@ REFERENCE            CTRL_Z_HINT
 LANG_ENGLISH         "Нажмите ^3[{+actionslot 1}]^7 для активации\nПревращает ближайших зомби в turned."
 
 REFERENCE            NOWHERE_BUT_THERE
-LANG_ENGLISH         "Нигде, кроме Там"
+LANG_ENGLISH         "Я помогу!"
 
 REFERENCE            NOWHERE_BUT_THERE_DESC
-LANG_ENGLISH         "^7Активировано (3x Активация)\nТелепорт к месту поверженного игрока для его возрождения."
+LANG_ENGLISH         "^7Активировано (3x Активация)\nТелепортация к союзнику, истекающему кровью."
 
 REFERENCE            NOWHERE_BUT_THERE_HINT
-LANG_ENGLISH         "Нажмите ^3[{+actionslot 1}]^7 для активации\nТелепорт к месту поверженного игрока для его возрождения."
+LANG_ENGLISH         "Нажмите ^3[{+actionslot 1}]^7 для активации\nТелепортация к союзнику, истекающему кровью."
 
 REFERENCE            FREE_FIRE
 LANG_ENGLISH         "Свободный Огонь"
