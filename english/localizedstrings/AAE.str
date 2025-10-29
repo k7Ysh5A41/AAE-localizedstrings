@@ -266,4 +266,25 @@ LANG_ENGLISH     "New AAE update found!\nYou must resubscribe AAE to receive upd
 REFERENCE           QUIT
 LANG_ENGLISH     "Quit to Desktop"
 
+REFERENCE           BOOKMARKER
+LANG_ENGLISH     "Bookmarker"
+
+REFERENCE           ADDBOOKMARKER
+LANG_ENGLISH     "Added to bookmarks"
+
+REFERENCE           REMOVEBOOKMARKER
+LANG_ENGLISH     "Bookmark removed"
+
+REFERENCE           BOOKMARKER_ONLYUSERMAPS
+LANG_ENGLISH     "Custom maps only"
+
+REFERENCE           BOOKMARKER_ERROR
+LANG_ENGLISH     "Unable to perform actions"
+
+REFERENCE           OPENINSTEAM
+LANG_ENGLISH     "Open in Steam"
+
+REFERENCE           OPENINSTEAMCURRENTMAP
+LANG_ENGLISH     "Open the Current Map in Steam"
+
 ENDMARKER
