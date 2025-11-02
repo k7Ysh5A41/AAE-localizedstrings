@@ -89,4 +89,52 @@ LANG_ENGLISH         "Activado durante 3 rondas completas.\nCada bala disparada 
 REFERENCE            SWORD_FLAY_DESC
 LANG_ENGLISH         "Activador: inmediato (dura 2.5 minutos)\nLos ataques cuerpo a cuerpo infligen daño infinito, afectando hasta a X zombis\ndentro del alcance (X es 2 al apuñalar, X es 4 al dar un tajo)"
 
+REFERENCE            SHARE
+LANG_ENGLISH         "Press ^3[{+melee}] ^7to share this GobbleGum"
+
+REFERENCE            ANYWHERE_BUT_HERE_DESC
+LANG_ENGLISH         "Activated (5x Activations)\nInstantly teleport to a random location. A concussive blast knocks away any nearby zombies, keeping you safe."
+
+REFERENCE            COAGULANT_DESC
+LANG_ENGLISH         "Activates Immediately (Lasts 2 Hours)\n2 Hours bleedout time."
+
+REFERENCE            IN_PLAIN_SIGHT_DESC
+LANG_ENGLISH         "Activated (5x Activations, 10 seconds each)\nYou are ignored by zombies for 10 seconds."
+
+REFERENCE            CACHE_BACK_DESC
+LANG_ENGLISH         "^3RARE MEGA\n^7Activated (5x Activation)\nSpawns a max ammo power up."
+
+REFERENCE            IM_FEELIN_LUCKY_DESC
+LANG_ENGLISH         "^2MEGA\n^7Activated (5x Activations)\nSpawn a random power up."
+
+REFERENCE            KILL_JOY_DESC
+LANG_ENGLISH         "^3RARE MEGA\n^7Activated (5x Activations)\nSpawns an Instakill power up."
+
+REFERENCE            KILLING_TIME_DESC
+LANG_ENGLISH         "^6ULTRA-RARE MEGA\n^7Activated (5x Activation)\nAll zombies freeze in place for 20 seconds. If they are shot, they will be annihilated when the time is up."
+
+REFERENCE            LICENSED_CONTRACTOR_DESC
+LANG_ENGLISH         "^2MEGA\n^7Activated (5x Activations)\nSpawns a Carpenter power up."
+
+REFERENCE            PHOENIX_UP_DESC
+LANG_ENGLISH         "^2MEGA\n^7Activated (5x Activation)\nRevives all teammates. Teammates keep all of their perks."
+
+REFERENCE            RESPIN_CYCLE_DESC
+LANG_ENGLISH         "^2MEGA\n^7Activated (5x Activations)\nRe-spins the weapons in a magic box after it has been activated."
+
+REFERENCE            WHOS_KEEPING_SCORE_DESC
+LANG_ENGLISH         "^2MEGA\n^7Activated (3x Activations)\nSpawns a double points power up."
+
+REFERENCE            FATAL_CONTRAPTION_DESC
+LANG_ENGLISH         "^2MEGA\n^7Activated (5x Activations)\nSpawn a Death Machine power up."
+
+REFERENCE            HEAD_DRAMA_DESC
+LANG_ENGLISH         "^6ULTRA-RARE MEGA\n^7Activates Immediately (Active for 3 full rounds)\nAny bullet which hits a zombie will damage its head."
+
+REFERENCE            TEMPORAL_GIFT_DESC
+LANG_ENGLISH         "^3RARE MEGA\n^7Activates Immediately (Active for 5 full rounds)\nPower ups last longer."
+
+REFERENCE            DANGER_CLOSEST_DESC
+LANG_ENGLISH         "Activates Immediately (Lasts 20 full rounds)\nZero explosive damage."
+
 ENDMARKER

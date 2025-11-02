@@ -270,21 +270,30 @@ REFERENCE           BOOKMARKER
 LANG_ENGLISH     "Bookmarker"
 
 REFERENCE           ADDBOOKMARKER
-LANG_ENGLISH     "Added to bookmarks"
+LANG_ENGLISH     "Added to Bookmarks"
 
 REFERENCE           REMOVEBOOKMARKER
-LANG_ENGLISH     "Bookmark removed"
+LANG_ENGLISH     "Bookmark Removed"
 
 REFERENCE           BOOKMARKER_ONLYUSERMAPS
-LANG_ENGLISH     "Custom maps only"
+LANG_ENGLISH     "Custom Maps Only"
 
 REFERENCE           BOOKMARKER_ERROR
-LANG_ENGLISH     "Unable to perform actions"
+LANG_ENGLISH     "Unable to Perform Actions"
 
 REFERENCE           OPENINSTEAM
 LANG_ENGLISH     "Open in  ^BBUTTON_CYCLE_RIGHT^"
 
 REFERENCE           OPENINSTEAMCURRENTMAP
 LANG_ENGLISH     "Open the Map in  ^BBUTTON_CYCLE_RIGHT^"
+
+REFERENCE           ISLAND_RAINBOW_WATER
+LANG_ENGLISH     "HOLD ^3[{+activate}]^7 to Pick up the Rainbow 115 Water"
+
+REFERENCE           ISLAND_RAINBOW_WATER_TITLE
+LANG_ENGLISH     "Rainbow 115 Water"
+
+REFERENCE           UPDATE_ASPECT_RATIO
+LANG_ENGLISH     "Update the Aspect Ratio"
 
 ENDMARKER
