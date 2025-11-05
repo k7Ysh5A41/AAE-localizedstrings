@@ -296,4 +296,10 @@ LANG_ENGLISH     "Rainbow 115 Water"
 REFERENCE           UPDATE_ASPECT_RATIO
 LANG_ENGLISH     "Update the Aspect Ratio"
 
+REFERENCE           LITE_ONLY
+LANG_ENGLISH     "AAE Lite Only"
+
+REFERENCE           LOBBY_SIZE
+LANG_ENGLISH     "Click to Change Lobby Size"
+
 ENDMARKER
