@@ -263,4 +263,61 @@ LANG_ENGLISH     "Przytrzymaj ^3[{+activate}]^7, aby Odpalić Działko Przeciwlo
 REFERENCE           NEED_UPDATE
 LANG_ENGLISH     "Znaleziono nową aktualizację AAE!\nMusisz ponownie zasubskrybować AAE, jeśli chcesz otrzymywać aktualizacje i grać online z innymi graczami"
 
+REFERENCE           QUIT
+LANG_ENGLISH        "Wyjdź do pulpitu"
+
+REFERENCE           BOOKMARKER
+LANG_ENGLISH        "Zakładka"
+
+REFERENCE           ADDBOOKMARKER
+LANG_ENGLISH        "Dodano do zakładek"
+
+REFERENCE           REMOVEBOOKMARKER
+LANG_ENGLISH        "Zakładka usunięta"
+
+REFERENCE           BOOKMARKER_ONLYUSERMAPS
+LANG_ENGLISH        "Tylko mapy niestandardowe"
+
+REFERENCE           BOOKMARKER_ERROR
+LANG_ENGLISH        "Nie można wykonać akcji"
+
+REFERENCE           OPENINSTEAM
+LANG_ENGLISH        "Otwórz w ^BBUTTON_CYCLE_RIGHT^"
+
+REFERENCE           OPENINSTEAMCURRENTMAP
+LANG_ENGLISH        "Otwórz bieżącą mapę w ^BBUTTON_CYCLE_RIGHT^"
+
+REFERENCE           ISLAND_RAINBOW_WATER
+LANG_ENGLISH        "PRZYTRZYMAJ ^3[{+activate}]^7, aby podnieść Tęczową Wodę 115"
+
+REFERENCE           ISLAND_RAINBOW_WATER_TITLE
+LANG_ENGLISH        "Tęczowa Woda 115"
+
+REFERENCE           UPDATE_ASPECT_RATIO
+LANG_ENGLISH        "Zaktualizuj proporcje obrazu"
+
+REFERENCE           LITE_ONLY
+LANG_ENGLISH        "Tylko AAE Lite"
+
+REFERENCE           LOBBY_SIZE
+LANG_ENGLISH        "Kliknij, aby zmienić rozmiar lobby"
+
+REFERENCE           DOWNLOAD_MAP_FROM_CLIPBOARD_INSTALLING_TITLE
+LANG_ENGLISH        "Ta mapa jest instalowana"
+
+REFERENCE           DOWNLOAD_MAP_FROM_CLIPBOARD_INSTALLING_CONTENT
+LANG_ENGLISH        "Proszę czekać"
+
+REFERENCE           DOWNLOAD_MAP_FROM_CLIPBOARD_INSTALLED_CONTENT
+LANG_ENGLISH        "Spróbuj innej mapy"
+
+REFERENCE           DOWNLOAD_MAP_FROM_CLIPBOARD_EMPTY_TITLE
+LANG_ENGLISH        "Skopiuj poprawny identyfikator mapy do schowka"
+
+REFERENCE           DOWNLOAD_MAP_FROM_CLIPBOARD_EMPTY_CONTENT
+LANG_ENGLISH        "Schowek jest pusty"
+
+REFERENCE           DOWNLOAD_MAP_FROM_CLIPBOARD_ERROR_DESC2
+LANG_ENGLISH        "Nie znaleziono ID mapy"
+
 ENDMARKER

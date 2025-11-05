@@ -53,12 +53,6 @@ LANG_ENGLISH     "ダメージ数の表示"
 REFERENCE           DAMAGE_NUMBER_DESC
 LANG_ENGLISH     "敵に与えたダメージの数を表示するか非表示にするかを選択します"
 
-REFERENCE           HUD
-LANG_ENGLISH     "HUDオプション"
-
-REFERENCE           HUD_OPTION
-LANG_ENGLISH     "HUDの移動"
-
 REFERENCE           CENTERCROSS
 LANG_ENGLISH     "画面中央の小さな点を無効化"
 

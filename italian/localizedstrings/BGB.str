@@ -90,51 +90,51 @@ REFERENCE            SWORD_FLAY_DESC
 LANG_ENGLISH         "Attivazione immediata (Dura 2,5 minuti)\nGli attacchi corpo a corpo infliggono danni infiniti, colpendo fino a X zombie nel raggio (X = 2 per pugnale, X = 4 per colpo largo)"
 
 REFERENCE            SHARE
-LANG_ENGLISH         "Press ^3[{+melee}] ^7to share this GobbleGum"
+LANG_ENGLISH         "Premi ^3[{+melee}] ^7per condividere questa GobbleGum"
 
 REFERENCE            ANYWHERE_BUT_HERE_DESC
-LANG_ENGLISH         "Activated (5x Activations)\nInstantly teleport to a random location. A concussive blast knocks away any nearby zombies, keeping you safe."
+LANG_ENGLISH         "Attivato (5x attivazioni)\nTeletrasporta istantaneamente in una posizione casuale. Un’esplosione concussiva respinge gli zombie vicini, tenendoti al sicuro."
 
 REFERENCE            COAGULANT_DESC
-LANG_ENGLISH         "Activates Immediately (Lasts 2 Hours)\n2 Hours bleedout time."
+LANG_ENGLISH         "Si attiva immediatamente (Dura 2 ore)\nTempo di dissanguamento esteso a 2 ore."
 
 REFERENCE            IN_PLAIN_SIGHT_DESC
-LANG_ENGLISH         "Activated (5x Activations, 10 seconds each)\nYou are ignored by zombies for 10 seconds."
+LANG_ENGLISH         "Attivato (5x attivazioni, 10 secondi ciascuna)\nGli zombie ti ignorano per 10 secondi."
 
 REFERENCE            CACHE_BACK_DESC
-LANG_ENGLISH         "^3RARE MEGA\n^7Activated (5x Activation)\nSpawns a max ammo power up."
+LANG_ENGLISH         "^3RARA MEGA\n^7Attivato (5x attivazioni)\nGenera un bonus munizioni massime."
 
 REFERENCE            IM_FEELIN_LUCKY_DESC
-LANG_ENGLISH         "^2MEGA\n^7Activated (5x Activations)\nSpawn a random power up."
+LANG_ENGLISH         "^2MEGA\n^7Attivato (5x attivazioni)\nGenera un bonus casuale."
 
 REFERENCE            KILL_JOY_DESC
-LANG_ENGLISH         "^3RARE MEGA\n^7Activated (5x Activations)\nSpawns an Instakill power up."
+LANG_ENGLISH         "^3RARA MEGA\n^7Attivato (5x attivazioni)\nGenera un bonus Uccisione Istantanea."
 
 REFERENCE            KILLING_TIME_DESC
-LANG_ENGLISH         "^6ULTRA-RARE MEGA\n^7Activated (5x Activation)\nAll zombies freeze in place for 20 seconds. If they are shot, they will be annihilated when the time is up."
+LANG_ENGLISH         "^6ULTRA-RARA MEGA\n^7Attivato (5x attivazioni)\nTutti gli zombie si congelano per 20 secondi. Se vengono colpiti, verranno annientati allo scadere del tempo."
 
 REFERENCE            LICENSED_CONTRACTOR_DESC
-LANG_ENGLISH         "^2MEGA\n^7Activated (5x Activations)\nSpawns a Carpenter power up."
+LANG_ENGLISH         "^2MEGA\n^7Attivato (5x attivazioni)\nGenera un bonus Carpentiere."
 
 REFERENCE            PHOENIX_UP_DESC
-LANG_ENGLISH         "^2MEGA\n^7Activated (5x Activation)\nRevives all teammates. Teammates keep all of their perks."
+LANG_ENGLISH         "^2MEGA\n^7Attivato (5x attivazioni)\nRianima tutti i compagni di squadra. I compagni mantengono tutti i loro potenziamenti."
 
 REFERENCE            RESPIN_CYCLE_DESC
-LANG_ENGLISH         "^2MEGA\n^7Activated (5x Activations)\nRe-spins the weapons in a magic box after it has been activated."
+LANG_ENGLISH         "^2MEGA\n^7Attivato (5x attivazioni)\nRimescola le armi in una cassa magica dopo l’attivazione."
 
 REFERENCE            WHOS_KEEPING_SCORE_DESC
-LANG_ENGLISH         "^2MEGA\n^7Activated (3x Activations)\nSpawns a double points power up."
+LANG_ENGLISH         "^2MEGA\n^7Attivato (3x attivazioni)\nGenera un bonus punti doppi."
 
 REFERENCE            FATAL_CONTRAPTION_DESC
-LANG_ENGLISH         "^2MEGA\n^7Activated (5x Activations)\nSpawn a Death Machine power up."
+LANG_ENGLISH         "^2MEGA\n^7Attivato (5x attivazioni)\nGenera un bonus Macchina della Morte."
 
 REFERENCE            HEAD_DRAMA_DESC
-LANG_ENGLISH         "^6ULTRA-RARE MEGA\n^7Activates Immediately (Active for 3 full rounds)\nAny bullet which hits a zombie will damage its head."
+LANG_ENGLISH         "^6ULTRA-RARA MEGA\n^7Si attiva immediatamente (Attivo per 3 round completi)\nOgni proiettile che colpisce uno zombie infligge danni alla testa."
 
 REFERENCE            TEMPORAL_GIFT_DESC
-LANG_ENGLISH         "^3RARE MEGA\n^7Activates Immediately (Active for 5 full rounds)\nPower ups last longer."
+LANG_ENGLISH         "^3RARA MEGA\n^7Si attiva immediatamente (Attivo per 5 round completi)\nI bonus durano più a lungo."
 
 REFERENCE            DANGER_CLOSEST_DESC
-LANG_ENGLISH         "Activates Immediately (Lasts 20 full rounds)\nZero explosive damage."
+LANG_ENGLISH         "Si attiva immediatamente (Dura 20 round completi)\nNessun danno da esplosione."
 
 ENDMARKER

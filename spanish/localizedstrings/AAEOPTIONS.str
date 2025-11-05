@@ -285,7 +285,7 @@ REFERENCE           C4ENDING
 LANG_ENGLISH     "Habilitar un final comprable con C4 (Req. 150K + Ronda 35)"
 
 REFERENCE           GUNPOS
-LANG_ENGLISH      "PERSONALIZAR BRAZOS"
+LANG_ENGLISH      "PERSONALIZAR LOS BRAZOS"
 
 REFERENCE           GUNPOS_ENABLE
 LANG_ENGLISH      "Habilitar la personalizacion de los brazos"
@@ -306,6 +306,33 @@ REFERENCE           T10
 LANG_ENGLISH     "Black Ops 6"
 
 REFERENCE           NOATTACHMENT  
-LANG_SPANISH     "Sin accesorios"  
+LANG_SPANISH     "Sin Accesorios"
+
+REFERENCE           HUDMOVEMENT
+LANG_ENGLISH     "Deshabilitar el movimiento del HUD"
+
+REFERENCE           BATTLECHAT
+LANG_ENGLISH        "Deshabilitar los subtítulos de las acciones del jugador"
+
+REFERENCE           IE_OVERLAY
+LANG_ENGLISH        "Deshabilitar el efecto visual del GG de (Ojos ociosos)"
+
+REFERENCE           PLAYER_HEALTHBAR
+LANG_ENGLISH        "Barra de salud del jugador"
+
+REFERENCE           HPBAR_RANDOM_NAMES
+LANG_ENGLISH        "Con Nombre Aleatorio"
+
+REFERENCE           BGB_NOULTRA
+LANG_SPANISH        "Activada, pero sin Mega Raros"
+
+REFERENCE           RELOADCANCEL
+LANG_SPANISH        "Deshabilitar la cancelación manual de recarga"
+
+REFERENCE           TRIGGER_MARKER
+LANG_SPANISH        "Deshabilitar los marcadores de activación de los EE"
+
+REFERENCE           SHOTGUN_GIB
+LANG_SPANISH        "Deshab. el desmembramiento cuando se usa la escopeta"
 
 ENDMARKER

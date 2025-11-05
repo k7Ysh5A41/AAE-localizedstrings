@@ -53,12 +53,6 @@ LANG_ENGLISH     "Daño numérico"
 REFERENCE           DAMAGE_NUMBER_DESC
 LANG_ENGLISH     "Mostrará el daño que le causas al enemigo con números en pantalla."
 
-REFERENCE           HUD
-LANG_ENGLISH     "Opciones del HUD"
-
-REFERENCE           HUD_OPTION
-LANG_ENGLISH     "HUD con movimiento"
-
 REFERENCE           CENTERCROSS
 LANG_ENGLISH     "Deshabilitar el punto en el centro de la pantalla"
 
@@ -114,6 +108,6 @@ REFERENCE           HIDE_AAE_WEAPON
 LANG_ENGLISH     "Deshabilitar las armas del mod AAE"
 
 REFERENCE           ALLWALLBUY
-LANG_ENGLISH     "Habilitar armas de pared economicas en la caja"
+LANG_ENGLISH     "Habilitar las armas de pared economicas en la caja"
 
 ENDMARKER

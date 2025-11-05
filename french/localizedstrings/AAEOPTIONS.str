@@ -306,6 +306,33 @@ REFERENCE           T10
 LANG_ENGLISH     "Icônes du Perk central"
 
 REFERENCE           NOATTACHMENT  
-LANG_ENGLISH      "Aucune pièce jointe"  
+LANG_ENGLISH      "Aucune pièce jointe"
+
+REFERENCE           HUDMOVEMENT
+LANG_ENGLISH        "Désactiver les secousses du HUD"
+
+REFERENCE           BATTLECHAT
+LANG_ENGLISH        "Désactiver les sous-titres des dialogues des joueurs"
+
+REFERENCE           IE_OVERLAY
+LANG_ENGLISH        "Désactiver le filtre des yeux inactifs"
+
+REFERENCE           HPBAR_RANDOM_NAMES
+LANG_ENGLISH        "Activer et utiliser des noms aléatoires"
+
+REFERENCE           PLAYER_HEALTHBAR
+LANG_ENGLISH        "Barre de santé au-dessus du joueur"
+
+REFERENCE           BGB_NOULTRA
+LANG_ENGLISH        "Activé, mais pas Ultra-Rare"
+
+REFERENCE           RELOADCANCEL
+LANG_ENGLISH        "Désactiver l’annulation manuelle du rechargement"
+
+REFERENCE           TRIGGER_MARKER
+LANG_ENGLISH        "Désactiver le marqueur de déclenchement"
+
+REFERENCE           SHOTGUN_GIB
+LANG_ENGLISH        "Désactiver l’explosion de fusil à pompe"
 
 ENDMARKER

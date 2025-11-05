@@ -53,12 +53,6 @@ LANG_ENGLISH     "Visibilidade do número de dano"
 REFERENCE           DAMAGE_NUMBER_DESC
 LANG_ENGLISH     "Escolha se deseja mostrar ou ocultar a quantidade de dano causado ao inimigo"
 
-REFERENCE           HUD
-LANG_ENGLISH     "Opções de HUD"
-
-REFERENCE           HUD_OPTION
-LANG_ENGLISH     "Movimento do HUD"
-
 REFERENCE           CENTERCROSS
 LANG_ENGLISH     "Desativar o pequeno ponto no centro da tela"
 

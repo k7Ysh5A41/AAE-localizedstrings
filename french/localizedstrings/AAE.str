@@ -263,4 +263,61 @@ LANG_ENGLISH     "Maintenez ^3[{+activate}]^7 pour Tirer avec le Canon Anti-Aér
 REFERENCE           NEED_UPDATE
 LANG_ENGLISH     "Nouvelle mise à jour AAE trouvée !\nVous devez vous réabonner à AAE si vous souhaitez recevoir les mises à jour et jouer avec d'autres joueurs en ligne"
 
+REFERENCE           QUIT
+LANG_ENGLISH        "Quitter vers le bureau"
+
+REFERENCE           BOOKMARKER
+LANG_ENGLISH        "Marque-page"
+
+REFERENCE           ADDBOOKMARKER
+LANG_ENGLISH        "Ajouté aux favoris"
+
+REFERENCE           REMOVEBOOKMARKER
+LANG_ENGLISH        "Favori supprimé"
+
+REFERENCE           BOOKMARKER_ONLYUSERMAPS
+LANG_ENGLISH        "Cartes personnalisées uniquement"
+
+REFERENCE           BOOKMARKER_ERROR
+LANG_ENGLISH        "Impossible d’exécuter l’action"
+
+REFERENCE           OPENINSTEAM
+LANG_ENGLISH        "Ouvrir dans ^BBUTTON_CYCLE_RIGHT^"
+
+REFERENCE           OPENINSTEAMCURRENTMAP
+LANG_ENGLISH        "Ouvrir la carte actuelle dans ^BBUTTON_CYCLE_RIGHT^"
+
+REFERENCE           ISLAND_RAINBOW_WATER
+LANG_ENGLISH        "MAINTENEZ ^3[{+activate}]^7 pour ramasser l’Eau 115 Arc-en-ciel"
+
+REFERENCE           ISLAND_RAINBOW_WATER_TITLE
+LANG_ENGLISH        "Eau 115 Arc-en-ciel"
+
+REFERENCE           UPDATE_ASPECT_RATIO
+LANG_ENGLISH        "Mettre à jour le rapport d’aspect"
+
+REFERENCE           LITE_ONLY
+LANG_ENGLISH        "AAE Lite uniquement"
+
+REFERENCE           LOBBY_SIZE
+LANG_ENGLISH        "Cliquez pour changer la taille du lobby"
+
+REFERENCE           DOWNLOAD_MAP_FROM_CLIPBOARD_INSTALLING_TITLE
+LANG_ENGLISH        "Cette carte est en cours d’installation"
+
+REFERENCE           DOWNLOAD_MAP_FROM_CLIPBOARD_INSTALLING_CONTENT
+LANG_ENGLISH        "Veuillez patienter"
+
+REFERENCE           DOWNLOAD_MAP_FROM_CLIPBOARD_INSTALLED_CONTENT
+LANG_ENGLISH        "Essayez une autre carte"
+
+REFERENCE           DOWNLOAD_MAP_FROM_CLIPBOARD_EMPTY_TITLE
+LANG_ENGLISH        "Veuillez copier l’ID de carte correct dans le presse-papiers"
+
+REFERENCE           DOWNLOAD_MAP_FROM_CLIPBOARD_EMPTY_CONTENT
+LANG_ENGLISH        "Le presse-papiers est vide"
+
+REFERENCE           DOWNLOAD_MAP_FROM_CLIPBOARD_ERROR_DESC2
+LANG_ENGLISH        "ID de carte introuvable"
+
 ENDMARKER

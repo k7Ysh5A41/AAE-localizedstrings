@@ -263,4 +263,61 @@ LANG_ENGLISH     "Держите ^3[{+activate}]^7, чтобы выстрели�
 REFERENCE           NEED_UPDATE
 LANG_ENGLISH     "Найдено новое обновление AAE!\nВам нужно повторно подписаться на AAE, чтобы получать обновления и играть онлайн с другими игроками"
 
+REFERENCE           QUIT
+LANG_ENGLISH        "Выйти на рабочий стол"
+
+REFERENCE           BOOKMARKER
+LANG_ENGLISH        "Закладка"
+
+REFERENCE           ADDBOOKMARKER
+LANG_ENGLISH        "Добавлено в закладки"
+
+REFERENCE           REMOVEBOOKMARKER
+LANG_ENGLISH        "Закладка удалена"
+
+REFERENCE           BOOKMARKER_ONLYUSERMAPS
+LANG_ENGLISH        "Только пользовательские карты"
+
+REFERENCE           BOOKMARKER_ERROR
+LANG_ENGLISH        "Не удалось выполнить действие"
+
+REFERENCE           OPENINSTEAM
+LANG_ENGLISH        "Открыть в ^BBUTTON_CYCLE_RIGHT^"
+
+REFERENCE           OPENINSTEAMCURRENTMAP
+LANG_ENGLISH        "Открыть текущую карту в ^BBUTTON_CYCLE_RIGHT^"
+
+REFERENCE           ISLAND_RAINBOW_WATER
+LANG_ENGLISH        "УДЕРЖИВАЙ ^3[{+activate}]^7, чтобы поднять Радужную Воду 115"
+
+REFERENCE           ISLAND_RAINBOW_WATER_TITLE
+LANG_ENGLISH        "Радужная Вода 115"
+
+REFERENCE           UPDATE_ASPECT_RATIO
+LANG_ENGLISH        "Обновить соотношение сторон"
+
+REFERENCE           LITE_ONLY
+LANG_ENGLISH        "Только AAE Lite"
+
+REFERENCE           LOBBY_SIZE
+LANG_ENGLISH        "Нажмите, чтобы изменить размер лобби"
+
+REFERENCE           DOWNLOAD_MAP_FROM_CLIPBOARD_INSTALLING_TITLE
+LANG_ENGLISH        "Эта карта устанавливается"
+
+REFERENCE           DOWNLOAD_MAP_FROM_CLIPBOARD_INSTALLING_CONTENT
+LANG_ENGLISH        "Пожалуйста, подождите"
+
+REFERENCE           DOWNLOAD_MAP_FROM_CLIPBOARD_INSTALLED_CONTENT
+LANG_ENGLISH        "Попробуйте другую карту"
+
+REFERENCE           DOWNLOAD_MAP_FROM_CLIPBOARD_EMPTY_TITLE
+LANG_ENGLISH        "Скопируйте правильный ID карты в буфер обмена"
+
+REFERENCE           DOWNLOAD_MAP_FROM_CLIPBOARD_EMPTY_CONTENT
+LANG_ENGLISH        "Буфер обмена пуст"
+
+REFERENCE           DOWNLOAD_MAP_FROM_CLIPBOARD_ERROR_DESC2
+LANG_ENGLISH        "ID карты не найден"
+
 ENDMARKER

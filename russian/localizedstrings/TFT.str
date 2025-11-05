@@ -53,12 +53,6 @@ LANG_ENGLISH     "Видимость чисел урона"
 REFERENCE           DAMAGE_NUMBER_DESC
 LANG_ENGLISH     "Выберите, показывать или скрывать количество урона, нанесенного врагу"
 
-REFERENCE           HUD
-LANG_ENGLISH     "Настройки HUD"
-
-REFERENCE           HUD_OPTION
-LANG_ENGLISH     "Перемещение HUD"
-
 REFERENCE           CENTERCROSS
 LANG_ENGLISH     "Отключить маленькую точку в центре экрана"
 
