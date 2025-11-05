@@ -308,4 +308,31 @@ LANG_ENGLISH     "Icone Perk centrali"
 REFERENCE           NOATTACHMENT  
 LANG_ENGLISH     "Nessun allegato"  
 
+REFERENCE           HUDMOVEMENT
+LANG_ENGLISH        "Disattiva il tremolio dell'HUD"
+
+REFERENCE           BATTLECHAT
+LANG_ENGLISH        "Disattiva i sottotitoli delle voci dei giocatori"
+
+REFERENCE           IE_OVERLAY
+LANG_ENGLISH        "Disattiva il filtro occhi inattivi"
+
+REFERENCE           HPBAR_RANDOM_NAMES
+LANG_ENGLISH        "Abilita e usa nomi casuali"
+
+REFERENCE           PLAYER_HEALTHBAR
+LANG_ENGLISH        "Barra della salute sopra il giocatore"
+
+REFERENCE           BGB_NOULTRA
+LANG_ENGLISH        "Attivato, ma senza Ultra-Rare"
+
+REFERENCE           RELOADCANCEL
+LANG_ENGLISH        "Disattiva annullamento ricarica manuale"
+
+REFERENCE           TRIGGER_MARKER
+LANG_ENGLISH        "Disattiva marcatore grilletto"
+
+REFERENCE           SHOTGUN_GIB
+LANG_ENGLISH        "Disattiva frammenti del fucile a pompa"
+
 ENDMARKER

@@ -263,5 +263,61 @@ LANG_ENGLISH     "Segure ^3[{+activate}]^7 para disparar o canhão antiaéreo"
 REFERENCE           NEED_UPDATE
 LANG_ENGLISH     "Nova atualização do AAE encontrada!\nVocê precisa se reinscrever no AAE para receber atualizações e jogar online com outros jogadores"
 
+REFERENCE           QUIT
+LANG_ENGLISH        "Sair para a área de trabalho"
+
+REFERENCE           BOOKMARKER
+LANG_ENGLISH        "Marcador"
+
+REFERENCE           ADDBOOKMARKER
+LANG_ENGLISH        "Adicionado aos favoritos"
+
+REFERENCE           REMOVEBOOKMARKER
+LANG_ENGLISH        "Marcador removido"
+
+REFERENCE           BOOKMARKER_ONLYUSERMAPS
+LANG_ENGLISH        "Apenas mapas personalizados"
+
+REFERENCE           BOOKMARKER_ERROR
+LANG_ENGLISH        "Não foi possível executar a ação"
+
+REFERENCE           OPENINSTEAM
+LANG_ENGLISH        "Abrir no ^BBUTTON_CYCLE_RIGHT^"
+
+REFERENCE           OPENINSTEAMCURRENTMAP
+LANG_ENGLISH        "Abrir o mapa atual no ^BBUTTON_CYCLE_RIGHT^"
+
+REFERENCE           ISLAND_RAINBOW_WATER
+LANG_ENGLISH        "SEGURE ^3[{+activate}]^7 para pegar a Água 115 Arco-Íris"
+
+REFERENCE           ISLAND_RAINBOW_WATER_TITLE
+LANG_ENGLISH        "Água 115 Arco-Íris"
+
+REFERENCE           UPDATE_ASPECT_RATIO
+LANG_ENGLISH        "Atualizar a proporção de aspecto"
+
+REFERENCE           LITE_ONLY
+LANG_ENGLISH        "Apenas AAE Lite"
+
+REFERENCE           LOBBY_SIZE
+LANG_ENGLISH        "Clique para mudar o tamanho do lobby"
+
+REFERENCE           DOWNLOAD_MAP_FROM_CLIPBOARD_INSTALLING_TITLE
+LANG_ENGLISH        "Este mapa está a instalar"
+
+REFERENCE           DOWNLOAD_MAP_FROM_CLIPBOARD_INSTALLING_CONTENT
+LANG_ENGLISH        "Por favor aguarde"
+
+REFERENCE           DOWNLOAD_MAP_FROM_CLIPBOARD_INSTALLED_CONTENT
+LANG_ENGLISH        "Tente outro mapa"
+
+REFERENCE           DOWNLOAD_MAP_FROM_CLIPBOARD_EMPTY_TITLE
+LANG_ENGLISH        "Por favor copie o ID correto do mapa para a área de transferência"
+
+REFERENCE           DOWNLOAD_MAP_FROM_CLIPBOARD_EMPTY_CONTENT
+LANG_ENGLISH        "A área de transferência está vazia"
+
+REFERENCE           DOWNLOAD_MAP_FROM_CLIPBOARD_ERROR_DESC2
+LANG_ENGLISH        "ID do mapa não encontrado"
 
 ENDMARKER

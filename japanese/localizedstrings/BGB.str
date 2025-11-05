@@ -90,51 +90,51 @@ REFERENCE            SWORD_FLAY_DESC
 LANG_ENGLISH         "即座に発動 (2.5分間持続)\n近接攻撃が無限ダメージを与え、範囲内の最大X体のゾンビに影響します（突き攻撃はX=2、振り攻撃はX=4）"
 
 REFERENCE            SHARE
-LANG_ENGLISH         "Press ^3[{+melee}] ^7to share this GobbleGum"
+LANG_ENGLISH         "^3[{+melee}] ^7を押してこのゴブルガムを共有"
 
 REFERENCE            ANYWHERE_BUT_HERE_DESC
-LANG_ENGLISH         "Activated (5x Activations)\nInstantly teleport to a random location. A concussive blast knocks away any nearby zombies, keeping you safe."
+LANG_ENGLISH         "発動（5回使用可能）\nランダムな場所に即座にテレポートする。衝撃波が周囲のゾンビを吹き飛ばし、安全を確保する。"
 
 REFERENCE            COAGULANT_DESC
-LANG_ENGLISH         "Activates Immediately (Lasts 2 Hours)\n2 Hours bleedout time."
+LANG_ENGLISH         "即時発動（持続時間：2時間）\n出血時間が2時間に延長される。"
 
 REFERENCE            IN_PLAIN_SIGHT_DESC
-LANG_ENGLISH         "Activated (5x Activations, 10 seconds each)\nYou are ignored by zombies for 10 seconds."
+LANG_ENGLISH         "発動（5回使用可能、各10秒間）\nゾンビが10秒間あなたを無視する。"
 
 REFERENCE            CACHE_BACK_DESC
-LANG_ENGLISH         "^3RARE MEGA\n^7Activated (5x Activation)\nSpawns a max ammo power up."
+LANG_ENGLISH         "^3レア メガ\n^7発動（5回使用可能）\n最大弾薬のパワーアップを出現させる。"
 
 REFERENCE            IM_FEELIN_LUCKY_DESC
-LANG_ENGLISH         "^2MEGA\n^7Activated (5x Activations)\nSpawn a random power up."
+LANG_ENGLISH         "^2メガ\n^7発動（5回使用可能）\nランダムなパワーアップを出現させる。"
 
 REFERENCE            KILL_JOY_DESC
-LANG_ENGLISH         "^3RARE MEGA\n^7Activated (5x Activations)\nSpawns an Instakill power up."
+LANG_ENGLISH         "^3レア メガ\n^7発動（5回使用可能）\nインスタキルのパワーアップを出現させる。"
 
 REFERENCE            KILLING_TIME_DESC
-LANG_ENGLISH         "^6ULTRA-RARE MEGA\n^7Activated (5x Activation)\nAll zombies freeze in place for 20 seconds. If they are shot, they will be annihilated when the time is up."
+LANG_ENGLISH         "^6ウルトラレア メガ\n^7発動（5回使用可能）\n全てのゾンビが20秒間動きを止める。撃たれたゾンビは時間終了時に消滅する。"
 
 REFERENCE            LICENSED_CONTRACTOR_DESC
-LANG_ENGLISH         "^2MEGA\n^7Activated (5x Activations)\nSpawns a Carpenter power up."
+LANG_ENGLISH         "^2メガ\n^7発動（5回使用可能）\nカーペンターのパワーアップを出現させる。"
 
 REFERENCE            PHOENIX_UP_DESC
-LANG_ENGLISH         "^2MEGA\n^7Activated (5x Activation)\nRevives all teammates. Teammates keep all of their perks."
+LANG_ENGLISH         "^2メガ\n^7発動（5回使用可能）\n全てのチームメイトを復活させる。チームメイトは全てのパークを保持する。"
 
 REFERENCE            RESPIN_CYCLE_DESC
-LANG_ENGLISH         "^2MEGA\n^7Activated (5x Activations)\nRe-spins the weapons in a magic box after it has been activated."
+LANG_ENGLISH         "^2メガ\n^7発動（5回使用可能）\nミステリーボックスで取得した武器を再抽選できる。"
 
 REFERENCE            WHOS_KEEPING_SCORE_DESC
-LANG_ENGLISH         "^2MEGA\n^7Activated (3x Activations)\nSpawns a double points power up."
+LANG_ENGLISH         "^2メガ\n^7発動（3回使用可能）\nダブルポイントのパワーアップを出現させる。"
 
 REFERENCE            FATAL_CONTRAPTION_DESC
-LANG_ENGLISH         "^2MEGA\n^7Activated (5x Activations)\nSpawn a Death Machine power up."
+LANG_ENGLISH         "^2メガ\n^7発動（5回使用可能）\nデスマシーンのパワーアップを出現させる。"
 
 REFERENCE            HEAD_DRAMA_DESC
-LANG_ENGLISH         "^6ULTRA-RARE MEGA\n^7Activates Immediately (Active for 3 full rounds)\nAny bullet which hits a zombie will damage its head."
+LANG_ENGLISH         "^6ウルトラレア メガ\n^7即時発動（3ラウンド持続）\nゾンビに命中したすべての弾丸が頭部にダメージを与える。"
 
 REFERENCE            TEMPORAL_GIFT_DESC
-LANG_ENGLISH         "^3RARE MEGA\n^7Activates Immediately (Active for 5 full rounds)\nPower ups last longer."
+LANG_ENGLISH         "^3レア メガ\n^7即時発動（5ラウンド持続）\nパワーアップの効果時間が長くなる。"
 
 REFERENCE            DANGER_CLOSEST_DESC
-LANG_ENGLISH         "Activates Immediately (Lasts 20 full rounds)\nZero explosive damage."
+LANG_ENGLISH         "即時発動（20ラウンド持続）\n爆発によるダメージを受けない。"
 
 ENDMARKER

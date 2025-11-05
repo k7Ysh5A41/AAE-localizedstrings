@@ -308,4 +308,31 @@ LANG_ENGLISH     "Центральные иконки Perk"
 REFERENCE           NOATTACHMENT  
 LANG_ENGLISH     "Нет вложения"  
 
+REFERENCE           HUDMOVEMENT
+LANG_ENGLISH        "Отключить тряску интерфейса (HUD)"
+
+REFERENCE           BATTLECHAT
+LANG_ENGLISH        "Отключить субтитры разговоров игроков"
+
+REFERENCE           IE_OVERLAY
+LANG_ENGLISH        "Отключить фильтр неактивных глаз"
+
+REFERENCE           HPBAR_RANDOM_NAMES
+LANG_ENGLISH        "Включить и использовать случайные имена"
+
+REFERENCE           PLAYER_HEALTHBAR
+LANG_ENGLISH        "Полоса здоровья над игроком"
+
+REFERENCE           BGB_NOULTRA
+LANG_ENGLISH        "Включено, но без ультра-редкого"
+
+REFERENCE           RELOADCANCEL
+LANG_ENGLISH        "Отключить ручную отмену перезарядки"
+
+REFERENCE           TRIGGER_MARKER
+LANG_ENGLISH        "Отключить маркер триггера"
+
+REFERENCE           SHOTGUN_GIB
+LANG_ENGLISH        "Отключить дробление дробовика"
+
 ENDMARKER
