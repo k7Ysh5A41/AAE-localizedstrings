@@ -90,7 +90,7 @@ REFERENCE            SWORD_FLAY_DESC
 LANG_ENGLISH         "Activador: inmediato (dura 2.5 minutos)\nLos ataques cuerpo a cuerpo infligen daño infinito, afectando hasta a X zombis\ndentro del alcance (X es 2 al apuñalar, X es 4 al dar un tajo)"
 
 REFERENCE            SHARE
-LANG_ENGLISH         "Presiona ^3[{+melee}] ^7 para regalar este GobbleGum"
+LANG_ENGLISH         "Presiona ^3[{+melee}] ^7 para regalar este GG"
 
 REFERENCE            ANYWHERE_BUT_HERE_DESC
 LANG_ENGLISH         "Activado (x5 activaciones).\nTe teletransportas al instante a una posición aleatoria. Una detonación aturdidora derriba a los enemigos cercanos para que estés a salvo."
