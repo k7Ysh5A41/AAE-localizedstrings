@@ -320,4 +320,7 @@ LANG_ENGLISH        "Zwischenablage ist leer"
 REFERENCE           DOWNLOAD_MAP_FROM_CLIPBOARD_ERROR_DESC2
 LANG_ENGLISH        "Karten-ID nicht gefunden"
 
+REFERENCE           SWITCH_SINGLE_WIELD
+LANG_ENGLISH     "Drücke ^3[{+actionslot 3}]^7, um auf Einhandwaffe zu wechseln"
+
 ENDMARKER

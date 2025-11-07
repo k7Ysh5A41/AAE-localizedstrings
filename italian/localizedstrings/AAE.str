@@ -320,4 +320,7 @@ LANG_ENGLISH        "Appunti vuoti"
 REFERENCE           DOWNLOAD_MAP_FROM_CLIPBOARD_ERROR_DESC2
 LANG_ENGLISH        "ID mappa non trovato"
 
+REFERENCE           SWITCH_SINGLE_WIELD
+LANG_ENGLISH     "Premi ^3[{+actionslot 3}]^7 per passare all'uso singolo"
+
 ENDMARKER

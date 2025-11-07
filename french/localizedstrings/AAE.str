@@ -320,4 +320,7 @@ LANG_ENGLISH        "Le presse-papiers est vide"
 REFERENCE           DOWNLOAD_MAP_FROM_CLIPBOARD_ERROR_DESC2
 LANG_ENGLISH        "ID de carte introuvable"
 
+REFERENCE           SWITCH_SINGLE_WIELD
+LANG_ENGLISH     "Appuyez sur ^3[{+actionslot 3}]^7 pour passer à une seule arme"
+
 ENDMARKER
