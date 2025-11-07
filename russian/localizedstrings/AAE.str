@@ -320,4 +320,7 @@ LANG_ENGLISH        "Буфер обмена пуст"
 REFERENCE           DOWNLOAD_MAP_FROM_CLIPBOARD_ERROR_DESC2
 LANG_ENGLISH        "ID карты не найден"
 
+REFERENCE           SWITCH_SINGLE_WIELD
+LANG_ENGLISH     "Нажмите ^3[{+actionslot 3}]^7, чтобы переключиться на одноручное оружие"
+
 ENDMARKER

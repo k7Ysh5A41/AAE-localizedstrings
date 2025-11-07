@@ -320,4 +320,7 @@ LANG_ENGLISH        "A área de transferência está vazia"
 REFERENCE           DOWNLOAD_MAP_FROM_CLIPBOARD_ERROR_DESC2
 LANG_ENGLISH        "ID do mapa não encontrado"
 
+REFERENCE           SWITCH_SINGLE_WIELD
+LANG_ENGLISH     "Pressione ^3[{+actionslot 3}]^7 para alternar para arma única"
+
 ENDMARKER

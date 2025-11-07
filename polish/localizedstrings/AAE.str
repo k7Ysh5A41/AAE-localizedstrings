@@ -320,4 +320,7 @@ LANG_ENGLISH        "Schowek jest pusty"
 REFERENCE           DOWNLOAD_MAP_FROM_CLIPBOARD_ERROR_DESC2
 LANG_ENGLISH        "Nie znaleziono ID mapy"
 
+REFERENCE           SWITCH_SINGLE_WIELD
+LANG_ENGLISH     "Naciśnij ^3[{+actionslot 3}]^7, aby przełączyć na pojedynczą broń"
+
 ENDMARKER

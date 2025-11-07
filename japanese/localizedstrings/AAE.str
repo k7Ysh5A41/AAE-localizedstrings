@@ -320,4 +320,7 @@ LANG_ENGLISH        "クリップボードが空です"
 REFERENCE           DOWNLOAD_MAP_FROM_CLIPBOARD_ERROR_DESC2
 LANG_ENGLISH        "マップIDが見つかりません"
 
+REFERENCE           SWITCH_SINGLE_WIELD
+LANG_ENGLISH     "^3[{+actionslot 3}]^7 を押して片手持ちに切り替え"
+
 ENDMARKER

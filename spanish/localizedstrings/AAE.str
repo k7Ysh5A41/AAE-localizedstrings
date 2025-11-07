@@ -320,4 +320,7 @@ LANG_ENGLISH       "El portapapeles está vacío"
 REFERENCE           DOWNLOAD_MAP_FROM_CLIPBOARD_ERROR_DESC2
 LANG_ENGLISH       "ID del mapa no encontrado"
 
+REFERENCE           SWITCH_SINGLE_WIELD
+LANG_ENGLISH     "Presiona ^3[{+actionslot 3}]^7 para cambiar a un solo arma"
+
 ENDMARKER
