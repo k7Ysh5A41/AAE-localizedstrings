@@ -69,7 +69,7 @@ REFERENCE           PAYHALF_GAMEPAD
 LANG_ENGLISH       "Presiona [{+melee}] Para pagar la mitad del costo de la puerta"
 
 REFERENCE           PING
-LANG_ENGLISH     "^7  marco  "
+LANG_ENGLISH     "^7  Marco  "
 
 REFERENCE           PING_DOOR
 LANG_ENGLISH     "una puerta"
