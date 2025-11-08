@@ -69,39 +69,39 @@ REFERENCE           PAYHALF_GAMEPAD
 LANG_ENGLISH       "Presiona [{+melee}] Para pagar la mitad del costo de la puerta"
 
 REFERENCE           PING
-LANG_ENGLISH     "^7  Marcado/a  "
+LANG_ENGLISH     "^7  marco  "
 
 REFERENCE           PING_DOOR
-LANG_ENGLISH     "Puerta"
+LANG_ENGLISH     "una puerta"
 
 REFERENCE           PING_CRAFTTABLE
-LANG_ENGLISH     "Mesa de construcción"
+LANG_ENGLISH     "una mesa de construcción"
 
 REFERENCE           PING_LOCATION
-LANG_ENGLISH     "Ubicación"
+LANG_ENGLISH     "una ubicación"
 
 REFERENCE           PING_WALLBUY
-LANG_ENGLISH     "Arma de pared"
+LANG_ENGLISH     "un arma de pared"
 
 REFERENCE           PING_POWER
-LANG_ENGLISH     "Interruptor de energía"
+LANG_ENGLISH     "el interruptor de energía"
 
 REFERENCE           PING_PERK_RANDOM
-LANG_ENGLISH     "Der Wunderfizz"
+LANG_ENGLISH     "la Der Wunderfizz"
 
 REFERENCE           PING_BOX
-LANG_ENGLISH     "Caja misteriosa"
+LANG_ENGLISH     "la Caja Misteriosa"
 
 REFERENCE           PING_ZOMBIE
-LANG_ENGLISH     "^1Enemigo"
+LANG_ENGLISH     "a un ^1enemigo"
 
 REFERENCE           PING_BGB
-LANG_ENGLISH     "Máquina de GobbleGum"
+LANG_ENGLISH     "una máquina de GobbleGum"
 
 REFERENCE           PING_PERK
-LANG_ENGLISH     "Máquina de ventaja"
+LANG_ENGLISH     "una máquina de ventaja"
 
 REFERENCE           PING_PAP
-LANG_ENGLISH     "Máquina de Pack-A-Punch"
+LANG_ENGLISH     "la máquina de Pack-A-Punch"
 
 ENDMARKER
