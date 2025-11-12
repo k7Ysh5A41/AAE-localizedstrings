@@ -297,7 +297,7 @@ REFERENCE           UPDATE_ASPECT_RATIO
 LANG_ENGLISH     "Update the Aspect Ratio"
 
 REFERENCE           LITE_ONLY
-LANG_ENGLISH     "AAE Lite Only"
+LANG_ENGLISH     "^4Compatible only with AAE Lite version"
 
 REFERENCE           LOBBY_SIZE
 LANG_ENGLISH     "Click to Change Lobby Size"
