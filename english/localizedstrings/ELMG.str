@@ -196,4 +196,10 @@ LANG_ENGLISH     "^3[{+attack}]^7 Merciless Dash\n^3[{+breath_sprint}] ^7+ ^3[{+
 REFERENCE           MOD_DESC
 LANG_ENGLISH     "Welcome to the all-encompassing All-Around Enhancement mod! This mod adds a lot of QoL features and adds several bug fixes for the vanilla BO3 Zombies mode, making this the definitive zombies experience."
 
+REFERENCE           CHAT_BANK_SAVE1
+LANG_ENGLISH     " ^7has deposited^3 "
+
+REFERENCE           CHAT_BANK_SAVE2
+LANG_ENGLISH     " ^7into the bank"
+
 ENDMARKER
