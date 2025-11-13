@@ -209,4 +209,7 @@ LANG_ENGLISH     " ^7Ha transferido^3 "
 REFERENCE           CHAT_TRANSFER2
 LANG_ENGLISH     " ^7a "
 
+REFERENCE           ROAMER_SPECTATING
+LANG_ENGLISH     "Presiona ^3[{+activate}] ^7para terminar esta ronda"
+
 ENDMARKER
