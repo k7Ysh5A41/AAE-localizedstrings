@@ -209,4 +209,7 @@ LANG_ENGLISH     " ^7が送金しました^3 "
 REFERENCE           CHAT_TRANSFER2
 LANG_ENGLISH     " ^7へ "
 
+REFERENCE           ROAMER_SPECTATING
+LANG_ENGLISH     "^3[{+activate}] ^7を押してこのラウンドを終了"
+
 ENDMARKER
