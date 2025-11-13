@@ -330,7 +330,7 @@ REFERENCE           RELOADCANCEL
 LANG_SPANISH        "Deshabilitar la cancelación manual de recarga"
 
 REFERENCE           TRIGGER_MARKER
-LANG_SPANISH        "Deshabilitar los marcadores de activación de los EE"
+LANG_SPANISH        "Deshabilitar el marcador visual circular de los activadores"
 
 REFERENCE           SHOTGUN_GIB
 LANG_SPANISH        "Deshab. el desmembramiento cuando se usa la escopeta"
