@@ -297,7 +297,7 @@ REFERENCE           UPDATE_ASPECT_RATIO
 LANG_ENGLISH        "アスペクト比を更新"
 
 REFERENCE           LITE_ONLY
-LANG_ENGLISH        "AAE Lite のみ"
+LANG_ENGLISH     "^4AAE Liteバージョンとのみ互換性があります"
 
 REFERENCE           LOBBY_SIZE
 LANG_ENGLISH        "クリックしてロビーサイズを変更"
@@ -322,5 +322,11 @@ LANG_ENGLISH        "マップIDが見つかりません"
 
 REFERENCE           SWITCH_SINGLE_WIELD
 LANG_ENGLISH     "^3[{+actionslot 3}]^7 を押して片手持ちに切り替え"
+
+REFERENCE           RAMPAGE_TOAST
+LANG_ENGLISH     "フレンジーインデューサーが無効化されました"
+
+REFERENCE           RELOADING
+LANG_ENGLISH     "リロード中"
 
 ENDMARKER

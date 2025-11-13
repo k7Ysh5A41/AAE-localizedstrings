@@ -297,7 +297,7 @@ REFERENCE           UPDATE_ASPECT_RATIO
 LANG_ENGLISH        "Seitenverhältnis aktualisieren"
 
 REFERENCE           LITE_ONLY
-LANG_ENGLISH        "Nur AAE Lite"
+LANG_ENGLISH     "^4Nur kompatibel mit der AAE Lite-Version"
 
 REFERENCE           LOBBY_SIZE
 LANG_ENGLISH        "Klicken, um die Lobbygröße zu ändern"
@@ -322,5 +322,11 @@ LANG_ENGLISH        "Karten-ID nicht gefunden"
 
 REFERENCE           SWITCH_SINGLE_WIELD
 LANG_ENGLISH     "Drücke ^3[{+actionslot 3}]^7, um auf Einhandwaffe zu wechseln"
+
+REFERENCE           RAMPAGE_TOAST
+LANG_ENGLISH     "Raserei-Induktor deaktiviert durch"
+
+REFERENCE           RELOADING
+LANG_ENGLISH     "Nachladen"
 
 ENDMARKER

@@ -297,7 +297,7 @@ REFERENCE           UPDATE_ASPECT_RATIO
 LANG_ENGLISH        "Aggiorna il rapporto d’aspetto"
 
 REFERENCE           LITE_ONLY
-LANG_ENGLISH        "Solo AAE Lite"
+LANG_ENGLISH     "^4Compatibile solo con la versione AAE Lite"
 
 REFERENCE           LOBBY_SIZE
 LANG_ENGLISH        "Clicca per cambiare la dimensione della lobby"
@@ -322,5 +322,11 @@ LANG_ENGLISH        "ID mappa non trovato"
 
 REFERENCE           SWITCH_SINGLE_WIELD
 LANG_ENGLISH     "Premi ^3[{+actionslot 3}]^7 per passare all'uso singolo"
+
+REFERENCE           RAMPAGE_TOAST
+LANG_ENGLISH     "Induttore di furia disattivato da"
+
+REFERENCE           RELOADING
+LANG_ENGLISH     "Ricaricamento"
 
 ENDMARKER

@@ -297,7 +297,7 @@ REFERENCE           UPDATE_ASPECT_RATIO
 LANG_ENGLISH        "Mettre à jour le rapport d’aspect"
 
 REFERENCE           LITE_ONLY
-LANG_ENGLISH        "AAE Lite uniquement"
+LANG_ENGLISH     "^4Compatible uniquement avec la version AAE Lite"
 
 REFERENCE           LOBBY_SIZE
 LANG_ENGLISH        "Cliquez pour changer la taille du lobby"
@@ -322,5 +322,11 @@ LANG_ENGLISH        "ID de carte introuvable"
 
 REFERENCE           SWITCH_SINGLE_WIELD
 LANG_ENGLISH     "Appuyez sur ^3[{+actionslot 3}]^7 pour passer à une seule arme"
+
+REFERENCE           RAMPAGE_TOAST
+LANG_ENGLISH     "Inducteur de frénésie désactivé par"
+
+REFERENCE           RELOADING
+LANG_ENGLISH     "Rechargement"
 
 ENDMARKER
