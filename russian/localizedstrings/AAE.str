@@ -297,7 +297,7 @@ REFERENCE           UPDATE_ASPECT_RATIO
 LANG_ENGLISH        "Обновить соотношение сторон"
 
 REFERENCE           LITE_ONLY
-LANG_ENGLISH        "Только AAE Lite"
+LANG_ENGLISH     "^4Совместимо только с версией AAE Lite"
 
 REFERENCE           LOBBY_SIZE
 LANG_ENGLISH        "Нажмите, чтобы изменить размер лобби"
@@ -322,5 +322,11 @@ LANG_ENGLISH        "ID карты не найден"
 
 REFERENCE           SWITCH_SINGLE_WIELD
 LANG_ENGLISH     "Нажмите ^3[{+actionslot 3}]^7, чтобы переключиться на одноручное оружие"
+
+REFERENCE           RAMPAGE_TOAST
+LANG_ENGLISH     "Индюсер ярости деактивирован"
+
+REFERENCE           RELOADING
+LANG_ENGLISH     "Перезарядка"
 
 ENDMARKER

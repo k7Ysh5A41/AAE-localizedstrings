@@ -297,7 +297,7 @@ REFERENCE           UPDATE_ASPECT_RATIO
 LANG_ENGLISH        "Atualizar a proporção de aspecto"
 
 REFERENCE           LITE_ONLY
-LANG_ENGLISH        "Apenas AAE Lite"
+LANG_ENGLISH     "^4Compatível apenas com a versão AAE Lite"
 
 REFERENCE           LOBBY_SIZE
 LANG_ENGLISH        "Clique para mudar o tamanho do lobby"
@@ -322,5 +322,11 @@ LANG_ENGLISH        "ID do mapa não encontrado"
 
 REFERENCE           SWITCH_SINGLE_WIELD
 LANG_ENGLISH     "Pressione ^3[{+actionslot 3}]^7 para alternar para arma única"
+
+REFERENCE           RAMPAGE_TOAST
+LANG_ENGLISH     "Indutor de fúria desativado por"
+
+REFERENCE           RELOADING
+LANG_ENGLISH     "Recarregando"
 
 ENDMARKER
