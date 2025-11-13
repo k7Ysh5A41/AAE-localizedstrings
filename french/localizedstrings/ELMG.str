@@ -197,4 +197,16 @@ LANG_ENGLISH     "^3[{+attack}]^7 Frappe impitoyable\n^3[{+breath_sprint}] ^7+ ^
 REFERENCE           MOD_DESC
 LANG_ENGLISH     "Bienvenue dans le mod All-Around Enhancement ! Ce mod ajoute de nombreuses fonctionnalités QoL et corrige plusieurs bugs du mode Zombies vanilla de Black Ops III, offrant ainsi l'expérience zombies définitive."
 
+REFERENCE           CHAT_BANK_SAVE1
+LANG_ENGLISH     " ^7A déposé^3 "
+
+REFERENCE           CHAT_BANK_SAVE2
+LANG_ENGLISH     " ^7Dans la banque"
+
+REFERENCE           CHAT_TRANSFER1
+LANG_ENGLISH     " ^7A transféré^3 "
+
+REFERENCE           CHAT_TRANSFER2
+LANG_ENGLISH     " ^7À "
+
 ENDMARKER

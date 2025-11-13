@@ -197,5 +197,16 @@ LANG_ENGLISH     "^3[{+attack}]^7 Para un súper deslizamiento.\n^3[{+breath_spr
 REFERENCE           MOD_DESC
 LANG_ENGLISH     "Bienvenidos al mod de zombis All-Around Enhancement. Este mod añade muchas funciones QoL y repara varios problemas del BO3 vanilla en un solo mod, lo que lo convierte en el mod de zombis definitivo."
 
+REFERENCE           CHAT_BANK_SAVE1
+LANG_ENGLISH     " ^7Ha depositado^3 "
+
+REFERENCE           CHAT_BANK_SAVE2
+LANG_ENGLISH     " ^7en el banco"
+
+REFERENCE           CHAT_TRANSFER1
+LANG_ENGLISH     " ^7Ha transferido^3 "
+
+REFERENCE           CHAT_TRANSFER2
+LANG_ENGLISH     " ^7a "
 
 ENDMARKER
