@@ -297,7 +297,7 @@ REFERENCE           UPDATE_ASPECT_RATIO
 LANG_ENGLISH        "Actualizar la relación de aspecto"
 
 REFERENCE           LITE_ONLY
-LANG_ENGLISH       "^4ESTE MAPA SOLO ES JUGABLE CON LA VERSIÓN AAE LITE"
+LANG_ENGLISH       "^1SOLO FUNCIONA CON LA VERSIÓN AAE LITE"
 
 REFERENCE           LOBBY_SIZE
 LANG_ENGLISH       "Haz clic para cambiar el tamaño de la sala"
@@ -327,6 +327,6 @@ REFERENCE           RAMPAGE_TOAST
 LANG_ENGLISH     "El inductor de frenesí fue desactivado por"
 
 REFERENCE           RELOADING
-LANG_ENGLISH     "Recargando..."
+LANG_ENGLISH     "Recargando"
 
 ENDMARKER
