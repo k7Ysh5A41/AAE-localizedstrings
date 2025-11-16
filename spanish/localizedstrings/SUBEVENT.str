@@ -93,7 +93,7 @@ REFERENCE           PING_BOX
 LANG_ENGLISH     "la Caja Misteriosa"
 
 REFERENCE           PING_ZOMBIE
-LANG_ENGLISH     "a un ^1enemigo"
+LANG_ENGLISH     "a un ^1Enemigo"
 
 REFERENCE           PING_BGB
 LANG_ENGLISH     "una máquina de GobbleGum"
