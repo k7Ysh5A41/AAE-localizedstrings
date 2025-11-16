@@ -306,7 +306,7 @@ REFERENCE           T10
 LANG_ENGLISH     "Black Ops 6"
 
 REFERENCE           NOATTACHMENT  
-LANG_SPANISH     "Sin Accesorios"
+LANG_ENGLISH     "Sin Accesorios"
 
 REFERENCE           HUDMOVEMENT
 LANG_ENGLISH     "Deshabilitar el movimiento del HUD"
@@ -324,15 +324,15 @@ REFERENCE           HPBAR_RANDOM_NAMES
 LANG_ENGLISH        "Con Nombre Aleatorio"
 
 REFERENCE           BGB_NOULTRA
-LANG_SPANISH        "Activada, pero sin Mega Raros"
+LANG_ENGLISH        "Activada, pero sin Mega Raros"
 
 REFERENCE           RELOADCANCEL
-LANG_SPANISH        "Deshabilitar la cancelación manual de recarga"
+LANG_ENGLISH        "Deshabilitar la cancelación manual de recarga"
 
 REFERENCE           TRIGGER_MARKER
-LANG_SPANISH        "Deshabilitar el marcador visual circular de los activadores"
+LANG_ENGLISH        "Deshabilitar el marcador visual circular de los activadores"
 
 REFERENCE           SHOTGUN_GIB
-LANG_SPANISH        "Deshab. el desmembramiento cuando se usan las escopetas"
+LANG_ENGLISH        "Deshab. el desmembramiento cuando se usan las escopetas"
 
 ENDMARKER
