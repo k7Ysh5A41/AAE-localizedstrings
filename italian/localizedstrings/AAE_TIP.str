@@ -98,4 +98,16 @@ LANG_ENGLISH     "Dimensione caricatore"
 REFERENCE           STOCKAMMO
 LANG_ENGLISH     "Munizioni in riserva"
 
+REFERENCE           WONDERWEAPON
+LANG_ENGLISH        "ARMA MERAVIGLIOSA"
+
+REFERENCE           GASWEAPON
+LANG_ENGLISH        "ARMA A GAS"
+
+REFERENCE           FREE_LANDER_TITLE
+LANG_ENGLISH        "Free Lander"
+
+REFERENCE           FREE_LANDER
+LANG_ENGLISH        "Ignora il prezzo indicato di 250 — è in realtà gratuito."
+
 ENDMARKER

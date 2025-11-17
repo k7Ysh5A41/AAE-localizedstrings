@@ -6,7 +6,7 @@ CONFIG              "C:\projects\cod\t7\bin\StringEd.cfg"
 FILENOTES           ""
 
 REFERENCE           RANDOM_ATTACHMENTS
-LANG_ENGLISH     "Acceso. y camos aleat."
+LANG_ENGLISH     "Acceso. y Camuflajes Aleat."
 
 REFERENCE           RANDOM_ATTACHMENTS_DESC
 LANG_ENGLISH     "Cada nueva arma que obtengas tendrá accesorios, retículas y camuflajes aleatorios."
@@ -52,12 +52,6 @@ LANG_ENGLISH     "Daño numérico"
 
 REFERENCE           DAMAGE_NUMBER_DESC
 LANG_ENGLISH     "Mostrará el daño que le causas al enemigo con números en pantalla."
-
-REFERENCE           HUD
-LANG_ENGLISH     "Opciones del HUD"
-
-REFERENCE           HUD_OPTION
-LANG_ENGLISH     "HUD con movimiento"
 
 REFERENCE           CENTERCROSS
 LANG_ENGLISH     "Deshabilitar el punto en el centro de la pantalla"
@@ -111,9 +105,9 @@ REFERENCE           HIDE_CUSTOM_MAP_WEAPON
 LANG_ENGLISH     "Deshabilitar las armas de los mapas personalizados"
 
 REFERENCE           HIDE_AAE_WEAPON
-LANG_ENGLISH     "Deshabilitar las armas del mod AAE"
+LANG_ENGLISH     "Deshabilitar las armas del mod del AAE en la caja"
 
 REFERENCE           ALLWALLBUY
-LANG_ENGLISH     "Habilitar armas de pared economicas en la caja"
+LANG_ENGLISH     "Habilitar las armas de pared economicas en la caja"
 
 ENDMARKER

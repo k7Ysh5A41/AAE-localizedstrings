@@ -156,10 +156,10 @@ REFERENCE           AFK_DESC
 LANG_ENGLISH     "Los zombis te van a ignorar y los jugadores pueden empujarte"
 
 REFERENCE           PAP_OR_NORMAL
-LANG_ENGLISH     "PAP o normal"
+LANG_ENGLISH     "PAP o Normal"
 
 REFERENCE           PAP_AND_NORMAL
-LANG_ENGLISH     "PAP y normal"
+LANG_ENGLISH     "PAP y Normal"
 
 REFERENCE           THROW_CANCLE
 LANG_ENGLISH     " / Cancelar arrojable"
@@ -240,7 +240,7 @@ REFERENCE           DOWNLOAD_MAP_FROM_CLIPBOARD_ERROR_TITLE
 LANG_ENGLISH     "Enlace inválido"
 
 REFERENCE           DOWNLOAD_MAP_FROM_CLIPBOARD_ERROR_DESC
-LANG_ENGLISH     "El enlace del mapa es incorrecto"
+LANG_ENGLISH     "El enlace es incorrecto"
 
 REFERENCE           DOWNLOAD_MAP_FROM_CLIPBOARD_INSTALLED_TITLE
 LANG_ENGLISH     "El mapa se ha instalado"
@@ -262,5 +262,71 @@ LANG_ENGLISH     "Presiona ^3[{+activate}]^7 para disparar el cañón antiaéreo
 
 REFERENCE           NEED_UPDATE
 LANG_ENGLISH     "¡Se encontró una nueva actualización de AAE!\nDebes volver a suscribirte a AAE para recibir las\nactualizaciones y poder jugar con otros jugadores"
+
+REFERENCE           QUIT
+LANG_ENGLISH     "Salir al escritorio"
+
+REFERENCE           BOOKMARKER
+LANG_ENGLISH        "Marcar/Desmarcar mapa"
+
+REFERENCE           ADDBOOKMARKER
+LANG_ENGLISH        "Añadido a marcados"
+
+REFERENCE           REMOVEBOOKMARKER
+LANG_ENGLISH        "Eliminado de marcados"
+
+REFERENCE           BOOKMARKER_ONLYUSERMAPS
+LANG_ENGLISH        "Solo mapas personalizados"
+
+REFERENCE           BOOKMARKER_ERROR
+LANG_ENGLISH        "No se pudo realizar la acción"
+
+REFERENCE           OPENINSTEAM
+LANG_ENGLISH        "Abrir este mapa en ^BBUTTON_CYCLE_RIGHT^"
+
+REFERENCE           OPENINSTEAMCURRENTMAP
+LANG_ENGLISH        "VER ESTE MAPA ACTUAL EN ^BBUTTON_CYCLE_RIGHT^"
+
+REFERENCE           ISLAND_RAINBOW_WATER
+LANG_ENGLISH        "Presiona ^3[{+activate}]^7 para recoger el agua arcoíris"
+
+REFERENCE           ISLAND_RAINBOW_WATER_TITLE
+LANG_ENGLISH        "Agua arcoíris"
+
+REFERENCE           UPDATE_ASPECT_RATIO
+LANG_ENGLISH        "Actualizar la relación de aspecto"
+
+REFERENCE           LITE_ONLY
+LANG_ENGLISH       "^1SOLO FUNCIONA CON LA VERSIÓN AAE LITE"
+
+REFERENCE           LOBBY_SIZE
+LANG_ENGLISH       "Haz clic para cambiar el tamaño de la sala"
+
+REFERENCE           DOWNLOAD_MAP_FROM_CLIPBOARD_INSTALLING_TITLE
+LANG_ENGLISH       "Este mapa se está instalando"
+
+REFERENCE           DOWNLOAD_MAP_FROM_CLIPBOARD_INSTALLING_CONTENT
+LANG_ENGLISH       "Por favor espera"
+
+REFERENCE           DOWNLOAD_MAP_FROM_CLIPBOARD_INSTALLED_CONTENT
+LANG_ENGLISH       "Prueba con otro mapa"
+
+REFERENCE           DOWNLOAD_MAP_FROM_CLIPBOARD_EMPTY_TITLE
+LANG_ENGLISH       "Por favor, revisa el ID correcto del mapa"
+
+REFERENCE           DOWNLOAD_MAP_FROM_CLIPBOARD_EMPTY_CONTENT
+LANG_ENGLISH       "El portapapeles está vacío"
+
+REFERENCE           DOWNLOAD_MAP_FROM_CLIPBOARD_ERROR_DESC2
+LANG_ENGLISH       "ID del mapa no encontrado"
+
+REFERENCE           SWITCH_SINGLE_WIELD
+LANG_ENGLISH     "Presiona ^3[{+actionslot 3}]^7 para convertir esta arma dual a una de una mano"
+
+REFERENCE           RAMPAGE_TOAST
+LANG_ENGLISH     "El inductor de frenesí fue desactivado por"
+
+REFERENCE           RELOADING
+LANG_ENGLISH     "Recargando"
 
 ENDMARKER

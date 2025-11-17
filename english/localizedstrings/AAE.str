@@ -270,21 +270,63 @@ REFERENCE           BOOKMARKER
 LANG_ENGLISH     "Bookmarker"
 
 REFERENCE           ADDBOOKMARKER
-LANG_ENGLISH     "Added to bookmarks"
+LANG_ENGLISH     "Added to Bookmarks"
 
 REFERENCE           REMOVEBOOKMARKER
-LANG_ENGLISH     "Bookmark removed"
+LANG_ENGLISH     "Bookmark Removed"
 
 REFERENCE           BOOKMARKER_ONLYUSERMAPS
-LANG_ENGLISH     "Custom maps only"
+LANG_ENGLISH     "Custom Maps Only"
 
 REFERENCE           BOOKMARKER_ERROR
-LANG_ENGLISH     "Unable to perform actions"
+LANG_ENGLISH     "Unable to Perform Actions"
 
 REFERENCE           OPENINSTEAM
 LANG_ENGLISH     "Open in  ^BBUTTON_CYCLE_RIGHT^"
 
 REFERENCE           OPENINSTEAMCURRENTMAP
 LANG_ENGLISH     "Open the Map in  ^BBUTTON_CYCLE_RIGHT^"
+
+REFERENCE           ISLAND_RAINBOW_WATER
+LANG_ENGLISH     "HOLD ^3[{+activate}]^7 to Pick up the Rainbow 115 Water"
+
+REFERENCE           ISLAND_RAINBOW_WATER_TITLE
+LANG_ENGLISH     "Rainbow 115 Water"
+
+REFERENCE           UPDATE_ASPECT_RATIO
+LANG_ENGLISH     "Update the Aspect Ratio"
+
+REFERENCE           LITE_ONLY
+LANG_ENGLISH     "^4Compatible only with AAE Lite version"
+
+REFERENCE           LOBBY_SIZE
+LANG_ENGLISH     "Click to Change Lobby Size"
+
+REFERENCE           DOWNLOAD_MAP_FROM_CLIPBOARD_INSTALLING_TITLE
+LANG_ENGLISH     "This Map is Installing"
+
+REFERENCE           DOWNLOAD_MAP_FROM_CLIPBOARD_INSTALLING_CONTENT
+LANG_ENGLISH     "Please wait"
+
+REFERENCE           DOWNLOAD_MAP_FROM_CLIPBOARD_INSTALLED_CONTENT
+LANG_ENGLISH     "Try Another Map"
+
+REFERENCE           DOWNLOAD_MAP_FROM_CLIPBOARD_EMPTY_TITLE
+LANG_ENGLISH     "Please copy the correct map ID to the clipboard"
+
+REFERENCE           DOWNLOAD_MAP_FROM_CLIPBOARD_EMPTY_CONTENT
+LANG_ENGLISH     "Clipboard is empty"
+
+REFERENCE           DOWNLOAD_MAP_FROM_CLIPBOARD_ERROR_DESC2
+LANG_ENGLISH     "Map ID Not Found"
+
+REFERENCE           SWITCH_SINGLE_WIELD
+LANG_ENGLISH     "Press ^3[{+actionslot 3}]^7 switch to single wield"
+
+REFERENCE           RAMPAGE_TOAST
+LANG_ENGLISH     "Rampage Inducer Deactivated By"
+
+REFERENCE           RELOADING
+LANG_ENGLISH     "Reloading"
 
 ENDMARKER

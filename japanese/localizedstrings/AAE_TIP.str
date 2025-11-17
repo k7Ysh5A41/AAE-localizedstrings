@@ -98,4 +98,16 @@ LANG_ENGLISH     "マガジン容量"
 REFERENCE           STOCKAMMO
 LANG_ENGLISH     "ストック弾薬"
 
+REFERENCE           WONDERWEAPON
+LANG_ENGLISH        "ワンダーウェポン"
+
+REFERENCE           GASWEAPON
+LANG_ENGLISH        "ガスウェポン"
+
+REFERENCE           FREE_LANDER_TITLE
+LANG_ENGLISH        "Free Lander"
+
+REFERENCE           FREE_LANDER
+LANG_ENGLISH        "250と表示されても無視してください — 実際は無料です。"
+
 ENDMARKER

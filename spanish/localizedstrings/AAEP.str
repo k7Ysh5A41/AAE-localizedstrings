@@ -81,7 +81,7 @@ REFERENCE            CASTLE_EE_TIMER
 LANG_ENGLISH         "Cuenta regresiva: "
 
 REFERENCE            GUM_DISABLE
-LANG_ENGLISH         " GobbleGum desact. lobby muy grande"
+LANG_ENGLISH         " GobbleGum desact. sala muy grande"
 
 REFERENCE            MONKEY_PAP
 LANG_ENGLISH         "Presiona ^3[{+melee}]^7 para PAP Mono con platillos [coste: 5000]"
@@ -225,7 +225,7 @@ REFERENCE            UNSU_MAP_DESC
 LANG_ENGLISH         "Aquí se mostrarán los mapas que no son compatibles con el mod de All Around Enhancement."
 
 REFERENCE            SHORTCUT_KEY
-LANG_ENGLISH         "^5Teclas de acceso rápido\n\n^7Linterna\nMarcar un punto\nSoltar algunos puntos\nVisión nocturna\nProfundidad de campo\nTercera persona\nVista completa del mapa\nOcultar el HUD\nPintar un grafiti\nCancelar arrojable\nCambia el Coz del arma\nCambiar de camuflaje\nCambiar la reticula"
+LANG_ENGLISH         "^5Teclas de acceso rápido\n\n^7Linterna\nMarcar un punto\nSoltar algunos puntos\nVisión nocturna\nTercera persona\nVista completa del mapa\nOcultar el HUD\nPintar un grafiti\nCancelar arrojable\nCambia el Coz del arma\nCambiar de camuflaje\nCambiar la reticula"
 
 REFERENCE            FOV_SCALE
 LANG_ENGLISH         "Escala del campo de visión"
@@ -240,7 +240,7 @@ REFERENCE            ZC_MAP_DESC
 LANG_ENGLISH         "Mapas épicos hechos por la comunidad, celebrando la historia y esencia del modo Zombi."
 
 REFERENCE            RTT_MAP
-LANG_ENGLISH        "UN RETORNO A TRANZIT"
+LANG_ENGLISH        "MAPAS DE TRANZIT"
 
 REFERENCE            RTT_MAP_DESC
 LANG_ENGLISH        "Mapas inspirados en las icónicas secciones de Tranzit, sobreviviendo con los Victis antes de que los cohetes cayeran a la Tierra."

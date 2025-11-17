@@ -98,5 +98,16 @@ LANG_ENGLISH     "Tamanho do Carregador"
 REFERENCE           STOCKAMMO
 LANG_ENGLISH     "Munição em estoque"
 
+REFERENCE           WONDERWEAPON
+LANG_ENGLISH        "ARMA MARAVILHA"
+
+REFERENCE           GASWEAPON
+LANG_ENGLISH        "ARMA DE GÁS"
+
+REFERENCE           FREE_LANDER_TITLE
+LANG_ENGLISH        "Free Lander"
+
+REFERENCE           FREE_LANDER
+LANG_ENGLISH        "Ignore que diz 250 — na verdade é grátis."
 
 ENDMARKER

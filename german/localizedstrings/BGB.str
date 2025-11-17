@@ -89,4 +89,52 @@ LANG_ENGLISH         "Aktiv für 3 volle Runden\nErhöht die Chance, einen zufä
 REFERENCE            SWORD_FLAY_DESC
 LANG_ENGLISH         "Sofort aktiviert (Dauert 2,5 Minuten)\nNahkampfangriffe verursachen unendlichen Schaden und treffen bis zu X Zombies im Umkreis (X = 2 für Stechen, X = 4 für Schwingen)"
 
+REFERENCE            SHARE
+LANG_ENGLISH         "Drücke ^3[{+melee}] ^7, um dieses GobbleGum zu teilen"
+
+REFERENCE            ANYWHERE_BUT_HERE_DESC
+LANG_ENGLISH         "Aktiviert (5x Aktivierungen)\nTeleportiert dich sofort an einen zufälligen Ort. Eine Schockwelle stößt nahe Zombies zurück und hält dich in Sicherheit."
+
+REFERENCE            COAGULANT_DESC
+LANG_ENGLISH         "Wird sofort aktiviert (Hält 2 Stunden)\n2 Stunden Blutungszeit."
+
+REFERENCE            IN_PLAIN_SIGHT_DESC
+LANG_ENGLISH         "Aktiviert (5x Aktivierungen, jeweils 10 Sekunden)\nZombies ignorieren dich für 10 Sekunden."
+
+REFERENCE            CACHE_BACK_DESC
+LANG_ENGLISH         "^3SELTENE MEGA\n^7Aktiviert (5x Aktivierungen)\nErzeugt ein Max-Munition-Power-Up."
+
+REFERENCE            IM_FEELIN_LUCKY_DESC
+LANG_ENGLISH         "^2MEGA\n^7Aktiviert (5x Aktivierungen)\nErzeugt ein zufälliges Power-Up."
+
+REFERENCE            KILL_JOY_DESC
+LANG_ENGLISH         "^3SELTENE MEGA\n^7Aktiviert (5x Aktivierungen)\nErzeugt ein Instakill-Power-Up."
+
+REFERENCE            KILLING_TIME_DESC
+LANG_ENGLISH         "^6ULTRA-SELTENE MEGA\n^7Aktiviert (5x Aktivierungen)\nAlle Zombies frieren für 20 Sekunden ein. Wenn sie beschossen werden, werden sie nach Ablauf der Zeit vernichtet."
+
+REFERENCE            LICENSED_CONTRACTOR_DESC
+LANG_ENGLISH         "^2MEGA\n^7Aktiviert (5x Aktivierungen)\nErzeugt ein Zimmermann-Power-Up."
+
+REFERENCE            PHOENIX_UP_DESC
+LANG_ENGLISH         "^2MEGA\n^7Aktiviert (5x Aktivierungen)\nBelebt alle Teamkameraden wieder. Teamkameraden behalten all ihre Perks."
+
+REFERENCE            RESPIN_CYCLE_DESC
+LANG_ENGLISH         "^2MEGA\n^7Aktiviert (5x Aktivierungen)\nDreht die Waffen in einer mysteriösen Kiste nach der Aktivierung erneut."
+
+REFERENCE            WHOS_KEEPING_SCORE_DESC
+LANG_ENGLISH         "^2MEGA\n^7Aktiviert (3x Aktivierungen)\nErzeugt ein Doppelte-Punkte-Power-Up."
+
+REFERENCE            FATAL_CONTRAPTION_DESC
+LANG_ENGLISH         "^2MEGA\n^7Aktiviert (5x Aktivierungen)\nErzeugt ein Todesmaschine-Power-Up."
+
+REFERENCE            HEAD_DRAMA_DESC
+LANG_ENGLISH         "^6ULTRA-SELTENE MEGA\n^7Wird sofort aktiviert (Aktiv für 3 volle Runden)\nJede Kugel, die einen Zombie trifft, verursacht Kopfschaden."
+
+REFERENCE            TEMPORAL_GIFT_DESC
+LANG_ENGLISH         "^3SELTENE MEGA\n^7Wird sofort aktiviert (Aktiv für 5 volle Runden)\nPower-Ups halten länger an."
+
+REFERENCE            DANGER_CLOSEST_DESC
+LANG_ENGLISH         "Wird sofort aktiviert (Hält 20 volle Runden)\nKein Explosionsschaden."
+
 ENDMARKER

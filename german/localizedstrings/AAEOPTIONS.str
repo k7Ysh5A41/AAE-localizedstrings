@@ -305,7 +305,34 @@ LANG_ENGLISH     "Vanille"
 REFERENCE           T10
 LANG_ENGLISH     "Zentrale Perk-Icons"
 
-REFERENCE           NOATTACHMENT  
+REFERENCE           NOATTACHMENT
 LANG_ENGLISH     "Kein Anhang"  
+
+REFERENCE           HUDMOVEMENT
+LANG_ENGLISH        "HUD-Wackeln deaktivieren"
+
+REFERENCE           BATTLECHAT
+LANG_ENGLISH        "Spieler-Chat-Untertitel deaktivieren"
+
+REFERENCE           IE_OVERLAY
+LANG_ENGLISH        "Inaktive-Augen-Filter deaktivieren"
+
+REFERENCE           HPBAR_RANDOM_NAMES
+LANG_ENGLISH        "Zufällige Namen aktivieren und verwenden"
+
+REFERENCE           PLAYER_HEALTHBAR
+LANG_ENGLISH        "Spieler-Gesundheitsleiste über dem Kopf"
+
+REFERENCE           BGB_NOULTRA
+LANG_ENGLISH        "Aktiviert, aber kein Ultra-Rar"
+
+REFERENCE           RELOADCANCEL
+LANG_ENGLISH        "Manuelles Nachladen deaktivieren"
+
+REFERENCE           TRIGGER_MARKER
+LANG_ENGLISH        "Trigger-Marker deaktivieren"
+
+REFERENCE           SHOTGUN_GIB
+LANG_ENGLISH        "Schrotflinten-Gib deaktivieren"
 
 ENDMARKER

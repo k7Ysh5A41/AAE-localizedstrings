@@ -104,4 +104,10 @@ LANG_ENGLISH     "WONDER WEAPON"
 REFERENCE           GASWEAPON
 LANG_ENGLISH     "GAS WEAPON"
 
+REFERENCE           FREE_LANDER_TITLE
+LANG_ENGLISH     "Free Lander"
+
+REFERENCE           FREE_LANDER
+LANG_ENGLISH     "Ignore it saying it costs 250 —it's actually free."
+
 ENDMARKER

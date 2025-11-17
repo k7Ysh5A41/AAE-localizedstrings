@@ -246,21 +246,88 @@ REFERENCE           DOWNLOAD_MAP_FROM_CLIPBOARD_INSTALLED_TITLE
 LANG_ENGLISH     "Эта карта уже установлена"
 
 REFERENCE           VIDEOPLAYER
-LANG_ENGLISH     "КИНЕМАТИКИ КАРТЫ"
+LANG_ENGLISH     "ИНТРО КАРТ"
 
 REFERENCE           OUTRO_CAPS
-LANG_ENGLISH     "ОУТРО"
+LANG_ENGLISH     "АУТРО"
 
 REFERENCE           OUTRO
-LANG_ENGLISH     "Оутро"
+LANG_ENGLISH     "Аутро"
 
 REFERENCE           ISLAND_LOAD_AA_GUN
-LANG_ENGLISH     "Держите ^3[{+activate}]^7, чтобы зарядить зенитку"
+LANG_ENGLISH     "Держите ^3[{+activate}]^7, чтобы зарядить зенитную установку"
 
 REFERENCE           ISLAND_FIRE_AA_GUN
-LANG_ENGLISH     "Держите ^3[{+activate}]^7, чтобы выстрелить из зенитки"
+LANG_ENGLISH     "Держите ^3[{+activate}]^7, чтобы выстрелить из зенитной установки"
 
 REFERENCE           NEED_UPDATE
-LANG_ENGLISH     "Найдено новое обновление AAE!\nВам нужно повторно подписаться на AAE, чтобы получать обновления и играть онлайн с другими игроками"
+LANG_ENGLISH     "Найдено новое обновление AAE!\nВам нужно заново подписаться на AAE, чтобы получать обновления и играть онлайн с другими игроками"
+
+ENDMARKER
+REFERENCE           QUIT
+LANG_ENGLISH        "Выйти на рабочий стол"
+
+REFERENCE           BOOKMARKER
+LANG_ENGLISH        "Закладка"
+
+REFERENCE           ADDBOOKMARKER
+LANG_ENGLISH        "Добавлено в закладки"
+
+REFERENCE           REMOVEBOOKMARKER
+LANG_ENGLISH        "Закладка удалена"
+
+REFERENCE           BOOKMARKER_ONLYUSERMAPS
+LANG_ENGLISH        "Только пользовательские карты"
+
+REFERENCE           BOOKMARKER_ERROR
+LANG_ENGLISH        "Не удалось выполнить действие"
+
+REFERENCE           OPENINSTEAM
+LANG_ENGLISH        "Открыть в ^BBUTTON_CYCLE_RIGHT^"
+
+REFERENCE           OPENINSTEAMCURRENTMAP
+LANG_ENGLISH        "Открыть текущую карту в ^BBUTTON_CYCLE_RIGHT^"
+
+REFERENCE           ISLAND_RAINBOW_WATER
+LANG_ENGLISH        "УДЕРЖИВАЙ ^3[{+activate}]^7, чтобы поднять Радужную Воду 115"
+
+REFERENCE           ISLAND_RAINBOW_WATER_TITLE
+LANG_ENGLISH        "Радужная Вода 115"
+
+REFERENCE           UPDATE_ASPECT_RATIO
+LANG_ENGLISH        "Обновить соотношение сторон"
+
+REFERENCE           LITE_ONLY
+LANG_ENGLISH     "^4Совместимо только с версией AAE Lite"
+
+REFERENCE           LOBBY_SIZE
+LANG_ENGLISH        "Нажмите, чтобы изменить размер лобби"
+
+REFERENCE           DOWNLOAD_MAP_FROM_CLIPBOARD_INSTALLING_TITLE
+LANG_ENGLISH        "Эта карта устанавливается"
+
+REFERENCE           DOWNLOAD_MAP_FROM_CLIPBOARD_INSTALLING_CONTENT
+LANG_ENGLISH        "Пожалуйста, подождите"
+
+REFERENCE           DOWNLOAD_MAP_FROM_CLIPBOARD_INSTALLED_CONTENT
+LANG_ENGLISH        "Попробуйте другую карту"
+
+REFERENCE           DOWNLOAD_MAP_FROM_CLIPBOARD_EMPTY_TITLE
+LANG_ENGLISH        "Скопируйте правильный ID карты в буфер обмена"
+
+REFERENCE           DOWNLOAD_MAP_FROM_CLIPBOARD_EMPTY_CONTENT
+LANG_ENGLISH        "Буфер обмена пуст"
+
+REFERENCE           DOWNLOAD_MAP_FROM_CLIPBOARD_ERROR_DESC2
+LANG_ENGLISH        "ID карты не найден"
+
+REFERENCE           SWITCH_SINGLE_WIELD
+LANG_ENGLISH     "Нажмите ^3[{+actionslot 3}]^7, чтобы переключиться на одноручное оружие"
+
+REFERENCE           RAMPAGE_TOAST
+LANG_ENGLISH     "Индюсер ярости деактивирован"
+
+REFERENCE           RELOADING
+LANG_ENGLISH     "Перезарядка"
 
 ENDMARKER

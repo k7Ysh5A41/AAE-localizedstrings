@@ -308,5 +308,31 @@ LANG_ENGLISH     "Centralne ikony Perk"
 REFERENCE           NOATTACHMENT  
 LANG_ENGLISH      "Brak załącznika"  
 
+REFERENCE           HUDMOVEMENT
+LANG_ENGLISH        "Wyłącz drżenie interfejsu HUD"
+
+REFERENCE           BATTLECHAT
+LANG_ENGLISH        "Wyłącz napisy rozmów graczy"
+
+REFERENCE           IE_OVERLAY
+LANG_ENGLISH        "Wyłącz filtr bezczynnych oczu"
+
+REFERENCE           HPBAR_RANDOM_NAMES
+LANG_ENGLISH        "Włącz i używaj losowych nazw"
+
+REFERENCE           PLAYER_HEALTHBAR
+LANG_ENGLISH        "Pasek zdrowia nad graczem"
+
+REFERENCE           BGB_NOULTRA
+LANG_ENGLISH        "Włączone, ale bez Ultra-Rare"
+
+REFERENCE           RELOADCANCEL
+LANG_ENGLISH        "Wyłącz ręczne anulowanie przeładowania"
+
+REFERENCE           TRIGGER_MARKER
+LANG_ENGLISH        "Wyłącz znacznik spustu"
+
+REFERENCE           SHOTGUN_GIB
+LANG_ENGLISH        "Wyłącz odłamki strzelby"
 
 ENDMARKER

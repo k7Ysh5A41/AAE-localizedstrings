@@ -68,4 +68,40 @@ LANG_ENGLISH     "^3K ^7Pay Half"
 REFERENCE           PAYHALF_GAMEPAD
 LANG_ENGLISH     "[{+melee}] Pay Half"
 
+REFERENCE           PING
+LANG_ENGLISH     "^7  Marked  "
+
+REFERENCE           PING_DOOR
+LANG_ENGLISH     "Door"
+
+REFERENCE           PING_CRAFTTABLE
+LANG_ENGLISH     "Crafting Table"
+
+REFERENCE           PING_LOCATION
+LANG_ENGLISH     "Location"
+
+REFERENCE           PING_WALLBUY
+LANG_ENGLISH     "Wallbuy"
+
+REFERENCE           PING_POWER
+LANG_ENGLISH     "Power Switch"
+
+REFERENCE           PING_PERK_RANDOM
+LANG_ENGLISH     "Der Wunderizz"
+
+REFERENCE           PING_BOX
+LANG_ENGLISH     "Mystery Box"
+
+REFERENCE           PING_ZOMBIE
+LANG_ENGLISH     "^1Enemy"
+
+REFERENCE           PING_BGB
+LANG_ENGLISH     "GobbleGum Machine"
+
+REFERENCE           PING_PERK
+LANG_ENGLISH     "Perk Machine"
+
+REFERENCE           PING_PAP
+LANG_ENGLISH     "Pack-a-Punch Machine"
+
 ENDMARKER

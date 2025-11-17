@@ -53,12 +53,6 @@ LANG_ENGLISH     "Anzeige der Schadenszahlen"
 REFERENCE           DAMAGE_NUMBER_DESC
 LANG_ENGLISH     "Wähle, ob der verursachte Schaden am Gegner angezeigt oder ausgeblendet werden soll."
 
-REFERENCE           HUD
-LANG_ENGLISH     "HUD-Optionen"
-
-REFERENCE           HUD_OPTION
-LANG_ENGLISH     "HUD-Bewegung"
-
 REFERENCE           CENTERCROSS
 LANG_ENGLISH     "Deaktiviere den kleinen Punkt in der Bildschirmmitte"
 
