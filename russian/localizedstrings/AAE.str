@@ -246,21 +246,21 @@ REFERENCE           DOWNLOAD_MAP_FROM_CLIPBOARD_INSTALLED_TITLE
 LANG_ENGLISH     "Эта карта уже установлена"
 
 REFERENCE           VIDEOPLAYER
-LANG_ENGLISH     "КИНЕМАТИКИ КАРТЫ"
+LANG_ENGLISH     "ИНТРО КАРТ"
 
 REFERENCE           OUTRO_CAPS
-LANG_ENGLISH     "ОУТРО"
+LANG_ENGLISH     "АУТРО"
 
 REFERENCE           OUTRO
-LANG_ENGLISH     "Оутро"
+LANG_ENGLISH     "Аутро"
 
 REFERENCE           ISLAND_LOAD_AA_GUN
-LANG_ENGLISH     "Держите ^3[{+activate}]^7, чтобы зарядить зенитку"
+LANG_ENGLISH     "Держите ^3[{+activate}]^7, чтобы зарядить зенитную установку"
 
 REFERENCE           ISLAND_FIRE_AA_GUN
-LANG_ENGLISH     "Держите ^3[{+activate}]^7, чтобы выстрелить из зенитки"
+LANG_ENGLISH     "Держите ^3[{+activate}]^7, чтобы выстрелить из зенитной установки"
 
 REFERENCE           NEED_UPDATE
-LANG_ENGLISH     "Найдено новое обновление AAE!\nВам нужно повторно подписаться на AAE, чтобы получать обновления и играть онлайн с другими игроками"
+LANG_ENGLISH     "Найдено новое обновление AAE!\nВам нужно заново подписаться на AAE, чтобы получать обновления и играть онлайн с другими игроками"
 
 ENDMARKER
