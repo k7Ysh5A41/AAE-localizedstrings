@@ -30,10 +30,10 @@ REFERENCE           FREEGUM_CONTENT
 LANG_ENGLISH     "Вы можете получить один губльгам "Я помогу!" здесь."
 
 REFERENCE           AA_AMMO_CHANCE_TITLE
-LANG_ENGLISH     "Увеличить шанс появления альтернативных патронов"
+LANG_ENGLISH     "Увеличить шанс появления снаряда для зенитной установки"
 
 REFERENCE           AA_AMMO_CHANCE_CONTENT
-LANG_ENGLISH     "Губльгам "Критический удар" увеличит вероятность появления альтернативных патронов до 100%"
+LANG_ENGLISH     "Губльгам "Критический удар" увеличит вероятность появления снаряда для зенитной установки до 100%"
 
 REFERENCE           GIANT_PERK_EE_TITLE
 LANG_ENGLISH     "EE 5-й Машины Перков"
