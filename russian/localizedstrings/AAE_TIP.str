@@ -98,16 +98,4 @@ LANG_ENGLISH     "Размер магазина"
 REFERENCE           STOCKAMMO
 LANG_ENGLISH     "Запас патронов"
 
-REFERENCE           WONDERWEAPON
-LANG_ENGLISH        "ЧУДО-ОРУЖИЕ"
-
-REFERENCE           GASWEAPON
-LANG_ENGLISH        "ГАЗОВОЕ ОРУЖИЕ"
-
-REFERENCE           FREE_LANDER_TITLE
-LANG_ENGLISH        "Free Lander"
-
-REFERENCE           FREE_LANDER
-LANG_ENGLISH        "Не обращайте внимания на цену 250 — на самом деле бесплатно."
-
 ENDMARKER

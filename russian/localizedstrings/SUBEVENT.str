@@ -68,40 +68,4 @@ LANG_ENGLISH     "^3K ^7Заплатить половину"
 REFERENCE           PAYHALF_GAMEPAD
 LANG_ENGLISH     "[{+melee}] Заплатить половину"
 
-REFERENCE           PING
-LANG_ENGLISH     "^7  Marked  "
-
-REFERENCE           PING_DOOR
-LANG_ENGLISH     "Дверь"
-
-REFERENCE           PING_CRAFTTABLE
-LANG_ENGLISH     "Верстак"
-
-REFERENCE           PING_LOCATION
-LANG_ENGLISH     "Местоположение"
-
-REFERENCE           PING_WALLBUY
-LANG_ENGLISH     "Стена покупки"
-
-REFERENCE           PING_POWER
-LANG_ENGLISH     "Выключатель питания"
-
-REFERENCE           PING_PERK_RANDOM
-LANG_ENGLISH     "Der Wunderfizz"
-
-REFERENCE           PING_BOX
-LANG_ENGLISH     "Таинственная коробка"
-
-REFERENCE           PING_ZOMBIE
-LANG_ENGLISH     "^1Враг"
-
-REFERENCE           PING_BGB
-LANG_ENGLISH     "Машина GobbleGum"
-
-REFERENCE           PING_PERK
-LANG_ENGLISH     "Машина Perk"
-
-REFERENCE           PING_PAP
-LANG_ENGLISH     "Машина Pack-a-Punch"
-
 ENDMARKER

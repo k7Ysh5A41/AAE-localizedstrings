@@ -33,7 +33,7 @@ REFERENCE           LOSTMONEY
 LANG_ENGLISH     "^1Вы потеряли все свои деньги!"
 
 REFERENCE           SHIELD_FIX
-LANG_ENGLISH     "^2Вы получили исправление для бронированного щита!"
+LANG_ENGLISH     "^2Вы получили починку для бронированного щита!"
 
 REFERENCE           WIN_SHIELD
 LANG_ENGLISH     "^2Вы выиграли бронированный щит на спину!"

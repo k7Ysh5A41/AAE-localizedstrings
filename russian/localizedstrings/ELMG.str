@@ -45,10 +45,10 @@ REFERENCE           THE_ZM
 LANG_ENGLISH     " ^7Зомби!"
 
 REFERENCE           GIVE_GUM
-LANG_ENGLISH     "Гобблгам ^5"
+LANG_ENGLISH     "Губльгам ^5"
 
 REFERENCE           GIVE_AAT
-LANG_ENGLISH     "AAT ^5"
+LANG_ENGLISH     "Альтернативный тип боеприпасов ^5"
 
 REFERENCE           ADD_CAMO
 LANG_ENGLISH     "Камуфляж: ^5"
@@ -99,10 +99,10 @@ REFERENCE           HITMARKER_OFF
 LANG_ENGLISH     "Хитмаркер Выкл."
 
 REFERENCE           CANT_BGB_HINT
-LANG_ENGLISH     "Гобблгам недоступен"
+LANG_ENGLISH     "Губльгам недоступен"
 
 REFERENCE           BGB_ON
-LANG_ENGLISH     "Машина Гобблгам активирована"
+LANG_ENGLISH     "Машина губльгам активирована"
 
 REFERENCE           BGB_OFF
 LANG_ENGLISH     "Машина Гобблгам деактивирована"
@@ -129,10 +129,10 @@ REFERENCE           DEPOSIT
 LANG_ENGLISH     "^3[{+activate}]^7 Внести ^BBUTTON_COD_POINT_ICON^1000 (^BBUTTON_COD_POINT_ICON^&&1 | ^3[{+melee}]^7 Проверить баланс)"
 
 REFERENCE           WEAPONLOCKER_GETBACK
-LANG_ENGLISH     "Удерживайте ^3[{+activate}]^7, чтобы взять оружие [Оружие из WeaponLocker: &&1^7]."
+LANG_ENGLISH     "Удерживайте ^3[{+activate}]^7, чтобы взять оружие [Оружие из оружейного шкафа: &&1^7]."
 
 REFERENCE           WEAPONLOCKER_STORE
-LANG_ENGLISH     "Удерживайте ^3[{+activate}]^7, чтобы положить оружие."
+LANG_ENGLISH     "Удерживайте ^3[{+activate}]^7, чтобы положить оружие в шкаф."
 
 REFERENCE           WEAPONLOCKER_LOADING
 LANG_ENGLISH     "Обработка......"
@@ -141,13 +141,13 @@ REFERENCE           BANK_SCORE
 LANG_ENGLISH     "^5Текущий баланс: ^7"
 
 REFERENCE           BANK_OVERLOAD
-LANG_ENGLISH     "^1Банк полон!"
+LANG_ENGLISH     "^1Банк заполнен!"
 
 REFERENCE           AF_TITLE
 LANG_ENGLISH     "Расширенные функции в игре"
 
 REFERENCE           AF_DESC
-LANG_ENGLISH     "Если включены расширенные функции, WeaponLocker и Банк будут недоступны.\nАктивирует меню модификации в стиле GSC, доступное при удерживании ^3[{+stance}] ^7+ ^3[{+reload}]\n^1<Если вы не понимаете, как использовать эту функцию, ПОЖАЛУЙСТА НЕ ВКЛЮЧАЙТЕ!>"
+LANG_ENGLISH     "Если включены расширенные функции, оружейный шкаф и банк будут недоступны.\nАктивирует меню модификации в стиле GSC, доступное при удерживании ^3[{+stance}] ^7+ ^3[{+reload}]\n^1<Если вы не понимаете, как использовать эту функцию, ПОЖАЛУЙСТА НЕ ВКЛЮЧАЙТЕ!>"
 
 REFERENCE           AF
 LANG_ENGLISH     "РАСШИРЕННЫЕ ФУНКЦИИ"
@@ -159,10 +159,10 @@ REFERENCE           PAUSE_DESC
 LANG_ENGLISH     "Нажмите ^3Нет ^7для продолжения."
 
 REFERENCE           LOCKER_BAN
-LANG_ENGLISH     "^1Обнаружены незаконные очки, WeaponLocker и Банк теперь недоступны."
+LANG_ENGLISH     "^1Обнаружены незаконные очки, шкаф с оружием и банк теперь недоступны."
 
 REFERENCE           PAUSE
-LANG_ENGLISH     "СО-ОП ПАУЗА"
+LANG_ENGLISH     "КООПЕРАТИВНАЯ ПАУЗА"
 
 REFERENCE           BOXSHARE_TAKE
 LANG_ENGLISH     "^3[{+activate}]^7 Взять оружие"
@@ -195,21 +195,6 @@ REFERENCE           KATANA_HINT_GAMEPAD
 LANG_ENGLISH     "^3[{+attack}]^7 Беспощадный рывок\n^3[{+breath_sprint}] ^7+ ^3[{+reload}]^7 Невидимость & Бесконечные патроны (один раз за раунд)\n^3[{+melee}]^7 Восстановление здоровья"
 
 REFERENCE           MOD_DESC
-LANG_ENGLISH     "Добро пожаловать в мод All-Around Enhancement! Этот мод добавляет множество улучшений качества жизни и исправляет ошибки в режиме Zombies Black Ops III, обеспечивая окончательный опыт игры с зомби."
-
-REFERENCE           CHAT_BANK_SAVE1
-LANG_ENGLISH     " ^7Внёс^3 "
-
-REFERENCE           CHAT_BANK_SAVE2
-LANG_ENGLISH     " ^7В банк"
-
-REFERENCE           CHAT_TRANSFER1
-LANG_ENGLISH     " ^7Перевёл^3 "
-
-REFERENCE           CHAT_TRANSFER2
-LANG_ENGLISH     " ^7К "
-
-REFERENCE           ROAMER_SPECTATING
-LANG_ENGLISH     "Нажмите ^3[{+activate}] ^7, чтобы завершить этот раунд"
+LANG_ENGLISH     "Добро пожаловать в мод All-Around Enhancement! Этот мод добавляет множество улучшений качества жизни и исправляет ошибки в режиме зомби Black Ops III, обеспечивая окончательный опыт игры с зомби."
 
 ENDMARKER
