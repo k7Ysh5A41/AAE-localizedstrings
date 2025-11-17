@@ -197,4 +197,19 @@ LANG_ENGLISH     "^3[{+attack}]^7 Scatto spietato\n^3[{+breath_sprint}] ^7+ ^3[{
 REFERENCE           MOD_DESC
 LANG_ENGLISH     "Benvenuto nel mod All-Around Enhancement! Questo mod aggiunge molte funzioni QoL e corregge diversi bug della modalità Zombies di Black Ops III vanilla, rendendo l’esperienza zombie definitiva."
 
+REFERENCE           CHAT_BANK_SAVE1
+LANG_ENGLISH     " ^7Ha depositato^3 "
+
+REFERENCE           CHAT_BANK_SAVE2
+LANG_ENGLISH     " ^7In banca"
+
+REFERENCE           CHAT_TRANSFER1
+LANG_ENGLISH     " ^7Ha trasferito^3 "
+
+REFERENCE           CHAT_TRANSFER2
+LANG_ENGLISH     " ^7A "
+
+REFERENCE           ROAMER_SPECTATING
+LANG_ENGLISH     "Premi ^3[{+activate}] ^7per terminare questo round"
+
 ENDMARKER

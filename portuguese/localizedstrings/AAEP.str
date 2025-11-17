@@ -9,7 +9,7 @@ REFERENCE            FOV_SCALE
 LANG_ENGLISH         "Escala do FoV"
 
 REFERENCE            SHORTCUT_KEY
-LANG_ENGLISH         "^5Todos os Atalhos\n\n^7Lanterna\nMarcador\nPontos de Queda\nDNI Visão Noturna\nProfundidade de Campo\nTerceira Pessoa\nVisão Completa do Mapa\nOcultar HUD\nSprays\nCancelar Arremesso\nDefinir Arma do Mulekick\nMudança de Camuflagem\nMudança de Retículo"
+LANG_ENGLISH         "^5Todas as teclas de atalho\n\n^7Lanterna\nMarcador\nSoltar pontos\nVisão noturna DNI\nTerceira pessoa\nVista completa do mapa\nOcultar HUD\nSprays\nCancelar arremesso\nDefinir arma Mulekick\nMudar camuflagem\nMudar retículo"
 
 REFERENCE            DRONE_KILL
 LANG_ENGLISH         "Eliminação do Drone Valkyrie"

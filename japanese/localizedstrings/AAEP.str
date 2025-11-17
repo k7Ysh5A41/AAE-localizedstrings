@@ -9,7 +9,7 @@ REFERENCE            FOV_SCALE
 LANG_ENGLISH         "視野角スケール"
 
 REFERENCE            SHORTCUT_KEY
-LANG_ENGLISH         "^5すべてのショートカットキー\n\n^7懐中電灯\nマーカー\nポイントドロップ\nDNIナイトビジョン\n被写界深度\n三人称視点\nマップ全体表示\nHUD非表示\nスプレー\n投擲キャンセル\nミュールキック武器設定\n迷彩変更\n照準変更"
+LANG_ENGLISH         "^5すべてのショートカットキー\n\n^7懐中電灯\nマーカー\nポイントを落とす\nDNIナイトビジョン\n三人称視点\nマップ全体表示\nHUDを非表示\nスプレー\n投擲キャンセル\nMulekick武器を設定\n迷彩変更\nレティクル変更"
 
 REFERENCE            DRONE_KILL
 LANG_ENGLISH         "ヴァルキリードローン撃破"

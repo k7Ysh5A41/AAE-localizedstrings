@@ -197,4 +197,19 @@ LANG_ENGLISH     "^3[{+attack}]^7 無慈悲なダッシュ\n^3[{+breath_sprint}]
 REFERENCE           MOD_DESC
 LANG_ENGLISH     "All-Around Enhancement Mod へようこそ！このModは多くのQoL機能を追加し、Black Ops IIIのバニラゾンビモードのバグを修正、究極のゾンビ体験を提供します。"
 
+REFERENCE           CHAT_BANK_SAVE1
+LANG_ENGLISH     " ^7が預け入れました^3 "
+
+REFERENCE           CHAT_BANK_SAVE2
+LANG_ENGLISH     " ^7銀行に"
+
+REFERENCE           CHAT_TRANSFER1
+LANG_ENGLISH     " ^7が送金しました^3 "
+
+REFERENCE           CHAT_TRANSFER2
+LANG_ENGLISH     " ^7へ "
+
+REFERENCE           ROAMER_SPECTATING
+LANG_ENGLISH     "^3[{+activate}] ^7を押してこのラウンドを終了"
+
 ENDMARKER

@@ -197,4 +197,19 @@ LANG_ENGLISH     "^3[{+attack}]^7 Bezwzględny Dash\n^3[{+breath_sprint}] ^7+ ^3
 REFERENCE           MOD_DESC
 LANG_ENGLISH     "Witamy w All-Around Enhancement Mod! Ten mod dodaje wiele funkcji QoL oraz naprawia błędy w trybie Zombie Black Ops III, zapewniając najlepsze doświadczenie z zombie."
 
+REFERENCE           CHAT_BANK_SAVE1
+LANG_ENGLISH     " ^7Wpłacił^3 "
+
+REFERENCE           CHAT_BANK_SAVE2
+LANG_ENGLISH     " ^7Do banku"
+
+REFERENCE           CHAT_TRANSFER1
+LANG_ENGLISH     " ^7Przelał^3 "
+
+REFERENCE           CHAT_TRANSFER2
+LANG_ENGLISH     " ^7Do "
+
+REFERENCE           ROAMER_SPECTATING
+LANG_ENGLISH     "Naciśnij ^3[{+activate}] ^7, aby zakończyć tę rundę"
+
 ENDMARKER

@@ -5,9 +5,6 @@ VERSION             "1"
 CONFIG              "C:\projects\cod\t7\bin\StringEd.cfg"
 FILENOTES           ""
 
-REFERENCE           ZMLEFT
-LANG_ENGLISH     "Nemici rimanenti:  ^1"
-
 REFERENCE           ZOMBIERIOT
 LANG_ENGLISH     "^1Sfida di fine partita!"
 

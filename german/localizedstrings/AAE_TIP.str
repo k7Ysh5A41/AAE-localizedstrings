@@ -98,4 +98,16 @@ LANG_ENGLISH     "Magazingröße"
 REFERENCE           STOCKAMMO
 LANG_ENGLISH     "Vorratsmunition"
 
+REFERENCE           WONDERWEAPON
+LANG_ENGLISH        "WUNDERWAFFE"
+
+REFERENCE           GASWEAPON
+LANG_ENGLISH        "GASWAFFE"
+
+REFERENCE           FREE_LANDER_TITLE
+LANG_ENGLISH        "Free Lander"
+
+REFERENCE           FREE_LANDER
+LANG_ENGLISH        "Ignoriere die Angabe von 250 — es ist tatsächlich kostenlos."
+
 ENDMARKER

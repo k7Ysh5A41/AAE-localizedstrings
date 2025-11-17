@@ -98,4 +98,16 @@ LANG_ENGLISH      "Tamaño del cargador"
 REFERENCE           STOCKAMMO
 LANG_ENGLISH      "Munición en reserva"
 
+REFERENCE           WONDERWEAPON
+LANG_ENGLISH     "ARMA MARAVILLOSA"
+
+REFERENCE           GASWEAPON
+LANG_ENGLISH     "ARMA DE GAS"
+
+REFERENCE           FREE_LANDER_TITLE
+LANG_ENGLISH       "Módulo Lunar Gratis"
+
+REFERENCE           FREE_LANDER
+LANG_ENGLISH       "Te dice paga ¿250? Ja, ¡mentira!, ¡este módulo lunar es gratis!"
+
 ENDMARKER
