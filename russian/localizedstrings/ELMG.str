@@ -197,4 +197,19 @@ LANG_ENGLISH     "^3[{+attack}]^7 Беспощадный рывок\n^3[{+breath
 REFERENCE           MOD_DESC
 LANG_ENGLISH     "Добро пожаловать в мод All-Around Enhancement! Этот мод добавляет множество улучшений качества жизни и исправляет ошибки в режиме зомби Black Ops III, обеспечивая окончательный опыт игры с зомби."
 
+REFERENCE           CHAT_BANK_SAVE1
+LANG_ENGLISH     " ^7Внёс^3 "
+
+REFERENCE           CHAT_BANK_SAVE2
+LANG_ENGLISH     " ^7В банк"
+
+REFERENCE           CHAT_TRANSFER1
+LANG_ENGLISH     " ^7Перевёл^3 "
+
+REFERENCE           CHAT_TRANSFER2
+LANG_ENGLISH     " ^7К "
+
+REFERENCE           ROAMER_SPECTATING
+LANG_ENGLISH     "Нажмите ^3[{+activate}] ^7, чтобы завершить этот раунд"
+
 ENDMARKER
