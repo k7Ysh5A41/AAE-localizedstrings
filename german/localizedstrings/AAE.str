@@ -263,4 +263,70 @@ LANG_ENGLISH     "Halten Sie ^3[{+activate}]^7, um die Flugabwehrkanone abzufeue
 REFERENCE           NEED_UPDATE
 LANG_ENGLISH     "Neues AAE-Update gefunden!\nSie müssen AAE erneut abonnieren, wenn Sie Updates erhalten und mit anderen Spielern online spielen möchten"
 
+REFERENCE           QUIT
+LANG_ENGLISH        "Zum Desktop beenden"
+
+REFERENCE           BOOKMARKER
+LANG_ENGLISH        "Lesezeichen"
+
+REFERENCE           ADDBOOKMARKER
+LANG_ENGLISH        "Zu Favoriten hinzugefügt"
+
+REFERENCE           REMOVEBOOKMARKER
+LANG_ENGLISH        "Lesezeichen entfernt"
+
+REFERENCE           BOOKMARKER_ONLYUSERMAPS
+LANG_ENGLISH        "Nur benutzerdefinierte Karten"
+
+REFERENCE           BOOKMARKER_ERROR
+LANG_ENGLISH        "Aktion konnte nicht ausgeführt werden"
+
+REFERENCE           OPENINSTEAM
+LANG_ENGLISH        "In ^BBUTTON_CYCLE_RIGHT^ öffnen"
+
+REFERENCE           OPENINSTEAMCURRENTMAP
+LANG_ENGLISH        "Aktuelle Karte in ^BBUTTON_CYCLE_RIGHT^ öffnen"
+
+REFERENCE           ISLAND_RAINBOW_WATER
+LANG_ENGLISH        "HALTE ^3[{+activate}]^7, um das Regenbogen-115-Wasser aufzuheben"
+
+REFERENCE           ISLAND_RAINBOW_WATER_TITLE
+LANG_ENGLISH        "Regenbogen-115-Wasser"
+
+REFERENCE           UPDATE_ASPECT_RATIO
+LANG_ENGLISH        "Seitenverhältnis aktualisieren"
+
+REFERENCE           LITE_ONLY
+LANG_ENGLISH     "^4Nur kompatibel mit der AAE Lite-Version"
+
+REFERENCE           LOBBY_SIZE
+LANG_ENGLISH        "Klicken, um die Lobbygröße zu ändern"
+
+REFERENCE           DOWNLOAD_MAP_FROM_CLIPBOARD_INSTALLING_TITLE
+LANG_ENGLISH        "Diese Karte wird installiert"
+
+REFERENCE           DOWNLOAD_MAP_FROM_CLIPBOARD_INSTALLING_CONTENT
+LANG_ENGLISH        "Bitte warten"
+
+REFERENCE           DOWNLOAD_MAP_FROM_CLIPBOARD_INSTALLED_CONTENT
+LANG_ENGLISH        "Versuche eine andere Karte"
+
+REFERENCE           DOWNLOAD_MAP_FROM_CLIPBOARD_EMPTY_TITLE
+LANG_ENGLISH        "Bitte kopiere die korrekte Karten-ID in die Zwischenablage"
+
+REFERENCE           DOWNLOAD_MAP_FROM_CLIPBOARD_EMPTY_CONTENT
+LANG_ENGLISH        "Zwischenablage ist leer"
+
+REFERENCE           DOWNLOAD_MAP_FROM_CLIPBOARD_ERROR_DESC2
+LANG_ENGLISH        "Karten-ID nicht gefunden"
+
+REFERENCE           SWITCH_SINGLE_WIELD
+LANG_ENGLISH     "Drücke ^3[{+actionslot 3}]^7, um auf Einhandwaffe zu wechseln"
+
+REFERENCE           RAMPAGE_TOAST
+LANG_ENGLISH     "Raserei-Induktor deaktiviert durch"
+
+REFERENCE           RELOADING
+LANG_ENGLISH     "Nachladen"
+
 ENDMARKER

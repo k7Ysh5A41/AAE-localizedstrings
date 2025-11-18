@@ -89,4 +89,52 @@ LANG_ENGLISH         "Ativo por 3 rodadas completas\nAumenta as chances de ativa
 REFERENCE            SWORD_FLAY_DESC
 LANG_ENGLISH         "Ativa imediatamente (Dura 2,5 minutos)\nAtaques corpo a corpo causam dano infinito, afetando até X zumbis no alcance (X é 2 para perfuração, X é 4 para corte)."
 
+REFERENCE            SHARE
+LANG_ENGLISH         "Pressione ^3[{+melee}] ^7 para compartilhar este GobbleGum"
+
+REFERENCE            ANYWHERE_BUT_HERE_DESC
+LANG_ENGLISH         "Ativado (5x ativações)\nTeletransporta instantaneamente para um local aleatório. Uma onda de choque afasta os zumbis próximos, mantendo você seguro."
+
+REFERENCE            COAGULANT_DESC
+LANG_ENGLISH         "Ativa imediatamente (Dura 2 horas)\nTempo de sangramento aumentado para 2 horas."
+
+REFERENCE            IN_PLAIN_SIGHT_DESC
+LANG_ENGLISH         "Ativado (5x ativações, 10 segundos cada)\nOs zumbis o ignoram por 10 segundos."
+
+REFERENCE            CACHE_BACK_DESC
+LANG_ENGLISH         "^3RARA MEGA\n^7Ativado (5x ativações)\nGera um bônus de munição máxima."
+
+REFERENCE            IM_FEELIN_LUCKY_DESC
+LANG_ENGLISH         "^2MEGA\n^7Ativado (5x ativações)\nGera um bônus aleatório."
+
+REFERENCE            KILL_JOY_DESC
+LANG_ENGLISH         "^3RARA MEGA\n^7Ativado (5x ativações)\nGera um bônus de Abate Instantâneo."
+
+REFERENCE            KILLING_TIME_DESC
+LANG_ENGLISH         "^6ULTRA-RARA MEGA\n^7Ativado (5x ativações)\nTodos os zumbis ficam congelados por 20 segundos. Se forem atingidos, serão aniquilados quando o tempo acabar."
+
+REFERENCE            LICENSED_CONTRACTOR_DESC
+LANG_ENGLISH         "^2MEGA\n^7Ativado (5x ativações)\nGera um bônus de Carpinteiro."
+
+REFERENCE            PHOENIX_UP_DESC
+LANG_ENGLISH         "^2MEGA\n^7Ativado (5x ativações)\nRevive todos os companheiros de equipe. Eles mantêm todos os seus aprimoramentos."
+
+REFERENCE            RESPIN_CYCLE_DESC
+LANG_ENGLISH         "^2MEGA\n^7Ativado (5x ativações)\nPermite girar novamente as armas em uma caixa mágica após ser usada."
+
+REFERENCE            WHOS_KEEPING_SCORE_DESC
+LANG_ENGLISH         "^2MEGA\n^7Ativado (3x ativações)\nGera um bônus de Pontos Duplos."
+
+REFERENCE            FATAL_CONTRAPTION_DESC
+LANG_ENGLISH         "^2MEGA\n^7Ativado (5x ativações)\nGera um bônus de Máquina da Morte."
+
+REFERENCE            HEAD_DRAMA_DESC
+LANG_ENGLISH         "^6ULTRA-RARA MEGA\n^7Ativa imediatamente (Ativa por 3 rodadas completas)\nQualquer bala que atingir um zumbi causará dano na cabeça."
+
+REFERENCE            TEMPORAL_GIFT_DESC
+LANG_ENGLISH         "^3RARA MEGA\n^7Ativa imediatamente (Ativa por 5 rodadas completas)\nOs bônus duram mais tempo."
+
+REFERENCE            DANGER_CLOSEST_DESC
+LANG_ENGLISH         "Ativa imediatamente (Dura 20 rodadas completas)\nSem dano explosivo."
+
 ENDMARKER

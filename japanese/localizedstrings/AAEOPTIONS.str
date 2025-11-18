@@ -308,4 +308,31 @@ LANG_ENGLISH     "中央パークアイコン"
 REFERENCE           NOATTACHMENT  
 LANG_ENGLISH    "添付ファイルなし"  
 
+REFERENCE           HUDMOVEMENT
+LANG_ENGLISH        "HUDの揺れを無効にする"
+
+REFERENCE           BATTLECHAT
+LANG_ENGLISH        "プレイヤーのチャット字幕を無効にする"
+
+REFERENCE           IE_OVERLAY
+LANG_ENGLISH        "アイドル状態の目フィルターを無効にする"
+
+REFERENCE           HPBAR_RANDOM_NAMES
+LANG_ENGLISH        "ランダムな名前を有効にして使用する"
+
+REFERENCE           PLAYER_HEALTHBAR
+LANG_ENGLISH        "プレイヤーの頭上に体力バーを表示"
+
+REFERENCE           BGB_NOULTRA
+LANG_ENGLISH        "有効（ウルトラレアなし）"
+
+REFERENCE           RELOADCANCEL
+LANG_ENGLISH        "手動リロードキャンセルを無効にする"
+
+REFERENCE           TRIGGER_MARKER
+LANG_ENGLISH        "トリガーマーカーを無効にする"
+
+REFERENCE           SHOTGUN_GIB
+LANG_ENGLISH        "ショットガンの破片を無効にする"
+
 ENDMARKER

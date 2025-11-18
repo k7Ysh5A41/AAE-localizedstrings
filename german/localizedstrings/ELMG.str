@@ -197,4 +197,19 @@ LANG_ENGLISH     "^3[{+attack}]^7 Gnadenloser Dash\n^3[{+breath_sprint}] ^7+ ^3[
 REFERENCE           MOD_DESC
 LANG_ENGLISH     "Willkommen beim All-Around Enhancement Mod! Dieses Mod fügt viele QoL-Funktionen hinzu und behebt mehrere Bugs im Vanilla Black Ops III Zombies Modus, für das ultimative Zombies-Erlebnis."
 
+REFERENCE           CHAT_BANK_SAVE1
+LANG_ENGLISH     " ^7Hat eingezahlt^3 "
+
+REFERENCE           CHAT_BANK_SAVE2
+LANG_ENGLISH     " ^7In die Bank"
+
+REFERENCE           CHAT_TRANSFER1
+LANG_ENGLISH     " ^7Hat überwiesen^3 "
+
+REFERENCE           CHAT_TRANSFER2
+LANG_ENGLISH     " ^7An "
+
+REFERENCE           ROAMER_SPECTATING
+LANG_ENGLISH     "Drücke ^3[{+activate}] ^7um diese Runde zu beenden"
+
 ENDMARKER

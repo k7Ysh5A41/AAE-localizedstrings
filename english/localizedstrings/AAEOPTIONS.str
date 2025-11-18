@@ -311,4 +311,28 @@ LANG_ENGLISH     "No Attachment"
 REFERENCE           HUDMOVEMENT
 LANG_ENGLISH     "Disable HUD shaking"
 
+REFERENCE           BATTLECHAT
+LANG_ENGLISH     "Disable Player Chatter Subtitles"
+
+REFERENCE           IE_OVERLAY
+LANG_ENGLISH     "Disable Idle Eyes Filter"
+
+REFERENCE           HPBAR_RANDOM_NAMES
+LANG_ENGLISH     "Enable and Use Random Names"
+
+REFERENCE           PLAYER_HEALTHBAR
+LANG_ENGLISH     "Player Overhead Health Bar"
+
+REFERENCE           BGB_NOULTRA
+LANG_ENGLISH     "Enabled, but no Ultra-Rare"
+
+REFERENCE           RELOADCANCEL
+LANG_ENGLISH     "Disable Manual Reload Cancel"
+
+REFERENCE           TRIGGER_MARKER
+LANG_ENGLISH     "Disable Trigger Marker"
+
+REFERENCE           SHOTGUN_GIB
+LANG_ENGLISH     "Disable Shotgun Gib"
+
 ENDMARKER

@@ -89,4 +89,52 @@ LANG_ENGLISH         "Aktywne przez 3 pełne rundy\nZwiększa szanse na aktywowa
 REFERENCE            SWORD_FLAY_DESC
 LANG_ENGLISH         "Aktywowane natychmiast (trwa 2,5 minuty)\nAtaki wręcz zadają nieskończone obrażenia, wpływając na maksymalnie X zombi w zasięgu (X=2 dla pchnięcia, X=4 dla zamachu)."
 
+REFERENCE            SHARE
+LANG_ENGLISH         "Naciśnij ^3[{+melee}] ^7, aby podzielić się tą GobbleGum"
+
+REFERENCE            ANYWHERE_BUT_HERE_DESC
+LANG_ENGLISH         "Aktywowana (5x użycia)\nNatychmiast teleportuje cię w losowe miejsce. Fala uderzeniowa odrzuca pobliskie zombie, zapewniając bezpieczeństwo."
+
+REFERENCE            COAGULANT_DESC
+LANG_ENGLISH         "Aktywuje się natychmiast (Działa przez 2 godziny)\nCzas wykrwawiania wydłużony do 2 godzin."
+
+REFERENCE            IN_PLAIN_SIGHT_DESC
+LANG_ENGLISH         "Aktywowana (5x użycia, po 10 sekund każda)\nZombie ignorują cię przez 10 sekund."
+
+REFERENCE            CACHE_BACK_DESC
+LANG_ENGLISH         "^3RZADKA MEGA\n^7Aktywowana (5x użycia)\nTworzy ulepszenie z maksymalną amunicją."
+
+REFERENCE            IM_FEELIN_LUCKY_DESC
+LANG_ENGLISH         "^2MEGA\n^7Aktywowana (5x użycia)\nTworzy losowe ulepszenie."
+
+REFERENCE            KILL_JOY_DESC
+LANG_ENGLISH         "^3RZADKA MEGA\n^7Aktywowana (5x użycia)\nTworzy ulepszenie Natychmiastowe Zabicie."
+
+REFERENCE            KILLING_TIME_DESC
+LANG_ENGLISH         "^6ULTRA-RZADKA MEGA\n^7Aktywowana (5x użycia)\nWszystkie zombie zostają zamrożone na 20 sekund. Jeśli zostaną postrzelone, zostaną unicestwione po upływie czasu."
+
+REFERENCE            LICENSED_CONTRACTOR_DESC
+LANG_ENGLISH         "^2MEGA\n^7Aktywowana (5x użycia)\nTworzy ulepszenie Stolarz."
+
+REFERENCE            PHOENIX_UP_DESC
+LANG_ENGLISH         "^2MEGA\n^7Aktywowana (5x użycia)\nReaktywuje wszystkich sojuszników. Sojusznicy zachowują wszystkie swoje ulepszenia."
+
+REFERENCE            RESPIN_CYCLE_DESC
+LANG_ENGLISH         "^2MEGA\n^7Aktywowana (5x użycia)\nPonownie losuje broń z magicznej skrzyni po jej użyciu."
+
+REFERENCE            WHOS_KEEPING_SCORE_DESC
+LANG_ENGLISH         "^2MEGA\n^7Aktywowana (3x użycia)\nTworzy ulepszenie Podwójne Punkty."
+
+REFERENCE            FATAL_CONTRAPTION_DESC
+LANG_ENGLISH         "^2MEGA\n^7Aktywowana (5x użycia)\nTworzy ulepszenie Karabin Maszynowy Śmierci."
+
+REFERENCE            HEAD_DRAMA_DESC
+LANG_ENGLISH         "^6ULTRA-RZADKA MEGA\n^7Aktywuje się natychmiast (Aktywna przez 3 pełne rundy)\nKażdy pocisk trafiający w zombie zadaje obrażenia w głowę."
+
+REFERENCE            TEMPORAL_GIFT_DESC
+LANG_ENGLISH         "^3RZADKA MEGA\n^7Aktywuje się natychmiast (Aktywna przez 5 pełnych rund)\nUlepszenia działają dłużej."
+
+REFERENCE            DANGER_CLOSEST_DESC
+LANG_ENGLISH         "Aktywuje się natychmiast (Działa przez 20 pełnych rund)\nBrak obrażeń od wybuchów."
+
 ENDMARKER

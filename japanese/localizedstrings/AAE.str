@@ -263,4 +263,70 @@ LANG_ENGLISH     "^3[{+activate}]^7 長押しで対空砲を発射"
 REFERENCE           NEED_UPDATE
 LANG_ENGLISH     "新しいAAEアップデートが見つかりました！\nアップデートを受け取り、他のプレイヤーとオンラインでプレイするにはAAEを再購読する必要があります"
 
+REFERENCE           QUIT
+LANG_ENGLISH        "デスクトップに戻る"
+
+REFERENCE           BOOKMARKER
+LANG_ENGLISH        "ブックマーク"
+
+REFERENCE           ADDBOOKMARKER
+LANG_ENGLISH        "ブックマークに追加しました"
+
+REFERENCE           REMOVEBOOKMARKER
+LANG_ENGLISH        "ブックマークを削除しました"
+
+REFERENCE           BOOKMARKER_ONLYUSERMAPS
+LANG_ENGLISH        "カスタムマップのみ"
+
+REFERENCE           BOOKMARKER_ERROR
+LANG_ENGLISH        "操作を実行できません"
+
+REFERENCE           OPENINSTEAM
+LANG_ENGLISH        "^BBUTTON_CYCLE_RIGHT^で開く"
+
+REFERENCE           OPENINSTEAMCURRENTMAP
+LANG_ENGLISH        "現在のマップを^BBUTTON_CYCLE_RIGHT^で開く"
+
+REFERENCE           ISLAND_RAINBOW_WATER
+LANG_ENGLISH        "^3[{+activate}]^7 を長押ししてレインボー115ウォーターを拾う"
+
+REFERENCE           ISLAND_RAINBOW_WATER_TITLE
+LANG_ENGLISH        "レインボー115ウォーター"
+
+REFERENCE           UPDATE_ASPECT_RATIO
+LANG_ENGLISH        "アスペクト比を更新"
+
+REFERENCE           LITE_ONLY
+LANG_ENGLISH     "^4AAE Liteバージョンとのみ互換性があります"
+
+REFERENCE           LOBBY_SIZE
+LANG_ENGLISH        "クリックしてロビーサイズを変更"
+
+REFERENCE           DOWNLOAD_MAP_FROM_CLIPBOARD_INSTALLING_TITLE
+LANG_ENGLISH        "このマップはインストール中です"
+
+REFERENCE           DOWNLOAD_MAP_FROM_CLIPBOARD_INSTALLING_CONTENT
+LANG_ENGLISH        "しばらくお待ちください"
+
+REFERENCE           DOWNLOAD_MAP_FROM_CLIPBOARD_INSTALLED_CONTENT
+LANG_ENGLISH        "別のマップを試してください"
+
+REFERENCE           DOWNLOAD_MAP_FROM_CLIPBOARD_EMPTY_TITLE
+LANG_ENGLISH        "正しいマップIDをクリップボードにコピーしてください"
+
+REFERENCE           DOWNLOAD_MAP_FROM_CLIPBOARD_EMPTY_CONTENT
+LANG_ENGLISH        "クリップボードが空です"
+
+REFERENCE           DOWNLOAD_MAP_FROM_CLIPBOARD_ERROR_DESC2
+LANG_ENGLISH        "マップIDが見つかりません"
+
+REFERENCE           SWITCH_SINGLE_WIELD
+LANG_ENGLISH     "^3[{+actionslot 3}]^7 を押して片手持ちに切り替え"
+
+REFERENCE           RAMPAGE_TOAST
+LANG_ENGLISH     "フレンジーインデューサーが無効化されました"
+
+REFERENCE           RELOADING
+LANG_ENGLISH     "リロード中"
+
 ENDMARKER

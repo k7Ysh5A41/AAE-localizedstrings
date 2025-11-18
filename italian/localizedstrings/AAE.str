@@ -263,4 +263,70 @@ LANG_ENGLISH     "Tieni premuto ^3[{+activate}]^7 per Sparare il Cannone Anti-Ae
 REFERENCE           NEED_UPDATE
 LANG_ENGLISH     "Nuovo aggiornamento AAE trovato!\nDevi risottoscrivere ad AAE se vuoi ricevere aggiornamenti e giocare online con altri giocatori"
 
+REFERENCE           QUIT
+LANG_ENGLISH        "Esci al desktop"
+
+REFERENCE           BOOKMARKER
+LANG_ENGLISH        "Segnalibro"
+
+REFERENCE           ADDBOOKMARKER
+LANG_ENGLISH        "Aggiunto ai preferiti"
+
+REFERENCE           REMOVEBOOKMARKER
+LANG_ENGLISH        "Segnalibro rimosso"
+
+REFERENCE           BOOKMARKER_ONLYUSERMAPS
+LANG_ENGLISH        "Solo mappe personalizzate"
+
+REFERENCE           BOOKMARKER_ERROR
+LANG_ENGLISH        "Impossibile eseguire l’azione"
+
+REFERENCE           OPENINSTEAM
+LANG_ENGLISH        "Apri in ^BBUTTON_CYCLE_RIGHT^"
+
+REFERENCE           OPENINSTEAMCURRENTMAP
+LANG_ENGLISH        "Apri la mappa attuale in ^BBUTTON_CYCLE_RIGHT^"
+
+REFERENCE           ISLAND_RAINBOW_WATER
+LANG_ENGLISH        "TIENI PREMUTO ^3[{+activate}]^7 per raccogliere l’Acqua 115 Arcobaleno"
+
+REFERENCE           ISLAND_RAINBOW_WATER_TITLE
+LANG_ENGLISH        "Acqua 115 Arcobaleno"
+
+REFERENCE           UPDATE_ASPECT_RATIO
+LANG_ENGLISH        "Aggiorna il rapporto d’aspetto"
+
+REFERENCE           LITE_ONLY
+LANG_ENGLISH     "^4Compatibile solo con la versione AAE Lite"
+
+REFERENCE           LOBBY_SIZE
+LANG_ENGLISH        "Clicca per cambiare la dimensione della lobby"
+
+REFERENCE           DOWNLOAD_MAP_FROM_CLIPBOARD_INSTALLING_TITLE
+LANG_ENGLISH        "Questa mappa si sta installando"
+
+REFERENCE           DOWNLOAD_MAP_FROM_CLIPBOARD_INSTALLING_CONTENT
+LANG_ENGLISH        "Attendere prego"
+
+REFERENCE           DOWNLOAD_MAP_FROM_CLIPBOARD_INSTALLED_CONTENT
+LANG_ENGLISH        "Prova un’altra mappa"
+
+REFERENCE           DOWNLOAD_MAP_FROM_CLIPBOARD_EMPTY_TITLE
+LANG_ENGLISH        "Per favore copia l’ID mappa corretto negli appunti"
+
+REFERENCE           DOWNLOAD_MAP_FROM_CLIPBOARD_EMPTY_CONTENT
+LANG_ENGLISH        "Appunti vuoti"
+
+REFERENCE           DOWNLOAD_MAP_FROM_CLIPBOARD_ERROR_DESC2
+LANG_ENGLISH        "ID mappa non trovato"
+
+REFERENCE           SWITCH_SINGLE_WIELD
+LANG_ENGLISH     "Premi ^3[{+actionslot 3}]^7 per passare all'uso singolo"
+
+REFERENCE           RAMPAGE_TOAST
+LANG_ENGLISH     "Induttore di furia disattivato da"
+
+REFERENCE           RELOADING
+LANG_ENGLISH     "Ricaricamento"
+
 ENDMARKER

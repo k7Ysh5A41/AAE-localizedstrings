@@ -98,4 +98,16 @@ LANG_ENGLISH     "Pojemność Magazynka"
 REFERENCE           STOCKAMMO
 LANG_ENGLISH     "Amunicja w zapasie"
 
+REFERENCE           WONDERWEAPON
+LANG_ENGLISH        "CUDOWNA BROŃ"
+
+REFERENCE           GASWEAPON
+LANG_ENGLISH        "BROŃ GAZOWA"
+
+REFERENCE           FREE_LANDER_TITLE
+LANG_ENGLISH        "Free Lander"
+
+REFERENCE           FREE_LANDER
+LANG_ENGLISH        "Ignoruj informację o 250 — w rzeczywistości jest darmowe."
+
 ENDMARKER

@@ -53,12 +53,6 @@ LANG_ENGLISH     "Affichage des dégâts"
 REFERENCE           DAMAGE_NUMBER_DESC
 LANG_ENGLISH     "Choisir d’afficher ou de masquer la quantité de dégâts infligés à l’ennemi."
 
-REFERENCE           HUD
-LANG_ENGLISH     "Options du HUD"
-
-REFERENCE           HUD_OPTION
-LANG_ENGLISH     "Mouvement du HUD"
-
 REFERENCE           CENTERCROSS
 LANG_ENGLISH     "Désactiver le petit point au centre de l’écran"
 

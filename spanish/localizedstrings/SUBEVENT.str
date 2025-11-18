@@ -68,4 +68,40 @@ LANG_ENGLISH       "Presiona ^3K ^7 Para pagar la mitad del costo de la puerta"
 REFERENCE           PAYHALF_GAMEPAD
 LANG_ENGLISH       "Presiona [{+melee}] Para pagar la mitad del costo de la puerta"
 
+REFERENCE           PING
+LANG_ENGLISH     "^7  Marco "
+
+REFERENCE           PING_DOOR
+LANG_ENGLISH     "una puerta"
+
+REFERENCE           PING_CRAFTTABLE
+LANG_ENGLISH     "una mesa de construcción"
+
+REFERENCE           PING_LOCATION
+LANG_ENGLISH     "una ubicación"
+
+REFERENCE           PING_WALLBUY
+LANG_ENGLISH     "un arma de pared"
+
+REFERENCE           PING_POWER
+LANG_ENGLISH     "el interruptor de energía"
+
+REFERENCE           PING_PERK_RANDOM
+LANG_ENGLISH     "la Der Wunderfizz"
+
+REFERENCE           PING_BOX
+LANG_ENGLISH     "la Caja Misteriosa"
+
+REFERENCE           PING_ZOMBIE
+LANG_ENGLISH     "a un ^1Enemigo"
+
+REFERENCE           PING_BGB
+LANG_ENGLISH     "una máquina de GobbleGum"
+
+REFERENCE           PING_PERK
+LANG_ENGLISH     "una máquina de ventaja"
+
+REFERENCE           PING_PAP
+LANG_ENGLISH     "la máquina de Pack-A-Punch"
+
 ENDMARKER

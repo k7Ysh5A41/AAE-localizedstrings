@@ -68,4 +68,40 @@ LANG_ENGLISH     "^3K ^7半額支払い"
 REFERENCE           PAYHALF_GAMEPAD
 LANG_ENGLISH     "[{+melee}] 半額支払い"
 
+REFERENCE           PING
+LANG_ENGLISH     "^7  Marked  "
+
+REFERENCE           PING_DOOR
+LANG_ENGLISH     "ドア"
+
+REFERENCE           PING_CRAFTTABLE
+LANG_ENGLISH     "作業台"
+
+REFERENCE           PING_LOCATION
+LANG_ENGLISH     "場所"
+
+REFERENCE           PING_WALLBUY
+LANG_ENGLISH     "ウォールバイ"
+
+REFERENCE           PING_POWER
+LANG_ENGLISH     "電源スイッチ"
+
+REFERENCE           PING_PERK_RANDOM
+LANG_ENGLISH     "Der Wunderfizz"
+
+REFERENCE           PING_BOX
+LANG_ENGLISH     "ミステリーボックス"
+
+REFERENCE           PING_ZOMBIE
+LANG_ENGLISH     "^1敵"
+
+REFERENCE           PING_BGB
+LANG_ENGLISH     "ゴブルガムマシン"
+
+REFERENCE           PING_PERK
+LANG_ENGLISH     "パークマシン"
+
+REFERENCE           PING_PAP
+LANG_ENGLISH     "パックアパンチマシン"
+
 ENDMARKER
