@@ -18,10 +18,10 @@ REFERENCE           WEAPON_LIMIT_OPTIONS_DESC
 LANG_ENGLISH     "Игроки не могут использовать одно и то же оружие"
 
 REFERENCE           PREPATCH_BGB
-LANG_ENGLISH     "Гобблгам до патча"
+LANG_ENGLISH     "Губль-гам до патча"
 
 REFERENCE           PREPATCH_BGB_DESC
-LANG_ENGLISH     "Машина Гобблгам будет изменена так, как она работала в версии BO3 первого дня. Это включает:\n  - Можно использовать только один раз за раунд\n  - Можно использовать только 37% машин Гобблгам\n  - Машины Гобблгам могут быть закрыты или открыты в других местах\n  - Стандартная цена — 500 очков"
+LANG_ENGLISH     "Машина Губль-гам будет изменена так, как она работала в версии BO3 первого дня. Это включает:\n  - Можно использовать только один раз за раунд\n  - Можно использовать только 37% машин Губль-гам\n  - Машины Губль-гам могут быть закрыты или открыты в других местах\n  - Стандартная цена — 500 очков"
 
 REFERENCE           ZOMBIE_COUNT
 LANG_ENGLISH     "Алгоритм количества раундов зомби"
@@ -53,12 +53,6 @@ LANG_ENGLISH     "Видимость чисел урона"
 REFERENCE           DAMAGE_NUMBER_DESC
 LANG_ENGLISH     "Выберите, показывать или скрывать количество урона, нанесенного врагу"
 
-REFERENCE           HUD
-LANG_ENGLISH     "Настройки HUD"
-
-REFERENCE           HUD_OPTION
-LANG_ENGLISH     "Перемещение HUD"
-
 REFERENCE           CENTERCROSS
 LANG_ENGLISH     "Отключить маленькую точку в центре экрана"
 
@@ -75,7 +69,7 @@ REFERENCE           ITEM_DUPE_RENDER_OPTIONS
 LANG_ENGLISH     "Видно с точки обзора"
 
 REFERENCE           MODGAMES
-LANG_ENGLISH     "MOD игры"
+LANG_ENGLISH     "Модифицированные игры"
 
 REFERENCE           ROULETTE
 LANG_ENGLISH     "Рулетка оружия"
@@ -90,28 +84,28 @@ REFERENCE           SNAIL_DESC
 LANG_ENGLISH     "Один удар — падение, раунды растут, улитка движется быстрее"
 
 REFERENCE           DUCK
-LANG_ENGLISH     "Игровой Quacknarok"
+LANG_ENGLISH     "Игровой Крякнарек"
 
 REFERENCE           DUCK_DESC
-LANG_ENGLISH     "Все игроки носят утиную надувную"
+LANG_ENGLISH     "Все игроки носят спасательные круги в виде утят"
 
 REFERENCE           ALERT
 LANG_ENGLISH     "\n\n^BBUTTON_CYCLE_LEFT^ Изменение этой опции отключает AAE Career, Банк и оружейный шкаф"
 
 REFERENCE           RAMPAGE
-LANG_ENGLISH     "Заменить Gambler 8 Ball на Rampage Inducer"
+LANG_ENGLISH     "Заменить Гамблер на Режим ярости"
 
 REFERENCE           RAMPAGE_DESC
-LANG_ENGLISH     "Меняет местами Gambler и Rampage Inducer для поддержки пользовательских карт.\n\nRampage Inducer:\nАктивируйте, чтобы зомби появлялись быстрее и двигались быстрее"
+LANG_ENGLISH     "Меняет местами Гамблер и Режим ярости для поддержки пользовательских карт.\n\Режим ярости:\nАктивируйте, чтобы зомби появлялись быстрее и двигались быстрее"
 
 REFERENCE           THEGIANT_WEAPON
-LANG_ENGLISH     "Добавить оружие из The Giant в Mystery Box"
+LANG_ENGLISH     "Добавить оружие из The Giant в Таинственный ящик"
 
 REFERENCE           HIDE_CUSTOM_MAP_WEAPON
-LANG_ENGLISH     "Скрыть оружие с пользовательских карт в Mystery Box"
+LANG_ENGLISH     "Скрыть оружие с пользовательских карт в Таинственном ящике"
 
 REFERENCE           HIDE_AAE_WEAPON
-LANG_ENGLISH     "Скрыть оружие из AAE в Mystery Box"
+LANG_ENGLISH     "Скрыть оружие из AAE в Таинственном ящике"
 
 REFERENCE           ALLWALLBUY
 LANG_ENGLISH        "Включить дешёвое настенное оружие в ящике"

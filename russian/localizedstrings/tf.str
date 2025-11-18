@@ -30,7 +30,7 @@ REFERENCE            WEAPON_DESC
 LANG_ENGLISH         "Откройте меню настроек оружия."
 
 REFERENCE            MYSTERYBOX_DESC
-LANG_ENGLISH         "Эти фильтры позволяют отключить дополнительные оружия на пользовательских картах из их игр. Например, 'Отключить оружие BO1' не позволит картам с оружием BO1 появляться в ящике. Это НЕ добавляет оружие из всех игр в ящик."
+LANG_ENGLISH         "Эти фильтры позволяют отключить дополнительные оружия на пользовательских картах из их игр. Например, 'Отключить оружие BO1' не позволит картам, где есть оружие из BO1 появляться в ящике. Это НЕ добавляет оружие из всех игр в ящик."
 
 REFERENCE            POWERUP_DESC
 LANG_ENGLISH         "Откройте меню настроек бонусов."
@@ -48,7 +48,7 @@ REFERENCE            PLAYER
 LANG_ENGLISH         "Настройки игрока"
 
 REFERENCE            ROAMER
-LANG_ENGLISH         "Настройки режима роумера (Roamer)"
+LANG_ENGLISH         "Настройки Roamer"
 
 REFERENCE            GAME
 LANG_ENGLISH         "Настройки игры"
@@ -66,7 +66,7 @@ REFERENCE            PLAYER_DESC
 LANG_ENGLISH         "Откройте меню настроек игрока."
 
 REFERENCE            ROAMER_DESC
-LANG_ENGLISH         "Откройте меню настроек режима роумера (Roamer)."
+LANG_ENGLISH         "Откройте меню настроек roamer."
 
 REFERENCE            GAME_DESC
 LANG_ENGLISH         "Откройте меню настроек игры."
@@ -171,10 +171,10 @@ REFERENCE            BGB_LIMIT
 LANG_ENGLISH         "Лимит покупки губль-гам"
 
 REFERENCE            BGB_SP
-LANG_ENGLISH         "Отключить бесплатную музыку при действии губль-гама "невероятная щедрость""
+LANG_ENGLISH         "Отключить бесплатную музыку при покупке"
 
 REFERENCE            BGB_NT
-LANG_ENGLISH         "Бесконечная "Вызов Ньютону""
+LANG_ENGLISH         "Бесконечная Newtonian Negation"
 
 REFERENCE            BGB_OFF_DESC
 LANG_ENGLISH         "Отключает все машины губль-гам на карте."
@@ -195,7 +195,7 @@ REFERENCE            BGB_TITLE
 LANG_ENGLISH         "НАСТРОЙКИ ГУБЛЬ-ГАМ"
 
 REFERENCE            ROUND
-LANG_ENGLISH         "Начальный раунд"
+LANG_ENGLISH         "Стартовый раунд"
 
 REFERENCE            ZC
 LANG_ENGLISH         "Счетчик зомби включен"
@@ -246,13 +246,13 @@ REFERENCE            SE_DESC
 LANG_ENGLISH         "Как в Cold War Zombies, показывает, как вы получили очки рядом с прицелом."
 
 REFERENCE            TIMEPLAY_DESC
-LANG_ENGLISH         "Включает режим ограниченного времени. Зомби не перестают появляться, цель – продержаться как можно дольше. Не совместимо с режимом roamer или счетчиком зомби."
+LANG_ENGLISH         "Включает режим ограниченного времени. Зомби не перестают появляться, цель – продержаться как можно дольше. Не совместимо с Roamer или счетчиком зомби."
 
 REFERENCE            DOOR_DESC
 LANG_ENGLISH         "Открывает все двери на карте."
 
 REFERENCE            BOX_ALL_DESC
-LANG_ENGLISH         "Таинственный ящик находится на всех местах, где он может быть. Блокирует перемещение коробки."
+LANG_ENGLISH         "Создает таинственный ящик во всех возможных местах одновременно. Блокирует перемещение коробки."
 
 REFERENCE            POWER_DESC
 LANG_ENGLISH         "Включает питание в начале игры."
@@ -270,7 +270,7 @@ REFERENCE            GAME_TITLE
 LANG_ENGLISH         "НАСТРОЙКИ ИГРЫ"
 
 REFERENCE            BOX_FILTER_DESC
-LANG_ENGLISH         "Эти фильтры позволяют отключить оружие на пользовательских картах из их игр. Например, 'Отключить оружие BO1' не позволит картам с BO1 добавлять появляться в ящике. Это НЕ добавляет оружие из всех игр."
+LANG_ENGLISH         "Эти фильтры позволяют отключить оружие на пользовательских картах из их игр. Например, 'Отключить оружие BO1' не позволит картам, где есть оружие из BO1 появляться в ящике. Это НЕ добавляет оружие из всех игр в ящик."
 
 REFERENCE            T4
 LANG_ENGLISH         "Отключить оружие WAW"
@@ -339,7 +339,7 @@ REFERENCE            PERKLIMIT_DESC
 LANG_ENGLISH         "Позволяет игроку выбрать лимит перков."
 
 REFERENCE            QUADKICK_DESC
-LANG_ENGLISH         "Пинок мула теперь позволяет носить 4 оружия.\n\n^1Внимание^7: Восстановление оружия & пинок мула, восстановление и потеря перков по времени перестанут работать."
+LANG_ENGLISH         "Пинок мула теперь позволяет носить 4 оружия.\n\n^1Внимание^7: Восстановление оружия & Mule Kick восстановление и потеря перков по времени перестанут работать."
 
 REFERENCE            PERKAHOLIC_DESC
 LANG_ENGLISH         "Выберите, хотите ли начать с перкоголиком."
@@ -393,7 +393,7 @@ REFERENCE            NUKE_SCORE
 LANG_ENGLISH         "Очки за улучшенную Ядерную бомбу"
 
 REFERENCE            CARPENTER
-LANG_ENGLISH         "BO4 Плотник"
+LANG_ENGLISH         "BO4 плотник"
 
 REFERENCE            FREEPERK
 LANG_ENGLISH         "Включить бонус бесплатного перка"
@@ -417,61 +417,61 @@ REFERENCE            POWERUP_TITLE
 LANG_ENGLISH         "НАСТРОЙКИ БОНУСОВ"
 
 REFERENCE            MAXAMMO
-LANG_ENGLISH         "BO4 Максимум Патронов"
+LANG_ENGLISH         "BO4 Максимум патронов"
 
 REFERENCE            MAXAMMO_DESC
-LANG_ENGLISH         "Максимум Патронов также пополняет обойму."
+LANG_ENGLISH         "Максимум патронов также пополняет магазин."
 
 REFERENCE            ROAMER
-LANG_ENGLISH         "Настройка режима роумера"
+LANG_ENGLISH         "Настройка Roamer"
 
 REFERENCE            ROAMERTIME
-LANG_ENGLISH         "Время режима роумера между раундами"
+LANG_ENGLISH         "Время Roamer между раундами"
 
 REFERENCE            ROMAER_DESC
-LANG_ENGLISH         "Режим роумера позволяет ждать в конце раунда перед следующим раундом. Чтобы начать следующий раунд, нажмите ADS + Melee."
+LANG_ENGLISH         "Roamer позволяет ждать в конце раунда перед следующим раундом. Чтобы начать следующий раунд, нажмите ADS + Melee."
 
 REFERENCE            ROAMERTIME_DESC
 LANG_ENGLISH         "Выберите, сколько времени между раундами."
 
 REFERENCE            ROAMER_TITLE
-LANG_ENGLISH         "НАСТРОЙКИ РЕЖИМА РОУМЕРА"
+LANG_ENGLISH         "НАСТРОЙКИ ROAMER"
 
 REFERENCE            T7
 LANG_ENGLISH         "Добавить оружие BO3"
 
 REFERENCE            STARTAMMO
-LANG_ENGLISH         "Начать с Максимум Патронов"
+LANG_ENGLISH         "Начать с Максимум патронов"
 
 REFERENCE            RK5
 LANG_ENGLISH         "Начать с RK5"
 
 REFERENCE            BOWIE
-LANG_ENGLISH         "Начать с ножа Боуи"
+LANG_ENGLISH         "Начать с ножа боуи"
 
 REFERENCE            RADM_WEAPON
 LANG_ENGLISH         "Случайное стартовое оружие"
 
 REFERENCE            OWNCAMO
-LANG_ENGLISH         "Использовать свой камуфляж"
+LANG_ENGLISH         "Использовать свою камуфляж"
 
 REFERENCE            PAPCAMO
 LANG_ENGLISH         "Выбрать камуфляж улучшенного оружия"
 
 REFERENCE            BOXSHARE
-LANG_ENGLISH         "Делиться оружием из ящика"
+LANG_ENGLISH         "Делиться оружием с таинственной коробки"
 
 REFERENCE            LOADOUTSAVE
 LANG_ENGLISH         "Сохранение оружия и пинок мула"
 
 REFERENCE            C4
-LANG_ENGLISH         "Отключить покупаемую концовку C4"
+LANG_ENGLISH         "Отключить покупаемое окончание C4"
 
 REFERENCE            T7_DESC
 LANG_ENGLISH         "Добавляет все оружие BO3 в таинственный ящик."
 
 REFERENCE            STARTAMMO_DESC
-LANG_ENGLISH         "Выберите, начинать ли с Максимум Патронов для пистолета."
+LANG_ENGLISH         "Выберите, начинать ли с максимум патронов для пистолета."
 
 REFERENCE            RK5_DESC
 LANG_ENGLISH         "Добавляет RK5 вместе со стартовым пистолетом карты, как если бы игрок завершил супер пасхальное яйцо."
@@ -483,19 +483,19 @@ REFERENCE            RADM_WEAPON_DESC
 LANG_ENGLISH         "Дает каждому игроку случайное стартовое оружие."
 
 REFERENCE            OWNCAMO_DESC
-LANG_ENGLISH         "Оружие после улучшения использует оригинальный камуфляж."
+LANG_ENGLISH         "Оружие после улучшайзера использует оригинальный камуфляж."
 
 REFERENCE            PAPCAMO_DESC
 LANG_ENGLISH         "Выберите камуфляж улучшенного оружия."
 
 REFERENCE            BOXSHARE_DESC
-LANG_ENGLISH         "Используйте ближний бой возле ящика, чтобы делиться оружием с командой."
+LANG_ENGLISH         "Используйте ближний бой возле таинственного ящика, чтобы делиться оружием с командой."
 
 REFERENCE            LOADOUTSAVE_DESC
-LANG_ENGLISH         "При отключении от хоста, лобби сохраняет оружие, перки и очки. После подключения вы возвращаете потерянное (также применимо к следующему раунду после смерти)."
+LANG_ENGLISH         "При отключении от хоста, игрок сохраняет оружие, перки и очки. После подключения вы возвращаете потерянное (также применимо к следующему раунду после смерти)."
 
 REFERENCE            C4_DESC
-LANG_ENGLISH         "После 35 волн, при 150000 очках, взрыв C4 может закончить игру. если этот параметр выбран, закончить игру с С4 будет невозмжоно."
+LANG_ENGLISH         "После 35 волн, при 150000 очках, взрыв C4 может закончить игру. Если активированно, игра не будет завершаться при испоьзовании C4."
 
 REFERENCE            WEAPON_TITLE
 LANG_ENGLISH         "НАСТРОЙКИ ОРУЖИЯ"
@@ -564,10 +564,10 @@ REFERENCE            CRAZYZOMBIE
 LANG_ENGLISH         "Быстрые зомби"
 
 REFERENCE            HUD
-LANG_ENGLISH         "без интерфейса"
+LANG_ENGLISH         "без HUD"
 
 REFERENCE            LIMIT
-LANG_ENGLISH         "Разрешить копии оружия чудесного оружия из карты в ящике"
+LANG_ENGLISH         "Разрешить копии чудесного оружия из карты в ящике"
 
 REFERENCE            HPBAR
 LANG_ENGLISH         "Полоса здоровья игрока"

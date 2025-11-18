@@ -45,7 +45,7 @@ REFERENCE           THE_ZM
 LANG_ENGLISH     " ^7Зомби!"
 
 REFERENCE           GIVE_GUM
-LANG_ENGLISH     "Губльгам ^5"
+LANG_ENGLISH     "Губль-гам ^5"
 
 REFERENCE           GIVE_AAT
 LANG_ENGLISH     "Альтернативный тип боеприпасов ^5"
@@ -99,13 +99,13 @@ REFERENCE           HITMARKER_OFF
 LANG_ENGLISH     "Хитмаркер Выкл."
 
 REFERENCE           CANT_BGB_HINT
-LANG_ENGLISH     "Губльгам недоступен"
+LANG_ENGLISH     "Губль-гам недоступен"
 
 REFERENCE           BGB_ON
-LANG_ENGLISH     "Машина губльгам активирована"
+LANG_ENGLISH     "Машина губль-гам активирована"
 
 REFERENCE           BGB_OFF
-LANG_ENGLISH     "Машина Гобблгам деактивирована"
+LANG_ENGLISH     "Машина губль-гам деактивирована"
 
 REFERENCE           SONG_CHANGE
 LANG_ENGLISH     "Смена трека......"
@@ -132,7 +132,7 @@ REFERENCE           WEAPONLOCKER_GETBACK
 LANG_ENGLISH     "Удерживайте ^3[{+activate}]^7, чтобы взять оружие [Оружие из оружейного шкафа: &&1^7]."
 
 REFERENCE           WEAPONLOCKER_STORE
-LANG_ENGLISH     "Удерживайте ^3[{+activate}]^7, чтобы положить оружие в шкаф."
+LANG_ENGLISH     "Удерживайте ^3[{+activate}]^7, чтобы положить оружие."
 
 REFERENCE           WEAPONLOCKER_LOADING
 LANG_ENGLISH     "Обработка......"
@@ -147,7 +147,7 @@ REFERENCE           AF_TITLE
 LANG_ENGLISH     "Расширенные функции в игре"
 
 REFERENCE           AF_DESC
-LANG_ENGLISH     "Если включены расширенные функции, оружейный шкаф и банк будут недоступны.\nАктивирует меню модификации в стиле GSC, доступное при удерживании ^3[{+stance}] ^7+ ^3[{+reload}]\n^1<Если вы не понимаете, как использовать эту функцию, ПОЖАЛУЙСТА НЕ ВКЛЮЧАЙТЕ!>"
+LANG_ENGLISH     "Если включены расширенные функции, оружейный шкаф и банк будут недоступны.\nАктивирует меню модификации в стиле GSC, активируется при удерживании ^3[{+stance}] ^7+ ^3[{+reload}]\n^1<Если вы не понимаете, как использовать эту функцию, ПОЖАЛУЙСТА НЕ ВКЛЮЧАЙТЕ!>"
 
 REFERENCE           AF
 LANG_ENGLISH     "РАСШИРЕННЫЕ ФУНКЦИИ"
@@ -159,10 +159,10 @@ REFERENCE           PAUSE_DESC
 LANG_ENGLISH     "Нажмите ^3Нет ^7для продолжения."
 
 REFERENCE           LOCKER_BAN
-LANG_ENGLISH     "^1Обнаружены незаконные очки, шкаф с оружием и банк теперь недоступны."
+LANG_ENGLISH     "^1Обнаружены незаконные очки, оружейный шкаф и банк теперь недоступны."
 
 REFERENCE           PAUSE
-LANG_ENGLISH     "КООПЕРАТИВНАЯ ПАУЗА"
+LANG_ENGLISH     "ПАУЗА В КООПЕРАТИВЕ"
 
 REFERENCE           BOXSHARE_TAKE
 LANG_ENGLISH     "^3[{+activate}]^7 Взять оружие"
@@ -177,7 +177,7 @@ REFERENCE           SPIKE_HINT
 LANG_ENGLISH     "Двойное нажатие ^3[{+activate}]^7/^3[{+melee}] ^7для взрыва шипов"
 
 REFERENCE           BOXSHARE_HINT
-LANG_ENGLISH     "Нажмите ^3[{+melee}]^7, чтобы поделиться этим оружием с товарищем по команде"
+LANG_ENGLISH     "Нажмите ^3[{+melee}]^7, чтобы поделиться этим оружием с напарниками"
 
 REFERENCE           START_HINT_GAMEPAD
 LANG_ENGLISH     "^3[{+breath_sprint}] ^7+ ^3[{+reload}] ^7Осмотреть оружие\n^3[{+melee}]^7 + ^3[{+actionslot 3}] ^7Фонарь\n^3[{+breath_sprint}]^7 + ^3[{+actionslot 3}] ^7Сбросить очки\n^3[{+gostand}]^7 + ^3[{+actionslot 3}] ^7Улучшенное зрение"
@@ -186,7 +186,7 @@ REFERENCE           START_HINT
 LANG_ENGLISH     "^3[{+reload}] ^7Осмотреть оружие\n^3[{+melee}]^7 + ^3[{+actionslot 3}] ^7Фонарь\n^3[{+breath_sprint}]^7 + ^3[{+actionslot 3}] ^7Сбросить очки\n^3[{+gostand}]^7 + ^3[{+actionslot 3}] ^7DNI Улучшенное зрение"
 
 REFERENCE           REMOVEPERK_HINT
-LANG_ENGLISH     "Нажмите ^3[{+activate}]^7 + ^3[{+melee}] ^7, чтобы удалить этот перк на машине перков."
+LANG_ENGLISH     "Смотря на машину с перком, нажмите ^3[{+activate}]^7 + ^3[{+melee}] ^7, чтобы удалить этот перк."
 
 REFERENCE           KATANA_HINT
 LANG_ENGLISH     "^3[{+attack}]^7 Беспощадный рывок\n^3[{+reload}]^7 Невидимость & Бесконечные патроны (один раз за раунд)\n^3[{+melee}]^7 Восстановление здоровья"
@@ -196,5 +196,20 @@ LANG_ENGLISH     "^3[{+attack}]^7 Беспощадный рывок\n^3[{+breath
 
 REFERENCE           MOD_DESC
 LANG_ENGLISH     "Добро пожаловать в мод All-Around Enhancement! Этот мод добавляет множество улучшений качества жизни и исправляет ошибки в режиме зомби Black Ops III, обеспечивая окончательный опыт игры с зомби."
+
+REFERENCE           CHAT_BANK_SAVE1
+LANG_ENGLISH     " ^7Внёс^3 "
+
+REFERENCE           CHAT_BANK_SAVE2
+LANG_ENGLISH     " ^7В банк"
+
+REFERENCE           CHAT_TRANSFER1
+LANG_ENGLISH     " ^7Перевёл^3 "
+
+REFERENCE           CHAT_TRANSFER2
+LANG_ENGLISH     " ^7К "
+
+REFERENCE           ROAMER_SPECTATING
+LANG_ENGLISH     "Нажмите ^3[{+activate}] ^7, чтобы завершить этот раунд"
 
 ENDMARKER

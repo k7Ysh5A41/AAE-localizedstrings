@@ -6,13 +6,13 @@ CONFIG              "C:\projects\cod\t7\bin\StringEd.cfg"
 FILENOTES           ""
 
 REFERENCE           HOTJOIN
-LANG_ENGLISH     "Отключить Hot Join"
+LANG_ENGLISH     "Отключить подключение игроков"
 
 REFERENCE           HOTJOIN_DESC
 LANG_ENGLISH     "Игроки не могут присоединяться после начала матча."
 
 REFERENCE           GAMBLER
-LANG_ENGLISH     "Отключить Gambler"
+LANG_ENGLISH     "Отключить гамблер"
 
 REFERENCE           DOG
 LANG_ENGLISH     "Отключить специальные раунды"

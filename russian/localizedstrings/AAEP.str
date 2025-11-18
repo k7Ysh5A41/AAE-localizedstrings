@@ -9,37 +9,37 @@ REFERENCE            FOV_SCALE
 LANG_ENGLISH         "Масштаб FoV"
 
 REFERENCE            SHORTCUT_KEY
-LANG_ENGLISH         "^5Все горячие клавиши\n\n^7Фонарь\nМаркер\nСброс очков\nDNI Ночное видение\nГлубина резкости\nТретье лицо\nПолный обзор карты\nСкрыть HUD\nСпреи\nОтмена броска\nУстановить оружие Mulekick\nСмена камуфляжа\nСмена прицела"
+LANG_ENGLISH         "^5Все горячие клавиши\n\n^7Фонарь\nМетка\nСброс очков\nНочное зрение DNI\nВид от третьего лица\nПолный обзор карты\nСкрыть интерфейс (HUD)\nСпреи\nОтмена броска\nНазначить оружие Mulekick\nСменить камуфляж\nСменить прицел"
 
 REFERENCE            DRONE_KILL
-LANG_ENGLISH         "Уничтожение дрона Valkyrie"
+LANG_ENGLISH         "Уничтожение дрона Валькирия"
 
 REFERENCE            DRONE_EXPLOSIVE_KILL
-LANG_ENGLISH         "Взрывное уничтожение дрона Valkyrie"
+LANG_ENGLISH         "Взрывное уничтожение дрона Валькирия"
 
 REFERENCE            DRONE_MELEE_KILL
-LANG_ENGLISH         "Ближний бой с дроном Valkyrie"
+LANG_ENGLISH         "Ближний бой с дроном Валькирия"
 
 REFERENCE            DRONE_HEADSHOT_KILL
-LANG_ENGLISH         "Убийство дрона Valkyrie выстрелом в голову"
+LANG_ENGLISH         "Убийство дрона Валькирия выстрелом в голову"
 
 REFERENCE            C_DRONE_CRITICAL_KILL
-LANG_ENGLISH         "^3Критическое убийство дрона Valkyrie"
+LANG_ENGLISH         "^3Критическое убийство дрона Валькирия"
 
 REFERENCE            C_DRONE_EXPLOSIVE_KILL
-LANG_ENGLISH         "^3Взрывное убийство дрона Valkyrie"
+LANG_ENGLISH         "^3Взрывное убийство дрона Валькирия"
 
 REFERENCE            C_DRONE_MELEE_KILL
-LANG_ENGLISH         "^3Ближний бой с дроном Valkyrie"
+LANG_ENGLISH         "^3Ближний бой с дроном Валькирия"
 
 REFERENCE            C_DRONE_HEADSHOT_KILL
-LANG_ENGLISH         "^3Убийство дрона Valkyrie выстрелом в голову"
+LANG_ENGLISH         "^3Убийство дрона Валькирия выстрелом в голову"
 
 REFERENCE            KEEPER
 LANG_ENGLISH         "Хранители"
 
 REFERENCE            SHRIEKER
-LANG_ENGLISH         "Кричащий"
+LANG_ENGLISH         "Крикун"
 
 REFERENCE            NAPALM
 LANG_ENGLISH         "Напалм"
@@ -57,13 +57,13 @@ REFERENCE            ZNS_PLANE
 LANG_ENGLISH         "Бомбардировщик MIL-B17"
 
 REFERENCE            DRONE
-LANG_ENGLISH         "Дрон Valkyrie"
+LANG_ENGLISH         "Дрон Валькирия"
 
 REFERENCE            ASTROUAUT
 LANG_ENGLISH         "Астронавт"
 
 REFERENCE            THRASHER
-LANG_ENGLISH         "Трэшер"
+LANG_ENGLISH         "Болотный монстр"
 
 REFERENCE            NOVA
 LANG_ENGLISH         "Краулер Нова"
@@ -72,13 +72,13 @@ REFERENCE            FURY
 LANG_ENGLISH         "Ярость Апотиона"
 
 REFERENCE            PANZER
-LANG_ENGLISH         "Панцершолд"
+LANG_ENGLISH         "Панцер-солдат"
 
 REFERENCE            MARGWA
 LANG_ENGLISH         "Маргва"
 
 REFERENCE            MANGLER
-LANG_ENGLISH         "Мэнглер"
+LANG_ENGLISH         "Солдат мяснит"
 
 REFERENCE            BUY_DRINK
 LANG_ENGLISH         "Вы можете купить другу напиток, нажав ^3[{+actionslot 3}] ^7у машины перков"
@@ -87,13 +87,13 @@ REFERENCE            CASTLE_EE_TIMER
 LANG_ENGLISH         "Обратный отсчет путешествия во времени: "
 
 REFERENCE            GUM_DISABLE
-LANG_ENGLISH         " GobbleGum отключен из-за размера лобби"
+LANG_ENGLISH         " Губль-гам отключен из-за размера лобби"
 
 REFERENCE            MONKEY_PAP
-LANG_ENGLISH         "Нажмите ^3[{+melee}]^7 Pack-a-Punch Monkey Bomb [Стоимость: 5000]"
+LANG_ENGLISH         "Нажмите ^3[{+melee}]^7 чтобы улучшить бомбу-обезьяну [Стоимость: 5000]"
 
 REFERENCE            OCTOBOMB_PAP
-LANG_ENGLISH         "Нажмите ^3[{+melee}]^7 Pack-a-Punch Li'l Arnies [Стоимость: 5000]"
+LANG_ENGLISH         "Нажмите ^3[{+melee}]^7 чтобы улучшить маленького Арни [Стоимость: 5000]"
 
 REFERENCE            ZOMBIE_BASE_HEALTH
 LANG_ENGLISH         "Множитель базового здоровья зомби"
@@ -108,13 +108,13 @@ REFERENCE          MIN_MAP
 LANG_ENGLISH       "КАРТЫ MINECRAFT"
 
 REFERENCE          MIN_MAP_DESC
-LANG_ENGLISH       "Карты популярной игры Minecraft, полные весёлых испытаний и множества зомби."
+LANG_ENGLISH       "Карты популярной игры Minecraft, полно весёлых испытаний и множества зомби."
 
 REFERENCE          TOR_MAP
 LANG_ENGLISH       "КАРТЫ БАШЕН"
 
 REFERENCE          TOR_MAP_DESC
-LANG_ENGLISH       "Башенные карты, где ваша цель — подняться или спуститься с башни, купить её конечное приобретение или выполнить испытания."
+LANG_ENGLISH       "Карты башен, где ваша цель — подняться или спуститься с башни, купить её окончание или выполнить испытания."
 
 REFERENCE          IN_MAP
 LANG_ENGLISH       "ВДОХНОВЛЁННЫЕ КАРТЫ"

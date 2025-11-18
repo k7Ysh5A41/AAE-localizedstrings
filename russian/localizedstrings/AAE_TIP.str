@@ -12,28 +12,28 @@ REFERENCE           ROCKETSHIELD_UPGRADED_CONTENT
 LANG_ENGLISH     "1. Убейте 10 зомби 12 последовательными залпами с Ракетного Щита\n(Если количество убийств меньше 10, нужно начать заново)\n2. Когда услышите звук аплодисментов, получите улучшенный ракетный щит"
 
 REFERENCE           IDGUN_UPGRADED_TITLE
-LANG_ENGLISH     "Улучшение Apothican Servant"
+LANG_ENGLISH     "Улучшение Слуга Апотикона"
 
 REFERENCE           IDGUN_UPGRADED_CONTENT
-LANG_ENGLISH     "1. Ищите коконы, висящие на карте. Когда игрок держит Apothican Servant, чем ближе он к кокону, тем чаще слышен сердечный ритм Apothican Servant\n2. После нахождения кокона используйте Apothican Servant, чтобы убить 100 зомби рядом с коконом\n3. Выстрелите в кокон, он всосет Apothican Servant, дождитесь следующего раунда\n4. Разрушьте кокон, и улучшенный Apothican Servant выпадет, любой игрок может его поднять"
+LANG_ENGLISH     "1. Ищите коконы, висящие на карте. Когда игрок держит Слуга Апотикона, чем ближе он к кокону, тем чаще слышен сердечный ритм Слуга Апотикона\n2. После нахождения кокона используйте Слуга Апотикона, чтобы убить 100 зомби рядом с коконом\n3. Выстрелите в кокон, он всосет Слуга Апотикона, дождитесь следующего раунда\n4. Разрушьте кокон, и улучшенный Слуга Апотикона выпадет, любой игрок может его поднять"
 
 REFERENCE           GASMASK_UPGRADED_TITLE
 LANG_ENGLISH     "Улучшение Противогаза"
 
 REFERENCE           GASMASK_UPGRADED_CONTENT
-LANG_ENGLISH     "Выстрел в маску на верстаке с Masamune\nУлучшит противогаз до бесконечной защиты от токсичных спор"
+LANG_ENGLISH     "Выстрелите в маску на верстаке с Masamune\nЭто улучшит противогаз до бесконечной защиты от токсичных спор"
 
 REFERENCE           FREEGUM_TITLE
-LANG_ENGLISH     "Бесплатно Anywhere But Here!"
+LANG_ENGLISH     "Бесплатный "Я помогу!""
 
 REFERENCE           FREEGUM_CONTENT
-LANG_ENGLISH     "Вы можете получить один Gobblegum “Anywhere But Here” здесь."
+LANG_ENGLISH     "Вы можете получить один губль-гам “Я помогу!” здесь."
 
 REFERENCE           AA_AMMO_CHANCE_TITLE
-LANG_ENGLISH     "Увеличить шанс появления патронов для AA"
+LANG_ENGLISH     "Увеличить шанс появления патронов для зенитной установки"
 
 REFERENCE           AA_AMMO_CHANCE_CONTENT
-LANG_ENGLISH     "Lucky Crit Gobblegum увеличит вероятность появления патронов для AA до 100%"
+LANG_ENGLISH     "Губль-гам "Счастливый Крит" увеличит вероятность появления патронов для зенитной установки на 100%"
 
 REFERENCE           GIANT_PERK_EE_TITLE
 LANG_ENGLISH     "EE 5-й Машины Перков"
@@ -45,7 +45,7 @@ REFERENCE           GENESIS_SHIELD_TITLE
 LANG_ENGLISH     "Улучшение Драконьего Щита"
 
 REFERENCE           GENESIS_SHIELD_CONTENT
-LANG_ENGLISH     "1. Используйте Apothican Servant, чтобы выстрелить по верстаку, вихрь всосет Apothican Servant, ПРИМЕЧАНИЕ: оружие не возвращается.\n2. После окончания вихря улучшение щита будет завершено"
+LANG_ENGLISH     "1. Используйте Слуга Апотикона, чтобы выстрелить по верстаку, вихрь всосет Слуга Апотикона, ПРИМЕЧАНИЕ: оружие не возвращается.\n2. После окончания вихря улучшение щита будет завершено"
 
 REFERENCE           TEMPLE_KEY_COMBO_EE_TITLE
 LANG_ENGLISH     "EE Взрывающаяся Обезьяна"
@@ -54,16 +54,16 @@ REFERENCE           TEMPLE_KEY_COMBO_EE_CONTENT
 LANG_ENGLISH     "Встаньте сюда и нажмите следующие кнопки, чтобы взорвать обезьянью бомбу:\n^3[{+actionslot 1}] [{+actionslot 1}] [{+actionslot 2}] [{+gostand}]"
 
 REFERENCE           MOON_SUPER_PES_TITLE
-LANG_ENGLISH     "Супер Давление Внешний Костюм"
+LANG_ENGLISH     "Супер скафандр"
 
 REFERENCE           MOON_SUPER_PES_CONTENT
-LANG_ENGLISH     "P.E.S. теперь можно взломать.\nВзлом и повторное получение позволит переносить хакера и P.E.S. вместе"
+LANG_ENGLISH     "Скафандр теперь можно взломать.\nВзлом и повторное получение позволит переносить хакера и скафандра вместе"
 
 REFERENCE           MOON_DIGGER_HACKING_TITLE
 LANG_ENGLISH     "Управление Экскаватором теперь можно взломать"
 
 REFERENCE           MOON_DIGGER_HACKING_CONTENT
-LANG_ENGLISH     "Стоимость взлома панелей Omicron и Epsilon — 1000\nСтоимость взлома панели Pi — 5000, если машина Gobblegum отключена или включен случайный Gobblegum\nИначе взлом панели Pi будет отключен до раунда 10, а стоимость изменится на 50000\nЕсли туннель 6 будет разрушен до взлома, стоимость панели Pi изменится на 1000"
+LANG_ENGLISH     "Стоимость взлома панелей Омикрон и Эпсилон  — 1000\nСтоимость взлома панели Пи — 5000, если машина Gobblegum отключена или включен случайный Gobblegum\nИначе взлом панели Pi будет отключен до раунда 10, а стоимость изменится на 50000\nЕсли туннель 6 будет разрушен до взлома, стоимость панели Pi изменится на 1000"
 
 REFERENCE           MOON_EE_ITEM_TITLE
 LANG_ENGLISH     "Получение предметов EE с Прыжковой Площадки"
@@ -81,7 +81,7 @@ REFERENCE           DAMAGE
 LANG_ENGLISH     "Урон"
 
 REFERENCE           STK
-LANG_ENGLISH     "Выстрелов для убийства на Раунде 30"
+LANG_ENGLISH     "Выстрелов для убийства на 30 раунде"
 
 REFERENCE           SHOTCOUNT
 LANG_ENGLISH     "Количество выстрелов дробовика"
@@ -97,5 +97,17 @@ LANG_ENGLISH     "Размер магазина"
 
 REFERENCE           STOCKAMMO
 LANG_ENGLISH     "Запас патронов"
+
+REFERENCE           WONDERWEAPON
+LANG_ENGLISH        "ЧУДЕСНОЕ ОРУЖИЕ"
+
+REFERENCE           GASWEAPON
+LANG_ENGLISH        "ГАЗОВОЕ ОРУЖИЕ"
+
+REFERENCE           FREE_LANDER_TITLE
+LANG_ENGLISH        "Бесплатный лунный модуль"
+
+REFERENCE           FREE_LANDER
+LANG_ENGLISH        "Не обращайте внимания на цену 250 — на самом деле бесплатно."
 
 ENDMARKER
