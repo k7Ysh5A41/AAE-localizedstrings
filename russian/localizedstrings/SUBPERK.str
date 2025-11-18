@@ -6,43 +6,43 @@ CONFIG              "C:\projects\cod\t7\bin\StringEd.cfg"
 FILENOTES           ""
 
 REFERENCE           SPECIALTY_QUICKREVIVE
-LANG_ENGLISH     "Quick Revive"
+LANG_ENGLISH     "Реаниматор"
 
 REFERENCE           SPECIALTY_DEADSHOT
-LANG_ENGLISH     "Deadshot"
+LANG_ENGLISH     "Снайпер-лайм"
 
 REFERENCE           SPECIALTY_ARMORVEST
-LANG_ENGLISH     "Jugger-Nog"
+LANG_ENGLISH     "Джаггер фанта"
 
 REFERENCE           SPECIALTY_FASTRELOAD
-LANG_ENGLISH     "Speed Cola"
+LANG_ENGLISH     "Быстрокола"
 
 REFERENCE           SPECIALTY_WIDOWSWINE
-LANG_ENGLISH     "Widow's Wine"
+LANG_ENGLISH     "Вино вдвовы"
 
 REFERENCE           SPECIALTY_WHOSWHO
-LANG_ENGLISH     "Who's Who"
+LANG_ENGLISH     "Кто есть кто"
 
 REFERENCE           SPECIALTY_VULTUREAID
-LANG_ENGLISH     "Vulture-Aid"
+LANG_ENGLISH     "Элексир Гриф"
 
 REFERENCE           SPECIALTY_TOMBSTONE
-LANG_ENGLISH     "Tombstone"
+LANG_ENGLISH     "Могильный камень"
 
 REFERENCE           SPECIALTY_PHDFLOPPER
-LANG_ENGLISH     "PhD Flopper"
+LANG_ENGLISH     "Доктор бумс"
 
 REFERENCE           SPECIALTY_ELECTRICCHERRY
-LANG_ENGLISH     "Electric Cherry"
+LANG_ENGLISH     "Электровишня"
 
 REFERENCE           SPECIALTY_STAMINUP
-LANG_ENGLISH     "Stamin-Up"
+LANG_ENGLISH     "Коктейль Выносливости"
 
 REFERENCE           SPECIALTY_ADDITIONALPRIMARYWEAPON
-LANG_ENGLISH     "Mule Kick"
+LANG_ENGLISH     "Пинок Мула"
 
 REFERENCE           SPECIALTY_DOUBLETAP2
-LANG_ENGLISH     "Double Tap"
+LANG_ENGLISH     "Двойной Выстрел"
 
 REFERENCE           SPECIALTY_GPSJAMMER
 LANG_ENGLISH     "Snails Pace Slurpee"

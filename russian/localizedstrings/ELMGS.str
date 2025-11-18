@@ -5,9 +5,6 @@ VERSION             "1"
 CONFIG              "C:\projects\cod\t7\bin\StringEd.cfg"
 FILENOTES           ""
 
-REFERENCE           ZMLEFT
-LANG_ENGLISH     "Оставшиеся враги:  ^1"
-
 REFERENCE           ZOMBIERIOT
 LANG_ENGLISH     "^1Финальный вызов!"
 
@@ -24,7 +21,7 @@ REFERENCE           PAP4
 LANG_ENGLISH     "^3Эпический"
 
 REFERENCE           PAP_TITLE
-LANG_ENGLISH     "Уровень улучшайзера: "
+LANG_ENGLISH     "Уровень Pack-a-Punch: "
 
 REFERENCE           EXITLEVEL
 LANG_ENGLISH     "Мгновенный выход"

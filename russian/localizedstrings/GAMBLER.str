@@ -48,7 +48,7 @@ REFERENCE           W20000
 LANG_ENGLISH     "^2Вы выиграли ^BBUTTON_COD_POINT_ICON^20000."
 
 REFERENCE           LIVE_DIE
-LANG_ENGLISH     "^1Вы живы или умрёте через 5 секунд."
+LANG_ENGLISH     "^1Вы выживете или умрёте через 5 секунд."
 
 REFERENCE           LIVE
 LANG_ENGLISH     "^2Вы выжили!"
@@ -69,7 +69,7 @@ REFERENCE           SB_DIE
 LANG_ENGLISH     "^1Идиот умер"
 
 REFERENCE           SB_LIVE
-LANG_ENGLISH     "^1Бууум! Все убиты идиотами! Идиоты выжили! Идиоты получают бесплатный Perkaholic!"
+LANG_ENGLISH     "^1Бууум! Все убиты идиотами! Идиоты выжили! Идиоты получают бесплатный перкоголик!"
 
 REFERENCE           RICH
 LANG_ENGLISH     "^3Стань богатым!"
