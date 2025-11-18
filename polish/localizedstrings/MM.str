@@ -1,0 +1,494 @@
+// Note to translators:
+// Just edit the text inside the quotes, don't edit other code
+
+VERSION             "1"
+CONFIG              "C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           WEAPONSMODSMENU
+LANG_ENGLISH     "Menu Modyfikacji Broni"
+
+REFERENCE           PACKERPUNCHOPTIONS
+LANG_ENGLISH     "Opcje Pack-a-Punch"
+
+REFERENCE           DROPCURRENTWEAPON
+LANG_ENGLISH     "Upuść Obecną Broń"
+
+REFERENCE           TOGGLEHIDECURRENTWEAPON
+LANG_ENGLISH     "Przełącz Ukrywanie Obecnej Broni"
+
+REFERENCE           TOGGLEHIDECROSSHAIR
+LANG_ENGLISH     "Przełącz Ukrywanie Celownika"
+
+REFERENCE           TOGGLESHOOTPOWERUPS
+LANG_ENGLISH     "Przełącz Strzelanie do Bonusów"
+
+REFERENCE           TOGGLELEFTSIDEWEAPON
+LANG_ENGLISH     "Przełącz Broń po Lewej Stronie"
+
+REFERENCE           PACKERPUNCHCURRENTWEAPON
+LANG_ENGLISH     "Pack-a-Punch Obecnej Broni"
+
+REFERENCE           UNPACKCURRENTWEAPON
+LANG_ENGLISH     "Rozpakuj Obecną Broń"
+
+REFERENCE           MESSAGESMENU
+LANG_ENGLISH     "Menu Komunikatów"
+
+REFERENCE           MISCMESSAGES
+LANG_ENGLISH     "Różne Komunikaty"
+
+REFERENCE           MESSAGETYPE
+LANG_ENGLISH     "Typ Komunikatu"
+
+REFERENCE           MISCMESSAGES
+LANG_ENGLISH     "Menu Różnych Komunikatów"
+
+REFERENCE           VISIONSMENU
+LANG_ENGLISH     "Menu Wizji"
+
+REFERENCE           FUNMENU
+LANG_ENGLISH     "Menu Zabawy"
+
+REFERENCE           TOGGLEFLASHINGPLAYER
+LANG_ENGLISH     "Przełączający Się Gracz"
+
+REFERENCE           TOGGLE3RDPERSON
+LANG_ENGLISH     "Przełącz Trzecią Osobę"
+
+REFERENCE           SPAWNICESKATER
+LANG_ENGLISH     "Zespawnuj Lodowego Łyżwiarza"
+
+REFERENCE           SENDEARTHQUAKE
+LANG_ENGLISH     "Wysłanie Trzęsienia Ziemi"
+
+REFERENCE           TOGGLEROTATEPLAYERANGLES
+LANG_ENGLISH     "Przełącz Obracanie Kątów Gracza"
+
+REFERENCE           DROPPHYSICALVENDING
+LANG_ENGLISH     "Upuść Fizyczny Automat"
+
+REFERENCE           PHYSICALEXPLOSION
+LANG_ENGLISH     "Fizyczna Eksplozja"
+
+REFERENCE           TOGGLERAPIDFIRE
+LANG_ENGLISH     "Przełącz Rapid Fire"
+
+REFERENCE           PRINTENTITIES
+LANG_ENGLISH     "Drukuj Encje"
+
+REFERENCE           CLONEPLAYER
+LANG_ENGLISH     "Klonuj Gracza"
+
+REFERENCE           GRAPHICSEFFECTSMENU
+LANG_ENGLISH     "Menu Efektów Graficznych"
+
+REFERENCE           MYSTERYBOXMODS
+LANG_ENGLISH     "Modyfikacje Skrzynki Mysterium"
+
+REFERENCE           TOGGLESUPERSPEED
+LANG_ENGLISH     "Przełącz Super Prędkość"
+
+REFERENCE           TOGGLESUPERGRAVITY
+LANG_ENGLISH     "Przełącz Super Grawitację"
+
+REFERENCE           TOGGLESUPERPHYSICALGRAVITY
+LANG_ENGLISH     "Przełącz Super Fizyczną Grawitację"
+
+REFERENCE           TOGGLETIMESCALE
+LANG_ENGLISH     "Przełącz Skale Czasu"
+
+REFERENCE           TOGGLEDISABLEAISPAWNERS
+LANG_ENGLISH     "Przełącz Wyłączenie Spawnerów SI"
+
+REFERENCE           TOGGLEFRIENDLYFIRE
+LANG_ENGLISH     "Przełącz Przyjazne Ognie"
+
+REFERENCE           TOGGLEENTITYCOLLISION
+LANG_ENGLISH     "Przełącz Kolizję Obiektów"
+
+REFERENCE           REVIVEALLCLIENTS
+LANG_ENGLISH     "Ożyw Wszystkich Klientów"
+
+REFERENCE           MYSTERYBOXMODS
+LANG_ENGLISH     "Modyfikacje Skrzynki Mysterium"
+
+REFERENCE           MYSTERYBOXNEVERMOVES
+LANG_ENGLISH     "Skrzynka Mysterium Nigdy się Nie Rusza"
+
+REFERENCE           MYSTERYBOXOPENINGPRICE
+LANG_ENGLISH     "Cena Otwierania Skrzynki Mysterium"
+
+REFERENCE           MYSTERYBOXOPENINGPRICE
+LANG_ENGLISH     "Cena Otwierania Skrzynki Mysterium"
+
+REFERENCE           SETPRICETO5100000
+LANG_ENGLISH     "Ustaw cenę na ^5 100000"
+
+REFERENCE           SETPRICETO51337
+LANG_ENGLISH     "Ustaw cenę na ^5 1337"
+
+REFERENCE           SETPRICETO5950
+LANG_ENGLISH     "Ustaw cenę na ^5 950"
+
+REFERENCE           SETPRICETO51
+LANG_ENGLISH     "Ustaw cenę na ^5 1"
+
+REFERENCE           SETPRICETO0
+LANG_ENGLISH     "Ustaw cenę na 0"
+
+REFERENCE           SETPRICETO1D950
+LANG_ENGLISH     "Ustaw cenę na ^1 -950"
+
+REFERENCE           SETPRICETO1D1337
+LANG_ENGLISH     "Ustaw cenę na ^1 -1337"
+
+REFERENCE           SETPRICETO1D100000
+LANG_ENGLISH     "Ustaw cenę na ^1 -100000"
+
+REFERENCE           GODMODE
+LANG_ENGLISH     "Tryb Boga"
+
+REFERENCE           PLAYERSCOREMENU
+LANG_ENGLISH     "Menu Wyników Gracza"
+
+REFERENCE           GIVEMENU
+LANG_ENGLISH     "Menu Dania"	
+
+REFERENCE           TELEPORTTOPLAYER
+LANG_ENGLISH     "Teleportuj do Gracza"
+
+REFERENCE           TELEPORTPLAYERTOYOU
+LANG_ENGLISH     "Teleportuj Gracza do Ciebie"
+
+REFERENCE           GIVEPOINTSO10000
+LANG_ENGLISH     "Daj Punkty +10000"
+
+REFERENCE           GIVEPOINTS500
+LANG_ENGLISH     "Daj Punkty +500"
+
+REFERENCE           GIVEPOINTSD500
+LANG_ENGLISH     "Daj Punkty -500"
+
+REFERENCE           GIVEPOINTSD10000
+LANG_ENGLISH     "Daj Punkty -10000"
+
+REFERENCE           CLIENTMAINMODIFICATIONS
+LANG_ENGLISH     "Modyfikacje Głównego Klienta"
+
+REFERENCE           FUNMODS
+LANG_ENGLISH     "Modyfikacje Zabawy"
+
+REFERENCE           PERKMENU
+LANG_ENGLISH     "Menu Perków"
+
+REFERENCE           SENDPOWERUPSMENU
+LANG_ENGLISH     "Menu Wysyłania Bonusów"
+
+REFERENCE           MESSAGEMENU
+LANG_ENGLISH     "Menu Komunikatów"
+
+REFERENCE           WEAPONSMENU
+LANG_ENGLISH     "Menu Broni"
+
+REFERENCE           WEAPONSMODSMENU
+LANG_ENGLISH     "Menu Modyfikacji Broni"
+
+REFERENCE           BULLETSMENU
+LANG_ENGLISH     "Menu Amunicji"
+
+REFERENCE           TELEPORTMENU
+LANG_ENGLISH     "Menu Teleportacji"
+
+REFERENCE           AIMBOTMENU
+LANG_ENGLISH     "Menu Aimbot"
+
+REFERENCE           ENTITYMENU
+LANG_ENGLISH     "Menu Obiektów"
+
+REFERENCE           VISIONSMENU
+LANG_ENGLISH     "Menu Wizji"
+
+REFERENCE           SFXMENU
+LANG_ENGLISH     "Menu Efektów Dźwiękowych"
+
+REFERENCE           GRAPHICSEFFECTSMENU
+LANG_ENGLISH     "Menu Efektów Graficznych"
+
+REFERENCE           ROUNDMENU
+LANG_ENGLISH     "Menu Rundy"
+
+REFERENCE           HOSTMENU
+LANG_ENGLISH     "Menu Gospodarza"
+
+REFERENCE           LOBBYMENU
+LANG_ENGLISH     "Menu Lobby"
+
+REFERENCE           CLIENTS
+LANG_ENGLISH     "Klienci"
+
+REFERENCE           CUSTOMIZEMENU
+LANG_ENGLISH     "Menu Personalizacji"
+
+REFERENCE           EXTRAPERKEASTEREGG
+LANG_ENGLISH     "Dodatkowy Perk Jajeczny"
+
+REFERENCE           STARTGIANTCLOCK
+LANG_ENGLISH     "Uruchom Gigantyczny Zegar"
+
+REFERENCE           STOPGIANTCLOCK
+LANG_ENGLISH     "Zatrzymaj Gigantyczny Zegar"
+
+REFERENCE           UPGRADETELEPORTER
+LANG_ENGLISH     "Ulepsz Teleporter"
+
+REFERENCE           SPAWNMODELWITHLIST
+LANG_ENGLISH     "Zespawnuj Model z Listy"
+
+REFERENCE           SPAWNMODEL
+LANG_ENGLISH     "Zespawnuj Model"
+
+REFERENCE           PLACEMODEL
+LANG_ENGLISH     "Umieść Model"
+
+REFERENCE           DROPMODELWITHPHYSICS
+LANG_ENGLISH     "Upuść Model z Fizyką"
+
+REFERENCE           ROTATEMODEL
+LANG_ENGLISH     "Obróć Model"
+
+REFERENCE           DELETEMODEL
+LANG_ENGLISH     "Usuń Model"
+
+REFERENCE           COSTUMIZEMODELDISTANCE
+LANG_ENGLISH     "Dostosuj Odległość Modelu"
+
+REFERENCE           DELETEALLENTITYS
+LANG_ENGLISH     "Usuń Wszystkie Obiekty"
+
+REFERENCE           ROTATEMODEL
+LANG_ENGLISH     "Obróć Model"
+
+REFERENCE           ROTATEANGLE1O
+LANG_ENGLISH     "Obróć Kąt 1 +"
+
+REFERENCE           ROTATEANGLE1D
+LANG_ENGLISH     "Obróć Kąt 1 -"
+
+REFERENCE           ROTATEANGLE2O
+LANG_ENGLISH     "Obróć Kąt 2 +"
+
+REFERENCE           ROTATEANGLE2D
+LANG_ENGLISH     "Obróć Kąt 2 -"
+
+REFERENCE           ROTATEANGLE3O
+LANG_ENGLISH     "Obróć Kąt 3 +"
+
+REFERENCE           ROTATEANGLE3D
+LANG_ENGLISH     "Obróć Kąt 3 -"
+
+REFERENCE           RESETANGLES
+LANG_ENGLISH     "Resetuj Kąty"
+
+REFERENCE           TELEPORTMENU
+LANG_ENGLISH     "Menu Teleportacji"
+
+REFERENCE           SAVEPOSITION
+LANG_ENGLISH     "Zapisz Pozycję"
+
+REFERENCE           MODIFYPOSITION
+LANG_ENGLISH     "Modyfikuj Pozycję"
+
+REFERENCE           LOADSAVEDPOSTION
+LANG_ENGLISH     "Wczytaj Zapisaną Pozycję"
+
+REFERENCE           TELEPORTALLZOMBIESTOSAVEDPOSTION
+LANG_ENGLISH     "Teleportuj Wszystkie Zombie do Zapisanej Pozycji"
+
+REFERENCE           CREATESPAWNPOINTFORZOMBIES
+LANG_ENGLISH     "Utwórz Punkt Spawnu dla Zombie"
+
+REFERENCE           CREATESPAWNTRAPPERFORZOMBIES
+LANG_ENGLISH     "Utwórz Pułapkę na Spawn dla Zombie"
+
+REFERENCE           TELEPORTTOSKY
+LANG_ENGLISH     "Teleportuj do Nieba"
+
+REFERENCE           TELEPORTTOGROUND
+LANG_ENGLISH     "Teleportuj do Ziemi"
+
+REFERENCE           TELEPORTTOCROSSHAIRPOSITION
+LANG_ENGLISH     "Teleportuj do Pozycji Celownika"
+
+REFERENCE           TELEPORTTONEARESTZOMBIE
+LANG_ENGLISH     "Teleportuj do Najbliższego Zombie"
+
+REFERENCE           TOGGLEVISIBLECHECK
+LANG_ENGLISH     "Przełącz Sprawdzanie Widoczności"
+
+REFERENCE           SETTOROUND50
+LANG_ENGLISH     "Ustaw na Rundę 50"
+
+REFERENCE           O50ROUNDS
+LANG_ENGLISH     "+ 50 Rund"
+
+REFERENCE           D50ROUNDS
+LANG_ENGLISH     "- 50 Rund"
+
+REFERENCE           SETTOROUND25
+LANG_ENGLISH     "+ 25 Rund"
+
+REFERENCE           O25ROUNDS
+LANG_ENGLISH     "- 25 Rund"
+
+REFERENCE           D25ROUNDS
+LANG_ENGLISH     "- 25 Rund"
+
+REFERENCE           O1ROUNDS
+LANG_ENGLISH     "+ 1 Runda"
+
+REFERENCE           D1ROUNDS
+LANG_ENGLISH     "- 1 Runda"
+
+REFERENCE           SETTOROUND1
+LANG_ENGLISH     "Ustaw na Rundę 1"
+
+REFERENCE           TOGGLEGODMODE
+LANG_ENGLISH     "Przełącz Tryb Boga"
+
+REFERENCE           TOGGLEUNLIMITEDAMMO
+LANG_ENGLISH     "Przełącz Nieograniczoną Amunicję"
+
+REFERENCE           REFILLAMMO
+LANG_ENGLISH     "Uzupełnij Amunicję"
+
+REFERENCE           TOGGLEUFOMODE
+LANG_ENGLISH     "Przełącz Tryb UFO"
+
+REFERENCE           TOGGLEQUICKFIELDOFVIEW
+LANG_ENGLISH     "Przełącz Szybkie Pole Widzenia"
+
+REFERENCE           SCOREMENU
+LANG_ENGLISH     "Menu Wyników"
+
+REFERENCE           TOGGLE3RDPERSON
+LANG_ENGLISH     "Przełącz Trzecią Osobę"
+
+REFERENCE           3RDPERSONRANGEBAR
+LANG_ENGLISH     "Pasek Zasięgu Trzeciej Osoby"
+
+REFERENCE           PRINTORIGIN
+LANG_ENGLISH     "Drukuj Pochodzenie"
+
+REFERENCE           PRINTZOMBIECOUNT
+LANG_ENGLISH     "Drukuj Liczbę Zombie"
+
+REFERENCE           TOGGLEZOMBIESIGNOREYOU
+LANG_ENGLISH     "Przełącz Zombie Ignorujące Cię"
+
+REFERENCE           TOGGLEAQUATICSCREEN
+LANG_ENGLISH     "Przełącz Ekran Wodny"
+
+REFERENCE           BULLETSMODS
+LANG_ENGLISH     "Menu Modyfikacji Amunicji"
+
+REFERENCE           WEAPONBULLETS
+LANG_ENGLISH     "Amunicja do Broni"
+
+REFERENCE           EFFECTBULLETS
+LANG_ENGLISH     "Efekt Amunicji"
+
+REFERENCE           WEAPONBULLETS1OFF
+LANG_ENGLISH     "Amunicja do Broni OFF"
+
+REFERENCE           EFFECTBULLETS1OFF
+LANG_ENGLISH     "Efekt Amunicji OFF"
+
+REFERENCE           MENUNAME
+LANG_ENGLISH     "^5Centrum Kontroli"
+
+REFERENCE           TOGGLEINVISIBLE
+LANG_ENGLISH     "Przełącz Niewidzialność"
+
+REFERENCE           PHYSICALCYLINDER
+LANG_ENGLISH     "Fizyczny Cylindryczny"
+
+REFERENCE           GIVEALLPERKS
+LANG_ENGLISH     "Daj Wszystkie Perki"
+
+REFERENCE           REMOVEALLPERKS
+LANG_ENGLISH     "Usuń Wszystkie Perki"
+
+REFERENCE           KEEPALLPERKSONDEATH
+LANG_ENGLISH     "Zachowaj Wszystkie Perki Po Śmierci"
+
+REFERENCE           NORMALWEAPONS
+LANG_ENGLISH     "Normalne Bronie"
+
+REFERENCE           UPGRADEDWEAPONS
+LANG_ENGLISH     "Ulepszone Bronie"
+
+REFERENCE           REMOVEALLPERKS
+LANG_ENGLISH     "Usuń Wszystkie Perki"
+
+REFERENCE           BLACKWHITE
+LANG_ENGLISH     "Czarno-Biały"
+
+REFERENCE           WHITEMODE
+LANG_ENGLISH     "Tryb Biały"
+
+REFERENCE           DEFAULT
+LANG_ENGLISH     "Domyślny"
+
+REFERENCE           TOGGLEDISABLEFXS
+LANG_ENGLISH     "Przełącz Wyłączanie Efektów"
+
+REFERENCE           TOGGLEFOGEFFECT
+LANG_ENGLISH     "Przełącz Efekt Mgły"
+
+REFERENCE           TOGGLEWATERSHEETINGEFFECT
+LANG_ENGLISH     "Przełącz Efekt Rozpryskiwania Wody"
+
+REFERENCE           TOGGLERENDERDISTANCE
+LANG_ENGLISH     "Przełącz Odległość Renderowania"
+
+REFERENCE           TOGGLEDOF
+LANG_ENGLISH     "Przełącz Efekt Rozmycia"
+
+REFERENCE           TOGGLEDOFBIAS
+LANG_ENGLISH     "Przełącz Dof Bias"
+
+REFERENCE           TOGGLEOVERRIDEDOF
+LANG_ENGLISH     "Przełącz Nadpisanie Dof"
+
+REFERENCE           TOGGLECROSSHAIR
+LANG_ENGLISH     "Przełącz Celownik"
+
+REFERENCE           TOGGLECROSSHAIRENEMYEFFECT
+LANG_ENGLISH     "Przełącz Efekt Celownika na Przeciwników"
+
+REFERENCE           TOGGLETRISLINES
+LANG_ENGLISH     "Przełącz Trislines"
+
+REFERENCE           MODIFYSCORE
+LANG_ENGLISH     "Modyfikuj Wynik"
+
+REFERENCE           MAXOUTSCORE
+LANG_ENGLISH     "Maksymalny Wynik"
+
+REFERENCE           RESETSCORE
+LANG_ENGLISH     "Zresetuj Wynik"
+
+REFERENCE           SPAWNCLONE
+LANG_ENGLISH     "Zespawnuj Klon"
+
+REFERENCE           PLAYANIMATION
+LANG_ENGLISH     "Odtwórz Animację"
+
+REFERENCE           DELETECURRENTCLONE
+LANG_ENGLISH     "Usuń Obecnego Klona"
+
+REFERENCE           POWERUPSMENU
+LANG_ENGLISH     "Menu Bonusów"
+
+ENDMARKER

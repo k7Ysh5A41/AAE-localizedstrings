@@ -1,0 +1,113 @@
+// Note to translators:
+// Just edit the text inside the quotes, don't edit other code
+
+VERSION             "1"
+CONFIG              "C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           RANDOM_ATTACHMENTS
+LANG_ENGLISH     "完全にランダムなアタッチメントと迷彩"
+
+REFERENCE           RANDOM_ATTACHMENTS_DESC
+LANG_ENGLISH     "取得する新しい武器ごとに、アタッチメント、照準器、迷彩がランダム化されます"
+
+REFERENCE           WEAPON_LIMIT
+LANG_ENGLISH     "武器制限"
+
+REFERENCE           WEAPON_LIMIT_OPTIONS_DESC
+LANG_ENGLISH     "プレイヤーは同じ武器を使用できません"
+
+REFERENCE           PREPATCH_BGB
+LANG_ENGLISH     "プレパッチゴブルガム"
+
+REFERENCE           PREPATCH_BGB_DESC
+LANG_ENGLISH     "ゴブルガムマシンはBO3の初期バージョンの仕様に変更されます。これには以下が含まれます:\n  - 1ラウンドにつき1回のみ使用可能\n  - ゴブルガムマシンの使用は全体の37％のみ\n  - ゴブルガムマシンは閉鎖される場合や他の場所で開く場合があります\n  - デフォルト価格は500ポイント"
+
+REFERENCE           ZOMBIE_COUNT
+LANG_ENGLISH     "ゾンビラウンド数アルゴリズム"
+
+REFERENCE           ZOMBIE_COUNT_DESC
+LANG_ENGLISH     "ラウンド終了に必要なゾンビの数を計算する方法を変更します"
+
+REFERENCE           SPAWNTYPE
+LANG_ENGLISH     "敵の出現方法"
+
+REFERENCE           SPAWNTYPE_DESC
+LANG_ENGLISH     "特別なゾンビが大量に出現:\nTrayarchマップごとに特別な敵の数を大幅に増加させます。例：多くのマルグワやパンツァーソルダート\n対応マップ:\nShadows of Evil\nDer Eisendrache\nZetsubou No Shima\nGorod Krovi\nRevelations\nShangri-La\nMoon\nOrigins"
+
+REFERENCE           SPAWNTYPE_OPTION_DESC
+LANG_ENGLISH     "特別なゾンビを大量に出現させる"
+
+REFERENCE           ZOMBIE_H
+LANG_ENGLISH     "ゾンビの体力制限"
+
+REFERENCE           ZOMBIE_H_DESC
+LANG_ENGLISH     "ゾンビの体力はこのラウンドに達すると増加しなくなります"
+
+REFERENCE           CRAZYZOMBIE_DESC
+LANG_ENGLISH     "すべての行動においてゾンビの速度が2倍になります"
+
+REFERENCE           DAMAGE_NUMBER
+LANG_ENGLISH     "ダメージ数の表示"
+
+REFERENCE           DAMAGE_NUMBER_DESC
+LANG_ENGLISH     "敵に与えたダメージの数を表示するか非表示にするかを選択します"
+
+REFERENCE           CENTERCROSS
+LANG_ENGLISH     "画面中央の小さな点を無効化"
+
+REFERENCE           ITEM_DUPE_RENDER
+LANG_ENGLISH     "クラフト可能なパーツをハイライト"
+
+REFERENCE           ITEM_DUPE_RENDER_DESC
+LANG_ENGLISH     "マップ上で拾えるクラフトパーツを壁越しに見ることができます"
+
+REFERENCE           ITEM_DUPE_RENDER_OPTION
+LANG_ENGLISH     "壁越しに見える"
+
+REFERENCE           ITEM_DUPE_RENDER_OPTIONS
+LANG_ENGLISH     "視点から確認可能"
+
+REFERENCE           MODGAMES
+LANG_ENGLISH     "MODゲーム"
+
+REFERENCE           ROULETTE
+LANG_ENGLISH     "武器ルーレット"
+
+REFERENCE           ROULETTE_DESC
+LANG_ENGLISH     "毎ラウンドランダムな武器が配られ、その武器でラウンドを生き残るモードです。\nデフォルトでは終了目標はなく、「エンドゲームチャレンジ」MODゲーム設定と相性が良いです。\nこのモードはラウンド制で、後半ラウンド（20+）では30秒の休憩があり、パックアパンチや次ラウンドの準備ができます"
+
+REFERENCE           SNAIL
+LANG_ENGLISH     "不死のカタツムリ"
+
+REFERENCE           SNAIL_DESC
+LANG_ENGLISH     "一撃でダウン、ラウンドが進むほどカタツムリは速く進む"
+
+REFERENCE           DUCK
+LANG_ENGLISH     "プレイヤークァックナロク"
+
+REFERENCE           DUCK_DESC
+LANG_ENGLISH     "全プレイヤーがアヒルフロートを装着"
+
+REFERENCE           ALERT
+LANG_ENGLISH     "\n\n^BBUTTON_CYCLE_LEFT^ このオプションを変更するとAAEキャリア、バンク、武器ロッカーが無効になります"
+
+REFERENCE           RAMPAGE
+LANG_ENGLISH     "ギャンブラー8ボールをランページ誘発器に変更"
+
+REFERENCE           RAMPAGE_DESC
+LANG_ENGLISH     "カスタムマップをサポートするため、ギャンブラーとランページ誘発器の位置を入れ替えます。\n\nランページ誘発器:\nアクティブにするとゾンビが急速に出現し、移動速度が速くなります"
+
+REFERENCE           THEGIANT_WEAPON
+LANG_ENGLISH     "The Giantの武器をミステリーボックスに追加"
+
+REFERENCE           HIDE_CUSTOM_MAP_WEAPON
+LANG_ENGLISH     "カスタムマップの武器をミステリーボックスで非表示"
+
+REFERENCE           HIDE_AAE_WEAPON
+LANG_ENGLISH     "AAEの武器をミステリーボックスで非表示"
+
+REFERENCE           ALLWALLBUY
+LANG_ENGLISH       "ボックスで低コストの壁武器を有効にする"
+
+ENDMARKER

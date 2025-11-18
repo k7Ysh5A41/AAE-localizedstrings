@@ -1,0 +1,494 @@
+// Note to translators:
+// Just edit the text inside the quotes, don't edit other code
+
+VERSION             "1"
+CONFIG              "C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           WEAPONSMODSMENU
+LANG_ENGLISH  "Menu de Mods de Armas"
+
+REFERENCE           PACKERPUNCHOPTIONS
+LANG_ENGLISH  "Opções de Packer Punch"
+
+REFERENCE           DROPCURRENTWEAPON
+LANG_ENGLISH  "Largar Arma Atual"
+
+REFERENCE           TOGGLEHIDECURRENTWEAPON
+LANG_ENGLISH  "Alternar Esconder Arma Atual"
+
+REFERENCE           TOGGLEHIDECROSSHAIR
+LANG_ENGLISH  "Alternar Esconder Retículo"
+
+REFERENCE           TOGGLESHOOTPOWERUPS
+LANG_ENGLISH  "Alternar Atirar em Powerups"
+
+REFERENCE           TOGGLELEFTSIDEWEAPON
+LANG_ENGLISH  "Alternar Arma do Lado Esquerdo"
+
+REFERENCE           PACKERPUNCHCURRENTWEAPON
+LANG_ENGLISH  "Packer Punch na Arma Atual"
+
+REFERENCE           UNPACKCURRENTWEAPON
+LANG_ENGLISH  "Desempacotar Arma Atual"
+
+REFERENCE           MESSAGESMENU
+LANG_ENGLISH  "Menu de Mensagens"
+
+REFERENCE           MISCMESSAGES
+LANG_ENGLISH  "Mensagens Diversas"
+
+REFERENCE           MESSAGETYPE
+LANG_ENGLISH  "Tipo de Mensagem"
+
+REFERENCE           MISCMESSAGES
+LANG_ENGLISH  "Menu de Mensagens Diversas"
+
+REFERENCE           VISIONSMENU
+LANG_ENGLISH  "Menu de Visões"
+
+REFERENCE           FUNMENU
+LANG_ENGLISH  "Menu Divertido"
+
+REFERENCE           TOGGLEFLASHINGPLAYER
+LANG_ENGLISH  "Alternar Destacar Jogador"
+
+REFERENCE           TOGGLE3RDPERSON
+LANG_ENGLISH  "Alternar 3ª Pessoa"
+
+REFERENCE           SPAWNICESKATER
+LANG_ENGLISH  "Spawn de Patinador no Gelo"
+
+REFERENCE           SENDEARTHQUAKE
+LANG_ENGLISH  "Enviar Terremoto"
+
+REFERENCE           TOGGLEROTATEPLAYERANGLES
+LANG_ENGLISH  "Alternar Girar Ângulos do Jogador"
+
+REFERENCE           DROPPHYSICALVENDING
+LANG_ENGLISH  "Largar Máquina de Venda Física"
+
+REFERENCE           PHYSICALEXPLOSION
+LANG_ENGLISH  "Explosão Física"
+
+REFERENCE           TOGGLERAPIDFIRE
+LANG_ENGLISH  "Alternar Tiro Rápido"
+
+REFERENCE           PRINTENTITIES
+LANG_ENGLISH  "Imprimir Entidades"
+
+REFERENCE           CLONEPLAYER
+LANG_ENGLISH  "Clonar Jogador"
+
+REFERENCE           GRAPHICSEFFECTSMENU
+LANG_ENGLISH  "Menu de Efeitos Gráficos"
+
+REFERENCE           MYSTERYBOXMODS
+LANG_ENGLISH  "Mods da Caixa Misteriosa"
+
+REFERENCE           TOGGLESUPERSPEED
+LANG_ENGLISH  "Alternar Super Velocidade"
+
+REFERENCE           TOGGLESUPERGRAVITY
+LANG_ENGLISH  "Alternar Super Gravidade"
+
+REFERENCE           TOGGLESUPERPHYSICALGRAVITY
+LANG_ENGLISH  "Alternar Super Gravidade Física"
+
+REFERENCE           TOGGLETIMESCALE
+LANG_ENGLISH  "Alternar Timescale"
+
+REFERENCE           TOGGLEDISABLEAISPAWNERS
+LANG_ENGLISH  "Alternar Desativar Spawn de IA"
+
+REFERENCE           TOGGLEFRIENDLYFIRE
+LANG_ENGLISH  "Alternar Fogo Amigo"
+
+REFERENCE           TOGGLEENTITYCOLLISION
+LANG_ENGLISH  "Alternar Colisão de Entidades"
+
+REFERENCE           REVIVEALLCLIENTS
+LANG_ENGLISH  "Reviver Todos os Clientes"
+
+REFERENCE           MYSTERYBOXMODS
+LANG_ENGLISH  "Mods da Caixa Misteriosa"
+
+REFERENCE           MYSTERYBOXNEVERMOVES
+LANG_ENGLISH  "Caixa Misteriosa Nunca se Move"
+
+REFERENCE           MYSTERYBOXOPENINGPRICE
+LANG_ENGLISH  "Preço de Abertura da Caixa Misteriosa"
+
+REFERENCE           MYSTERYBOXOPENINGPRICE
+LANG_ENGLISH  "Preço de Abertura da Caixa Misteriosa"
+
+REFERENCE           SETPRICETO5100000
+LANG_ENGLISH  "Definir preço para ^5 100000"
+
+REFERENCE           SETPRICETO51337
+LANG_ENGLISH  "Definir preço para ^5 1337"
+
+REFERENCE           SETPRICETO5950
+LANG_ENGLISH  "Definir preço para ^5 950"
+
+REFERENCE           SETPRICETO51
+LANG_ENGLISH  "Definir preço para ^5 1"
+
+REFERENCE           SETPRICETO0
+LANG_ENGLISH  "Definir preço para 0"
+
+REFERENCE           SETPRICETO1D950
+LANG_ENGLISH  "Definir preço para ^1 -950"
+
+REFERENCE           SETPRICETO1D1337
+LANG_ENGLISH  "Definir preço para ^1 -1337"
+
+REFERENCE           SETPRICETO1D100000
+LANG_ENGLISH  "Definir preço para ^1 -100000"
+
+REFERENCE           GODMODE
+LANG_ENGLISH  "Modo Deus"
+
+REFERENCE           PLAYERSCOREMENU
+LANG_ENGLISH  "Menu de Pontuação do Jogador"
+
+REFERENCE           GIVEMENU
+LANG_ENGLISH  "Menu de Dação"
+
+REFERENCE           TELEPORTTOPLAYER
+LANG_ENGLISH  "Teleportar para o Jogador"
+
+REFERENCE           TELEPORTPLAYERTOYOU
+LANG_ENGLISH  "Teleportar Jogador até Você"
+
+REFERENCE           GIVEPOINTSO10000
+LANG_ENGLISH  "Dar Pontos +10000"
+
+REFERENCE           GIVEPOINTS500
+LANG_ENGLISH  "Dar Pontos +500"
+
+REFERENCE           GIVEPOINTSD500
+LANG_ENGLISH  "Dar Pontos -500"
+
+REFERENCE           GIVEPOINTSD10000
+LANG_ENGLISH  "Dar Pontos -10000"
+
+REFERENCE           CLIENTMAINMODIFICATIONS
+LANG_ENGLISH  "Modificações Principais do Cliente"
+
+REFERENCE           FUNMODS
+LANG_ENGLISH  "Mods Divertidos"
+
+REFERENCE           PERKMENU
+LANG_ENGLISH  "Menu de Perks"
+
+REFERENCE           SENDPOWERUPSMENU
+LANG_ENGLISH  "Menu de Envio de Power Ups"
+
+REFERENCE           MESSAGEMENU
+LANG_ENGLISH  "Menu de Mensagens"
+
+REFERENCE           WEAPONSMENU
+LANG_ENGLISH  "Menu de Armas"
+
+REFERENCE           WEAPONSMODSMENU
+LANG_ENGLISH  "Menu de Mods de Armas"
+
+REFERENCE           BULLETSMENU
+LANG_ENGLISH  "Menu de Balas"
+
+REFERENCE           TELEPORTMENU
+LANG_ENGLISH  "Menu de Teleporte"
+
+REFERENCE           AIMBOTMENU
+LANG_ENGLISH  "Menu de Aimbot"
+
+REFERENCE           ENTITYMENU
+LANG_ENGLISH  "Menu de Entidades"
+
+REFERENCE           VISIONSMENU
+LANG_ENGLISH  "Menu de Visões"
+
+REFERENCE           SFXMENU
+LANG_ENGLISH  "Menu de Efeitos Sonoros"
+
+REFERENCE           GRAPHICSEFFECTSMENU
+LANG_ENGLISH  "Menu de Efeitos Gráficos"
+
+REFERENCE           ROUNDMENU
+LANG_ENGLISH  "Menu de Rodadas"
+
+REFERENCE           HOSTMENU
+LANG_ENGLISH  "Menu de Anfitrião"
+
+REFERENCE           LOBBYMENU
+LANG_ENGLISH  "Menu de Lobby"
+
+REFERENCE           CLIENTS
+LANG_ENGLISH  "Clientes"
+
+REFERENCE           CUSTOMIZEMENU
+LANG_ENGLISH  "Menu de Personalização"
+
+REFERENCE           EXTRAPERKEASTEREGG
+LANG_ENGLISH  "Ovo de Páscoa de Perk Extra"
+
+REFERENCE           STARTGIANTCLOCK
+LANG_ENGLISH  "Iniciar Relógio Gigante"
+
+REFERENCE           STOPGIANTCLOCK
+LANG_ENGLISH  "Parar Relógio Gigante"
+
+REFERENCE           UPGRADETELEPORTER
+LANG_ENGLISH  "Melhorar Teletransportador"
+
+REFERENCE           SPAWNMODELWITHLIST
+LANG_ENGLISH  "Spawn de Modelo com Lista"
+
+REFERENCE           SPAWNMODEL
+LANG_ENGLISH  "Spawn de Modelo"
+
+REFERENCE           PLACEMODEL
+LANG_ENGLISH  "Colocar Modelo"
+
+REFERENCE           DROPMODELWITHPHYSICS
+LANG_ENGLISH  "Largar Modelo com Física"
+
+REFERENCE           ROTATEMODEL
+LANG_ENGLISH  "Rotacionar Modelo"
+
+REFERENCE           DELETEMODEL
+LANG_ENGLISH  "Excluir Modelo"
+
+REFERENCE           COSTUMIZEMODELDISTANCE
+LANG_ENGLISH  "Personalizar Distância do Modelo"
+
+REFERENCE           DELETEALLENTITYS
+LANG_ENGLISH  "Excluir Todas as Entidades"
+
+REFERENCE           ROTATEMODEL
+LANG_ENGLISH  "Rotacionar Modelo"
+
+REFERENCE           ROTATEANGLE1O
+LANG_ENGLISH  "Rotacionar Ângulo 1 +"
+
+REFERENCE           ROTATEANGLE1D
+LANG_ENGLISH  "Rotacionar Ângulo 1 -"
+
+REFERENCE           ROTATEANGLE2O
+LANG_ENGLISH  "Rotacionar Ângulo 2 +"
+
+REFERENCE           ROTATEANGLE2D
+LANG_ENGLISH  "Rotacionar Ângulo 2 -"
+
+REFERENCE           ROTATEANGLE3O
+LANG_ENGLISH  "Rotacionar Ângulo 3+"
+
+REFERENCE           ROTATEANGLE3D
+LANG_ENGLISH  "Rotacionar Ângulo 3-"
+
+REFERENCE           RESETANGLES
+LANG_ENGLISH  "Redefinir Ângulos"
+
+REFERENCE           TELEPORTMENU
+LANG_ENGLISH  "Menu de Teleporte"
+
+REFERENCE           SAVEPOSITION
+LANG_ENGLISH  "Salvar Posição"
+
+REFERENCE           MODIFYPOSITION
+LANG_ENGLISH  "Modificar Posição"
+
+REFERENCE           LOADSAVEDPOSTION
+LANG_ENGLISH  "Carregar Posição Salva"
+
+REFERENCE           TELEPORTALLZOMBIESTOSAVEDPOSTION
+LANG_ENGLISH  "Teleportar Todos os Zumbis para a Posição Salva"
+
+REFERENCE           CREATESPAWNPOINTFORZOMBIES
+LANG_ENGLISH  "Criar Ponto de Spawn para Zumbis"
+
+REFERENCE           CREATESPAWNTRAPPERFORZOMBIES
+LANG_ENGLISH  "Criar Armadilha de Spawn para Zumbis"
+
+REFERENCE           TELEPORTTOSKY
+LANG_ENGLISH  "Teleportar para o Céu"
+
+REFERENCE           TELEPORTTOGROUND
+LANG_ENGLISH  "Teleportar para o Chão"
+
+REFERENCE           TELEPORTTOCROSSHAIRPOSITION
+LANG_ENGLISH  "Teleportar para a Posição do Retículo"
+
+REFERENCE           TELEPORTTONEARESTZOMBIE
+LANG_ENGLISH  "Teleportar para o Zumbi Mais Próximo"
+
+REFERENCE           TOGGLEVISIBLECHECK
+LANG_ENGLISH  "Alternar Verificação de Visibilidade"
+
+REFERENCE           SETTOROUND50
+LANG_ENGLISH  "Definir para Rodada 50"
+
+REFERENCE           O50ROUNDS
+LANG_ENGLISH  "+ 50 Rodadas"
+
+REFERENCE           D50ROUNDS
+LANG_ENGLISH  "- 50 Rodadas"
+
+REFERENCE           SETTOROUND25
+LANG_ENGLISH  "+ 25 Rodadas"
+
+REFERENCE           O25ROUNDS
+LANG_ENGLISH  "- 25 Rodadas"
+
+REFERENCE           D25ROUNDS
+LANG_ENGLISH  "- 25 Rodadas"
+
+REFERENCE           O1ROUNDS
+LANG_ENGLISH  "+ 1 Rodada"
+
+REFERENCE           D1ROUNDS
+LANG_ENGLISH  "- 1 Rodada"
+
+REFERENCE           SETTOROUND1
+LANG_ENGLISH  "Definir para Rodada 1"
+
+REFERENCE           TOGGLEGODMODE
+LANG_ENGLISH  "Alternar Modo Deus"
+
+REFERENCE           TOGGLEUNLIMITEDAMMO
+LANG_ENGLISH  "Alternar Munição Ilimitada"
+
+REFERENCE           REFILLAMMO
+LANG_ENGLISH  "Reabastecer Munição"
+
+REFERENCE           TOGGLEUFOMODE
+LANG_ENGLISH  "Alternar Modo OVNI"
+
+REFERENCE           TOGGLEQUICKFIELDOFVIEW
+LANG_ENGLISH  "Alternar Campo de Visão Rápido"
+
+REFERENCE           SCOREMENU
+LANG_ENGLISH  "Menu de Pontuação"
+
+REFERENCE           TOGGLE3RDPERSON
+LANG_ENGLISH  "Alternar 3ª Pessoa"
+
+REFERENCE           3RDPERSONRANGEBAR
+LANG_ENGLISH  "Barra de Alcance da 3ª Pessoa"
+
+REFERENCE           PRINTORIGIN
+LANG_ENGLISH  "Imprimir Origem"
+
+REFERENCE           PRINTZOMBIECOUNT
+LANG_ENGLISH  "Imprimir Contagem de Zumbis"
+
+REFERENCE           TOGGLEZOMBIESIGNOREYOU
+LANG_ENGLISH  "Alternar Zumbis Ignorarem Você"
+
+REFERENCE           TOGGLEAQUATICSCREEN
+LANG_ENGLISH  "Alternar Tela Aquática"
+
+REFERENCE           BULLETSMODS
+LANG_ENGLISH  "Menu de Balas"
+
+REFERENCE           WEAPONBULLETS
+LANG_ENGLISH  "Balas de Arma"
+
+REFERENCE           EFFECTBULLETS
+LANG_ENGLISH  "Balas de Efeito"
+
+REFERENCE           WEAPONBULLETS1OFF
+LANG_ENGLISH  "Desativar Balas de Arma"
+
+REFERENCE           EFFECTBULLETS1OFF
+LANG_ENGLISH  "Desativar Balas de Efeito"
+
+REFERENCE           MENUNAME
+LANG_ENGLISH  "^5Controle Central"
+
+REFERENCE           TOGGLEINVISIBLE
+LANG_ENGLISH  "Alternar Invisibilidade"
+
+REFERENCE           PHYSICALCYLINDER
+LANG_ENGLISH  "Cilindro Físico"
+
+REFERENCE           GIVEALLPERKS
+LANG_ENGLISH  "Dar Todos os Perks"
+
+REFERENCE           REMOVEALLPERKS
+LANG_ENGLISH  "Remover Todos os Perks"
+
+REFERENCE           KEEPALLPERKSONDEATH
+LANG_ENGLISH  "Manter Todos os Perks na Morte"
+
+REFERENCE           NORMALWEAPONS
+LANG_ENGLISH  "Armas Normais"
+
+REFERENCE           UPGRADEDWEAPONS
+LANG_ENGLISH  "Armas Melhoradas"
+
+REFERENCE           REMOVEALLPERKS
+LANG_ENGLISH  "Remover Todos os Perks"
+
+REFERENCE           BLACKWHITE
+LANG_ENGLISH  "Preto e Branco"
+
+REFERENCE           WHITEMODE
+LANG_ENGLISH  "Modo Branco"
+
+REFERENCE           DEFAULT
+LANG_ENGLISH  "Padrão"
+
+REFERENCE           TOGGLEDISABLEFXS
+LANG_ENGLISH  "Alternar Desativar Efeitos Visuais"
+
+REFERENCE           TOGGLEFOGEFFECT
+LANG_ENGLISH  "Alternar Efeito de Neblina"
+
+REFERENCE           TOGGLEWATERSHEETINGEFFECT
+LANG_ENGLISH  "Alternar Efeito de Água"
+
+REFERENCE           TOGGLERENDERDISTANCE
+LANG_ENGLISH  "Alternar Distância de Renderização"
+
+REFERENCE           TOGGLEDOF
+LANG_ENGLISH  "Alternar Desfoque de Profundidade"
+
+REFERENCE           TOGGLEDOFBIAS
+LANG_ENGLISH  "Alternar Viés de Desfoque de Profundidade"
+
+REFERENCE           TOGGLEOVERRIDEDOF
+LANG_ENGLISH  "Alternar Anular Desfoque de Profundidade"
+
+REFERENCE           TOGGLECROSSHAIR
+LANG_ENGLISH  "Alternar Retículo"
+
+REFERENCE           TOGGLECROSSHAIRENEMYEFFECT
+LANG_ENGLISH  "Alternar Efeito de Inimigo no Retículo"
+
+REFERENCE           TOGGLETRISLINES
+LANG_ENGLISH  "Alternar Linhas de Triângulo"
+
+REFERENCE           MODIFYSCORE
+LANG_ENGLISH  "Modificar Pontuação"
+
+REFERENCE           MAXOUTSCORE
+LANG_ENGLISH  "Maximizar Pontuação"
+
+REFERENCE           RESETSCORE
+LANG_ENGLISH  "Redefinir Pontuação"
+
+REFERENCE           SPAWNCLONE
+LANG_ENGLISH  "Spawn de Clone"
+
+REFERENCE           PLAYANIMATION
+LANG_ENGLISH  "Reproduzir Animação"
+
+REFERENCE           DELETECURRENTCLONE
+LANG_ENGLISH  "Excluir Clone Atual"
+
+REFERENCE           POWERUPSMENU
+LANG_ENGLISH  "Menu de Power Ups"
+
+ENDMARKER

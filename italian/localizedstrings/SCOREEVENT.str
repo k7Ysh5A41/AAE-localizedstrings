@@ -1,0 +1,560 @@
+// Note to translators:
+// Just edit the text inside the quotes, don't edit other code
+
+VERSION             "1"
+CONFIG              "C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE            AUTO_REVIVE
+LANG_ENGLISH         "Rianimazione Automatica"
+ 
+REFERENCE            PACK_A_PUNCH
+LANG_ENGLISH         "Pack A Punch"
+ 
+REFERENCE            GOT_A_PERK
+LANG_ENGLISH         "Ho Ottenuto un Perk"
+ 
+REFERENCE            MULE_KICK_WEAPON_RESTORED
+LANG_ENGLISH         "Arma di Mule Kick Ripristinata"
+ 
+REFERENCE            DOUBLETAP
+LANG_ENGLISH         "Double Tap Root Bear"
+ 
+REFERENCE            JUGGER_NOG
+LANG_ENGLISH         "Jugger-Nog"
+ 
+REFERENCE            WHOS_WHO
+LANG_ENGLISH         "Who's Who"
+ 
+REFERENCE            VULTURE_AID
+LANG_ENGLISH         "Vulture Aid"
+ 
+REFERENCE            TOMBSTONE
+LANG_ENGLISH         "Tombstone"
+ 
+REFERENCE            PHD_FLOPPER
+LANG_ENGLISH         "PhD Flopper"
+ 
+REFERENCE            SNAILS_PACE_SLURPEE
+LANG_ENGLISH         "Snails Pace Slurpee"
+ 
+REFERENCE            CRYO_SLIDE_SODA
+LANG_ENGLISH         "Cryo Slide Soda"
+ 
+REFERENCE            SALVAGE_SHAKE_
+LANG_ENGLISH         "Salvage Shake"
+ 
+REFERENCE            WINDRUNNER_WHISKEY
+LANG_ENGLISH         "Windrunner Whiskey"
+ 
+REFERENCE            ATOMIC_LIQUEUR
+LANG_ENGLISH         "Atomi-Liqueur"
+ 
+REFERENCE            ARMOR_NOG
+LANG_ENGLISH         "Armor Nog"
+ 
+REFERENCE            SECRET_SAUCE
+LANG_ENGLISH         "Salsa Segreta"
+ 
+REFERENCE            CRUSADERS_ALE
+LANG_ENGLISH         "Ale dei Crociati"
+ 
+REFERENCE            BULL_ICE_BLAST
+LANG_ENGLISH         "Bull Ice Blast"
+ 
+REFERENCE            VIGOR_RUSH
+LANG_ENGLISH         "Vigor Rush"
+ 
+REFERENCE            MADGAZ_MOONSHINE
+LANG_ENGLISH         "Madgaz Moonshine"
+ 
+REFERENCE            BANDOLIER_BANDIT
+LANG_ENGLISH         "Bandolier Bandit"
+ 
+REFERENCE            ETHEREAL_RAZOR
+LANG_ENGLISH         "Rasoio Etereo"
+
+REFERENCE            PHD_SLIDER
+LANG_ENGLISH         "PhD Slider"
+ 
+REFERENCE            STONE_COLD_STRONGHOLD
+LANG_ENGLISH         "Stone Cold Stronghold"
+ 
+REFERENCE            TIMESLIP
+LANG_ENGLISH         "Timeslip"
+ 
+REFERENCE            VICTORIOUS_TORTOISE
+LANG_ENGLISH         "Tartaruga Vittoriosa"
+ 
+REFERENCE            WINTER_WAIL
+LANG_ENGLISH         "Lamento Invernale"
+ 
+REFERENCE            ZOMBSHELL
+LANG_ENGLISH         "Zombshell"
+ 
+REFERENCE            BLOOD_WOLF_BITE
+LANG_ENGLISH         "Morso del Lupo di Sangue"
+ 
+REFERENCE            BLAZE_PHASE
+LANG_ENGLISH         "Blaze Phase"
+ 
+REFERENCE            DYING_WISH
+LANG_ENGLISH         "Desiderio Morente"
+ 
+REFERENCE            MADGAZ_MOONSHINE
+LANG_ENGLISH         "Madgaz Moonshine"
+ 
+REFERENCE            BANANA_COLADA
+LANG_ENGLISH         "Banana Colada"
+ 
+REFERENCE            PERK_A_LOT
+LANG_ENGLISH         "Perk A Lot"
+ 
+REFERENCE            GOT_A_WEAPON
+LANG_ENGLISH         "Ho Ottenuto un'Arma"
+ 
+REFERENCE            TRADE_WEAPON
+LANG_ENGLISH         "Scambia Arma"
+ 
+REFERENCE            REPAIRED
+LANG_ENGLISH         "Riparato"
+ 
+REFERENCE            BARRIER_REBUILDED
+LANG_ENGLISH         "Barriera Ricostruita"
+ 
+REFERENCE            SHIELD_REPAIRED
+LANG_ENGLISH         "Scudo Riparato"
+ 
+REFERENCE            BRO_NEXT_ROUND
+LANG_ENGLISH         "Bro, Prossimo Round"
+ 
+REFERENCE            HIT
+LANG_ENGLISH         "Colpito"
+ 
+REFERENCE            WUNDERWAFFE_KILL
+LANG_ENGLISH         "Uccisione con Wunderwaffe"
+ 
+REFERENCE            RAYGUN_MARK2_KILL
+LANG_ENGLISH         "Uccisione con RayGun Mark2"
+ 
+REFERENCE            RAYGUN_KILL
+LANG_ENGLISH         "Uccisione con RayGun"
+ 
+REFERENCE            SHIELD_KILL
+LANG_ENGLISH         "Uccisione con Scudo"
+ 
+REFERENCE            GKZ_45_MARK3_KILL
+LANG_ENGLISH         "Uccisione con GKZ 45 Mark3"
+ 
+REFERENCE            THUNDERGUN_KILL
+LANG_ENGLISH         "Uccisione con ThunderGun"
+ 
+REFERENCE            SHARPSHOOTER_KILL
+LANG_ENGLISH         "Uccisione da Tiratore Scelto"
+ 
+REFERENCE            C_ZOMBIE_CRITICAL_KILL
+LANG_ENGLISH         "^3Uccisione Critica di Zombie"
+ 
+REFERENCE            C_HELLHOUNDS_CRITICAL_KILL
+LANG_ENGLISH         "^3Uccisione Critica di Hellhounds"
+ 
+REFERENCE            C_WUNDERWAFFE_KILL
+LANG_ENGLISH         "^3Uccisione con Wunderwaffe"
+ 
+REFERENCE            C_RAYGUN_MARK2_KILL
+LANG_ENGLISH         "^3Uccisione con RayGun Mark2"
+ 
+REFERENCE            C_RAYGUN_KILL
+LANG_ENGLISH         "^3Uccisione con RayGun"
+ 
+REFERENCE            C_SHIELD_KILL
+LANG_ENGLISH         "^3Uccisione con Scudo"
+ 
+REFERENCE            C_GKZ_45_MARK3_KILL
+LANG_ENGLISH         "^3Uccisione con GKZ 45 Mark3"
+ 
+REFERENCE            C_THUNDERGUN_KILL
+LANG_ENGLISH         "^3Uccisione con ThunderGun"
+ 
+REFERENCE            C_ZOMBIE_EXPLOSIVE_KILL
+LANG_ENGLISH         "^3Uccisione Esplosiva di Zombie"
+ 
+REFERENCE            C_ZOMBIE_MELEE_KILL
+LANG_ENGLISH         "^3Uccisione Corpo a Corpo di Zombie"
+ 
+REFERENCE            C_ZOMBIE_HEADSHOT_KILL
+LANG_ENGLISH         "^3Uccisione con Colpo alla Testa di Zombie"
+ 
+REFERENCE            C_SHARPSHOOTER_KILL
+LANG_ENGLISH         "^3Uccisione da Tiratore Scelto"
+
+REFERENCE            PARASITE_KILL
+LANG_ENGLISH         "Eliminazione di Parassita"
+ 
+REFERENCE            PARASITE_EXPLOSIVE_KILL
+LANG_ENGLISH         "Uccisione Esplosiva di Parassita"
+ 
+REFERENCE            PARASITE_MELEE_KILL
+LANG_ENGLISH         "Uccisione Corpo a Corpo di Parassita"
+ 
+REFERENCE            PARASITE_HEADSHOT_KILL
+LANG_ENGLISH         "Uccisione con Colpo alla Testa di Parassita"
+ 
+REFERENCE            C_PARASITE_CRITICAL_KILL
+LANG_ENGLISH         "^3Uccisione Critica di Parassita"
+ 
+REFERENCE            C_PARASITE_EXPLOSIVE_KILL
+LANG_ENGLISH         "^3Uccisione Esplosiva di Parassita"
+ 
+REFERENCE            C_PARASITE_MELEE_KILL
+LANG_ENGLISH         "^3Uccisione Corpo a Corpo di Parassita"
+ 
+REFERENCE            C_PARASITE_HEADSHOT_KILL
+LANG_ENGLISH         "^3Uccisione con Colpo alla Testa di Parassita"
+ 
+REFERENCE            CLEAN_DEBRIS
+LANG_ENGLISH         "Pulisci Detriti"
+ 
+REFERENCE            ZOMBIE_KILL
+LANG_ENGLISH         "Eliminazione di Zombie"
+ 
+REFERENCE            ZOMBIE_EXPLOSIVE_KILL
+LANG_ENGLISH         "Uccisione Esplosiva di Zombie"
+ 
+REFERENCE            ZOMBIE_MELEE_KILL
+LANG_ENGLISH         "Uccisione Corpo a Corpo di Zombie"
+ 
+REFERENCE            ZOMBIE_HEADSHOT_KILL
+LANG_ENGLISH         "Uccisione con Colpo alla Testa di Zombie"
+ 
+REFERENCE            C_ZOMBIE_CRITICAL_KILL
+LANG_ENGLISH         "^3Uccisione Critica di Zombie"
+ 
+REFERENCE            C_ZOMBIE_EXPLOSIVE_KILL
+LANG_ENGLISH         "^3Uccisione Esplosiva di Zombie"
+ 
+REFERENCE            C_ZOMBIE_MELEE_KILL
+LANG_ENGLISH         "^3Uccisione Corpo a Corpo di Zombie"
+ 
+REFERENCE            C_ZOMBIE_HEADSHOT_KILL
+LANG_ENGLISH         "^3Uccisione con Colpo alla Testa di Zombie"
+ 
+REFERENCE            MEATBALL_KILL
+LANG_ENGLISH         "Eliminazione di Meatball"
+ 
+REFERENCE            MEATBALL_EXPLOSIVE_KILL
+LANG_ENGLISH         "Uccisione Esplosiva di Meatball"
+ 
+REFERENCE            MEATBALL_MELEE_KILL
+LANG_ENGLISH         "Uccisione Corpo a Corpo di Meatball"
+ 
+REFERENCE            MEATBALL_HEADSHOT_KILL
+LANG_ENGLISH         "Uccisione con Colpo alla Testa di Meatball"
+ 
+REFERENCE            C_MEATBALL_CRITICAL_KILL
+LANG_ENGLISH         "^3Uccisione Critica di Meatball"
+ 
+REFERENCE            C_MEATBALL_EXPLOSIVE_KILL
+LANG_ENGLISH         "^3Uccisione Esplosiva di Meatball"
+ 
+REFERENCE            C_MEATBALL_MELEE_KILL
+LANG_ENGLISH         "^3Uccisione Corpo a Corpo di Meatball"     
+ 
+REFERENCE            C_MEATBALL_HEADSHOT_KILL
+LANG_ENGLISH         "^3Uccisione con Colpo alla Testa di Meatball"
+ 
+REFERENCE            SPIDER_KILL
+LANG_ENGLISH         "Eliminazione del Ragno"
+ 
+REFERENCE            SPIDER_EXPLOSIVE_KILL
+LANG_ENGLISH         "Uccisione Esplosiva del Ragno"
+ 
+REFERENCE            SPIDER_MELEE_KILL
+LANG_ENGLISH         "Uccisione Corpo a Corpo del Ragno"
+ 
+REFERENCE            SPIDER_HEADSHOT_KILL
+LANG_ENGLISH         "Uccisione alla Testa del Ragno"
+ 
+REFERENCE            C_SPIDER_CRITICAL_KILL
+LANG_ENGLISH         "^3Uccisione Critica del Ragno"
+ 
+REFERENCE            C_SPIDER_EXPLOSIVE_KILL
+LANG_ENGLISH         "^3Uccisione Esplosiva del Ragno"
+ 
+REFERENCE            C_SPIDER_MELEE_KILL
+LANG_ENGLISH         "^3Uccisione Corpo a Corpo del Ragno"
+ 
+REFERENCE            C_SPIDER_HEADSHOT_KILL
+LANG_ENGLISH         "^3Uccisione alla Testa del Ragno"
+ 
+REFERENCE            HELLHOUND_KILL
+LANG_ENGLISH         "Eliminazione del Segugio Infernale"
+ 
+REFERENCE            HELLHOUND_EXPLOSIVE_KILL
+LANG_ENGLISH         "Uccisione Esplosiva del Segugio Infernale"
+ 
+REFERENCE            HELLHOUND_MELEE_KILL
+LANG_ENGLISH         "Uccisione Corpo a Corpo del Segugio Infernale"
+ 
+REFERENCE            HELLHOUND_HEADSHOT_KILL
+LANG_ENGLISH         "Uccisione alla Testa del Segugio Infernale"
+ 
+REFERENCE            C_HELLHOUND_CRITICAL_KILL
+LANG_ENGLISH         "^3Uccisione Critica del Segugio Infernale"
+ 
+REFERENCE            C_HELLHOUND_EXPLOSIVE_KILL
+LANG_ENGLISH         "^3Uccisione Esplosiva del Segugio Infernale"
+ 
+REFERENCE            C_HELLHOUND_MELEE_KILL
+LANG_ENGLISH         "^3Uccisione Corpo a Corpo del Segugio Infernale"
+ 
+REFERENCE            C_HELLHOUND_HEADSHOT_KILL
+LANG_ENGLISH         "^3Uccisione alla Testa del Segugio Infernale"
+ 
+REFERENCE            NAPALMZOMBIE_KILL
+LANG_ENGLISH         "Eliminazione dello Zombie Napalm"
+ 
+REFERENCE            NAPALMZOMBIE_EXPLOSIVE_KILL
+LANG_ENGLISH         "Uccisione Esplosiva dello Zombie Napalm"
+ 
+REFERENCE            NAPALMZOMBIE_MELEE_KILL
+LANG_ENGLISH         "Uccisione Corpo a Corpo dello Zombie Napalm"
+ 
+REFERENCE            NAPALMZOMBIE_HEADSHOT_KILL
+LANG_ENGLISH         "Uccisione alla Testa dello Zombie Napalm"
+ 
+REFERENCE            C_NAPALMZOMBIE_CRITICAL_KILL
+LANG_ENGLISH         "^3Uccisione Critica dello Zombie Napalm"
+ 
+REFERENCE            C_NAPALMZOMBIE_EXPLOSIVE_KILL
+LANG_ENGLISH         "^3Uccisione Esplosiva dello Zombie Napalm"
+ 
+REFERENCE            C_NAPALMZOMBIE_MELEE_KILL
+LANG_ENGLISH         "^3Uccisione Corpo a Corpo dello Zombie Napalm"
+ 
+REFERENCE            C_NAPALMZOMBIE_HEADSHOT_KILL
+LANG_ENGLISH         "^3Uccisione alla Testa dello Zombie Napalm"
+ 
+REFERENCE            SHRIEKER_KILL
+LANG_ENGLISH         "Eliminazione dello Strillatore"
+ 
+REFERENCE            SHRIEKER_EXPLOSIVE_KILL
+LANG_ENGLISH         "Uccisione Esplosiva dello Strillatore"
+ 
+REFERENCE            SHRIEKER_MELEE_KILL
+LANG_ENGLISH         "Uccisione Corpo a Corpo dello Strillatore"
+ 
+REFERENCE            SHRIEKER_HEADSHOT_KILL
+LANG_ENGLISH         "Uccisione alla Testa dello Strillatore"
+ 
+REFERENCE            C_SHRIEKER_CRITICAL_KILL
+LANG_ENGLISH         "^3Uccisione Critica dello Strillatore"
+ 
+REFERENCE            C_SHRIEKER_EXPLOSIVE_KILL
+LANG_ENGLISH         "^3Uccisione Esplosiva dello Strillatore"
+ 
+REFERENCE            C_SHRIEKER_MELEE_KILL
+LANG_ENGLISH         "^3Uccisione Corpo a Corpo dello Strillatore"
+ 
+REFERENCE            C_SHRIEKER_HEADSHOT_KILL
+LANG_ENGLISH         "^3Uccisione alla Testa dello Strillatore"
+ 
+REFERENCE            THRASHER_KILL
+LANG_ENGLISH         "Eliminazione del Distruttore"
+ 
+REFERENCE            THRASHER_EXPLOSIVE_KILL
+LANG_ENGLISH         "Uccisione Esplosiva del Distruttore"
+ 
+REFERENCE            THRASHER_MELEE_KILL
+LANG_ENGLISH         "Uccisione Corpo a Corpo del Distruttore"
+ 
+REFERENCE            THRASHER_HEADSHOT_KILL
+LANG_ENGLISH         "Uccisione alla Testa del Distruttore"
+ 
+REFERENCE            C_THRASHER_CRITICAL_KILL
+LANG_ENGLISH         "^3Uccisione Critica del Distruttore"
+ 
+REFERENCE            C_THRASHER_EXPLOSIVE_KILL
+LANG_ENGLISH         "^3Uccisione Esplosiva del Distruttore"
+ 
+REFERENCE            C_THRASHER_MELEE_KILL
+LANG_ENGLISH         "^3Uccisione Corpo a Corpo del Distruttore"
+ 
+REFERENCE            C_THRASHER_HEADSHOT_KILL
+LANG_ENGLISH         "^3Uccisione alla Testa del Distruttore"
+ 
+REFERENCE            NOVACRAWLER_KILL
+LANG_ENGLISH         "Eliminazione del Novacrawler"
+ 
+REFERENCE            NOVACRAWLER_EXPLOSIVE_KILL
+LANG_ENGLISH         "Uccisione Esplosiva del Novacrawler"
+ 
+REFERENCE            NOVACRAWLER_MELEE_KILL
+LANG_ENGLISH         "Uccisione Corpo a Corpo del Novacrawler"
+ 
+REFERENCE            NOVACRAWLER_HEADSHOT_KILL
+LANG_ENGLISH         "Uccisione alla Testa del Novacrawler"
+ 
+REFERENCE            C_NOVACRAWLER_CRITICAL_KILL
+LANG_ENGLISH         "^3Uccisione Critica del Novacrawler"
+ 
+REFERENCE            C_NOVACRAWLER_EXPLOSIVE_KILL
+LANG_ENGLISH         "^3Uccisione Esplosiva del Novacrawler"
+ 
+REFERENCE            C_NOVACRAWLER_MELEE_KILL
+LANG_ENGLISH         "^3Uccisione Corpo a Corpo del Novacrawler"
+ 
+REFERENCE            C_NOVACRAWLER_HEADSHOT_KILL
+LANG_ENGLISH         "^3Uccisione alla Testa del Novacrawler"
+ 
+REFERENCE            APOTHICONFURY_KILL
+LANG_ENGLISH         "Eliminazione del Furia Apothicon"
+ 
+REFERENCE            APOTHICONFURY_EXPLOSIVE_KILL
+LANG_ENGLISH         "Uccisione Esplosiva del Furia Apothicon"
+ 
+REFERENCE            APOTHICONFURY_MELEE_KILL
+LANG_ENGLISH         "Uccisione Corpo a Corpo del Furia Apothicon"
+ 
+REFERENCE            APOTHICONFURY_HEADSHOT_KILL
+LANG_ENGLISH         "Uccisione alla Testa del Furia Apothicon"
+ 
+REFERENCE            C_APOTHICONFURY_CRITICAL_KILL
+LANG_ENGLISH         "^3Uccisione Critica del Furia Apothicon"
+ 
+REFERENCE            C_APOTHICONFURY_EXPLOSIVE_KILL
+LANG_ENGLISH         "^3Uccisione Esplosiva del Furia Apothicon"
+ 
+REFERENCE            C_APOTHICONFURY_MELEE_KILL
+LANG_ENGLISH         "^3Uccisione Corpo a Corpo del Furia Apothicon"
+ 
+REFERENCE            C_APOTHICONFURY_HEADSHOT_KILL
+LANG_ENGLISH         "^3Uccisione alla Testa del Furia Apothicon"
+ 
+REFERENCE            PANZERSOLDAT_KILL
+LANG_ENGLISH         "Eliminazione del Panzersoldat"
+ 
+REFERENCE            PANZERSOLDAT_EXPLOSIVE_KILL
+LANG_ENGLISH         "Uccisione Esplosiva del Panzersoldat"
+ 
+REFERENCE            PANZERSOLDAT_MELEE_KILL
+LANG_ENGLISH         "Uccisione Corpo a Corpo del Panzersoldat"
+ 
+REFERENCE            PANZERSOLDAT_HEADSHOT_KILL
+LANG_ENGLISH         "Uccisione alla Testa del Panzersoldat"
+ 
+REFERENCE            C_PANZERSOLDAT_CRITICAL_KILL
+LANG_ENGLISH         "^3Uccisione Critica del Panzersoldat"
+ 
+REFERENCE            C_PANZERSOLDAT_EXPLOSIVE_KILL
+LANG_ENGLISH         "^3Uccisione Esplosiva del Panzersoldat"
+ 
+REFERENCE            C_PANZERSOLDAT_MELEE_KILL
+LANG_ENGLISH         "^3Uccisione Corpo a Corpo del Panzersoldat"
+ 
+REFERENCE            C_PANZERSOLDAT_HEADSHOT_KILL
+LANG_ENGLISH         "^3Uccisione alla Testa del Panzersoldat"
+ 
+REFERENCE            MARGWA_KILL
+LANG_ENGLISH         "Eliminazione del Margwa"
+ 
+REFERENCE            MARGWA_EXPLOSIVE_KILL
+LANG_ENGLISH         "Uccisione Esplosiva del Margwa"
+ 
+REFERENCE            MARGWA_MELEE_KILL
+LANG_ENGLISH         "Uccisione Corpo a Corpo del Margwa"
+ 
+REFERENCE            MARGWA_HEADSHOT_KILL
+LANG_ENGLISH         "Uccisione alla Testa del Margwa"
+ 
+REFERENCE            C_MARGWA_CRITICAL_KILL
+LANG_ENGLISH         "^3Uccisione Critica del Margwa"
+ 
+REFERENCE            C_MARGWA_EXPLOSIVE_KILL
+LANG_ENGLISH         "^3Uccisione Esplosiva del Margwa"
+ 
+REFERENCE            C_MARGWA_MELEE_KILL
+LANG_ENGLISH         "^3Uccisione Corpo a Corpo del Margwa"
+ 
+REFERENCE            C_MARGWA_HEADSHOT_KILL
+LANG_ENGLISH         "^3Uccisione alla Testa del Margwa"
+ 
+REFERENCE            MANGLER_KILL
+LANG_ENGLISH         "Eliminazione del Mangler"
+ 
+REFERENCE            MANGLER_EXPLOSIVE_KILL
+LANG_ENGLISH         "Uccisione Esplosiva del Mangler"
+ 
+REFERENCE            MANGLER_MELEE_KILL
+LANG_ENGLISH         "Uccisione Corpo a Corpo del Mangler"
+ 
+REFERENCE            MANGLER_HEADSHOT_KILL
+LANG_ENGLISH         "Uccisione alla Testa del Mangler"
+ 
+REFERENCE            C_MANGLER_CRITICAL_KILL
+LANG_ENGLISH         "^3Uccisione Critica del Mangler"
+ 
+REFERENCE            C_MANGLER_EXPLOSIVE_KILL
+LANG_ENGLISH         "^3Uccisione Esplosiva del Mangler"
+ 
+REFERENCE            C_MANGLER_MELEE_KILL
+LANG_ENGLISH         "^3Uccisione Corpo a Corpo del Mangler"
+ 
+REFERENCE            C_MANGLER_HEADSHOT_KILL
+LANG_ENGLISH         "^3Uccisione alla Testa del Mangler"
+ 
+REFERENCE            WARDEN_KILL
+LANG_ENGLISH         "Eliminazione del Guardiano"
+ 
+REFERENCE            WARDEN_EXPLOSIVE_KILL
+LANG_ENGLISH         "Uccisione Esplosiva del Guardiano"
+ 
+REFERENCE            WARDEN_MELEE_KILL
+LANG_ENGLISH         "Uccisione Corpo a Corpo del Guardiano"
+ 
+REFERENCE            WARDEN_HEADSHOT_KILL
+LANG_ENGLISH         "Uccisione alla Testa del Guardiano"
+ 
+REFERENCE            C_WARDEN_CRITICAL_KILL
+LANG_ENGLISH         "^3Uccisione Critica del Guardiano"
+ 
+REFERENCE            C_WARDEN_EXPLOSIVE_KILL
+LANG_ENGLISH         "^3Uccisione Esplosiva del Guardiano"
+ 
+REFERENCE            C_WARDEN_MELEE_KILL
+LANG_ENGLISH         "^3Uccisione Corpo a Corpo del Guardiano"
+ 
+REFERENCE            C_WARDEN_HEADSHOT_KILL
+LANG_ENGLISH         "^3Uccisione alla Testa del Guardiano"
+ 
+REFERENCE            KEEPER_KILL
+LANG_ENGLISH         "Eliminazione del Custode"
+ 
+REFERENCE            KEEPER_EXPLOSIVE_KILL
+LANG_ENGLISH         "Uccisione Esplosiva del Custode"
+ 
+REFERENCE            KEEPER_MELEE_KILL
+LANG_ENGLISH         "Uccisione Corpo a Corpo del Custode"
+ 
+REFERENCE            KEEPER_HEADSHOT_KILL
+LANG_ENGLISH         "Uccisione alla Testa del Custode"
+ 
+REFERENCE            C_KEEPER_CRITICAL_KILL
+LANG_ENGLISH         "^3Uccisione Critica del Custode"
+ 
+REFERENCE            C_KEEPER_EXPLOSIVE_KILL
+LANG_ENGLISH         "^3Uccisione Esplosiva del Custode"
+ 
+REFERENCE            C_KEEPER_MELEE_KILL
+LANG_ENGLISH         "^3Uccisione Corpo a Corpo del Custode"
+ 
+REFERENCE            C_KEEPER_HEADSHOT_KILL
+LANG_ENGLISH         "^3Uccisione alla Testa del Custode"
+
+REFERENCE            STUN
+LANG_ENGLISH         "Zombie Stordito"
+
+REFERENCE            DAMAGE_INCREASE
+LANG_ENGLISH         "Aumento del Danno"
+
+ENDMARKER

@@ -1,0 +1,92 @@
+// Note to translators:
+// Just edit the text inside the quotes, don't edit other code
+
+VERSION             "1"
+CONFIG              "C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           ZOMBIERIOT
+LANG_ENGLISH     "^1Desafio Final!"
+
+REFERENCE           PAP1
+LANG_ENGLISH     "^7Comum"
+
+REFERENCE           PAP2
+LANG_ENGLISH     "^4Raro"
+
+REFERENCE           PAP3
+LANG_ENGLISH     "^6Lendário"
+
+REFERENCE           PAP4
+LANG_ENGLISH     "^3Épico"
+
+REFERENCE           PAP_TITLE
+LANG_ENGLISH     "Nível Pack-a-Punch: "
+
+REFERENCE           EXITLEVEL
+LANG_ENGLISH     "Saída Instantânea"
+
+REFERENCE           EXITLEVEL_DESC
+LANG_ENGLISH     "Todos os jogadores no lobby saem imediatamente do mapa"
+
+REFERENCE           DISCORD
+LANG_ENGLISH     "^2JUNTE-SE AO DISCORD"
+
+REFERENCE           INFO
+LANG_ENGLISH     "Informações do MOD"
+
+REFERENCE           START
+LANG_ENGLISH     "Vamos Começar"
+
+REFERENCE           TOMB_LINE2
+LANG_ENGLISH     "Norte da França, 1918"
+
+REFERENCE           DIE_LINE1
+LANG_ENGLISH     "GRANDE SALTO ADIANTE"
+
+REFERENCE           DIE_LINE2
+LANG_ENGLISH     "PROVÍNCIA 22"
+
+REFERENCE           COAST_LINE1
+LANG_ENGLISH     "Elenco Completo"
+
+REFERENCE           COAST_LINE2
+LANG_ENGLISH     "KRASNOYARSK KRAI"
+
+REFERENCE           COAST_LINE3
+LANG_ENGLISH     "CALL OF THE DEAD"
+
+REFERENCE           TEMPLE_LINE1
+LANG_ENGLISH     "A Viagem no Tempo Dirá"
+
+REFERENCE           COS_LINE1
+LANG_ENGLISH     "Mecanismo Casimir"
+
+REFERENCE           MOON_LINE1
+LANG_ENGLISH     "Grande Plano de Richtofen"
+
+REFERENCE           TRANZIT_LINE2
+LANG_ENGLISH     "HEMISFÉRIO NORTE"
+
+REFERENCE           MOB_LINE1
+LANG_ENGLISH     "ILHA ALCATRAZ"
+
+REFERENCE           MOB_LINE2
+LANG_ENGLISH     "Baía de São Francisco, EUA"
+
+REFERENCE           LEV_LINE1
+LANG_ENGLISH     "Leviatã"
+
+REFERENCE           LEV_LINE2
+LANG_ENGLISH     "Instalação de Pesquisa Subaquática"
+
+REFERENCE           RAIN_LINE1
+LANG_ENGLISH     "MORTE CHUVOSA"
+
+REFERENCE           RAIN_LINE2
+LANG_ENGLISH     "CIDADE ABANDONADA"
+
+REFERENCE           GENESIS_LINE1
+LANG_ENGLISH     "Um Amanhã Melhor"
+
+ENDMARKER

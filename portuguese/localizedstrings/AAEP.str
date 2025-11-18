@@ -1,0 +1,248 @@
+// Note to translators:
+// Just edit the text inside the quotes, don't edit other code
+
+VERSION             "1"
+CONFIG              "C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE            FOV_SCALE
+LANG_ENGLISH         "Escala do FoV"
+
+REFERENCE            SHORTCUT_KEY
+LANG_ENGLISH         "^5Todas as teclas de atalho\n\n^7Lanterna\nMarcador\nSoltar pontos\nVisão noturna DNI\nTerceira pessoa\nVista completa do mapa\nOcultar HUD\nSprays\nCancelar arremesso\nDefinir arma Mulekick\nMudar camuflagem\nMudar retículo"
+
+REFERENCE            DRONE_KILL
+LANG_ENGLISH         "Eliminação do Drone Valkyrie"
+
+REFERENCE            DRONE_EXPLOSIVE_KILL
+LANG_ENGLISH         "Eliminação Explosiva do Drone Valkyrie"
+
+REFERENCE            DRONE_MELEE_KILL
+LANG_ENGLISH         "Eliminação Corpo-a-Corpo do Drone Valkyrie"
+
+REFERENCE            DRONE_HEADSHOT_KILL
+LANG_ENGLISH         "Eliminação por Tiro na Cabeça do Drone Valkyrie"
+
+REFERENCE            C_DRONE_CRITICAL_KILL
+LANG_ENGLISH         "^3Eliminação Crítica do Drone Valkyrie"
+
+REFERENCE            C_DRONE_EXPLOSIVE_KILL
+LANG_ENGLISH         "^3Eliminação Explosiva do Drone Valkyrie"
+
+REFERENCE            C_DRONE_MELEE_KILL
+LANG_ENGLISH         "^3Eliminação Corpo-a-Corpo do Drone Valkyrie"
+
+REFERENCE            C_DRONE_HEADSHOT_KILL
+LANG_ENGLISH         "^3Eliminação por Tiro na Cabeça do Drone Valkyrie"
+
+REFERENCE            KEEPER
+LANG_ENGLISH         "Guardas"
+
+REFERENCE            SHRIEKER
+LANG_ENGLISH         "Gritador"
+
+REFERENCE            NAPALM
+LANG_ENGLISH         "Napalm"
+
+REFERENCE            MONKEY
+LANG_ENGLISH         "Macaco"
+
+REFERENCE            PARASITE
+LANG_ENGLISH         "Parasita"
+
+REFERENCE            MEATBALL
+LANG_ENGLISH         "Almôndega"
+
+REFERENCE            ZNS_PLANE
+LANG_ENGLISH         "Bombardeiro MIL-B17"
+
+REFERENCE            DRONE
+LANG_ENGLISH         "Drone Valkyrie"
+
+REFERENCE            ASTROUAUT
+LANG_ENGLISH         "Astronauta"
+
+REFERENCE            THRASHER
+LANG_ENGLISH         "Thrasher"
+
+REFERENCE            NOVA
+LANG_ENGLISH         "Rastejante Nova"
+
+REFERENCE            FURY
+LANG_ENGLISH         "Fúria Apothicon"
+
+REFERENCE            PANZER
+LANG_ENGLISH         "Panzersoldat"
+
+REFERENCE            MARGWA
+LANG_ENGLISH         "Margwa"
+
+REFERENCE            MANGLER
+LANG_ENGLISH         "Mangler"
+
+REFERENCE            BUY_DRINK
+LANG_ENGLISH         "Você pode comprar uma bebida para seu amigo pressionando ^3[{+actionslot 3}] ^7na máquina de perks"
+
+REFERENCE            CASTLE_EE_TIMER
+LANG_ENGLISH         "Contagem Regressiva da Viagem no Tempo: "
+
+REFERENCE            GUM_DISABLE
+LANG_ENGLISH         " GobbleGum está desativado devido ao tamanho do lobby"
+
+REFERENCE            MONKEY_PAP
+LANG_ENGLISH         "Pressione ^3[{+melee}]^7 Pack-a-Punch Monkey Bomb [Custo: 5000]"
+
+REFERENCE            OCTOBOMB_PAP
+LANG_ENGLISH         "Pressione ^3[{+melee}]^7 Pack-a-Punch Li'l Arnies [Custo: 5000]"
+
+REFERENCE            ZOMBIE_BASE_HEALTH
+LANG_ENGLISH         "Multiplicador de Vida Base do Zumbi"
+
+REFERENCE          VE_MAP
+LANG_ENGLISH       "MAPAS COM UMA JANELA"
+
+REFERENCE          VE_MAP_DESC
+LANG_ENGLISH       "Mapas com apenas uma janela, localizados em uma sala pequena ou média."
+
+REFERENCE          MIN_MAP
+LANG_ENGLISH       "MAPAS DE MINECRAFT"
+
+REFERENCE          MIN_MAP_DESC
+LANG_ENGLISH       "Mapas do popular jogo Minecraft, cheios de desafios divertidos e muitos zumbis."
+
+REFERENCE          TOR_MAP
+LANG_ENGLISH       "MAPAS DE TORRE"
+
+REFERENCE          TOR_MAP_DESC
+LANG_ENGLISH       "Mapas de torre onde seu objetivo é subir ou descer na torre, comprar seu final comprável ou completar desafios."
+
+REFERENCE          IN_MAP
+LANG_ENGLISH       "MAPAS INSPIRED"
+
+REFERENCE          IN_MAP_DESC
+LANG_ENGLISH       "Mapas inspirados no design da Treyarch."
+
+REFERENCE          MP_MAP
+LANG_ENGLISH       "MAPAS MULTIPLAYER"
+
+REFERENCE          MP_MAP_DESC
+LANG_ENGLISH       "Mapas multiplayer criados ou modificados para ter um novo tema com zumbis."
+
+REFERENCE          FC_MAP
+LANG_ENGLISH       "MAPAS FULL CIRCLE"
+
+REFERENCE          FC_MAP_DESC
+LANG_ENGLISH       "Mapas incríveis do popular criador AlfaTheseus."
+
+REFERENCE          DS_MAP
+LANG_ENGLISH       "MAPAS COD DS"
+
+REFERENCE          DS_MAP_DESC
+LANG_ENGLISH       "Mapas exclusivos e divertidos da versão Black Ops para Nintendo DS."
+
+REFERENCE          WW_MAP
+LANG_ENGLISH       "MAPAS COD WAW"
+
+REFERENCE          WW_MAP_DESC
+LANG_ENGLISH       "Mapas cheios de ação, lembrando a era original de World at War."
+
+REFERENCE          B1_MAP
+LANG_ENGLISH       "MAPAS COD BO1"
+
+REFERENCE          B1_MAP_DESC
+LANG_ENGLISH       "Mapas míticos da intensa era de Black Ops 1."
+
+REFERENCE          B2_MAP
+LANG_ENGLISH       "MAPAS COD BO2"
+
+REFERENCE          B2_MAP_DESC
+LANG_ENGLISH       "Mapas misteriosos e legais baseados no jogo Black Ops 2."
+
+REFERENCE          MW_MAP
+LANG_ENGLISH       "MAPAS COD MW"
+
+REFERENCE          MW_MAP_DESC
+LANG_ENGLISH       "Mapas multiplayer lendários agora cheios de sangue e zumbis."
+
+REFERENCE            QU_MAP
+LANG_ENGLISH         "MAPAS DA SÉRIE QUIET"
+
+REFERENCE            QU_MAP_DESC
+LANG_ENGLISH         "Mapas incríveis do popular criador Markus Darius. NOTA: estes mapas funcionarão apenas na versão lite deste mod."
+
+REFERENCE            KO_MAP
+LANG_ENGLISH         "MAPAS VERK0"
+
+REFERENCE            KO_MAP_DESC
+LANG_ENGLISH         "Mapas incríveis do popular criador Verk0, alguns funcionarão apenas na versão lite deste mod."
+
+REFERENCE            ICE_MAP
+LANG_ENGLISH         "MAPAS ICEGRENADE"
+
+REFERENCE            ICE_MAP_DESC
+LANG_ENGLISH         "Mapas incríveis do popular criador IceGrenade, alguns funcionarão apenas na versão lite deste mod."
+
+REFERENCE            WEE_MAP
+LANG_ENGLISH         "MAPAS LOGICAL"
+
+REFERENCE            WEE_MAP_DESC
+LANG_ENGLISH         "Mapas incríveis do popular criador Logical, alguns funcionarão apenas na versão lite deste mod."
+
+REFERENCE            CH_MAP
+LANG_ENGLISH         "MAPAS DE DESAFIO"
+
+REFERENCE            CH_MAP_DESC
+LANG_ENGLISH         "Mapas cheios de desafios, alguns mais extremos que outros, que testarão suas habilidades e capacidades."
+
+REFERENCE            NO_MAP
+LANG_ENGLISH         "MAPAS DE TERROR"
+
+REFERENCE            NO_MAP_DESC
+LANG_ENGLISH         "Mapas de terror onde a intensidade grita e o desespero atravessa seu corpo, testando seus limites a cada segundo."
+
+REFERENCE            NOM_MAP
+LANG_ENGLISH         "MAPAS DE FILME"
+
+REFERENCE            NOM_MAP_DESC
+LANG_ENGLISH         "Mapas inspirados em filmes que transportam você para cenários cinematográficos cheios de emoção e ação."
+
+REFERENCE            SEA_MAP
+LANG_ENGLISH         "MAPAS SEATOWN"
+
+REFERENCE            SEA_MAP_DESC
+LANG_ENGLISH         "Mapas com a essência de SEATOWN, onde suas habilidades serão testadas em batalhas intensas."
+
+REFERENCE            SAW_MAP
+LANG_ENGLISH         "MAPAS SAW"
+
+REFERENCE            SAW_MAP_DESC
+LANG_ENGLISH         "Mapas de terror no nível de Saw, onde você será testado em ambientes perturbadores cheios de reviravoltas macabras."
+
+REFERENCE            XMA_MAP
+LANG_ENGLISH         "MAPAS DE NATAL"
+
+REFERENCE            XMA_MAP_DESC
+LANG_ENGLISH         "Mapas de Natal cheios de alegria, até a meia-noite, quando os mortos-vivos procuram seus presentes."
+
+REFERENCE            UNSU_MAP
+LANG_ENGLISH         "^1MAPAS NÃO SUPORTADOS^7"
+
+REFERENCE            UNSU_MAP_DESC
+LANG_ENGLISH         "Aqui, na aba, serão mostrados mapas que não são compatíveis com o mod All Around Enhancement."
+
+REFERENCE            WHIMSICAL
+LANG_ENGLISH         "Caprichoso"
+
+REFERENCE            ZC_MAP
+LANG_ENGLISH         "ZOMBIES CHRONICLES II"
+
+REFERENCE            ZC_MAP_DESC
+LANG_ENGLISH         "Remakes épicos feitos pela comunidade, oferecendo uma maneira divertida e única de jogar essas experiências clássicas!"
+
+REFERENCE            RTT_MAP
+LANG_ENGLISH      "RETORNO A TRANZIT"
+
+REFERENCE            RTT_MAP_DESC
+LANG_ENGLISH      "Reviva Tranzit jogando como a equipe Victis, poucas horas antes dos foguetes atingirem a Terra!"
+
+ENDMARKER

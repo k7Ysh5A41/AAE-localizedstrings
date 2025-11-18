@@ -1,0 +1,113 @@
+// Note to translators:
+// Just edit the text inside the quotes, don't edit other code
+
+VERSION             "1"
+CONFIG              "C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           ROCKETSHIELD_UPGRADED_TITLE
+LANG_ENGLISH     "ロケットシールドのアップグレード"
+
+REFERENCE           ROCKETSHIELD_UPGRADED_CONTENT
+LANG_ENGLISH     "1. ロケットシールドで連続12発のバーストで10体のゾンビを倒す\n(キルが10未満の場合は最初からやり直す必要があります)\n2. 歓声が聞こえたら、アップグレードされたロケットシールドを受け取ります"
+
+REFERENCE           IDGUN_UPGRADED_TITLE
+LANG_ENGLISH     "アポシカンサーバントのアップグレード"
+
+REFERENCE           IDGUN_UPGRADED_CONTENT
+LANG_ENGLISH     "1. マップ上に吊るされている繭を探します。プレイヤーがアポシカンサーバントを持っている場合、繭に近づくほどアポシカンサーバントの心拍音が頻繁に聞こえます\n2. 繭を見つけたら、アポシカンサーバントで繭の近くのゾンビを100体倒します\n3. 繭を撃つと、アポシカンサーバントが吸い込まれ、次のラウンドまで待ちます\n4. 繭を破壊すると、アップグレードされたアポシカンサーバントが落ち、誰でも拾うことができます"
+
+REFERENCE           GASMASK_UPGRADED_TITLE
+LANG_ENGLISH     "ガスマスクのアップグレード"
+
+REFERENCE           GASMASK_UPGRADED_CONTENT
+LANG_ENGLISH     "マサムネで作業台のマスクを撃つ\nこれにより、ガスマスクが毒胞子に対して無限の耐性を持つようになります"
+
+REFERENCE           FREEGUM_TITLE
+LANG_ENGLISH     "Anywhere But Here 無料!"
+
+REFERENCE           FREEGUM_CONTENT
+LANG_ENGLISH     "ここで“Anywhere But Here”のゴブルガムを1つ入手できます。"
+
+REFERENCE           AA_AMMO_CHANCE_TITLE
+LANG_ENGLISH     "AA弾薬の出現確率を上げる"
+
+REFERENCE           AA_AMMO_CHANCE_CONTENT
+LANG_ENGLISH     "Lucky Crit Gobblegumにより、AAガンの弾薬出現確率が100%になります"
+
+REFERENCE           GIANT_PERK_EE_TITLE
+LANG_ENGLISH     "5つ目のパークマシンEE"
+
+REFERENCE           GIANT_PERK_EE_CONTENT
+LANG_ENGLISH     "各テレポーターにモンキーボムを投げ、スイッチを動作させるために起動します"
+
+REFERENCE           GENESIS_SHIELD_TITLE
+LANG_ENGLISH     "ドラゴンシールドのアップグレード"
+
+REFERENCE           GENESIS_SHIELD_CONTENT
+LANG_ENGLISH     "1. アポシカンサーバントで作業台を撃つと、渦がアポシカンサーバントを吸い込みます。注意：武器は戻りません。\n2. 渦が終わると、シールドのアップグレードが完了します"
+
+REFERENCE           TEMPLE_KEY_COMBO_EE_TITLE
+LANG_ENGLISH     "爆発モンキーボム イースターエッグ"
+
+REFERENCE           TEMPLE_KEY_COMBO_EE_CONTENT
+LANG_ENGLISH     "ここに立ち、次のボタンを押してモンキーボムを爆発させます:\n^3[{+actionslot 1}] [{+actionslot 1}] [{+actionslot 2}] [{+gostand}]"
+
+REFERENCE           MOON_SUPER_PES_TITLE
+LANG_ENGLISH     "超加圧外部スーツ"
+
+REFERENCE           MOON_SUPER_PES_CONTENT
+LANG_ENGLISH     "P.E.S.は現在ハッキング可能です。\nハッキングして再取得すると、ハッカーとPESを一緒に持ち運ぶことができます"
+
+REFERENCE           MOON_DIGGER_HACKING_TITLE
+LANG_ENGLISH     "掘削機の操作がハッキング可能になりました"
+
+REFERENCE           MOON_DIGGER_HACKING_CONTENT
+LANG_ENGLISH     "OmicronおよびEpsilonパネルのハッキングコストは1000\nGobblegumマシンが無効化されているかランダムGobblegumが有効の場合、Piパネルのハッキングコストは5000\nそれ以外の場合、Piパネルのハッキングはラウンド10まで無効化され、コストは50000に変更されます\nTunnel 6がハッキング前に破壊されると、Piパネルのコストは1000に変更されます"
+
+REFERENCE           MOON_EE_ITEM_TITLE
+LANG_ENGLISH     "ジャンプパッドからEEアイテムを入手"
+
+REFERENCE           MOON_EE_ITEM_CONTENT
+LANG_ENGLISH     "ラウンド10以降\nジャンプパッドはレア武器と装備を出現させる可能性があります\n初出現から10分以内に回収してください"
+
+REFERENCE           FIRETYPE
+LANG_ENGLISH     "射撃モード"
+
+REFERENCE           MELEETIME
+LANG_ENGLISH     "近接時間"
+
+REFERENCE           DAMAGE
+LANG_ENGLISH     "ダメージ"
+
+REFERENCE           STK
+LANG_ENGLISH     "ラウンド30でのキルに必要な弾数"
+
+REFERENCE           SHOTCOUNT
+LANG_ENGLISH     "ショットガンの弾数"
+
+REFERENCE           BOLTTIME
+LANG_ENGLISH     "ボルトタイム"
+
+REFERENCE           RELOADTIME
+LANG_ENGLISH     "リロード時間"
+
+REFERENCE           MAGSIZE
+LANG_ENGLISH     "マガジン容量"
+
+REFERENCE           STOCKAMMO
+LANG_ENGLISH     "ストック弾薬"
+
+REFERENCE           WONDERWEAPON
+LANG_ENGLISH        "ワンダーウェポン"
+
+REFERENCE           GASWEAPON
+LANG_ENGLISH        "ガスウェポン"
+
+REFERENCE           FREE_LANDER_TITLE
+LANG_ENGLISH        "Free Lander"
+
+REFERENCE           FREE_LANDER
+LANG_ENGLISH        "250と表示されても無視してください — 実際は無料です。"
+
+ENDMARKER

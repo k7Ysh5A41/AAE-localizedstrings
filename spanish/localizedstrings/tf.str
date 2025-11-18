@@ -1,0 +1,590 @@
+// Note to translators:
+// Just edit the text inside the quotes, don't edit other code
+
+VERSION             "1"
+CONFIG              "C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE            TITLE
+LANG_ENGLISH         "^5OPCIONES DE LA PARTIDA"
+
+REFERENCE            SWITCH
+LANG_ENGLISH         "Activar las opciones de la partida / Ajustes por defecto"
+
+REFERENCE            WEAPON
+LANG_ENGLISH         "Opciones de las armas"
+
+REFERENCE            MYSTERYBOX
+LANG_ENGLISH         "Filtro de la caja misteriosa"
+
+REFERENCE            POWERUP
+LANG_ENGLISH         "Opciones de los potenciadores"
+
+REFERENCE            PERK
+LANG_ENGLISH         "Opciones de las ventajas"
+
+REFERENCE            BGB
+LANG_ENGLISH         "Opciones de los GobbleGum"
+
+REFERENCE            WEAPON_DESC
+LANG_ENGLISH         "Abre el menú de opciones de las armas."
+
+REFERENCE            MYSTERYBOX_DESC
+LANG_ENGLISH         "Este filtros te permiten deshabilitar las armas de los mapas personalizados. Por ejemplo, si juegas un mapa que incluye armas de BO1, BO2, etc., y no te gustan, el filtro evitará que esas armas aparezcan en la caja misteriosa, mostrando solo armas de BO3."
+
+REFERENCE            POWERUP_DESC
+LANG_ENGLISH         "Abre el menú de opciones de los potenciadores."
+
+REFERENCE            PERK_DESC
+LANG_ENGLISH         "Abre el menú de opciones de las ventajas."
+
+REFERENCE            BGB_DESC
+LANG_ENGLISH         "Abre el menú de opciones de los GobbleGum."
+
+REFERENCE            ZOMBIE
+LANG_ENGLISH         "Opciones de zombis"
+
+REFERENCE            PLAYER
+LANG_ENGLISH         "Opciones del jugador"
+
+REFERENCE            ROAMER
+LANG_ENGLISH         "Opciones de rondas por tiempo"
+
+REFERENCE            GAME
+LANG_ENGLISH         "Opciones del juego"
+
+REFERENCE            SAVE_H
+LANG_ENGLISH         "Área segura horizontal"
+
+REFERENCE            SAVE_V
+LANG_ENGLISH         "Área segura vertical"
+
+REFERENCE            ZOMBIE_DESC
+LANG_ENGLISH         "Abre el menú de opciones de zombis."
+
+REFERENCE            PLAYER_DESC
+LANG_ENGLISH         "Abre el menú de opciones del jugador."
+
+REFERENCE            ROAMER_DESC
+LANG_ENGLISH         "Abre el menú de opciones de ronda pausada."
+
+REFERENCE            GAME_DESC
+LANG_ENGLISH         "Abre el menú de opciones del juego."
+
+REFERENCE            SAVE_H_DESC
+LANG_ENGLISH         "Ajusta el rango horizontal del área segura."
+
+REFERENCE            SAVE_V_DESC
+LANG_ENGLISH         "Ajusta el rango vertical del área segura."
+
+REFERENCE            GAMEPLAY
+LANG_ENGLISH         "JUGABILIDAD"
+
+REFERENCE            AI
+LANG_ENGLISH         "IA"
+
+REFERENCE            SYSTEM
+LANG_ENGLISH         "SISTEMA"
+
+REFERENCE            DEFAULT
+LANG_ENGLISH         "Por defecto"
+
+REFERENCE            SPRINT
+LANG_ENGLISH         "Corredores"
+
+REFERENCE            SUPER_SPRINT
+LANG_ENGLISH         "Super corredores"
+
+REFERENCE            KNOCK_BACK
+LANG_ENGLISH         "Retroceso"
+
+REFERENCE            PLAYER_HEALTH_1
+LANG_ENGLISH         "1 golpe (35%)"
+
+REFERENCE            PLAYER_HEALTH_2
+LANG_ENGLISH         "2 golpes (75%)"
+
+REFERENCE            PLAYER_HEALTH_3
+LANG_ENGLISH         "4 golpes (150%)"
+
+REFERENCE            PLAYER_HEALTH_4
+LANG_ENGLISH         "5 golpes (200%)"
+
+REFERENCE            ZOD
+LANG_ENGLISH         "Shadows of Evil"
+
+REFERENCE            FACTORY
+LANG_ENGLISH         "The Giant"
+
+REFERENCE            CASTLE
+LANG_ENGLISH         "Der Eisendrache"
+
+REFERENCE            ISLAND
+LANG_ENGLISH         "Zetsubou No Shima"
+
+REFERENCE            GK
+LANG_ENGLISH         "Gorod Krovi"
+
+REFERENCE            GENESIS
+LANG_ENGLISH         "Revelations"
+
+REFERENCE            KINO
+LANG_ENGLISH         "Kino der Toten"
+
+REFERENCE            TOMB
+LANG_ENGLISH         "Origins"
+
+REFERENCE            LESS
+LANG_ENGLISH         "Pocos"
+
+REFERENCE            MORE
+LANG_ENGLISH         "Muchos mas"
+
+REFERENCE            INSANE
+LANG_ENGLISH         "Insano"
+
+REFERENCE            STOOPID
+LANG_ENGLISH         "ESTUPIDO"
+
+REFERENCE            INFINITE
+LANG_ENGLISH         "Infinito"
+
+REFERENCE            UI_30S
+LANG_ENGLISH         "30 Segundos"
+
+REFERENCE            UI_1M
+LANG_ENGLISH         "1 Minuto"
+
+REFERENCE            BGB_OFF
+LANG_ENGLISH         "Deshabilitar los GobbleGum"
+
+REFERENCE            BGB_RDM
+LANG_ENGLISH         "GobbleGum aleatorios"
+
+REFERENCE            BGB_FIX
+LANG_ENGLISH         "Fijar el costo del GobbleGum"
+
+REFERENCE            BGB_COST
+LANG_ENGLISH         "Costo base de GobbleGum"
+
+REFERENCE            BGB_LIMIT
+LANG_ENGLISH         "Límite de compra de GobbleGum"
+
+REFERENCE            BGB_SP
+LANG_ENGLISH         "Deshabilitar la música de compras gratuitas"
+
+REFERENCE            BGB_NT
+LANG_ENGLISH         "Negación Newtoniana Ilimitada"
+
+REFERENCE            BGB_SP
+LANG_ENGLISH         "Deshabilitar la música de compras gratuitas"
+
+REFERENCE            BGB_OFF_DESC
+LANG_ENGLISH         "Deshabilitará todas las máquinas de GobbleGum que haya en los mapas."
+
+REFERENCE            BGB_RDM_DESC
+LANG_ENGLISH         "Las máquinas de GobbleGum ya no usarán el paquete personal del jugador. Ahora, lo que hará es darte un GobbleGum al azar de todos los existentes en el juego y el mod."
+
+REFERENCE            BGB_COST_DESC
+LANG_ENGLISH         "Costo base de las máquinas GobbleGum."
+
+REFERENCE            BGB_FIX_DESC
+LANG_ENGLISH         "Selecciona un costo fijo de las máquinas GobbleGum."
+
+REFERENCE            BGB_LIMIT_DESC
+LANG_ENGLISH         "Límite de compra para máquinas GobbleGum."
+
+REFERENCE            BGB_TITLE
+LANG_ENGLISH         "OPCIONES DE LOS GOBBLEGUM"
+
+REFERENCE            ROUND
+LANG_ENGLISH         "Ronda inicial"
+
+REFERENCE            ZC
+LANG_ENGLISH         "Mostrar un contador de enemigos"
+
+REFERENCE            HITMARKER
+LANG_ENGLISH         "Hitmarker"
+
+REFERENCE            SE
+LANG_ENGLISH         "Eventos del marcador"
+
+REFERENCE            TIMEPLAY
+LANG_ENGLISH         "Rondas basadas en el tiempo"
+
+REFERENCE            DOOR
+LANG_ENGLISH         "Iniciar con todas las puertas abiertas"
+
+REFERENCE            BOX_ALL
+LANG_ENGLISH         "Caja misteriosa en todas las ubicaciones"
+
+REFERENCE            POWER
+LANG_ENGLISH         "Iniciar la partida con el poder encendido"
+
+REFERENCE            TRADE
+LANG_ENGLISH         "Intercambio de armas entre jugadores"
+
+REFERENCE            SS
+LANG_ENGLISH         "Reaparición de espectadores por tiempo"
+
+REFERENCE            LOCKER
+LANG_ENGLISH         "Deshabilitar el depósito de armas y el banco"
+
+REFERENCE            POWER
+LANG_ENGLISH         "Iniciar con la energía activada"
+
+REFERENCE            DELAY
+LANG_ENGLISH         "Rondas basadas en la velocidad"
+
+REFERENCE            ROUND_DESC
+LANG_ENGLISH         "Con esta opción, podrás elegir en qué ronda quieres iniciar tu partida; la ronda máxima en la cual puedes iniciar es la 255."
+
+REFERENCE            ZC_DESC
+LANG_ENGLISH         "Añade un contador de enemigos en la esquina superior derecha de la pantalla para indicar cuántos enemigos quedan en la ronda."
+
+REFERENCE            DELAY_DESC
+LANG_ENGLISH         "Este modo de juego, llamado 'Rondas basadas en la velocidad', mantiene la esencia del juego clásico, pero introduce una novedad significativa: los zombis aparecen de manera instantánea, sin demora alguna. Esta característica garantiza una experiencia intensa y continua, donde ^1¡no tendrás ni un momento de descanso!^7"
+
+REFERENCE            HITMARKER_DESC
+LANG_ENGLISH         "Mostrará Hitmarkers al dañar a los zombis o a los enemigos especiales."
+
+REFERENCE            SE_DESC
+LANG_ENGLISH         "Al igual que en los zombis de (^1Cold War^7) y en los juegos más recientes de la saga CoD, se mostrará en pantalla un texto blanco o amarillo al eliminar a un enemigo, describiendo cómo lo mataste."
+
+REFERENCE            TIMEPLAY_DESC
+LANG_ENGLISH         "Este modo de juego, llamado 'Rondas basadas en el tiempo', los zombis aparecen de manera constante, aumentando en número con el paso del tiempo. El desafío consiste en sobrevivir el mayor tiempo posible a medida que la oleada de zombis crece progresivamente. ^1¡Intenta mantenerte con vida mientras la cantidad de zombis aumenta continuamente!^7"
+
+REFERENCE            DOOR_DESC
+LANG_ENGLISH         "Todas las puertas del mapa estarán abiertas."
+
+REFERENCE            BOX_ALL_DESC
+LANG_ENGLISH         "Generará la caja misteriosa en todas las ubicaciones a la vez. No saldrá nunca más los peluches con esta opción activada."
+
+REFERENCE            POWER_DESC
+LANG_ENGLISH         "Iniciarás la partida con la electricidad ya encendida."
+
+REFERENCE            ROUNDREVIVE_DESC
+LANG_ENGLISH         "Revivirá a todos los jugadores al final de cada ronda y tendrán la salud completa."
+
+REFERENCE            TRADE_DESC
+LANG_ENGLISH         "Comercia armas con otro jugador."
+
+REFERENCE            SS_DESC
+LANG_ENGLISH         "Obliga a todos los espectadores a reaparecer cada 5 minutos."
+
+REFERENCE            GAME_TITLE
+LANG_ENGLISH         "OPCIONES DEL JUEGO"
+
+REFERENCE            BOX_FILTER_DESC
+LANG_ENGLISH         "Estos filtros te permiten deshabilitar armas adicionales agregadas en mapas personalizados de sus respectivos juegos. Por ejemplo: 'Deshabilitar armas de BO1' evitará que los mapas personalizados que usan armas BO1 se agreguen a la caja. Estos FITLROS NO agregan armas de todos los juegos a la caja."
+
+REFERENCE            T4
+LANG_ENGLISH         "Deshabilitar armas de WAW"
+
+REFERENCE            IW4
+LANG_ENGLISH         "Deshabilitar armas de MW2"
+
+REFERENCE            T5
+LANG_ENGLISH         "Deshabilitar armas de BO1"
+
+REFERENCE            IW5
+LANG_ENGLISH         "Deshabilitar armas de MW3"
+
+REFERENCE            T6
+LANG_ENGLISH         "Deshabilitar armas de BO2"
+
+REFERENCE            IW6
+LANG_ENGLISH         "Deshabilitar armas de GHOSTS"
+
+REFERENCE            S1
+LANG_ENGLISH         "Deshabilitar armas de AW"
+
+REFERENCE            IW7
+LANG_ENGLISH         "Deshabilitar armas de IW"
+
+REFERENCE            H1
+LANG_ENGLISH         "Deshabilitar armas de MWR"
+
+REFERENCE            S2
+LANG_ENGLISH         "Deshabilitar armas de WW2"
+
+REFERENCE            T8
+LANG_ENGLISH         "Deshabilitar armas de BO4"
+
+REFERENCE            IW8
+LANG_ENGLISH         "Deshabilitar armas de MW2019"
+
+REFERENCE            T9
+LANG_ENGLISH         "Deshabilitar armas de BOCW"
+
+REFERENCE            ELMG_WEAPON
+LANG_ENGLISH         "Deshabilitar las armas de este mod"
+
+REFERENCE            MYSTERYBOX_TITLE
+LANG_ENGLISH         "FILTRO DE LA CAJA MISTERIOSA"
+
+REFERENCE            PERKLIMIT
+LANG_ENGLISH         "Límite de Ventajas"
+
+REFERENCE            QUADKICK
+LANG_ENGLISH         "MEGA COZ"
+
+REFERENCE            PERKAHOLIC
+LANG_ENGLISH         "Aparecer con ventajadicto"
+
+REFERENCE            REVIVE
+LANG_ENGLISH         "Aparecer con reanimación"
+
+REFERENCE            ROUNDREVIVE
+LANG_ENGLISH         "Reanimación al final de cada ronda"
+
+REFERENCE            T8PERK
+LANG_ENGLISH         "Pérdida progresiva de ventajas"
+
+REFERENCE            PERKLIMIT_DESC
+LANG_ENGLISH         "Ajusta el límite de ventajas que el jugador puede comprar."
+
+REFERENCE            T8PERK
+LANG_ENGLISH         "Pérdida de ventajas basadas en el tiempo"
+
+REFERENCE            QUADKICK_DESC
+LANG_ENGLISH         "La ventaja de Coz ahora te permite llevar 4 armas en vez de 3, pero si te derriban y vuelves a obtener la ventaja de Coz, las 2 armas extras que habías comprado no se restaurarán."
+
+REFERENCE            PERKAHOLIC_DESC
+LANG_ENGLISH         "Iniciarás la partida con el GobbleGum de ventajadicto."
+
+REFERENCE            T8PERK_DESC
+LANG_ENGLISH         "No se perderán todas las ventajas cuando te tiren como antes, sino que se perderán gradualmente una por una. Cuando tengas demasiadas ventajas, tu velocidad de pérdida aumentará, y cuando tengas muy pocas ventajas, la velocidad de pérdida se ralentizará."
+
+REFERENCE            REVIVE_DESC
+LANG_ENGLISH         "Iniciarás la partida con la ventaja de reanimación."
+
+REFERENCE            PERK_TITLE
+LANG_ENGLISH         "OPCIONES DE LAS VENTAJAS"
+
+REFERENCE            SCORE
+LANG_ENGLISH         "Puntos iniciales"
+
+REFERENCE            SPEED
+LANG_ENGLISH         "Aumentar la velocidad"
+
+REFERENCE            HEALTH
+LANG_ENGLISH         "Salud inicial"
+
+REFERENCE            EXO
+LANG_ENGLISH         "EXO movimientos"
+
+REFERENCE            SCORE_DESC
+LANG_ENGLISH         "Elige con cuántos puntos empezaras la partida."
+
+REFERENCE            SPEED_DESC
+LANG_ENGLISH         "Ajusta la velocidad del jugador. 1 es el predeterminado."
+
+REFERENCE            HEALTH_DESC
+LANG_ENGLISH         "Elige con cuánta vida te gustaría empezar la partida. \nSalud por defecto = 100 \nDaño enemigo por defecto = 45"
+
+REFERENCE            EXO_DESC
+LANG_ENGLISH         "Habilita el EXO movimiento. (Probablemente no funcione en ningún mapa que use movimiento EXO, como SoE o Der Eisendrache)."
+
+REFERENCE            FIRENDLYFIRE_DESC
+LANG_ENGLISH         "Reflejar: el daño infligido a un compañero de equipo se te aplica a ti\n\nMutuo: el daño infligido a un compañero de equipo se divide entre tú y ese compañero de equipo\n\nRetroceso: no causarás daño a un compañero de equipo, pero golpeara al compañero de equipo de vuelta"
+
+REFERENCE            PLAYER_TITLE
+LANG_ENGLISH         "OPCIONES DEL JUGADOR"
+
+REFERENCE            POWERUP_SPAWN
+LANG_ENGLISH         "Cantidad de potenciadores"
+
+REFERENCE            NUKE
+LANG_ENGLISH         "Mejorar el kaboom"
+
+REFERENCE            NUKE_SCORE
+LANG_ENGLISH         "Aumentar los putos del kaboom"
+
+REFERENCE            CARPENTER
+LANG_ENGLISH         "Carpintero de BO4"
+
+REFERENCE            FREEPERK
+LANG_ENGLISH         "Potenciadores de ventajas"
+
+REFERENCE            POWERUP_SPAWN_DESC
+LANG_ENGLISH         "Elige cuántos potenciadores se generarán por ronda."
+
+REFERENCE            NUKE_DESC
+LANG_ENGLISH         "Los kaboom ahora otorgarán una cantidad determinada de puntos cuando mates a un zombi (el mínimo es de 200), y los zombis morirán instantáneamente cuando tomes un kaboom, en vez de tener que esperar a que desaparezcan."
+
+REFERENCE            NUKE_SCORE_DESC
+LANG_ENGLISH         "Elige cuántos puntos por zombi obtendrás."
+
+REFERENCE            CARPENTER_DESC
+LANG_ENGLISH         "Ahora los carpinteros tendrán también la habilidad de reparar tu escudo como en BO4."
+
+REFERENCE            FREEPERK_DESC
+LANG_ENGLISH         "Aparecerán potenciadores de ventajas cuando mates a los zombis."
+
+REFERENCE            POWERUP_TITLE
+LANG_ENGLISH         "OPCIONES DE LOS POTENCIADORES"
+
+REFERENCE            MAXAMMO
+LANG_ENGLISH         "Munición máxima de BO4"
+
+REFERENCE            MAXAMMO_DESC
+LANG_ENGLISH         "La munición maxima recargará también tu cargador como en BO4."
+
+REFERENCE            MAXAMMO
+LANG_ENGLISH         "Munición máxima de BO4"
+
+REFERENCE            ROAMER
+LANG_ENGLISH         "Ronda pausada"
+
+REFERENCE            ROAMERTIME
+LANG_ENGLISH         "Tiempo de pausa entre ronda"
+
+REFERENCE            ROMAER_DESC
+LANG_ENGLISH         "El reloj te permite esperar al final de cada ronda, antes de que comience la siguiente ronda. ¡No más reptadores! Para comenzar la siguiente ronda, presiona Apuntar + Acuchillar"
+
+REFERENCE            ROAMERTIME_DESC
+LANG_ENGLISH         "Elige cuánto tiempo tendrás entre cada ronda."
+
+REFERENCE            ROAMER_TITLE
+LANG_ENGLISH         "OPCIONES DE RONDA PAUSADA"
+
+REFERENCE            T7
+LANG_ENGLISH         "Agregar armas de BO3"
+
+REFERENCE            STARTAMMO
+LANG_ENGLISH         "Iniciar la partida con munición máxima"
+
+REFERENCE            RK5
+LANG_ENGLISH         "Iniciar con la RK5 como arma extra"
+
+REFERENCE            BOWIE
+LANG_ENGLISH         "Iniciar con el Cuchillo Bowie"
+
+REFERENCE            RADM_WEAPON
+LANG_ENGLISH         "Iniciar con un arma aleatoria como arma extra"
+
+REFERENCE            OWNCAMO
+LANG_ENGLISH         "Usa tu propio camuflaje"
+
+REFERENCE            PAPCAMO
+LANG_ENGLISH         "Selecciona un camuflaje de PAP"
+
+REFERENCE            BOXSHARE
+LANG_ENGLISH         "Compartir caja misteriosa"
+
+REFERENCE            LOADOUTSAVE
+LANG_ENGLISH         "Restaurador de armas y armas de Coz"
+
+REFERENCE            C4
+LANG_ENGLISH         "Deshabilitar el final comprable con C4"
+
+REFERENCE            T7_DESC
+LANG_ENGLISH         "Forzar el agregado de todas las armas de BO3 a la caja misteriosa."
+
+REFERENCE            STARTAMMO_DESC
+LANG_ENGLISH         "Comenzaras el juego con la munición máxima en tu arma."
+
+REFERENCE            RK5_DESC
+LANG_ENGLISH         "Al empezar la partida recibirás la RK5 como arma extra, como si el jugador hubiera completado el Super EE."
+
+REFERENCE            BOWIE_DESC
+LANG_ENGLISH         "Al empezar la partida, recibirás el cuchillo bowie."
+
+REFERENCE            RADM_WEAPON_DESC
+LANG_ENGLISH         "Al empezar la partida recibirás un arma aleatoria como arma extra."
+
+REFERENCE            OWNCAMO_DESC
+LANG_ENGLISH         "Después de usar el PAP las armas todavía usarán el camuflaje que tú le pusiste."
+
+REFERENCE            PAPCAMO_DESC
+LANG_ENGLISH         "Elige el camuflaje que desea usar del PAP."
+
+REFERENCE            BOXSHARE_DESC
+LANG_ENGLISH         "Usa CaC en la caja misteriosa para compartir armas con tus compañeros de equipo."
+
+REFERENCE            LOADOUTSAVE_DESC
+LANG_ENGLISH         "Cuando te desconecte del host actual, el host actual almacenará tus armas, ventajas y puntos. Después de volver a conectarte, recuperarás lo que perdiste (también se aplica a la próxima ronda de reaparición después de la muerte)."
+
+REFERENCE            C4_DESC
+LANG_ENGLISH         "Después de 35 rondas, debes tener 150.000 puntos y deberas detonar el C4 para poder terminar el juego. si seleccionas esta opcion se desactiva este efecto."
+
+REFERENCE            WEAPON_TITLE
+LANG_ENGLISH         "OPCIONES DE LAS ARMAS"
+
+REFERENCE            KILL
+LANG_ENGLISH         "Puntos extra por Muerte"
+
+REFERENCE            MELEEKILL
+LANG_ENGLISH         "Puntos extra por muerte CaC"
+
+REFERENCE            HEADSHOTKILL
+LANG_ENGLISH         "Puntos extra por Headshot"
+
+REFERENCE            MAXZM
+LANG_ENGLISH         "Cantidad maxima de zombis"
+
+REFERENCE            SLOWZM
+LANG_ENGLISH         "Zombis más débiles"
+
+REFERENCE            ZMSPEED
+LANG_ENGLISH         "Velocidad de los zombis"
+
+REFERENCE            SPAWNDELAY
+LANG_ENGLISH         "Generación de enemigos más rápida"
+
+REFERENCE            KILL_DESC
+LANG_ENGLISH         "Consigue puntos extra por matar zombis."
+
+REFERENCE            MELEEKILL_DESC
+LANG_ENGLISH         "Consigue puntos extra por matar zombis cuerpo a cuerpo."
+
+REFERENCE            HEADSHOTKILL_DESC
+LANG_ENGLISH         "Consigue puntos extra por matar zombis con tiros en la cabeza."
+
+REFERENCE            MAXZM_DESC
+LANG_ENGLISH         "El número máximo de zombis que se pueden generar en cualquier momento es de 24, es el valor predeterminado. Los números más altos pueden causar problemas con el retraso."
+
+REFERENCE            SLOWZM_DESC
+LANG_ENGLISH         "La fuerza de los zombis aumenta lentamente."
+
+REFERENCE            ZMSPEED_DESC
+LANG_ENGLISH         "Todos los zombis tendran esta velocidad de movimiento."
+
+REFERENCE            SPAWNDELAY_DESC
+LANG_ENGLISH         "Los enemigos saldrán de sus puntos de generación de una forma más rápida."
+
+REFERENCE            ZOMBIE_TITLE
+LANG_ENGLISH         "OPCIONES DE ZOMBIS"
+
+REFERENCE            MW2019
+LANG_ENGLISH         "IW/MW2019"
+
+REFERENCE            CW
+LANG_ENGLISH         "Cold War"
+
+REFERENCE            BO4
+LANG_ENGLISH         "Black Ops 4"
+
+REFERENCE            HITMARKER_SOUND
+LANG_ENGLISH         "Sonidos del Hitmarker"
+
+REFERENCE            DAMAGE
+LANG_ENGLISH         "Análisis de daños"
+
+REFERENCE            CRAZYZOMBIE
+LANG_ENGLISH         "Horror zombi"
+
+REFERENCE            HUD
+LANG_ENGLISH         "Deshabilitar el HUD"
+
+REFERENCE            LIMIT
+LANG_ENGLISH         "Repetir armas maravillosas"
+
+REFERENCE            HPBAR
+LANG_ENGLISH         "Mostrar la salud del jugador en pantalla"
+
+REFERENCE            HPBAR_DESC
+LANG_ENGLISH         "Muestra la salud del jugador en forma de barra con porcentaje de vida."
+
+ENDMARKER

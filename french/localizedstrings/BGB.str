@@ -1,0 +1,140 @@
+// Note to translators:
+// Just edit the text inside the quotes, don't edit other code
+
+VERSION             "1"
+CONFIG              "C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE            JOIN_THE_PARTY
+LANG_ENGLISH         "Rejoindre la Fête"
+
+REFERENCE            JOIN_THE_PARTY_DESC
+LANG_ENGLISH         "^2MEGA\n^7Activé (1x Activation)\nTous les joueurs en spectateur apparaîtront immédiatement et tous les joueurs à terre seront immédiatement réanimés. Ne restaurera pas les perks perdus."
+
+REFERENCE            JOIN_THE_PARTY_HINT
+LANG_ENGLISH         "Appuyez sur ^3[{+actionslot 1}]^7 pour activer\nTous les joueurs en spectateur apparaissent immédiatement et tous les joueurs à terre sont réanimés immédiatement"
+
+REFERENCE            QUACKNAROK
+LANG_ENGLISH         "Quacknarok"
+
+REFERENCE            QUACKNAROK_DESC
+LANG_ENGLISH         "^6F^3A^5N^2T^7A^2I^5S^3T^6I^7Q\n^7Activation immédiate (Dure 5 tours complets)\nLes zombies portent une bouée canard, mais cela n'aide en rien."
+
+REFERENCE            QUACKNAROK_HINT
+LANG_ENGLISH         "Actif pendant 5 tours complets\nLes zombies portent une bouée canard (n'affecte pas le gameplay)."
+
+REFERENCE            TALKIN_BOUT_REGENERATION
+LANG_ENGLISH         "Parler de Régénération"
+
+REFERENCE            TALKIN_BOUT_REGENERATION_DESC
+LANG_ENGLISH         "^7Activation immédiate (Dure 4 minutes)\nVotre santé se régénère constamment en bougeant."
+
+REFERENCE            TALKIN_BOUT_REGENERATION_HINT
+LANG_ENGLISH         "^7Activation immédiate (Dure 4 minutes)\nVotre santé se régénère constamment en bougeant."
+
+REFERENCE            BLOOD_DEBT
+LANG_ENGLISH         "Dette de Sang"
+
+REFERENCE            BLOOD_DEBT_DESC
+LANG_ENGLISH         "^7Activé (1x Activation, 2 minutes)\nAu lieu de perdre de la santé, vous perdez des points. La quantité perdue augmente chaque fois que vous êtes touché jusqu'à atteindre le maximum. Si vous avez 0 points, la Dette de Sang prend fin."
+
+REFERENCE            BLOOD_DEBT_HINT
+LANG_ENGLISH         "Appuyez sur ^3[{+actionslot 1}]^7 pour activer\nAu lieu de perdre de la santé, vous perdez des points. La quantité perdue augmente à chaque coup reçu jusqu'au maximum. Si vous avez 0 points, la Dette de Sang se termine."
+
+REFERENCE            CTRL_Z
+LANG_ENGLISH         "Ctrl-Z"
+
+REFERENCE            CTRL_Z_DESC
+LANG_ENGLISH         "^7Activé (2x Activation)\nTransforme les zombies proches en retournés."
+
+REFERENCE            CTRL_Z_HINT
+LANG_ENGLISH         "Appuyez sur ^3[{+actionslot 1}]^7 pour activer\nTransforme les zombies proches en retournés."
+
+REFERENCE            NOWHERE_BUT_THERE
+LANG_ENGLISH         "Nulle Part Sauf Là"
+
+REFERENCE            NOWHERE_BUT_THERE_DESC
+LANG_ENGLISH         "^7Activé (3x Activation)\nTéléportez-vous à l'emplacement d'un joueur à terre pour le réanimer."
+
+REFERENCE            NOWHERE_BUT_THERE_HINT
+LANG_ENGLISH         "Appuyez sur ^3[{+actionslot 1}]^7 pour activer\nTéléportez-vous à l'emplacement d'un joueur à terre pour le réanimer."
+
+REFERENCE            FREE_FIRE
+LANG_ENGLISH         "Tir Libre"
+
+REFERENCE            FREE_FIRE_DESC
+LANG_ENGLISH         "^7Activé (3x Activation, 60 secondes)\nTous les joueurs tirent sans utiliser de munitions."
+
+REFERENCE            FREE_FIRE_HINT
+LANG_ENGLISH         "Appuyez sur ^3[{+actionslot 1}]^7 pour activer\nTous les joueurs tirent sans utiliser de munitions."
+
+REFERENCE            EDDIE
+LANG_ENGLISH         "Eddie"
+
+REFERENCE            EDDIE_DESC
+LANG_ENGLISH         "^6F^3A^5N^2T^7A^2I^5S^3T^6I^7Q\n^7Activation immédiate (Dure 5 tours complets)\nTous les zombies deviennent Edward Richtofen."
+
+REFERENCE            EDDIE_HINT
+LANG_ENGLISH         "Actif pendant 5 tours complets\nTous les zombies deviennent Edward Richtofen."
+
+REFERENCE            LUCKY_CRIT
+LANG_ENGLISH         "Crit Chanceux"
+
+REFERENCE            LUCKY_CRIT_DESC
+LANG_ENGLISH         "^7Activation immédiate (Dure 3 tours complets)\nAméliore vos chances d'activer un type de munitions alternatif aléatoire, et donne également 100% de chance d'obtenir la balle AA dans Zetsubou."
+
+REFERENCE            LUCKY_CRIT_HINT
+LANG_ENGLISH         "Actif pendant 3 tours complets\nAméliore vos chances d'activer un type de munitions alternatif aléatoire, et donne également 100% de chance d'obtenir la balle AA dans Zetsubou."
+
+REFERENCE            SWORD_FLAY_DESC
+LANG_ENGLISH         "Activation immédiate (Dure 2,5 minutes)\nLes attaques de mêlée infligent des dégâts infinis, affectant jusqu'à X zombies dans la portée (X = 2 pour poignarder, X = 4 pour balayer)"
+
+REFERENCE            SHARE
+LANG_ENGLISH         "Appuyez sur ^3[{+melee}] ^7pour partager ce GobbleGum"
+
+REFERENCE            ANYWHERE_BUT_HERE_DESC
+LANG_ENGLISH         "Activé (5x activations)\nTéléporte instantanément à un endroit aléatoire. Une onde de choc repousse les zombies proches, vous gardant en sécurité."
+
+REFERENCE            COAGULANT_DESC
+LANG_ENGLISH         "S’active immédiatement (Dure 2 heures)\nTemps d’hémorragie prolongé à 2 heures."
+
+REFERENCE            IN_PLAIN_SIGHT_DESC
+LANG_ENGLISH         "Activé (5x activations, 10 secondes chacune)\nLes zombies vous ignorent pendant 10 secondes."
+
+REFERENCE            CACHE_BACK_DESC
+LANG_ENGLISH         "^3RARE MÉGA\n^7Activé (5x activations)\nFait apparaître un bonus de munitions max."
+
+REFERENCE            IM_FEELIN_LUCKY_DESC
+LANG_ENGLISH         "^2MÉGA\n^7Activé (5x activations)\nFait apparaître un bonus aléatoire."
+
+REFERENCE            KILL_JOY_DESC
+LANG_ENGLISH         "^3RARE MÉGA\n^7Activé (5x activations)\nFait apparaître un bonus de mise à mort instantanée."
+
+REFERENCE            KILLING_TIME_DESC
+LANG_ENGLISH         "^6ULTRA-RARE MÉGA\n^7Activé (5x activations)\nTous les zombies se figent pendant 20 secondes. S’ils sont touchés, ils seront annihilés à la fin du temps imparti."
+
+REFERENCE            LICENSED_CONTRACTOR_DESC
+LANG_ENGLISH         "^2MÉGA\n^7Activé (5x activations)\nFait apparaître un bonus de Charpentier."
+
+REFERENCE            PHOENIX_UP_DESC
+LANG_ENGLISH         "^2MÉGA\n^7Activé (5x activations)\nRéanime tous les coéquipiers. Les coéquipiers conservent tous leurs atouts."
+
+REFERENCE            RESPIN_CYCLE_DESC
+LANG_ENGLISH         "^2MÉGA\n^7Activé (5x activations)\nRelance les armes dans une boîte magique après son activation."
+
+REFERENCE            WHOS_KEEPING_SCORE_DESC
+LANG_ENGLISH         "^2MÉGA\n^7Activé (3x activations)\nFait apparaître un bonus de double points."
+
+REFERENCE            FATAL_CONTRAPTION_DESC
+LANG_ENGLISH         "^2MÉGA\n^7Activé (5x activations)\nFait apparaître un bonus de Machine de mort."
+
+REFERENCE            HEAD_DRAMA_DESC
+LANG_ENGLISH         "^6ULTRA-RARE MÉGA\n^7S’active immédiatement (Actif pendant 3 manches complètes)\nToute balle touchant un zombie inflige des dégâts à sa tête."
+
+REFERENCE            TEMPORAL_GIFT_DESC
+LANG_ENGLISH         "^3RARE MÉGA\n^7S’active immédiatement (Actif pendant 5 manches complètes)\nLes bonus durent plus longtemps."
+
+REFERENCE            DANGER_CLOSEST_DESC
+LANG_ENGLISH         "S’active immédiatement (Dure 20 manches complètes)\nAucun dégât explosif."
+
+ENDMARKER

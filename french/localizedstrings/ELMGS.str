@@ -1,0 +1,92 @@
+// Note to translators:
+// Just edit the text inside the quotes, don't edit other code
+
+VERSION             "1"
+CONFIG              "C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           ZOMBIERIOT
+LANG_ENGLISH     "^1Défi de fin de partie !"
+
+REFERENCE           PAP1
+LANG_ENGLISH     "^7Commun"
+
+REFERENCE           PAP2
+LANG_ENGLISH     "^4Rare"
+
+REFERENCE           PAP3
+LANG_ENGLISH     "^6Légendaire"
+
+REFERENCE           PAP4
+LANG_ENGLISH     "^3Épique"
+
+REFERENCE           PAP_TITLE
+LANG_ENGLISH     "Niveau Pack-a-Punch : "
+
+REFERENCE           EXITLEVEL
+LANG_ENGLISH     "Quitter instantanément"
+
+REFERENCE           EXITLEVEL_DESC
+LANG_ENGLISH     "Tous les joueurs du lobby quittent instantanément la carte"
+
+REFERENCE           DISCORD
+LANG_ENGLISH     "^2REJOINDRE DISCORD"
+
+REFERENCE           INFO
+LANG_ENGLISH     "INFO MOD"
+
+REFERENCE           START
+LANG_ENGLISH     "C'est parti"
+
+REFERENCE           TOMB_LINE2
+LANG_ENGLISH     "Nord de la France, 1918"
+
+REFERENCE           DIE_LINE1
+LANG_ENGLISH     "GRAND SAUT EN AVANT"
+
+REFERENCE           DIE_LINE2
+LANG_ENGLISH     "PROVINCE 22"
+
+REFERENCE           COAST_LINE1
+LANG_ENGLISH     "Distribution"
+
+REFERENCE           COAST_LINE2
+LANG_ENGLISH     "KRASNOYARSK KRAI"
+
+REFERENCE           COAST_LINE3
+LANG_ENGLISH     "CALL OF THE DEAD"
+
+REFERENCE           TEMPLE_LINE1
+LANG_ENGLISH     "Le voyage dans le temps le dira"
+
+REFERENCE           COS_LINE1
+LANG_ENGLISH     "Mécanisme Casimir"
+
+REFERENCE           MOON_LINE1
+LANG_ENGLISH     "Le grand plan de Richtofen"
+
+REFERENCE           TRANZIT_LINE2
+LANG_ENGLISH     "HÉMISPHÈRE NORD"
+
+REFERENCE           MOB_LINE1
+LANG_ENGLISH     "ÎLE D'ALCATRAZ"
+
+REFERENCE           MOB_LINE2
+LANG_ENGLISH     "Baie de San Francisco, USA"
+
+REFERENCE           LEV_LINE1
+LANG_ENGLISH     "Léviathan"
+
+REFERENCE           LEV_LINE2
+LANG_ENGLISH     "Centre de recherche sous-marin"
+
+REFERENCE           RAIN_LINE1
+LANG_ENGLISH     "MORT SOUS LA PLUIE"
+
+REFERENCE           RAIN_LINE2
+LANG_ENGLISH     "VILLE ABANDONNÉE"
+
+REFERENCE           GENESIS_LINE1
+LANG_ENGLISH     "Un avenir meilleur"
+
+ENDMARKER

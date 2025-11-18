@@ -1,0 +1,113 @@
+// Note to translators:
+// Just edit the text inside the quotes, don't edit other code
+
+VERSION             "1"
+CONFIG              "C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           ROCKETSHIELD_UPGRADED_TITLE
+LANG_ENGLISH     "Amélioration du Bouclier Fusée"
+
+REFERENCE           ROCKETSHIELD_UPGRADED_CONTENT
+LANG_ENGLISH     "1. Tuez 10 zombies avec 12 rafales consécutives du Bouclier Fusée\n(Si les kills sont moins de 10, vous devez recommencer)\n2. Lorsque vous entendrez un son d’acclamation, vous recevrez un bouclier fusée amélioré"
+
+REFERENCE           IDGUN_UPGRADED_TITLE
+LANG_ENGLISH     "Amélioration de l’Apothican Servant"
+
+REFERENCE           IDGUN_UPGRADED_CONTENT
+LANG_ENGLISH     "1. Cherchez les cocons suspendus sur la carte. Lorsque le joueur possède l’Apothican Servant, plus il est proche du cocon, plus le son du battement de cœur émis par l’Apothican Servant est fréquent\n2. Après avoir trouvé le cocon, utilisez l’Apothican Servant pour tuer 100 zombies près du cocon\n3. Tirez sur le cocon, il absorbera l’Apothican Servant, attendez le tour suivant\n4. Détruisez le cocon et l’Apothican Servant amélioré tombera, que n’importe quel joueur peut ramasser"
+
+REFERENCE           GASMASK_UPGRADED_TITLE
+LANG_ENGLISH     "Amélioration du Masque à Gaz"
+
+REFERENCE           GASMASK_UPGRADED_CONTENT
+LANG_ENGLISH     "Tirez sur le masque sur la table d’artisanat avec Masamune\nCela améliorera le Masque à Gaz pour une immunité infinie aux spores toxiques"
+
+REFERENCE           FREEGUM_TITLE
+LANG_ENGLISH     "Gratuit Anywhere But Here!"
+
+REFERENCE           FREEGUM_CONTENT
+LANG_ENGLISH     "Vous pouvez obtenir un gobblegum “Anywhere But Here” ici."
+
+REFERENCE           AA_AMMO_CHANCE_TITLE
+LANG_ENGLISH     "Augmenter la probabilité de munitions pour la AAA"
+
+REFERENCE           AA_AMMO_CHANCE_CONTENT
+LANG_ENGLISH     "Lucky Crit Gobblegum augmentera la probabilité d’apparition de munitions pour la AAA à 100%"
+
+REFERENCE           GIANT_PERK_EE_TITLE
+LANG_ENGLISH     "EE de la 5ème machine de perks"
+
+REFERENCE           GIANT_PERK_EE_CONTENT
+LANG_ENGLISH     "Lancez une bombe singe dans chaque téléporteur et activez-les pour alimenter cet interrupteur"
+
+REFERENCE           GENESIS_SHIELD_TITLE
+LANG_ENGLISH     "Amélioration du Bouclier Dragon"
+
+REFERENCE           GENESIS_SHIELD_CONTENT
+LANG_ENGLISH     "1. Utilisez l’Apothican Servant pour tirer sur la table de craft, le vortex absorbera l’Apothican Servant, REMARQUE : vous ne pouvez pas récupérer l’arme.\n2. Une fois le vortex terminé, l’amélioration du bouclier sera complète"
+
+REFERENCE           TEMPLE_KEY_COMBO_EE_TITLE
+LANG_ENGLISH     "Easter Egg Bombe Singe Explosive"
+
+REFERENCE           TEMPLE_KEY_COMBO_EE_CONTENT
+LANG_ENGLISH     "Placez-vous ici et appuyez sur les boutons suivants pour faire exploser la bombe singe :\n^3[{+actionslot 1}] [{+actionslot 1}] [{+actionslot 2}] [{+gostand}]"
+
+REFERENCE           MOON_SUPER_PES_TITLE
+LANG_ENGLISH     "Combinaison Externe Super Pressurisée"
+
+REFERENCE           MOON_SUPER_PES_CONTENT
+LANG_ENGLISH     "Le P.E.S. est maintenant piratable.\nLe piratage et la récupération lui permettront d’être porté avec le hacker"
+
+REFERENCE           MOON_DIGGER_HACKING_TITLE
+LANG_ENGLISH     "Les commandes de l’excavateur sont maintenant piratables"
+
+REFERENCE           MOON_DIGGER_HACKING_CONTENT
+LANG_ENGLISH     "Le coût de piratage pour les panneaux Omicron et Epsilon est de 1000\nLe piratage du panneau Pi coûte 5000 si la machine à gobblegum est désactivée ou aléatoire\nSinon, le piratage du panneau Pi sera désactivé jusqu’au tour 10 et coûtera 50000\nSi Tunnel 6 est détruit avant le piratage, le coût du panneau Pi devient 1000"
+
+REFERENCE           MOON_EE_ITEM_TITLE
+LANG_ENGLISH     "Obtenir des objets EE depuis le Jump Pad"
+
+REFERENCE           MOON_EE_ITEM_CONTENT
+LANG_ENGLISH     "Après le tour 10\nLe Jump Pad aura une chance de faire apparaître des armes et équipements rares\nVous avez 10 minutes pour les récupérer après leur première apparition"
+
+REFERENCE           FIRETYPE
+LANG_ENGLISH     "Mode Tir"
+
+REFERENCE           MELEETIME
+LANG_ENGLISH     "Temps de Corps-à-Corps"
+
+REFERENCE           DAMAGE
+LANG_ENGLISH     "Dégâts"
+
+REFERENCE           STK
+LANG_ENGLISH     "Tirs pour tuer au tour 30"
+
+REFERENCE           SHOTCOUNT
+LANG_ENGLISH     "Nombre de tirs du fusil"
+
+REFERENCE           BOLTTIME
+LANG_ENGLISH     "Temps de verrouillage"
+
+REFERENCE           RELOADTIME
+LANG_ENGLISH     "Temps de rechargement"
+
+REFERENCE           MAGSIZE
+LANG_ENGLISH     "Taille du chargeur"
+
+REFERENCE           STOCKAMMO
+LANG_ENGLISH     "Munitions en stock"
+
+REFERENCE           WONDERWEAPON
+LANG_ENGLISH        "ARME MERVEILLEUSE"
+
+REFERENCE           GASWEAPON
+LANG_ENGLISH        "ARME À GAZ"
+
+REFERENCE           FREE_LANDER_TITLE
+LANG_ENGLISH        "Free Lander"
+
+REFERENCE           FREE_LANDER
+LANG_ENGLISH        "Ignorez le fait qu’il indique 250 — c’est en réalité gratuit."
+
+ENDMARKER

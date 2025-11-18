@@ -1,0 +1,332 @@
+// Note to translators:
+// Just edit the text inside the quotes, don't edit other code
+
+VERSION             "1"
+CONFIG              "C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           DISCORD_INVITE
+LANG_ENGLISH     "Criar convite de jogo"
+
+REFERENCE           DISCORD_INVITE_DESC
+LANG_ENGLISH     "Escolha uma das opções abaixo, e o processo começará imediatamente após a escolha"
+
+REFERENCE           DISCORD_INVITE_OPTION1
+LANG_ENGLISH     "Gerar link de convite e enviar para o servidor Discord AAE"
+
+REFERENCE           DISCORD_INVITE_OPTION2
+LANG_ENGLISH     "Gerar link de convite e mostrar no navegador para copiar"
+
+REFERENCE           SEND_INVITE_TOAST_HEAD1
+LANG_ENGLISH     "Tente novamente mais tarde"
+
+REFERENCE           SEND_INVITE_TOAST_HEAD2
+LANG_ENGLISH     "Outros jogadores verão seu convite mais tarde!"
+
+REFERENCE           SEND_INVITE_TOAST_HEAD3
+LANG_ENGLISH     "A função de convite está sendo inicializada"
+
+REFERENCE           SEND_INVITE_TOAST_HEAD4
+LANG_ENGLISH     "Você está enviando muitas solicitações"
+
+REFERENCE           SEND_INVITE_TOAST_FOOT1
+LANG_ENGLISH     "Não é possível convidar"
+
+REFERENCE           SEND_INVITE_TOAST_FOOT2
+LANG_ENGLISH     "Tente novamente mais tarde"
+
+REFERENCE           CREATE_INVITE_TOAST_HEAD1
+LANG_ENGLISH     "Link de convite enviado para o navegador"
+
+REFERENCE           CREATE_INVITE_TOAST_FOOT1
+LANG_ENGLISH     "Link gerado"
+
+REFERENCE           CREATE_INVITE_TOAST_HEAD2
+LANG_ENGLISH     "Não é possível gerar link"
+
+REFERENCE           CAREERS
+LANG_ENGLISH     "^3CARREIRAS AAE"
+
+REFERENCE           BANK_BALANCE
+LANG_ENGLISH     "Saldo bancário"
+
+REFERENCE           PARASITE
+LANG_ENGLISH     "Parasita"
+
+REFERENCE           HIGHEST
+LANG_ENGLISH     "Recorde "
+
+REFERENCE           EE_COUNT
+LANG_ENGLISH     "Número de Easter Eggs"
+
+REFERENCE           BOARD_COUNT
+LANG_ENGLISH     "Número de pranchas"
+
+REFERENCE           PICKUP
+LANG_ENGLISH     " Coletado"
+
+REFERENCE           BUILDABLES_COUNT
+LANG_ENGLISH     "Número de construções"
+
+REFERENCE           PLANTED
+LANG_ENGLISH     " Plantado"
+
+REFERENCE           POWER_ON_COUNT
+LANG_ENGLISH     "Número de ativações de energia"
+
+REFERENCE           USES
+LANG_ENGLISH     " Usos"
+
+REFERENCE           MEATBALLS
+LANG_ENGLISH     "Almôndegas"
+
+REFERENCE           WUNDERFIZZ
+LANG_ENGLISH     "Wunderfizz"
+
+REFERENCE           GRABBED
+LANG_ENGLISH     " Pegou"
+
+REFERENCE           WALLBUY_PURCHASED
+LANG_ENGLISH     "Compra na parede"
+
+REFERENCE           NOT_GRAABED
+LANG_ENGLISH     " Não pegou"
+
+REFERENCE           DIED_REVIVE
+LANG_ENGLISH     "Morreu enquanto revivia um jogador"
+
+REFERENCE           WALLBUY_PAP_AMMO
+LANG_ENGLISH     "Compra de munição PaP na parede"
+
+REFERENCE           AAT
+LANG_ENGLISH     "Número de ativações do AAT"
+
+REFERENCE           DOWN_REVIVE
+LANG_ENGLISH     "Derrubado ao reviver um jogador"
+
+REFERENCE           WALLBUY_AMMO
+LANG_ENGLISH     "Compra de munição na parede"
+
+REFERENCE           BGB
+LANG_ENGLISH     " Mastigado"
+
+REFERENCE           SAVE
+LANG_ENGLISH     "Seus dados de carreira estão sendo salvos"
+
+REFERENCE           GAMBLER_DESC
+LANG_ENGLISH     "Após a compra, inicia uma contagem regressiva de 10 segundos e então acontecem coisas aleatórias, algumas boas, algumas ruins, algumas interessantes, muitas possibilidades."
+
+REFERENCE           DISCORD_INVITE_OPTION0
+LANG_ENGLISH     "Atualize e adicione o botão Juntar-se ao Jogo no seu perfil do Discord"
+
+REFERENCE           RPC_TOAST_FOOT1
+LANG_ENGLISH     "Não foi possível atualizar o botão"
+
+REFERENCE           RPC_TOAST_HEAD2
+LANG_ENGLISH     "Botão Juntar-se está sendo atualizado"
+
+REFERENCE           RAINBOW_EYE_DESC
+LANG_ENGLISH     "Olhos dos zumbis se tornam arco-íris"
+
+REFERENCE           CHAT_HELP
+LANG_ENGLISH     "Digite ^3/?^7 no chat para ver todos os comandos de chat disponíveis."
+
+REFERENCE           OUT_OF_BOUNDS
+LANG_ENGLISH     "^1FORA DOS LIMITES"
+
+REFERENCE           PAP_BUSY
+LANG_ENGLISH     "Pack-a-Punch está ocupado"
+
+REFERENCE           PAP_OCTOBOMB
+LANG_ENGLISH     "Pressione ^3[{+melee}]^7 para alternar Pack-a-Punch para modo Só Li'l Arnie"
+
+REFERENCE           PAP_MONKEY
+LANG_ENGLISH     "Pressione ^3[{+melee}]^7 para alternar Pack-a-Punch para modo Só Macaco Tambor"
+
+REFERENCE           PAP_ONLY_ACCEPTS
+LANG_ENGLISH     "Pack-a-Punch agora aceita apenas "
+
+REFERENCE           PAP_NOT_ACCEPTS
+LANG_ENGLISH     "Pack-a-Punch não aceita "
+
+REFERENCE           AFK
+LANG_ENGLISH     "AFK"
+
+REFERENCE           AFK_DESC
+LANG_ENGLISH     "Você está atualmente ignorado pelos zumbis, e outros jogadores podem te empurrar."
+
+REFERENCE           PAP_OR_NORMAL
+LANG_ENGLISH     "PaP ou Normal"
+
+REFERENCE           PAP_AND_NORMAL
+LANG_ENGLISH     "PaP e Normal"
+
+REFERENCE           THROW_CANCLE
+LANG_ENGLISH     " / Cancelar Arremesso"
+
+REFERENCE           IMMUNE
+LANG_ENGLISH     "Imune"
+
+REFERENCE           RAMPAGE
+LANG_ENGLISH     "Indutor de Fúria"
+
+REFERENCE           VOID
+LANG_ENGLISH     "Portão dos Demônios"
+
+REFERENCE           FIRE
+LANG_ENGLISH     "Prisão Rúnica"
+
+REFERENCE           LIGHTING
+LANG_ENGLISH     "Tempestade"
+
+REFERENCE           WOLF
+LANG_ENGLISH     "Uivo do Lobo"
+
+REFERENCE           DEACTIVATE
+LANG_ENGLISH     "Desativar"
+
+REFERENCE           GAMBLER
+LANG_ENGLISH     "Apostador"
+
+REFERENCE           MATCHMAKING_SETTINGS
+LANG_ENGLISH     "PREFERÊNCIAS DE MATCHMAKING"
+
+REFERENCE           MATCHMAKING_CREATE
+LANG_ENGLISH     "Apenas criar lobby"
+
+REFERENCE           MATCHMAKING_JOIN
+LANG_ENGLISH     "Entrar / Criar lobby"
+
+REFERENCE           INVITEDISCORD
+LANG_ENGLISH     "Convidar via Discord"
+
+REFERENCE           RESTARTHINT
+LANG_ENGLISH     "Pressione &&1 ^1&&2^7 vezes para reiniciar o mapa"
+
+REFERENCE           RESTARTING
+LANG_ENGLISH     "Reiniciando......"
+
+REFERENCE           NORAMPAGE
+LANG_ENGLISH     "Desativar Indutor de Fúria"
+
+REFERENCE           RANDOM_MAP
+LANG_ENGLISH     "MUDANÇA DE MAPA ALEATÓRIA"
+
+REFERENCE           COPYLOBBYID
+LANG_ENGLISH     "Copiar ID do Lobby para a Área de Transferência"
+
+REFERENCE           JOINLOBBYID
+LANG_ENGLISH     "Entrar pelo Clipboard"
+
+REFERENCE           LINKCOPY
+LANG_ENGLISH     "Link de convite copiado"
+
+REFERENCE           LOBBYIDCOPY
+LANG_ENGLISH     "ID do Lobby copiado"
+
+REFERENCE           DISCORDRUN
+LANG_ENGLISH     "O aplicativo Discord deve estar rodando em segundo plano"
+
+REFERENCE           DOWNLOAD_MAP_FROM_CLIPBOARD
+LANG_ENGLISH     "Baixar mapa da Área de Transferência"
+
+REFERENCE           DOWNLOAD_MAP_FROM_CLIPBOARD_TITLE
+LANG_ENGLISH     "Verifique sua Lista de Downloads do Steam"
+
+REFERENCE           DOWNLOAD_MAP_FROM_CLIPBOARD_DESC
+LANG_ENGLISH     "Solicitando novos mapas......"
+
+REFERENCE           DOWNLOAD_MAP_FROM_CLIPBOARD_ERROR_TITLE
+LANG_ENGLISH     "Cole um ID de mapa válido"
+
+REFERENCE           DOWNLOAD_MAP_FROM_CLIPBOARD_ERROR_DESC
+LANG_ENGLISH     "ID de mapa inválido"
+
+REFERENCE           DOWNLOAD_MAP_FROM_CLIPBOARD_INSTALLED_TITLE
+LANG_ENGLISH     "Este mapa já está instalado"
+
+REFERENCE           VIDEOPLAYER
+LANG_ENGLISH     "CINEMÁTICAS DO MAPA"
+
+REFERENCE           OUTRO_CAPS
+LANG_ENGLISH     "OUTRO"
+
+REFERENCE           OUTRO
+LANG_ENGLISH     "Outro"
+
+REFERENCE           ISLAND_LOAD_AA_GUN
+LANG_ENGLISH     "Segure ^3[{+activate}]^7 para carregar o canhão antiaéreo"
+
+REFERENCE           ISLAND_FIRE_AA_GUN
+LANG_ENGLISH     "Segure ^3[{+activate}]^7 para disparar o canhão antiaéreo"
+
+REFERENCE           NEED_UPDATE
+LANG_ENGLISH     "Nova atualização do AAE encontrada!\nVocê precisa se reinscrever no AAE para receber atualizações e jogar online com outros jogadores"
+
+REFERENCE           QUIT
+LANG_ENGLISH        "Sair para a área de trabalho"
+
+REFERENCE           BOOKMARKER
+LANG_ENGLISH        "Marcador"
+
+REFERENCE           ADDBOOKMARKER
+LANG_ENGLISH        "Adicionado aos favoritos"
+
+REFERENCE           REMOVEBOOKMARKER
+LANG_ENGLISH        "Marcador removido"
+
+REFERENCE           BOOKMARKER_ONLYUSERMAPS
+LANG_ENGLISH        "Apenas mapas personalizados"
+
+REFERENCE           BOOKMARKER_ERROR
+LANG_ENGLISH        "Não foi possível executar a ação"
+
+REFERENCE           OPENINSTEAM
+LANG_ENGLISH        "Abrir no ^BBUTTON_CYCLE_RIGHT^"
+
+REFERENCE           OPENINSTEAMCURRENTMAP
+LANG_ENGLISH        "Abrir o mapa atual no ^BBUTTON_CYCLE_RIGHT^"
+
+REFERENCE           ISLAND_RAINBOW_WATER
+LANG_ENGLISH        "SEGURE ^3[{+activate}]^7 para pegar a Água 115 Arco-Íris"
+
+REFERENCE           ISLAND_RAINBOW_WATER_TITLE
+LANG_ENGLISH        "Água 115 Arco-Íris"
+
+REFERENCE           UPDATE_ASPECT_RATIO
+LANG_ENGLISH        "Atualizar a proporção de aspecto"
+
+REFERENCE           LITE_ONLY
+LANG_ENGLISH     "^4Compatível apenas com a versão AAE Lite"
+
+REFERENCE           LOBBY_SIZE
+LANG_ENGLISH        "Clique para mudar o tamanho do lobby"
+
+REFERENCE           DOWNLOAD_MAP_FROM_CLIPBOARD_INSTALLING_TITLE
+LANG_ENGLISH        "Este mapa está a instalar"
+
+REFERENCE           DOWNLOAD_MAP_FROM_CLIPBOARD_INSTALLING_CONTENT
+LANG_ENGLISH        "Por favor aguarde"
+
+REFERENCE           DOWNLOAD_MAP_FROM_CLIPBOARD_INSTALLED_CONTENT
+LANG_ENGLISH        "Tente outro mapa"
+
+REFERENCE           DOWNLOAD_MAP_FROM_CLIPBOARD_EMPTY_TITLE
+LANG_ENGLISH        "Por favor copie o ID correto do mapa para a área de transferência"
+
+REFERENCE           DOWNLOAD_MAP_FROM_CLIPBOARD_EMPTY_CONTENT
+LANG_ENGLISH        "A área de transferência está vazia"
+
+REFERENCE           DOWNLOAD_MAP_FROM_CLIPBOARD_ERROR_DESC2
+LANG_ENGLISH        "ID do mapa não encontrado"
+
+REFERENCE           SWITCH_SINGLE_WIELD
+LANG_ENGLISH     "Pressione ^3[{+actionslot 3}]^7 para alternar para arma única"
+
+REFERENCE           RAMPAGE_TOAST
+LANG_ENGLISH     "Indutor de fúria desativado por"
+
+REFERENCE           RELOADING
+LANG_ENGLISH     "Recarregando"
+
+ENDMARKER

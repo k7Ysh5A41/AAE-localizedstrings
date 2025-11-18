@@ -1,0 +1,116 @@
+// Note to translators:
+// Just edit the text inside the quotes, don't edit other code
+
+VERSION             "1"
+CONFIG              "C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           STATUS
+LANG_ENGLISH     "Monitoreo de estado"
+
+REFERENCE           STATUS_DESC
+LANG_ENGLISH     "Muestra la información del estado actual en el lado izquierdo de la pantalla (pueden ocurrir fallas)."
+
+REFERENCE           SWITCH_DESC
+LANG_ENGLISH     "^3Debe estar habilitado para que las siguientes opciones surtan efecto"
+
+REFERENCE           VCLUT
+LANG_ENGLISH     "Contraste"
+
+REFERENCE           VCLUT_DESC
+LANG_ENGLISH     "Aumenta o disminuye la cantidad de color en el juego. 0 es el valor predeterminado. Si la pantalla se oscurece demasiado, cambiar el modo de color a sRGB y/o aumentar el brillo puede solucionarlo. Esto permitirá a las personas que sienten que el juego es demasiado colorido haciendo que se parezca más a World At War, con una paleta de colores más apagada."
+
+REFERENCE           EXTPLAYER
+LANG_ENGLISH     "Soporte para más jugadores"
+
+REFERENCE           EXTPLAYER_DESC
+LANG_ENGLISH     "Se aumentó el número máximo de jugadores a 10\n(^1muy inestable^7), y las máquinas de GobbleGum se desactivarán debido a ^3limitaciones del motor del juego^7.\n\nDetalles del soporte de los mapas:\n\nMapas de Zombies Chronicles\n(^2Estable, compatible con todos los EE^7)\n\nMapas Principales\n(^3Menos estable, compatible con el EE principal^7)\n\nOtros mapas de 3arc (^1No son jugables^7)\n\nMapas personalizados (Desconocido)"
+
+REFERENCE           FFFIVE
+LANG_ENGLISH     "Fuego amigo sin matar"
+
+REFERENCE           ROUNDLIMIT
+LANG_ENGLISH     "Finalizar partida en esta ronda"
+
+REFERENCE           ROUNDTIME
+LANG_ENGLISH     "El reto de la ronda final"
+
+REFERENCE           ROUNDTIME_DESC
+LANG_ENGLISH     "Estás en el reto de la ronda final. Después de terminar la ronda especificada en la opción 'Finalizar partida en esta ronda', pon a prueba tus habilidades y equipo sobreviviendo a una ola interminable de zombis que aparecen instantáneamente durante el límite de tiempo que tu especificaste para terminar la partida. Enfréntate al horror adicional de los nuevos zombis corredores y super corredores de Tranzit si inicias el desafio antes de la ronda 40. La penalización por fallar el reto de la ronda final es saber que los zombis son mejores que tú jajaja."
+
+REFERENCE           TRADE_DESC
+LANG_ENGLISH     "Intercambia armas con otro jugador. Acércate al jugador con el que quieres intercambiar y mira su arma. Luego, ambos jugadores deben mantener presionado el mensaje en pantalla hasta que la barra esté llena para cada jugador, luego se intercambiarán las armas."
+
+REFERENCE           GAMBLER_DESC
+LANG_ENGLISH     "Genera una tragaperra en la ubicación de generación del jugador con la que se puede interactuar por 1000 puntos para que ocurra un efecto aleatorio. Algunos son buenos, algunos son malos, algunos están en el medio, ¡es una apuesta! sólo se puede comprar una vez por ronda."
+
+REFERENCE           SOLOREVIVE
+LANG_ENGLISH     "Reanimación en solitario ilimitada"
+
+REFERENCE           PERKPLUS
+LANG_ENGLISH     "Deshabilitar las mejoras de las ventajas"
+
+REFERENCE           PERKPLUS_DESC
+LANG_ENGLISH     "Deshabilitará las siguientes mejoras de estas ventajas:\n\n^5Reanimación^7: Recupera la salud un 40% más rápido. ^2Cola rápida^7: Acelera la compra de ventajas y GobbleGums, cambiarás de arma más rápido y tendrás más velocidad CaC y si el jugador corre después de llenar el cargador, la animación se cancela.\n^3Resistencia+^7: Levantarás tu arma más rápido después de correr, dispara y lanza granadas mientras corres y podras correr sin límite.\n^9Doble tiro^7: El arma especial cargara más rápido al matar zombis.\n^1Vino de la viuda^7: Inmunidad a explosiones (funcional si solo hay 1 ventaja de protección en el mapa)\n^6Daiquiri letal^7: Con 5 disparos consecutivos a la cabeza tendrás un multiplicador 1.5x que maximizará tu precisión al disparar desde la cadera, y podrás ver a los zombis a través de las paredes."
+
+REFERENCE           NOSLIDE
+LANG_ENGLISH     "Deshabilitar el deslizamiento del personaje"
+
+REFERENCE           RJ
+LANG_ENGLISH     "Salto cohete"
+
+REFERENCE           RJ_DESC
+LANG_ENGLISH     "Tus explosivos te moverán a una distancia determinada, eso combínalo con la nueva resistencia explosiva del vino de la viuda para lograr un salto cohete."
+
+REFERENCE           SHOCK
+LANG_ENGLISH     "Modo pena individual en equipo"
+
+REFERENCE           SHOCK_DESC
+LANG_ENGLISH     "Todos estarán por su cuenta. Aunque formen parte del mismo equipo, cada jugador puede causar molestias a sus compañeros con fuego amigo, lo que desencadenará acciones que ralentizarán y aturdirán."
+
+REFERENCE           BLOOD
+LANG_ENGLISH     "Deshabilitar la salpicaduras de sangre"
+
+REFERENCE           FLAMER
+LANG_ENGLISH     "Deshabilitar el purificador"
+
+REFERENCE           ROAMER_DESC
+LANG_ENGLISH     "Le permite especificar un período de descanso entre cada ronda para que pueda hacer lo que necesite antes de que comience la siguiente ronda. La duración entre cada ronda se puede personalizar, y la siguiente ronda se puede iniciar manualmente con ^3Apuntar^7 + ^3Acuchillar^7 o si escogiste por tiempo deje que pase el tiempo y pasara a la siguiente ronda o igual puedes ^3Apuntar^7 + ^3Acuchillar^7."
+
+REFERENCE           DPAP
+LANG_ENGLISH     "Pack-a-Punch con rarezas"
+
+REFERENCE           LOADOUTSAVE2
+LANG_ENGLISH     "Perder armas después de desangrarse"
+
+REFERENCE           LOADOUTSAVE2_DESC
+LANG_ENGLISH     "Pierdes tus armas después del desangrado para que reaparezcas solo con la pistola inicial como es de costumbre. Puede usar esto con la opción de 'Restaurador de armas y armas de Coz' para que Coz aún guarde su arma si pierde la ventaja o se desangra."
+
+REFERENCE           RIPPER
+LANG_ENGLISH     "Deshabilitar el reemplazado del Cuchillo Bowie"
+
+REFERENCE           RIPPER_DESC
+LANG_ENGLISH     "Cuando se sostiene el cuchillo Bowie y se tiene el Vino de la viuda, se actualizará a la hoja destripadora del modo multijugador, que hace más daño y tiene un ataque dirigido. Esta opción lo deshabilita."
+
+REFERENCE           DW
+LANG_ENGLISH     "Deshabilitar las armas maravillosas de doble mano"
+
+REFERENCE           DW_DESC
+LANG_ENGLISH     "La Raygun y la Tundergun se vuelven de doble mano cuando se PAP con este mod. Esta opción deshabilita eso."
+
+REFERENCE           ZMBAR
+LANG_ENGLISH     "la barra de salud de los enemigos"
+
+REFERENCE           JUKE
+LANG_ENGLISH     "Zombis aleatorios"
+
+REFERENCE           JUKE_DESC
+LANG_ENGLISH     "Los zombis se moverán aleatoriamente de izquierda a derecha en lugar de venir hacia ti en línea recta, similar a (^1Black Ops 1^7)."
+
+REFERENCE           AUTORUN
+LANG_ENGLISH     "Deshabilitar zombis super corredores"
+
+REFERENCE           AUTORUN_DESC
+LANG_ENGLISH     "Evitará que los zombis se conviertan en súper corredores a partir de la ronda 40."
+
+ENDMARKER

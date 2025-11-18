@@ -1,0 +1,215 @@
+// Note to translators:
+// Just edit the text inside the quotes, don't edit other code
+
+VERSION             "1"
+CONFIG              "C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           SHARE_DROP
+LANG_ENGLISH     "Upuściłeś trochę punktów ^5"
+
+REFERENCE           SHARE_OUT
+LANG_ENGLISH     "^1Niewystarczające środki"
+
+REFERENCE           ZMS_LEFT
+LANG_ENGLISH     "Pozostałe zombie"
+
+REFERENCE           ZM_LEFT
+LANG_ENGLISH     "Pozostałe zombie"
+
+REFERENCE           DOG_LEFT
+LANG_ENGLISH     "Pozostali wrogowie"
+
+REFERENCE           END_OF_ROUND
+LANG_ENGLISH     "Przerwa"
+
+REFERENCE           TRADE_GUN
+LANG_ENGLISH     "Przytrzymaj ^3[{+activate}] ^7aby wymienić broń z graczem."
+
+REFERENCE           TRADE_WAIT
+LANG_ENGLISH     "Czekaj na drugiego gracza."
+
+REFERENCE           TRADE_BLOCK
+LANG_ENGLISH     "Nie można wymienić tej broni."
+
+REFERENCE           TRADE_HAS
+LANG_ENGLISH     "Drugi gracz już posiada tę broń."
+
+REFERENCE           TRADE_YOU_HAS
+LANG_ENGLISH     "Nie możesz wymienić broni, którą drugi gracz już posiada."
+
+REFERENCE           ADDED
+LANG_ENGLISH     "Dodano ^5"
+
+REFERENCE           THE_ZM
+LANG_ENGLISH     " ^7Zombie!"
+
+REFERENCE           GIVE_GUM
+LANG_ENGLISH     "Gobblegum ^5"
+
+REFERENCE           GIVE_AAT
+LANG_ENGLISH     "AAT ^5"
+
+REFERENCE           ADD_CAMO
+LANG_ENGLISH     "Kamuflaż: ^5"
+
+REFERENCE           TO_PLAYER
+LANG_ENGLISH     "^7 Przekazano ^1"
+
+REFERENCE           ALL_PLAYER
+LANG_ENGLISH     "^7 Przekazano wszystkim"
+
+REFERENCE           ROUND
+LANG_ENGLISH     "Runda^5 "
+
+REFERENCE           IS_END
+LANG_ENGLISH     " ^7zakończona"
+
+REFERENCE           ZM_SPAWN
+LANG_ENGLISH     "Opóźnienie pojawiania się zombie zmieniono na ^5"
+
+REFERENCE           SEC
+LANG_ENGLISH     "^7 sek."
+
+REFERENCE           ZM_LIMIT
+LANG_ENGLISH     "Maksymalna liczba zombie zmieniona na: ^5"
+
+REFERENCE           ZM_PLAYER
+LANG_ENGLISH     "Całkowita liczba zombie dodawana przy wejściu gracza ustawiona na: ^5"
+
+REFERENCE           ZM_SPEED
+LANG_ENGLISH     "Prędkość poruszania się zombie zmieni się w następnej rundzie: ^5%"
+
+REFERENCE           ZM_PERK
+LANG_ENGLISH     "Limit perków: ^5"
+
+REFERENCE           ZM_POWER
+LANG_ENGLISH     "Stan zasilania: ^5"
+
+REFERENCE           CHEAT_ON
+LANG_ENGLISH     "Kody oszustwa są włączone"
+
+REFERENCE           CHEAT_OFF
+LANG_ENGLISH     "Kody oszustwa są wyłączone"
+
+REFERENCE           HITMARKER_ON
+LANG_ENGLISH     "Hitmarker Włączony"
+
+REFERENCE           HITMARKER_OFF
+LANG_ENGLISH     "Hitmarker Wyłączony"
+
+REFERENCE           CANT_BGB_HINT
+LANG_ENGLISH     "GobbleGum niedostępny"
+
+REFERENCE           BGB_ON
+LANG_ENGLISH     "Maszyna GobbleGum aktywowana"
+
+REFERENCE           BGB_OFF
+LANG_ENGLISH     "Maszyna GobbleGum dezaktywowana"
+
+REFERENCE           SONG_CHANGE
+LANG_ENGLISH     "Zmiana utworu......"
+
+REFERENCE           SONG_PLAY
+LANG_ENGLISH     "Teraz gra: ^5"
+
+REFERENCE           SONG_STOPING
+LANG_ENGLISH     "Muzyka wyłączana......"
+
+REFERENCE           SONG_STOPED
+LANG_ENGLISH     "Muzyka zatrzymana."
+
+REFERENCE           GG
+LANG_ENGLISH     "Broń: ^5"
+
+REFERENCE           WITHDRAW
+LANG_ENGLISH     "^3[{+activate}]^7 Wypłata ^BBUTTON_COD_POINT_ICON^1000 (^BBUTTON_COD_POINT_ICON^&&1 | ^3[{+melee}]^7 Sprawdź saldo)"
+
+REFERENCE           DEPOSIT
+LANG_ENGLISH     "^3[{+activate}]^7 Wpłata ^BBUTTON_COD_POINT_ICON^1000 (^BBUTTON_COD_POINT_ICON^&&1 | ^3[{+melee}]^7 Sprawdź saldo)"
+
+REFERENCE           WEAPONLOCKER_GETBACK
+LANG_ENGLISH     "Przytrzymaj ^3[{+activate}]^7 aby odzyskać broń [Broń w WeaponLocker: &&1^7]."
+
+REFERENCE           WEAPONLOCKER_STORE
+LANG_ENGLISH     "Przytrzymaj ^3[{+activate}]^7 aby schować broń."
+
+REFERENCE           WEAPONLOCKER_LOADING
+LANG_ENGLISH     "Przetwarzanie......"
+
+REFERENCE           BANK_SCORE
+LANG_ENGLISH     "^5Aktualne saldo: ^7"
+
+REFERENCE           BANK_OVERLOAD
+LANG_ENGLISH     "^1Bank jest pełny!"
+
+REFERENCE           AF_TITLE
+LANG_ENGLISH     "Zaawansowane funkcje w grze"
+
+REFERENCE           AF_DESC
+LANG_ENGLISH     "Jeśli zaawansowane funkcje są włączone, WeaponLocker i Bank będą niedostępne.\nAktywuje menu modów w stylu GSC, dostępne przy przytrzymaniu ^3[{+stance}] ^7+ ^3[{+reload}]\n^1<Jeśli nie rozumiesz jak używać tej funkcji, PROSZĘ jej nie włączaj!>"
+
+REFERENCE           AF
+LANG_ENGLISH     "ZAJAWKI FUNKCJI"
+
+REFERENCE           PAUSE_TITLE
+LANG_ENGLISH     "Wstrzymać grę?"
+
+REFERENCE           PAUSE_DESC
+LANG_ENGLISH     "Naciśnij ^3Nie ^7aby wznowić."
+
+REFERENCE           LOCKER_BAN
+LANG_ENGLISH     "^1Wykryto nielegalne wyniki, WeaponLocker & Bank są teraz niedostępne."
+
+REFERENCE           PAUSE
+LANG_ENGLISH     "WSTRZYMANIE CO-OP"
+
+REFERENCE           BOXSHARE_TAKE
+LANG_ENGLISH     "^3[{+activate}]^7 Weź broń"
+
+REFERENCE           SHIELD_HINT
+LANG_ENGLISH     "Przytrzymaj ^3[{+activate}]^7 aby użyć tarczy"
+
+REFERENCE           SHIELD_HINT_HOWTO
+LANG_ENGLISH     "Naciśnij ^3[{+actionslot 2}]^7 aby wyposażyć tarczę"
+
+REFERENCE           SPIKE_HINT
+LANG_ENGLISH     "Podwójne naciśnięcie ^3[{+activate}]^7/^3[{+melee}] ^7by odpalić kolce"
+
+REFERENCE           BOXSHARE_HINT
+LANG_ENGLISH     "Naciśnij ^3[{+melee}]^7 aby udostępnić broń współgraczowi"
+
+REFERENCE           START_HINT_GAMEPAD
+LANG_ENGLISH     "^3[{+breath_sprint}] ^7+ ^3[{+reload}] ^7Sprawdź broń\n^3[{+melee}]^7 + ^3[{+actionslot 3}] ^7Latarka\n^3[{+breath_sprint}]^7 + ^3[{+actionslot 3}] ^7Upuść punkty\n^3[{+gostand}]^7 + ^3[{+actionslot 3}] ^7Wzrok wzmocniony"
+
+REFERENCE           START_HINT
+LANG_ENGLISH     "^3[{+reload}] ^7Sprawdź broń\n^3[{+melee}]^7 + ^3[{+actionslot 3}] ^7Latarka\n^3[{+breath_sprint}]^7 + ^3[{+actionslot 3}] ^7Upuść punkty\n^3[{+gostand}]^7 + ^3[{+actionslot 3}] ^7DNI Wzrok wzmocniony"
+
+REFERENCE           REMOVEPERK_HINT
+LANG_ENGLISH     "Naciśnij ^3[{+activate}]^7 + ^3[{+melee}] ^7 aby usunąć ten perk z maszyny perków."
+
+REFERENCE           KATANA_HINT
+LANG_ENGLISH     "^3[{+attack}]^7 Bezwzględny Dash\n^3[{+reload}]^7 Niewidoczny & Nieskończona amunicja (raz na rundę)\n^3[{+melee}]^7 Odzyskaj zdrowie"
+
+REFERENCE           KATANA_HINT_GAMEPAD
+LANG_ENGLISH     "^3[{+attack}]^7 Bezwzględny Dash\n^3[{+breath_sprint}] ^7+ ^3[{+reload}]^7 Niewidoczny & Nieskończona amunicja (raz na rundę)\n^3[{+melee}]^7 Odzyskaj zdrowie"
+
+REFERENCE           MOD_DESC
+LANG_ENGLISH     "Witamy w All-Around Enhancement Mod! Ten mod dodaje wiele funkcji QoL oraz naprawia błędy w trybie Zombie Black Ops III, zapewniając najlepsze doświadczenie z zombie."
+
+REFERENCE           CHAT_BANK_SAVE1
+LANG_ENGLISH     " ^7Wpłacił^3 "
+
+REFERENCE           CHAT_BANK_SAVE2
+LANG_ENGLISH     " ^7Do banku"
+
+REFERENCE           CHAT_TRANSFER1
+LANG_ENGLISH     " ^7Przelał^3 "
+
+REFERENCE           CHAT_TRANSFER2
+LANG_ENGLISH     " ^7Do "
+
+REFERENCE           ROAMER_SPECTATING
+LANG_ENGLISH     "Naciśnij ^3[{+activate}] ^7, aby zakończyć tę rundę"
+
+ENDMARKER

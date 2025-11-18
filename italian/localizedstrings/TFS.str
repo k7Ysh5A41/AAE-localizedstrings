@@ -1,0 +1,29 @@
+// Note to translators:
+// Just edit the text inside the quotes, don't edit other code
+
+VERSION             "1"
+CONFIG              "C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           HOTJOIN
+LANG_ENGLISH     "Disabilita Hot Join"
+
+REFERENCE           HOTJOIN_DESC
+LANG_ENGLISH     "I giocatori non possono unirsi dopo l'inizio della partita."
+
+REFERENCE           GAMBLER
+LANG_ENGLISH     "Disabilita Gambler"
+
+REFERENCE           DOG
+LANG_ENGLISH     "Disabilita Round Speciali"
+
+REFERENCE           DOG_DESC
+LANG_ENGLISH     "Salta i round con nemici speciali.\n\nMappe supportate:\n\nShadows of Evil\nThe Giant\nDer Eisendrache\nZetsubou No Shima\nGorod Krovi\nRevelations\nShi No Numa\nKino der Toten\nAscension"
+
+REFERENCE           RAINBOW
+LANG_ENGLISH     "Occhi Arcobaleno degli Zombie"
+
+REFERENCE           DUST
+LANG_ENGLISH     "Disabilita la polvere allo spawn degli zombie"
+
+ENDMARKER

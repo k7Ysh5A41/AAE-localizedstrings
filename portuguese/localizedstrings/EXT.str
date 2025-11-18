@@ -1,0 +1,32 @@
+// Note to translators:
+// Just edit the text inside the quotes, don't edit other code
+
+VERSION             "1"
+CONFIG              "C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           ZOD
+LANG_ENGLISH     "^31.^7Quando se trata da etapa de atualização da espada, o jogador extra não pode pegar o ovo, mas se o personagem do jogador extra for o mesmo que o do jogador principal, o jogador extra pode matar e recarregar o ovo junto com o jogador principal próximo ao ovo\n^32.^7Quando a espada do Keeper for retirada, não continue permitindo que jogadores entrem no lobby, caso contrário a luta contra o chefe não funcionará\n^33.^7Serão gerados apenas 5 capacetes Margwa\n^34.^7Todos os EEs podem ser concluídos com sucesso quando o número total de jogadores for 8"
+
+REFERENCE           CASTLE
+LANG_ENGLISH     "^31.^7Jogadores adicionais precisarão plantar o Ragnarok DG-4 em uma área próxima ao MPD (um modelo Ragnarok DG-4 aparecerá no local onde precisa ser plantado)\n^32.^7A duplicação do arco foi desativada\n^33.^7Todos os EEs podem ser concluídos com sucesso quando o número total de jogadores for 8"
+
+REFERENCE           ISLAND
+LANG_ENGLISH     "Funciona de forma estável apenas com 4 jogadores"
+
+REFERENCE           GENESIS
+LANG_ENGLISH     "Funciona de forma estável apenas com 4 jogadores"
+
+REFERENCE           TOMB
+LANG_ENGLISH     "Funciona de forma estável apenas com 8 jogadores"
+
+REFERENCE           STALINGRAD
+LANG_ENGLISH     "^31.^7Apenas o host pode receber a recompensa do desafio e a interface de todos os desafios foi desativada\n^32.^7Apenas 3 jogadores podem montar o dragão, se 4 jogadores montarem, os outros encontrarão falhas\n^33.^7Após a conclusão do EE, jogadores adicionais não serão teleportados para o ponto de spawn\n^34.^7Todos os EEs podem ser concluídos com sucesso quando o número total de jogadores for 8"
+
+REFERENCE           DESC
+LANG_ENGLISH     "^3Detalhes do problema 'Conexão Interrompida' que ocorre durante o jogo^7:\nQuando alguns mapas excedem o limite de jogadores especificado, algumas funções deste mod deixarão de carregar para garantir a máxima estabilidade do jogo. Para melhorar ainda mais a estabilidade, por favor não use armas milagrosas nem armas explosivas. Além disso, algumas causas desconhecidas podem fazer com que o problema 'Conexão Interrompida' ainda apareça. Não há solução perfeita para essa situação, pois o motor do jogo tem capacidade limitada para processar tantos dados de jogadores."
+
+REFERENCE           HELP
+LANG_ENGLISH         "^2Comandos de chat suportados^7:\n\n^5Transferir todos os pontos para o jogador especificado\n^7/transfer/{número do jogador}\n^5Depositar todos os pontos no banco\n^7/dep\n^5Ver saldo\n^7/bal\n^5Ser derrubado imediatamente\n^7/s\n^5Duração do chat\n^7/ct/{segundo}\n^5Emotes do jogador\n^7/a/{1-14}\n^5Apostador\n^7/g\n^5Recarregar a arma atual\n^7/r\n^5Contador de EE (demora um pouco para carregar os dados, então pode ser lento)\n^7/ee\n^5Teletransportar para outros jogadores (requer AF ativado ou limite de jogadores acima de 4)\n^7/tp/{número do jogador}\n^5Atualizar manualmente o banco para a carreira\n^7/save"
+
+ENDMARKER

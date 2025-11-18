@@ -1,0 +1,560 @@
+// Note to translators:
+// Just edit the text inside the quotes, don't edit other code
+
+VERSION             "1"
+CONFIG              "C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE            AUTO_REVIVE
+LANG_ENGLISH        "オートリバイブ"
+
+REFERENCE            PACK_A_PUNCH
+LANG_ENGLISH        "パック・ア・パンチ"
+
+REFERENCE            GOT_A_PERK
+LANG_ENGLISH        "パーク取得"
+
+REFERENCE            MULE_KICK_WEAPON_RESTORED
+LANG_ENGLISH        "ミュールキック武器復元"
+
+REFERENCE            DOUBLETAP
+LANG_ENGLISH        "ダブルタップ・ルート・ベア"
+
+REFERENCE            JUGGER_NOG
+LANG_ENGLISH        "ジャガーノッグ"
+
+REFERENCE            WHOS_WHO
+LANG_ENGLISH        "フーズ・フー"
+
+REFERENCE            VULTURE_AID
+LANG_ENGLISH        "ヴァルチャーエイド"
+
+REFERENCE            TOMBSTONE
+LANG_ENGLISH        "トンブストーン"
+
+REFERENCE            PHD_FLOPPER
+LANG_ENGLISH        "PHDフロッパー"
+
+REFERENCE            SNAILS_PACE_SLURPEE
+LANG_ENGLISH        "スネールズペーススラーピー"
+
+REFERENCE            CRYO_SLIDE_SODA
+LANG_ENGLISH        "クライオスライドソーダ"
+
+REFERENCE            SALVAGE_SHAKE_
+LANG_ENGLISH        "サルベージシェイク"
+
+REFERENCE            WINDRUNNER_WHISKEY
+LANG_ENGLISH        "ウィンドランナーウイスキー"
+
+REFERENCE            ATOMIC_LIQUEUR
+LANG_ENGLISH        "アトミリキュール"
+
+REFERENCE            ARMOR_NOG
+LANG_ENGLISH        "アーマーノッグ"
+
+REFERENCE            SECRET_SAUCE
+LANG_ENGLISH        "シークレットソース"
+
+REFERENCE            CRUSADERS_ALE
+LANG_ENGLISH        "クルセイダーズエール"
+
+REFERENCE            BULL_ICE_BLAST
+LANG_ENGLISH        "ブルアイスブラスト"
+
+REFERENCE            VIGOR_RUSH
+LANG_ENGLISH        "ビガーラッシュ"
+
+REFERENCE            MADGAZ_MOONSHINE
+LANG_ENGLISH        "マッドガズムーンシャイン"
+
+REFERENCE            BANDOLIER_BANDIT
+LANG_ENGLISH        "バンドリアバンディット"
+
+REFERENCE            ETHEREAL_RAZOR
+LANG_ENGLISH        "エテリアルレイザー"
+
+REFERENCE            PHD_SLIDER
+LANG_ENGLISH        "PHDスライダー"
+
+REFERENCE            STONE_COLD_STRONGHOLD
+LANG_ENGLISH        "ストーンコールドストロングホールド"
+
+REFERENCE            TIMESLIP
+LANG_ENGLISH        "タイムスリップ"
+
+REFERENCE            VICTORIOUS_TORTOISE
+LANG_ENGLISH        "ビクトリアストータス"
+
+REFERENCE            WINTER_WAIL
+LANG_ENGLISH        "ウィンターウェイル"
+
+REFERENCE            ZOMBSHELL
+LANG_ENGLISH        "ゾムシェル"
+
+REFERENCE            BLOOD_WOLF_BITE
+LANG_ENGLISH        "ブラッドウルフバイト"
+
+REFERENCE            BLAZE_PHASE
+LANG_ENGLISH        "ブレイズフェイズ"
+
+REFERENCE            DYING_WISH
+LANG_ENGLISH        "ダイイングウィッシュ"
+
+REFERENCE            MADGAZ_MOONSHINE
+LANG_ENGLISH        "マッドガズムーンシャイン"
+
+REFERENCE            BANANA_COLADA
+LANG_ENGLISH        "バナナコラーダ"
+
+REFERENCE            PERK_A_LOT
+LANG_ENGLISH        "パークアロット"
+
+REFERENCE            GOT_A_WEAPON
+LANG_ENGLISH        "ウェポンゲット"
+
+REFERENCE            TRADE_WEAPON
+LANG_ENGLISH        "ウェポントレード"
+
+REFERENCE            REPAIRED
+LANG_ENGLISH        "修理済み"
+
+REFERENCE            BARRIER_REBUILDED
+LANG_ENGLISH        "バリア再構築"
+
+REFERENCE            SHIELD_REPAIRED
+LANG_ENGLISH        "シールド修理"
+
+REFERENCE            BRO_NEXT_ROUND
+LANG_ENGLISH        "兄貴、次のラウンド"
+
+REFERENCE            HIT
+LANG_ENGLISH        "ヒット"
+
+REFERENCE            WUNDERWAFFE_KILL
+LANG_ENGLISH        "ヴンダーヴァッフェキル"
+
+REFERENCE            RAYGUN_MARK2_KILL
+LANG_ENGLISH        "レイガンマーク2キル"
+
+REFERENCE            RAYGUN_KILL
+LANG_ENGLISH        "レイガンキル"
+
+REFERENCE            SHIELD_KILL
+LANG_ENGLISH        "シールドキル"
+
+REFERENCE            GKZ_45_MARK3_KILL
+LANG_ENGLISH        "GKZ 45 Mark3キル"
+
+REFERENCE            THUNDERGUN_KILL
+LANG_ENGLISH        "サンダーガンキル"
+
+REFERENCE            SHARPSHOOTER_KILL
+LANG_ENGLISH        "シャープシューターキル"
+
+REFERENCE            C_ZOMBIE_CRITICAL_KILL
+LANG_ENGLISH        "^3ゾンビクリティカルキル"
+
+REFERENCE            C_HELLHOUNDS_CRITICAL_KILL
+LANG_ENGLISH        "^3ヘルハウンドクリティカルキル"
+
+REFERENCE            C_WUNDERWAFFE_KILL
+LANG_ENGLISH        "^3ヴンダーヴァッフェキル"
+
+REFERENCE            C_RAYGUN_MARK2_KILL
+LANG_ENGLISH        "^3レイガンマーク2キル"
+
+REFERENCE            C_RAYGUN_KILL
+LANG_ENGLISH        "^3レイガンキル"
+
+REFERENCE            C_SHIELD_KILL
+LANG_ENGLISH        "^3シールドキル"
+
+REFERENCE            C_GKZ_45_MARK3_KILL
+LANG_ENGLISH        "^3GKZ 45 Mark3キル"
+
+REFERENCE            C_THUNDERGUN_KILL
+LANG_ENGLISH        "^3サンダーガンキル"
+
+REFERENCE            C_ZOMBIE_EXPLOSIVE_KILL
+LANG_ENGLISH        "^3ゾンビ爆発キル"
+
+REFERENCE            C_ZOMBIE_MELEE_KILL
+LANG_ENGLISH        "^3ゾンビ格闘キル"
+
+REFERENCE            C_ZOMBIE_HEADSHOT_KILL
+LANG_ENGLISH        "^3ゾンビヘッドショットキル"
+
+REFERENCE            C_SHARPSHOOTER_KILL
+LANG_ENGLISH        "^3シャープシューターキル"
+
+REFERENCE            PARASITE_KILL
+LANG_ENGLISH        "パラサイト討伐"
+
+REFERENCE            PARASITE_EXPLOSIVE_KILL
+LANG_ENGLISH        "パラサイト爆発キル"
+
+REFERENCE            PARASITE_MELEE_KILL
+LANG_ENGLISH        "パラサイト格闘キル"
+
+REFERENCE            PARASITE_HEADSHOT_KILL
+LANG_ENGLISH        "パラサイトヘッドショットキル"
+
+REFERENCE            C_PARASITE_CRITICAL_KILL
+LANG_ENGLISH        "^3パラサイトクリティカルキル"
+
+REFERENCE            C_PARASITE_EXPLOSIVE_KILL
+LANG_ENGLISH        "^3パラサイト爆発キル"
+
+REFERENCE            C_PARASITE_MELEE_KILL
+LANG_ENGLISH        "^3パラサイト格闘キル"
+
+REFERENCE            C_PARASITE_HEADSHOT_KILL
+LANG_ENGLISH        "^3パラサイトヘッドショットキル"
+
+REFERENCE            CLEAN_DEBRIS
+LANG_ENGLISH        "デブリの清掃"
+
+REFERENCE            ZOMBIE_KILL
+LANG_ENGLISH        "ゾンビ討伐"
+
+REFERENCE            ZOMBIE_EXPLOSIVE_KILL
+LANG_ENGLISH        "ゾンビ爆発キル"
+
+REFERENCE            ZOMBIE_MELEE_KILL
+LANG_ENGLISH        "ゾンビ格闘キル"
+
+REFERENCE            ZOMBIE_HEADSHOT_KILL
+LANG_ENGLISH        "ゾンビヘッドショットキル"
+
+REFERENCE            C_ZOMBIE_CRITICAL_KILL
+LANG_ENGLISH        "^3ゾンビクリティカルキル"
+
+REFERENCE            C_ZOMBIE_EXPLOSIVE_KILL
+LANG_ENGLISH        "^3ゾンビ爆発キル"
+
+REFERENCE            C_ZOMBIE_MELEE_KILL
+LANG_ENGLISH        "^3ゾンビ格闘キル"
+
+REFERENCE            C_ZOMBIE_HEADSHOT_KILL
+LANG_ENGLISH        "^3ゾンビヘッドショットキル"
+
+REFERENCE            MEATBALL_KILL
+LANG_ENGLISH        "ミートボール討伐"
+
+REFERENCE            MEATBALL_EXPLOSIVE_KILL
+LANG_ENGLISH        "ミートボール爆発キル"
+
+REFERENCE            MEATBALL_MELEE_KILL
+LANG_ENGLISH        "ミートボール格闘キル"
+
+REFERENCE            MEATBALL_HEADSHOT_KILL
+LANG_ENGLISH        "ミートボールヘッドショットキル"
+
+REFERENCE            C_MEATBALL_CRITICAL_KILL
+LANG_ENGLISH        "^3ミートボールクリティカルキル"
+
+REFERENCE            C_MEATBALL_EXPLOSIVE_KILL
+LANG_ENGLISH        "^3ミートボール爆発キル"
+
+REFERENCE            C_MEATBALL_MELEE_KILL
+LANG_ENGLISH        "^3ミートボール格闘キル"
+
+REFERENCE            C_MEATBALL_HEADSHOT_KILL
+LANG_ENGLISH        "^3ミートボールヘッドショットキル"
+ 
+REFERENCE            SPIDER_KILL
+LANG_ENGLISH        "スパイダー討伐"
+
+REFERENCE            SPIDER_EXPLOSIVE_KILL
+LANG_ENGLISH        "スパイダー爆発キル"
+
+REFERENCE            SPIDER_MELEE_KILL
+LANG_ENGLISH        "スパイダー格闘キル"
+
+REFERENCE            SPIDER_HEADSHOT_KILL
+LANG_ENGLISH        "スパイダーヘッドショットキル"
+
+REFERENCE            C_SPIDER_CRITICAL_KILL
+LANG_ENGLISH        "^3スパイダークリティカルキル"
+
+REFERENCE            C_SPIDER_EXPLOSIVE_KILL
+LANG_ENGLISH        "^3スパイダー爆発キル"
+
+REFERENCE            C_SPIDER_MELEE_KILL
+LANG_ENGLISH        "^3スパイダー格闘キル"
+
+REFERENCE            C_SPIDER_HEADSHOT_KILL
+LANG_ENGLISH        "^3スパイダーヘッドショットキル"
+
+REFERENCE            HELLHOUND_KILL
+LANG_ENGLISH        "ヘルハウンド討伐"
+
+REFERENCE            HELLHOUND_EXPLOSIVE_KILL
+LANG_ENGLISH        "ヘルハウンド爆発キル"
+
+REFERENCE            HELLHOUND_MELEE_KILL
+LANG_ENGLISH        "ヘルハウンド格闘キル"
+
+REFERENCE            HELLHOUND_HEADSHOT_KILL
+LANG_ENGLISH        "ヘルハウンドヘッドショットキル"
+
+REFERENCE            C_HELLHOUND_CRITICAL_KILL
+LANG_ENGLISH        "^3ヘルハウンドクリティカルキル"
+
+REFERENCE            C_HELLHOUND_EXPLOSIVE_KILL
+LANG_ENGLISH        "^3ヘルハウンド爆発キル"
+
+REFERENCE            C_HELLHOUND_MELEE_KILL
+LANG_ENGLISH        "^3ヘルハウンド格闘キル"
+
+REFERENCE            C_HELLHOUND_HEADSHOT_KILL
+LANG_ENGLISH        "^3ヘルハウンドヘッドショットキル"
+
+REFERENCE            NAPALMZOMBIE_KILL
+LANG_ENGLISH        "ナパームゾンビ討伐"
+
+REFERENCE            NAPALMZOMBIE_EXPLOSIVE_KILL
+LANG_ENGLISH        "ナパームゾンビ爆発キル"
+
+REFERENCE            NAPALMZOMBIE_MELEE_KILL
+LANG_ENGLISH        "ナパームゾンビ格闘キル"
+
+REFERENCE            NAPALMZOMBIE_HEADSHOT_KILL
+LANG_ENGLISH        "ナパームゾンビヘッドショットキル"
+
+REFERENCE            C_NAPALMZOMBIE_CRITICAL_KILL
+LANG_ENGLISH        "^3ナパームゾンビクリティカルキル"
+
+REFERENCE            C_NAPALMZOMBIE_EXPLOSIVE_KILL
+LANG_ENGLISH        "^3ナパームゾンビ爆発キル"
+
+REFERENCE            C_NAPALMZOMBIE_MELEE_KILL
+LANG_ENGLISH        "^3ナパームゾンビ格闘キル"
+
+REFERENCE            C_NAPALMZOMBIE_HEADSHOT_KILL
+LANG_ENGLISH        "^3ナパームゾンビヘッドショットキル"
+
+REFERENCE            SHRIEKER_KILL
+LANG_ENGLISH        "シュリーカー討伐"
+
+REFERENCE            SHRIEKER_EXPLOSIVE_KILL
+LANG_ENGLISH        "シュリーカー爆発キル"
+
+REFERENCE            SHRIEKER_MELEE_KILL
+LANG_ENGLISH        "シュリーカー格闘キル"
+
+REFERENCE            SHRIEKER_HEADSHOT_KILL
+LANG_ENGLISH        "シュリーカーヘッドショットキル"
+
+REFERENCE            C_SHRIEKER_CRITICAL_KILL
+LANG_ENGLISH        "^3シュリーカークリティカルキル"
+
+REFERENCE            C_SHRIEKER_EXPLOSIVE_KILL
+LANG_ENGLISH        "^3シュリーカー爆発キル"
+
+REFERENCE            C_SHRIEKER_MELEE_KILL
+LANG_ENGLISH        "^3シュリーカー格闘キル"
+
+REFERENCE            C_SHRIEKER_HEADSHOT_KILL
+LANG_ENGLISH        "^3シュリーカーヘッドショットキル"
+
+REFERENCE            THRASHER_KILL
+LANG_ENGLISH        "スラッシャー討伐"
+
+REFERENCE            THRASHER_EXPLOSIVE_KILL
+LANG_ENGLISH        "スラッシャー爆発キル"
+
+REFERENCE            THRASHER_MELEE_KILL
+LANG_ENGLISH        "スラッシャー格闘キル"
+
+REFERENCE            THRASHER_HEADSHOT_KILL
+LANG_ENGLISH        "スラッシャーヘッドショットキル"
+
+REFERENCE            C_THRASHER_CRITICAL_KILL
+LANG_ENGLISH        "^3スラッシャークリティカルキル"
+
+REFERENCE            C_THRASHER_EXPLOSIVE_KILL
+LANG_ENGLISH        "^3スラッシャー爆発キル"
+
+REFERENCE            C_THRASHER_MELEE_KILL
+LANG_ENGLISH        "^3スラッシャー格闘キル"
+
+REFERENCE            C_THRASHER_HEADSHOT_KILL
+LANG_ENGLISH        "^3スラッシャーヘッドショットキル"
+
+REFERENCE            NOVACRAWLER_KILL
+LANG_ENGLISH        "ノヴァクロウラー討伐"
+
+REFERENCE            NOVACRAWLER_EXPLOSIVE_KILL
+LANG_ENGLISH        "ノヴァクロウラー爆発キル"
+
+REFERENCE            NOVACRAWLER_MELEE_KILL
+LANG_ENGLISH        "ノヴァクロウラー格闘キル"
+
+REFERENCE            NOVACRAWLER_HEADSHOT_KILL
+LANG_ENGLISH        "ノヴァクロウラーヘッドショットキル"
+
+REFERENCE            C_NOVACRAWLER_CRITICAL_KILL
+LANG_ENGLISH        "^3ノヴァクロウラークリティカルキル"
+
+REFERENCE            C_NOVACRAWLER_EXPLOSIVE_KILL
+LANG_ENGLISH        "^3ノヴァクロウラー爆発キル"
+
+REFERENCE            C_NOVACRAWLER_MELEE_KILL
+LANG_ENGLISH        "^3ノヴァクロウラー格闘キル"
+
+REFERENCE            C_NOVACRAWLER_HEADSHOT_KILL
+LANG_ENGLISH        "^3ノヴァクロウラーヘッドショットキル"
+ 
+REFERENCE            APOTHICONFURY_KILL
+LANG_ENGLISH        "アポシコンフュリー討伐"
+
+REFERENCE            APOTHICONFURY_EXPLOSIVE_KILL
+LANG_ENGLISH        "アポシコンフュリー爆発キル"
+
+REFERENCE            APOTHICONFURY_MELEE_KILL
+LANG_ENGLISH        "アポシコンフュリー格闘キル"
+
+REFERENCE            APOTHICONFURY_HEADSHOT_KILL
+LANG_ENGLISH        "アポシコンフュリーヘッドショットキル"
+
+REFERENCE            C_APOTHICONFURY_CRITICAL_KILL
+LANG_ENGLISH        "^3アポシコンフュリークリティカルキル"
+
+REFERENCE            C_APOTHICONFURY_EXPLOSIVE_KILL
+LANG_ENGLISH        "^3アポシコンフュリー爆発キル"
+
+REFERENCE            C_APOTHICONFURY_MELEE_KILL
+LANG_ENGLISH        "^3アポシコンフュリー格闘キル"
+
+REFERENCE            C_APOTHICONFURY_HEADSHOT_KILL
+LANG_ENGLISH        "^3アポシコンフュリーヘッドショットキル"
+
+REFERENCE            PANZERSOLDAT_KILL
+LANG_ENGLISH        "パンツァーゾルダット討伐"
+
+REFERENCE            PANZERSOLDAT_EXPLOSIVE_KILL
+LANG_ENGLISH        "パンツァーゾルダット爆発キル"
+
+REFERENCE            PANZERSOLDAT_MELEE_KILL
+LANG_ENGLISH        "パンツァーゾルダット格闘キル"
+
+REFERENCE            PANZERSOLDAT_HEADSHOT_KILL
+LANG_ENGLISH        "パンツァーゾルダットヘッドショットキル"
+
+REFERENCE            C_PANZERSOLDAT_CRITICAL_KILL
+LANG_ENGLISH        "^3パンツァーゾルダットクリティカルキル"
+
+REFERENCE            C_PANZERSOLDAT_EXPLOSIVE_KILL
+LANG_ENGLISH        "^3パンツァーゾルダット爆発キル"
+
+REFERENCE            C_PANZERSOLDAT_MELEE_KILL
+LANG_ENGLISH        "^3パンツァーゾルダット格闘キル"
+
+REFERENCE            C_PANZERSOLDAT_HEADSHOT_KILL
+LANG_ENGLISH        "^3パンツァーゾルダットヘッドショットキル"
+
+REFERENCE            MARGWA_KILL
+LANG_ENGLISH        "マーグワ討伐"
+
+REFERENCE            MARGWA_EXPLOSIVE_KILL
+LANG_ENGLISH        "マーグワ爆発キル"
+
+REFERENCE            MARGWA_MELEE_KILL
+LANG_ENGLISH        "マーグワ格闘キル"
+
+REFERENCE            MARGWA_HEADSHOT_KILL
+LANG_ENGLISH        "マーグワヘッドショットキル"
+
+REFERENCE            C_MARGWA_CRITICAL_KILL
+LANG_ENGLISH        "^3マーグワクリティカルキル"
+
+REFERENCE            C_MARGWA_EXPLOSIVE_KILL
+LANG_ENGLISH        "^3マーグワ爆発キル"
+
+REFERENCE            C_MARGWA_MELEE_KILL
+LANG_ENGLISH        "^3マーグワ格闘キル"
+
+REFERENCE            C_MARGWA_HEADSHOT_KILL
+LANG_ENGLISH        "^3マーグワヘッドショットキル"
+
+REFERENCE            MANGLER_KILL
+LANG_ENGLISH        "マングラー討伐"
+
+REFERENCE            MANGLER_EXPLOSIVE_KILL
+LANG_ENGLISH        "マングラー爆発キル"
+
+REFERENCE            MANGLER_MELEE_KILL
+LANG_ENGLISH        "マングラー格闘キル"
+
+REFERENCE            MANGLER_HEADSHOT_KILL
+LANG_ENGLISH        "マングラーヘッドショットキル"
+
+REFERENCE            C_MANGLER_CRITICAL_KILL
+LANG_ENGLISH        "^3マングラークリティカルキル"
+
+REFERENCE            C_MANGLER_EXPLOSIVE_KILL
+LANG_ENGLISH        "^3マングラー爆発キル"
+
+REFERENCE            C_MANGLER_MELEE_KILL
+LANG_ENGLISH        "^3マングラー格闘キル"
+
+REFERENCE            C_MANGLER_HEADSHOT_KILL
+LANG_ENGLISH        "^3マングラーヘッドショットキル"
+
+REFERENCE            WARDEN_KILL
+LANG_ENGLISH        "ワーデン討伐"
+
+REFERENCE            WARDEN_EXPLOSIVE_KILL
+LANG_ENGLISH        "ワーデン爆発キル"
+
+REFERENCE            WARDEN_MELEE_KILL
+LANG_ENGLISH        "ワーデン格闘キル"
+
+REFERENCE            WARDEN_HEADSHOT_KILL
+LANG_ENGLISH        "ワーデンヘッドショットキル"
+
+REFERENCE            C_WARDEN_CRITICAL_KILL
+LANG_ENGLISH        "^3ワーデンクリティカルキル"
+
+REFERENCE            C_WARDEN_EXPLOSIVE_KILL
+LANG_ENGLISH        "^3ワーデン爆発キル"
+
+REFERENCE            C_WARDEN_MELEE_KILL
+LANG_ENGLISH        "^3ワーデン格闘キル"
+
+REFERENCE            C_WARDEN_HEADSHOT_KILL
+LANG_ENGLISH        "^3ワーデンヘッドショットキル"
+
+REFERENCE            KEEPER_KILL
+LANG_ENGLISH        "キーパー討伐"
+
+REFERENCE            KEEPER_EXPLOSIVE_KILL
+LANG_ENGLISH        "キーパー爆発キル"
+
+REFERENCE            KEEPER_MELEE_KILL
+LANG_ENGLISH        "キーパー格闘キル"
+
+REFERENCE            KEEPER_HEADSHOT_KILL
+LANG_ENGLISH        "キーパーヘッドショットキル"
+
+REFERENCE            C_KEEPER_CRITICAL_KILL
+LANG_ENGLISH        "^3キーパークリティカルキル"
+
+REFERENCE            C_KEEPER_EXPLOSIVE_KILL
+LANG_ENGLISH        "^3キーパー爆発キル"
+
+REFERENCE            C_KEEPER_MELEE_KILL
+LANG_ENGLISH        "^3キーパー格闘キル"
+ 
+REFERENCE            C_KEEPER_HEADSHOT_KILL
+LANG_ENGLISH        "^3キーパーヘッドショットキル"
+
+REFERENCE            STUN
+LANG_ENGLISH        "スタンしたゾンビ"
+
+REFERENCE            DAMAGE_INCREASE
+LANG_ENGLISH        "ダメージ増加"
+
+ENDMARKER

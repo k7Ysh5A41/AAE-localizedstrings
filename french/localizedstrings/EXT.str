@@ -1,0 +1,32 @@
+// Note to translators:
+// Just edit the text inside the quotes, don't edit other code
+
+VERSION             "1"
+CONFIG              "C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           ZOD
+LANG_ENGLISH     "^31.^7Lors de l'étape de l'amélioration de l'épée, le joueur supplémentaire ne peut pas prendre l'œuf, mais si le personnage du joueur supplémentaire est le même que celui du joueur principal, le joueur supplémentaire peut tuer et recharger l'œuf avec le joueur principal près de l'œuf\n^32.^7Lorsque l'épée du Keeper est prise, ne continuez pas à permettre aux joueurs de rejoindre le lobby, sinon le combat de boss ne fonctionnera pas\n^33.^7Seuls 5 casques Margwa seront générés\n^34.^7Tous les EEs peuvent être complétés avec succès lorsque le nombre total de joueurs est de 8"
+
+REFERENCE           CASTLE
+LANG_ENGLISH     "^31.^7Les joueurs supplémentaires devront planter le Ragnarok DG-4 dans une zone proche du MPD (un modèle de Ragnarok DG-4 apparaîtra à l'endroit où il doit être planté)\n^32.^7La duplication d'arc a été désactivée\n^33.^7Tous les EEs peuvent être complétés avec succès lorsque le nombre total de joueurs est de 8"
+
+REFERENCE           ISLAND
+LANG_ENGLISH     "Fonctionne de manière stable uniquement avec 4 joueurs"
+
+REFERENCE           GENESIS
+LANG_ENGLISH     "Fonctionne de manière stable uniquement avec 4 joueurs"
+
+REFERENCE           TOMB
+LANG_ENGLISH     "Fonctionne de manière stable uniquement avec 8 joueurs"
+
+REFERENCE           STALINGRAD
+LANG_ENGLISH     "^31.^7Seul l'hôte peut obtenir la récompense du défi et l'interface de tous les défis a été désactivée\n^32.^7Seuls 3 joueurs peuvent monter le dragon, si 4 joueurs montent le dragon, les autres joueurs seront glitchés\n^33.^7Après la fin de l'EE, les joueurs supplémentaires ne seront pas téléportés au point de spawn\n^34.^7Tous les EEs peuvent être complétés avec succès lorsque le nombre total de joueurs est de 8"
+
+REFERENCE           DESC
+LANG_ENGLISH     "^3Détails du problème 'Connexion interrompue' qui survient en cours de partie^7 :\nLorsque certaines cartes dépassent la limite de joueurs spécifiée, certaines fonctionnalités de ce mod cesseront de se charger afin d'assurer une stabilité maximale du jeu. Pour améliorer encore la stabilité du jeu, veuillez ne pas utiliser d'armes merveilleuses et d'armes explosives. De plus, certaines causes inconnues peuvent faire apparaître le problème 'Connexion interrompue' malgré tout, il n'existe pas de solution parfaite à cette situation, car la puissance de calcul que le moteur du jeu peut fournir pour gérer autant de données de joueurs est limitée."
+
+REFERENCE           HELP
+LANG_ENGLISH         "^2Commandes de chat prises en charge^7:\n\n^5Transférer tous les points au joueur spécifié\n^7/transfer/{numéro du joueur}\n^5Déposer tous les points à la banque\n^7/dep\n^5Vérifier le solde\n^7/bal\n^5Être mis à terre immédiatement\n^7/s\n^5Durée du chat\n^7/ct/{seconde}\n^5Emotes du joueur\n^7/a/{1-14}\n^5Parieur\n^7/g\n^5Recharger l’arme actuelle\n^7/r\n^5Compteur EE (le chargement des données peut prendre un certain temps, donc un peu lent)\n^7/ee\n^5Se téléporter vers d’autres joueurs (nécessite AF activé ou une limite de joueurs supérieure à 4)\n^7/tp/{numéro du joueur}\n^5Mettre à jour manuellement la banque vers la carrière\n^7/save"
+
+ENDMARKER

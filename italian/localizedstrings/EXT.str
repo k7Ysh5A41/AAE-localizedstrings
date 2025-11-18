@@ -1,0 +1,32 @@
+// Note to translators:
+// Just edit the text inside the quotes, don't edit other code
+
+VERSION             "1"
+CONFIG              "C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           ZOD
+LANG_ENGLISH     "^31.^7Quando si tratta del passaggio per aggiornare la spada, il giocatore extra non può prendere l'uovo, ma se il personaggio del giocatore extra è lo stesso del giocatore principale, il giocatore extra può uccidere e ricaricare l'uovo insieme al giocatore principale vicino all'uovo\n^32.^7Quando la spada del Keeper viene presa, non consentire l'ingresso di altri giocatori nella lobby, altrimenti il combattimento contro il boss non funzionerà\n^33.^7Verranno generati solo 5 elmi Margwa\n^34.^7Tutti gli EE possono essere completati con successo quando il numero totale di giocatori è 8"
+
+REFERENCE           CASTLE
+LANG_ENGLISH     "^31.^7I giocatori aggiuntivi dovranno piantare il Ragnarok DG-4 in un'area vicino al MPD (verrà generato un modello Ragnarok DG-4 nel punto in cui deve essere piantato)\n^32.^7La duplicazione dell'arco è stata disabilitata\n^33.^7Tutti gli EE possono essere completati con successo quando il numero totale di giocatori è 8"
+
+REFERENCE           ISLAND
+LANG_ENGLISH     "Funzionamento stabile solo con 4 giocatori"
+
+REFERENCE           GENESIS
+LANG_ENGLISH     "Funzionamento stabile solo con 4 giocatori"
+
+REFERENCE           TOMB
+LANG_ENGLISH     "Funzionamento stabile solo con 8 giocatori"
+
+REFERENCE           STALINGRAD
+LANG_ENGLISH     "^31.^7Solo l'host può ottenere la ricompensa della sfida e l'interfaccia utente per tutte le sfide è stata disabilitata\n^32.^7Solo 3 giocatori possono cavalcare il drago; se 4 giocatori lo cavalcano, gli altri giocatori subiranno glitch\n^33.^7Dopo aver completato l'EE, i giocatori aggiuntivi non saranno teletrasportati al punto di spawn\n^34.^7Tutti gli EE possono essere completati con successo quando il numero totale di giocatori è 8"
+
+REFERENCE           DESC
+LANG_ENGLISH     "^3Dettagli del problema 'Connessione Interrotta' che si verifica a metà partita^7:\nQuando alcune mappe superano il limite di giocatori specificato, alcune funzioni di questa mod smetteranno di caricarsi per garantire la massima stabilità del gioco. Per migliorare ulteriormente la stabilità del gioco, non utilizzare armi meraviglia e armi esplosive. Inoltre, alcune cause sconosciute possono far apparire comunque il problema 'Connessione Interrotta'. Non esiste una soluzione perfetta, poiché la potenza di calcolo del motore di gioco è limitata per gestire così tanti dati dei giocatori."
+
+REFERENCE           HELP
+LANG_ENGLISH         "^2Comandi di chat supportati^7:\n\n^5Trasferisci tutti i punti al giocatore specificato\n^7/transfer/{numero giocatore}\n^5Deposita tutti i punti in banca\n^7/dep\n^5Controlla il saldo\n^7/bal\n^5Vieni atterrato immediatamente\n^7/s\n^5Durata della chat\n^7/ct/{secondi}\n^5Emote del giocatore\n^7/a/{1-14}\n^5Giocatore d’azzardo\n^7/g\n^5Ricarica l’arma attuale\n^7/r\n^5Contatore EE (il caricamento dei dati richiede un po’ di tempo, quindi potrebbe essere lento)\n^7/ee\n^5Teletrasportati ad altri giocatori (richiede AF abilitato o un limite di giocatori superiore a 4)\n^7/tp/{numero giocatore}\n^5Aggiorna manualmente la banca nella carriera\n^7/save"
+
+ENDMARKER

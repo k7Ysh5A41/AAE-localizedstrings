@@ -1,0 +1,500 @@
+// Note to translators:
+// Just edit the text inside the quotes, don't edit other code
+
+VERSION             "1"
+CONFIG              "C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           TOMB_1
+LANG_ENGLISH     "^1Samantha^7: To wszystko zaczęło się dawno temu, na polach bitew Wielkiej Wojny."
+
+REFERENCE           TOMB_2
+LANG_ENGLISH     "^1Samantha^7: Dwóch niemieckich naukowców próbowało wykorzystać mroczne i tajemnicze moce ukryte od wieków."
+
+REFERENCE           TOMB_3
+LANG_ENGLISH     "^1Samantha^7: Wierzyli, że ich odkrycia zapewnią ostateczne zwycięstwo Niemiec."
+
+REFERENCE           TOMB_4
+LANG_ENGLISH     "^1Samantha^7: Czego nigdy nie mogli sobie wyobrazić, to co jeszcze ich badania odkryją."
+
+REFERENCE           TOMB_5
+LANG_ENGLISH     "^1Samantha^7: Gdy pradawne zło pustoszyło front, nadzieje aliantów spoczęły na trzech żołnierzach wysłanych, by je powstrzymać."
+
+REFERENCE           TOMB_6
+LANG_ENGLISH     "^1Samantha^7: Nazywam się Samantha. Opowiem ci, jak to wszystko się naprawdę zaczęło."
+
+REFERENCE           THEATER_1
+LANG_ENGLISH     "^1Richtofen^7: Wpis 741021! Być może ta stacja skrywa klucz do prawdziwych celów Grupy 935."
+
+REFERENCE           THEATER_2
+LANG_ENGLISH     "^1Richtofen^7: Nadal nie ufam moim niekonwencjonalnym sojusznikom, ale są mi bardzo pomocni. Ale odchodzę od tematu."
+
+REFERENCE           THEATER_3
+LANG_ENGLISH     "^1Richtofen^7: Kto by pomyślał, że M.T.D. potrafi podróżować w czasie? Ile stacji ma ta grupa?"
+
+REFERENCE           THEATER_4
+LANG_ENGLISH     "^1Richtofen^7: Gdzie zniknęła ta mała dziewczynka?"
+
+REFERENCE           THEATER_5
+LANG_ENGLISH     "^1Richtofen^7: Czas pokaże, jakie nowe pytania czekają na nas w... TEATRZE POTĘPIONYCH!"
+
+REFERENCE           TOMB_OUTRO_1
+LANG_ENGLISH     "^1Samantha^7: Gdy bramy Agarthy otworzyły się, czterej bohaterowie zostali nagrodzeni bogactwami niewyobrażalnymi."
+
+REFERENCE           TOMB_OUTRO_2
+LANG_ENGLISH     "^1Samantha^7: Od tego dnia wiedzieli, że Samantha będzie ich chronić... na zawsze."
+
+REFERENCE           TOMB_OUTRO_3
+LANG_ENGLISH     "^1Eddie^7: Wszystko mylisz. Mówiłem ci wcześniej, ich oczy powinny być niebieskie!"
+
+REFERENCE           TOMB_OUTRO_4
+LANG_ENGLISH     "^1Samantha^7: Teraz moja kolej, Eddie. Mogę robić, co chcę."
+
+REFERENCE           TOMB_OUTRO_5
+LANG_ENGLISH     "^1Eddie^7: Ale... nawet nie potrafisz grać poprawnie! Dziewczyny nie znają się na zombie."
+
+REFERENCE           TOMB_OUTRO_6
+LANG_ENGLISH     "^1Maxis^7: Odłóżcie zabawki, dzieci. Upewnijcie się, że okna są zamknięte, zanim zejdziecie do piwnicy."
+
+REFERENCE           TOMB_OUTRO_7
+LANG_ENGLISH     "^1Eddie^7: Lepiej posłuchajmy twojego taty."
+
+REFERENCE           TOMB_OUTRO_8
+LANG_ENGLISH     "^1Eddie^7: Nawet nie dostałem swojej kolejki..."
+
+REFERENCE           TOMB_OUTRO_9
+LANG_ENGLISH     "^1Samantha^7: Jutro, Eddie. To ty ustalasz zasady, obiecuję."
+
+REFERENCE           TOMB_OUTRO_10
+LANG_ENGLISH     "^1Samantha^7: Chodź, Fluffy!"
+
+REFERENCE           TOMB_OUTRO_11
+LANG_ENGLISH     "^1Eddie^7: Chciałbym, żeby bohaterowie z naszych opowieści byli prawdziwi, Sam."
+
+REFERENCE           TOMB_OUTRO_12
+LANG_ENGLISH     "^1Samantha^7: Wiem, co masz na myśli. Ale wszystko będzie dobrze."
+
+REFERENCE           TOMB_OUTRO_13
+LANG_ENGLISH     "^1Samantha^7: ...Mój tata mówi, że ma plan."
+
+REFERENCE           GENESIS_OUTRO_1
+LANG_ENGLISH     "^1Doctor Monty^7: Zło pokonane, mogę zacząć naprawiać wszystko."
+
+REFERENCE           GENESIS_OUTRO_2
+LANG_ENGLISH     "^1Doctor Monty^7: Bez nieumarłych, bez Apothiconów, bez Shadowmana."
+
+REFERENCE           GENESIS_OUTRO_3
+LANG_ENGLISH     "^1Doctor Monty^7: Wszystko zniknęło. Na zawsze."
+
+REFERENCE           GENESIS_OUTRO_4
+LANG_ENGLISH     "^1Doctor Monty^7: Ale jest jedna zabawna rzecz."
+
+REFERENCE           GENESIS_OUTRO_5
+LANG_ENGLISH     "^1Doctor Monty^7: Wy, płatki śniegu, nie powinniście tu w ogóle być."
+
+REFERENCE           GENESIS_OUTRO_6
+LANG_ENGLISH     "^1Doctor Monty^7: Powinniście już zacząć znikać z istnienia."
+
+REFERENCE           GENESIS_OUTRO_7
+LANG_ENGLISH     "^1Doctor Monty^7: Te fiolki z krwią..."
+
+REFERENCE           GENESIS_OUTRO_8
+LANG_ENGLISH     "^1Richtofen^7: Zastanawiałem się, kiedy to poruszysz."
+
+REFERENCE           GENESIS_OUTRO_9
+LANG_ENGLISH     "^1Doctor Monty^7: Pochodzą z rzeczywistości, które już zamknęliśmy!"
+
+REFERENCE           GENESIS_OUTRO_10
+LANG_ENGLISH     "^1Doctor Monty^7: Nie powinni tu być, nie mogą tu być!"
+
+REFERENCE           GENESIS_OUTRO_11
+LANG_ENGLISH     "^1Doctor Monty^7: Taki paradoks oznacza, że zagrażacie mojemu idealnemu światu!"
+
+REFERENCE           GENESIS_OUTRO_12
+LANG_ENGLISH     "^1Doctor Monty^7: Wy i wasza cholerną wolną wolą! Co robić...? Co robić!?"
+
+REFERENCE           GENESIS_OUTRO_13
+LANG_ENGLISH     "^1Doctor Monty^7: Na pewno nie możecie tu zostać."
+
+REFERENCE           GENESIS_OUTRO_14
+LANG_ENGLISH     "^1Richtofen^7: Możesz nas wysłać gdzie indziej. Tam, gdzie jeszcze nie byliśmy."
+
+REFERENCE           GENESIS_OUTRO_15
+LANG_ENGLISH     "^1Doctor Monty^7: Hmm! Chyba mogę zrobić mały kącik gdzieś w historii."
+
+REFERENCE           GENESIS_OUTRO_16
+LANG_ENGLISH     "^1Doctor Monty^7: Miejsce, gdzie mogę wyrzucić trochę innych rzeczy, które zostały."
+
+REFERENCE           GENESIS_OUTRO_17
+LANG_ENGLISH     "^1Doctor Monty^7: Albo po prostu wymazać was z istnienia."
+
+REFERENCE           GENESIS_OUTRO_18
+LANG_ENGLISH     "^1Doctor Monty^7: Ooo! Poczekaj... Właściwie to wszystko działa idealnie!"
+
+REFERENCE           PRISON_INTRO_1
+LANG_ENGLISH     "^1Finn^7: Hej Sal, już przez to przeszliśmy pięćdziesiąt razy."
+
+REFERENCE           PRISON_INTRO_2
+LANG_ENGLISH     "^1Sal^7: Przejdziemy przez to kolejne pięćdziesiąt, jeśli trzeba."
+
+REFERENCE           PRISON_INTRO_3
+LANG_ENGLISH     "^1Sal^7: 9:30, światła gasną, strażnik zaczyna swoje rondo."
+
+REFERENCE           PRISON_INTRO_4
+LANG_ENGLISH     "^1Sal^7: Jak tam dzisiaj, Ferguson? Rodzina w porządku?"
+
+REFERENCE           PRISON_INTRO_5
+LANG_ENGLISH     "^1Ferguson^7: Wszystko w porządku, panie Deluca. Mój chłopak Tommy ma już prawie sześć lat."
+
+REFERENCE           PRISON_INTRO_6
+LANG_ENGLISH     "^1Sal^7: Ain't that swell?"
+
+REFERENCE           PRISON_INTRO_7
+LANG_ENGLISH     "^1Ferguson^7: Hey Finn, got that tip for Saturday's race yet?"
+
+REFERENCE           PRISON_INTRO_8
+LANG_ENGLISH     "^1Finn^7: I'm workin' on it, right now."
+
+REFERENCE           PRISON_INTRO_9
+LANG_ENGLISH     "^1Billy^7: You gonna shut him up, or do I gotta do it?"
+
+REFERENCE           PRISON_INTRO_10
+LANG_ENGLISH     "^1Ferguson^7: You know the rules, Handsome. No talking."
+
+REFERENCE           PRISON_INTRO_11
+LANG_ENGLISH     "^1Sal^7: 9:35, The Weasel launches into his song and dance routine."
+
+REFERENCE           PRISON_INTRO_12
+LANG_ENGLISH     "^1Ferguson^7: Damn it, Arlington!"
+
+REFERENCE           PRISON_INTRO_13
+LANG_ENGLISH     "^1Arlington^7: You gotta get the doc!"
+
+REFERENCE           PRISON_INTRO_14
+LANG_ENGLISH     "^1Ferguson^7: It better be the real deal this time."
+
+REFERENCE           PRISON_INTRO_15
+LANG_ENGLISH     "^1Sal^7: Once The Weasel gets the keys, we move on to stage two."
+
+REFERENCE           PRISON_INTRO_16
+LANG_ENGLISH     "^1Sal^7: Let's get movin'."
+
+REFERENCE           PRISON_INTRO_17
+LANG_ENGLISH     "^1Billy^7: Here ya go, fellas. Courtesy of the warden's private collection.
+
+REFERENCE           PRISON_INTRO_18
+LANG_ENGLISH     "^1Arlington^7: Your boys in the laundry stashed the parts?"
+
+REFERENCE           PRISON_INTRO_19
+LANG_ENGLISH     "^1Billy^7: Course they fucking did."
+
+REFERENCE           PRISON_INTRO_20
+LANG_ENGLISH     "^1Arlington^7: What the fuck? I killed him!"
+
+REFERENCE           PRISON_INTRO_21
+LANG_ENGLISH     "^1Billy^7: Ya been in the joint too long, Al. You've forgotten how to get shit done."
+
+REFERENCE           PRISON_INTRO_22
+LANG_ENGLISH     "^1Billy^7: What the fuck?"
+
+REFERENCE           PRISON_INTRO_23
+LANG_ENGLISH     "^1Arlington^7: This ain't right. Somethin' weird's going on here..."
+
+REFERENCE           PRISON_INTRO_24
+LANG_ENGLISH     "^1Sal^7: You don't say, Weasel."
+
+REFERENCE           PRISON_INTRO_25
+LANG_ENGLISH     "^1Finn^7: Where are those screams coming from?"
+
+REFERENCE           PRISON_INTRO_26
+LANG_ENGLISH     "^1Arlington^7: Oh, shit!"
+
+REFERENCE           PRISON_MUSIC_1
+LANG_ENGLISH     "But I'm gonna break"
+
+REFERENCE           PRISON_MUSIC_2
+LANG_ENGLISH     "I'm gonna break my"
+
+REFERENCE           PRISON_MUSIC_3
+LANG_ENGLISH     "Gonna break my rusty cage and run"
+
+REFERENCE           PRISON_MUSIC_4
+LANG_ENGLISH     "I'm gonna break"
+
+REFERENCE           PRISON_MUSIC_5
+LANG_ENGLISH     "Too cold to start a fire"
+
+REFERENCE           PRISON_MUSIC_6
+LANG_ENGLISH       "Pali diesel, pali kości dinozaurów"
+
+REFERENCE           PRISON_MUSIC_7
+LANG_ENGLISH       "Spływa rzeka aż do cichego brzegu"
+
+REFERENCE           PRISON_MUSIC_8
+LANG_ENGLISH       "A potem dosiada się do watahy psów"
+
+REFERENCE           PRISON_MUSIC_9
+LANG_ENGLISH       "Zamierzam przebić się przez rdzewiejącą klatkę"
+
+REFERENCE           DIE_INTRO_1
+LANG_ENGLISH       "^1Stucklinger^7: Nie rozumiem.\n^1Richtofen^7: *niewyraźne*"
+
+REFERENCE           DIE_INTRO_2
+LANG_ENGLISH       "^1Stucklinger^7: Dlaczego to? Dlaczego ja?"
+
+REFERENCE           DIE_INTRO_3
+LANG_ENGLISH       "^1Stucklinger^7: Dokąd idziesz? Nie rozumiesz? Nic już nie zostało!"
+
+REFERENCE           DIE_INTRO_4
+LANG_ENGLISH       "^1Stucklinger^7: Och... jak to...?\n^1Richtofen^7: *niewyraźne*"
+
+REFERENCE           DIE_INTRO_5
+LANG_ENGLISH       "^1Stucklinger^7: Co? Co znaczy 'naprawić rozdarcie'?\n^1Richtofen^7: *niewyraźne*"
+
+REFERENCE           DIE_INTRO_6
+LANG_ENGLISH       "^1Stucklinger^7: Nie, nie chcę tego zrobić. Myślałeś o tym?\n^1Richtofen^7: *niewyraźne*"
+
+REFERENCE           DIE_INTRO_7
+LANG_ENGLISH       "^1Stucklinger^7: Hej, nie mów o „ciele”! Jeśli ktoś się dowie, co zrobiłem… zabiją mnie! Cholera!"
+
+REFERENCE           DIE_INTRO_8
+LANG_ENGLISH       "^1Lazman^7: Jeśli chcesz rozmawiać ze swoimi wyimaginowanymi przyjaciółmi, rób to w strefie Z-Free, Stuck!"
+
+REFERENCE           DIE_INTRO_9
+LANG_ENGLISH       "^1Lazman^7: Aaaaaaaa!!!!!"
+
+REFERENCE           DIE_INTRO_10
+LANG_ENGLISH       "^1Misty^7: Głupku! Chodź tutaj! Natychmiast!"
+
+REFERENCE           DIE_INTRO_11
+LANG_ENGLISH       "^1Marlton^7: Szybko! Szybko!"
+
+REFERENCE           DIE_INTRO_12
+LANG_ENGLISH       "^1Stucklinger^7: Co robimy?"
+
+REFERENCE           DIE_INTRO_13
+LANG_ENGLISH       "^1Misty^7: Uzbrój się, znajdź miejsce do obrony i zabij wroga. To wszystko."
+
+REFERENCE           DIE_INTRO_14
+LANG_ENGLISH       "^1Richtofen^7: *niewyraźne*\n^1Stucklinger^7: Nie wiem!"
+
+REFERENCE           DIE_INTRO_15
+LANG_ENGLISH       "^1Marlton^7: Co ty mówisz, Stucklinger? Misty była jasna!"
+
+REFERENCE           DIE_INTRO_16
+LANG_ENGLISH       "^1Richtofen^7: Przyjmij przeznaczenie! Zacznij od nowa!"
+
+REFERENCE           DIE_INTRO_17
+LANG_ENGLISH       "^1Misty^7: Jeśli mamy upaść, to walcząc! Tak!"
+
+REFERENCE           DIE_INTRO_18
+LANG_ENGLISH       "^1Stucklinger^7: Byłeś tu kiedyś?"
+
+REFERENCE           COAST_INTRO_1
+LANG_ENGLISH       "^8George A. Romero^7: Lubię pomysł 'potwora wewnętrznego'. Zombie to my sami."
+
+REFERENCE           COAST_INTRO_2
+LANG_ENGLISH       "^8George A. Romero^7: Zombie to taki potwór z klasy robotniczej."
+
+REFERENCE           COAST_INTRO_3
+LANG_ENGLISH       "^1Trejo^7: Jesteśmy całkowicie otoczeni!"
+
+REFERENCE           COAST_INTRO_4
+LANG_ENGLISH       "^1England^7: Jesteśmy uwięzieni!"
+
+REFERENCE           COAST_INTRO_5
+LANG_ENGLISH       "^1Rooker^7: Do diabła! Przez cały czas o tym marzyłem! Idziemy!"
+
+REFERENCE           COAST_INTRO_6
+LANG_ENGLISH       "^1Sarah^7: Wszyscy… do pracy."
+
+REFERENCE           COAST_INTRO_7
+LANG_ENGLISH       "^1Actor^7: Boże, chybiłem znowu!"
+
+REFERENCE           COAST_INTRO_8
+LANG_ENGLISH       "^8George A. Romero^7: O cholera... Cięcie! Nie widzisz?!"
+
+REFERENCE           COAST_INTRO_9
+LANG_ENGLISH       "^8George A. Romero^7: Tak to się robi."
+
+REFERENCE           COAST_INTRO_10
+LANG_ENGLISH       "^1England^7: Aaaa!"
+
+REFERENCE           COAST_INTRO_11
+LANG_ENGLISH       "^8George A. Romero^7: No widzisz?"
+
+REFERENCE           COAST_INTRO_12
+LANG_ENGLISH       "^1Trejo^7: Nie, tak się to robi."
+
+REFERENCE           COAST_INTRO_13
+LANG_ENGLISH       "^1England^7: Aaaa, Danny!"
+
+REFERENCE           COAST_INTRO_14
+LANG_ENGLISH       "^1Sarah^7: Tak właśnie się to robi!"
+
+REFERENCE           COAST_INTRO_15
+LANG_ENGLISH       "^8George A. Romero^7: Wracaj szybko do charakteryzacji. Wcale nie wyglądasz jak trup!"
+
+REFERENCE           COAST_INTRO_16
+LANG_ENGLISH       "^1Actor^7: No to chodźmy."
+
+REFERENCE           COAST_INTRO_17
+LANG_ENGLISH       "^1Rooker^7: Nie było tego w scenariuszu."
+
+REFERENCE           COAST_INTRO_18
+LANG_ENGLISH       "Michael Rooker"
+
+REFERENCE           COAST_INTRO_19
+LANG_ENGLISH       "^1Trejo^7: Piszę nowy scenariusz: 'Robak! Worek! Masakra!'"
+
+REFERENCE           COAST_INTRO_20
+LANG_ENGLISH       "Danny Trejo"
+
+REFERENCE           COAST_INTRO_21
+LANG_ENGLISH       "^1England^7: To jest prawdziwy koszmar!"
+
+REFERENCE           COAST_INTRO_22
+LANG_ENGLISH       "Robert England"
+
+REFERENCE           COAST_INTRO_23
+LANG_ENGLISH       "^1Sarah^7: Chodźmy, zabijmy tych zombie!"
+
+REFERENCE           COAST_INTRO_24
+LANG_ENGLISH       "Sarah Michelle Gellar"
+
+REFERENCE           ISLAND_OUTRO_1
+LANG_ENGLISH       "^1Takeo 1.0^7: Twoje oczy... Wyglądają znajomo. Jak moje własne."
+
+REFERENCE           ISLAND_OUTRO_2
+LANG_ENGLISH       "^1Takeo^7: Takeo Masaki... Nie spodziewałem się cię tutaj spotkać."
+
+REFERENCE           ISLAND_OUTRO_3
+LANG_ENGLISH       "^1Takeo 1.0^7: Byłem wojownikiem... walczyłem w wielu wielkich bitwach dla chwały naszej ojczyzny..."
+
+REFERENCE           ISLAND_OUTRO_4
+LANG_ENGLISH       "^1Takeo 1.0^7: Dla honoru umierającej duszy samurajów. Byłem bohaterem."
+
+REFERENCE           ISLAND_OUTRO_5
+LANG_ENGLISH       "^1Takeo^7: Dzielę tę pamięć. Przeżyłem wiele podobnych zwycięstw."
+
+REFERENCE           ISLAND_OUTRO_6
+LANG_ENGLISH       "^1Takeo 1.0^7: Później dowiedziałem się, że moje zwycięstwa... nie były pożądane."
+
+REFERENCE           ISLAND_OUTRO_7
+LANG_ENGLISH       "^1Takeo 1.0^7: Jego zdrada była z powodu drobnej zazdrości. Wiedział, że potrafię wszystko wytrzymać, nawet śmierć!"
+
+REFERENCE           ISLAND_OUTRO_8
+LANG_ENGLISH       "^1Takeo^7: Kara jest jedna. To... okrutne."
+
+REFERENCE           ISLAND_OUTRO_9
+LANG_ENGLISH       "^1Takeo^7: Czy ktoś jest aż tak zły, by życzyć innym takiego cierpienia? Czy wśród nas jest ktoś tak bezhonorny?!"
+
+REFERENCE           ISLAND_OUTRO_10
+LANG_ENGLISH       "^1Takeo 1.0^7: Czyś jesteś ślepy na własną lojalność? Rozkaz pochodzi... bezpośrednio od cesarza!"
+
+REFERENCE           ISLAND_OUTRO_11
+LANG_ENGLISH       "^1Takeo^7: Moje życie... Moja ścieżka... zbudowane na kłamstwie."
+
+REFERENCE           ISLAND_OUTRO_12
+LANG_ENGLISH       "^1Takeo^7: Ten świat... może być skażony i pochłonięty przez zło. Ale mamy moc, by zmienić rzeczy."
+
+REFERENCE           ISLAND_OUTRO_13
+LANG_ENGLISH       "^1Takeo^7: Lepsze jutro... można osiągnąć tylko rozwiewając popiół przeszłości."
+
+REFERENCE           ISLAND_OUTRO_14
+LANG_ENGLISH       "^1Takeo 1.0^7: Nikt nie wybiera, jak nas znajdzie litość."
+
+REFERENCE           ISLAND_OUTRO_15
+LANG_ENGLISH       "^1Takeo 1.0^7: ...Ale ja jestem spokojny."
+
+REFERENCE           ISLAND_OUTRO_16
+LANG_ENGLISH       "^1Takeo 1.0^7: Wiem, co muszę zrobić."
+
+REFERENCE           ISLAND_OUTRO_17
+LANG_ENGLISH       "^1Takeo 1.0^7: ...Czy zostaniesz moim kata?"
+
+REFERENCE           ISLAND_OUTRO_18
+LANG_ENGLISH       "^1Takeo^7: To... zaszczyt!"
+
+REFERENCE           ISLAND_OUTRO_19
+LANG_ENGLISH       "^1Dempsey^7: Trzech skończyło, teraz twoja kolej, Nikolai."
+
+REFERENCE           ISLAND_OUTRO_20
+LANG_ENGLISH       "^1Richtofen^7: Nie. Jeszcze mam do zrobienia coś ważnego. Musimy wywołać reakcję łańcuchową."
+
+REFERENCE           STALINGRAD_OUTRO_1
+LANG_ENGLISH       "^1Nikolai 1.0^7: Myślisz, że teraz możesz mnie zabić?!"
+
+REFERENCE           STALINGRAD_OUTRO_2
+LANG_ENGLISH       "^1Nikolai^7: Przykro mi, Nikolai. Chciałbym, żeby było inaczej."
+
+REFERENCE           STALINGRAD_OUTRO_3
+LANG_ENGLISH       "^1Nikolai^7: Ale w sercu dzielimy ten sam ból."
+
+REFERENCE           STALINGRAD_OUTRO_4
+LANG_ENGLISH       "^1Nikolai^7: Ten ból, który ukrywasz, zamykając się w alkoholu!"
+
+REFERENCE           STALINGRAD_OUTRO_5
+LANG_ENGLISH       "^1Nikolai^7: Tak, ból z własnych wspomnień!"
+
+REFERENCE           STALINGRAD_OUTRO_6
+LANG_ENGLISH       "^1Nikolai^7: Kochałeś i straciłeś... reszta to tylko ucieczka od bólu."
+
+REFERENCE           STALINGRAD_OUTRO_7
+LANG_ENGLISH       "^1Nikolai^7: Wiesz, o czym mówię, pamiętasz, zanim spadła bomba... zanim ją zabrali."
+
+REFERENCE           STALINGRAD_OUTRO_8
+LANG_ENGLISH       "^1Nikolai 1.0^7: Jest powód, dla którego zapominamy!"
+
+REFERENCE           STALINGRAD_OUTRO_9
+LANG_ENGLISH       "^1Richtofen^7: To koniec."
+
+REFERENCE           STALINGRAD_OUTRO_10
+LANG_ENGLISH       "^1Richtofen^7: Dusze zostały zebrane, Maxis."
+
+REFERENCE           STALINGRAD_OUTRO_11
+LANG_ENGLISH       "^1Richtofen^7: Do zobaczenia... wkrótce."
+
+REFERENCE           CASTLE_OUTRO_1
+LANG_ENGLISH         "^1Richtofen^7: On jeszcze żyje."
+
+REFERENCE           CASTLE_OUTRO_2 
+LANG_ENGLISH         "^1Dempsey^7: Mam nadzieję, kurwa."
+
+REFERENCE           CASTLE_OUTRO_3
+LANG_ENGLISH         "^1Richtofen^7: Ten artefakt kiedyś spowoduje chaos w całym wszechświecie. Nie możemy go zostawić przy życiu."
+
+REFERENCE           CASTLE_OUTRO_4
+LANG_ENGLISH         "^1Dempsey^7: O kurwa! To nie tak miało być!"
+
+REFERENCE           CASTLE_OUTRO_5
+LANG_ENGLISH         "^1Dempsey^7: Mieliśmy zabezpieczyć paczkę i szybko się stąd wynieść!"
+
+REFERENCE           CASTLE_OUTRO_6
+LANG_ENGLISH         "^1Dempsey^7: Zamiast tego jedna katastrofa goni drugą."
+
+REFERENCE           CASTLE_OUTRO_7
+LANG_ENGLISH         "^1Dempsey^7: Nie powinienem był ci ufać, Richtofen! Nigdy!"
+
+REFERENCE           CASTLE_OUTRO_8
+LANG_ENGLISH         "^1Richtofen^7: Powinieneś mi ufać, Dempsey. Wszyscy powinni."
+
+REFERENCE           CASTLE_OUTRO_9
+LANG_ENGLISH         "^1Richtofen^7: Ten artefakt ma moc przechowywania duszy obiektu, twojej duszy."
+
+REFERENCE           CASTLE_OUTRO_10
+LANG_ENGLISH         "^1Richtofen^7: Ale może to zrobić tylko po śmierci. Tak jak zrobiłeś to z moim drugim ja."
+
+REFERENCE           CASTLE_OUTRO_11
+LANG_ENGLISH         "^1Dempsey^7: Więc dlatego klęczałeś przy swoim trupie!"
+
+REFERENCE           CASTLE_OUTRO_12
+LANG_ENGLISH         "^1Richtofen^7: To jedyny sposób."
+
+REFERENCE           CASTLE_OUTRO_13
+LANG_ENGLISH         "^1Dempsey^7: Poczekaj! Jeśli ktoś ma umrzeć, by uratować wszechświat, to ja."
+
+REFERENCE           CASTLE_OUTRO_14
+LANG_ENGLISH         "^1Dempsey^7: Miło było cię poznać, Tank."
+
+ENDMARKER

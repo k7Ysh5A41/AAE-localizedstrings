@@ -1,0 +1,338 @@
+// Note to translators:
+// Just edit the text inside the quotes, don't edit other code
+
+VERSION             "1"
+CONFIG              "C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           PLAYERMONITOR
+LANG_ENGLISH     "他のプレイヤーの視点"
+
+REFERENCE           PLAYERMONITOR_DOA
+LANG_ENGLISH     "他のプレイヤーの視点（空から地面への視点）"
+
+REFERENCE           WALLBUY
+LANG_ENGLISH     "ウォールバイヒントを無効化"
+
+REFERENCE           PLAYER_HPBAR
+LANG_ENGLISH     "プレイヤー上部の体力バーを無効化"
+
+REFERENCE           SMOKE
+LANG_ENGLISH     "銃口の煙トレイルを無効化"
+
+REFERENCE           KICK
+LANG_ENGLISH     "新しいCoD武器の追加反動を無効化"
+
+REFERENCE           DISABLE_AFK
+LANG_ENGLISH     "AFKを無効化"
+
+REFERENCE           BGB_DROP
+LANG_ENGLISH     "ゴブルガムパワーアップのドロップ"
+
+REFERENCE           FPS
+LANG_ENGLISH     "低画質"
+
+REFERENCE           SM
+LANG_ENGLISH     "自分の移動速度を表示"
+
+REFERENCE           AAT
+LANG_ENGLISH     "AATを無効化"
+
+REFERENCE           ADS
+LANG_ENGLISH     "ADSズームなし"
+
+REFERENCE           T6PAP
+LANG_ENGLISH     "BO2パックアパンチ"
+
+REFERENCE           GRENADE_BAR
+LANG_ENGLISH     "グレネードカウントダウンを無効化"
+
+REFERENCE           LH_GES
+LANG_ENGLISH     "左手ジェスチャーを無効化"
+
+REFERENCE           FSF
+LANG_ENGLISH     "全画面フラッシュを無効化"
+
+REFERENCE           FSFB
+LANG_ENGLISH     "全画面フラッシュの色を黒に反転"
+
+REFERENCE           RESTART_HINT
+LANG_ENGLISH     "ポーズメニューを開いてリスタート可能"
+
+REFERENCE           BACKHEAD
+LANG_ENGLISH     "頭の後ろ"
+
+REFERENCE           UICOLOR
+LANG_ENGLISH     "UIカラー"
+
+REFERENCE           LIGHTBLUE
+LANG_ENGLISH     "ライトブルー"
+
+REFERENCE           SILVER
+LANG_ENGLISH     "シルバー"
+
+REFERENCE           BROWN
+LANG_ENGLISH     "ブラウン"
+
+REFERENCE           LIGHTPINK
+LANG_ENGLISH     "ライトピンク"
+
+REFERENCE           DARKGRAY
+LANG_ENGLISH     "ダークグレー"
+
+REFERENCE           FORESTGREEN
+LANG_ENGLISH     "フォレストグリーン"
+
+REFERENCE           DARKRED
+LANG_ENGLISH     "ダークレッド"
+
+REFERENCE           VIOLET
+LANG_ENGLISH     "バイオレット"
+
+REFERENCE           SKYBLUE
+LANG_ENGLISH     "スカイブルー"
+
+REFERENCE           ROYALBLUE
+LANG_ENGLISH     "ロイヤルブルー"
+
+REFERENCE           KHAKI
+LANG_ENGLISH     "カーキ"
+
+REFERENCE           DEEPPINK
+LANG_ENGLISH     "ディープピンク"
+
+REFERENCE           STEELBLUE
+LANG_ENGLISH     "スチールブルー"
+
+REFERENCE           MINTCREAM
+LANG_ENGLISH     "ミントクリーム"
+
+REFERENCE           BEIGE
+LANG_ENGLISH     "ベージュ"
+
+REFERENCE           OLDLACE
+LANG_ENGLISH     "オールドレース"
+
+REFERENCE           LIGHTGRAY
+LANG_ENGLISH     "ライトグレー"
+
+REFERENCE           SLATEGRAY
+LANG_ENGLISH     "スレートグレー"
+
+REFERENCE           THISTLE
+LANG_ENGLISH     "シスル"
+
+REFERENCE           DARKVIOLET
+LANG_ENGLISH     "ダークバイオレット"
+
+REFERENCE           FORESTGREEN
+LANG_ENGLISH     "フォレストグリーン"
+
+REFERENCE           LIGHTSLATEGRAY
+LANG_ENGLISH     "ライトスレートグレー"
+
+REFERENCE           DARKSLATEBLUE
+LANG_ENGLISH     "ダークスレートブルー"
+
+REFERENCE           DARKRED
+LANG_ENGLISH     "ダークレッド"
+
+REFERENCE           NAVY
+LANG_ENGLISH     "ネイビー"
+
+REFERENCE           TEAL
+LANG_ENGLISH     "ティール"
+
+REFERENCE           OLIVE
+LANG_ENGLISH     "オリーブ"
+
+REFERENCE           PURPLE
+LANG_ENGLISH     "パープル"
+
+REFERENCE           SEASHELL
+LANG_ENGLISH     "シーシェル"
+
+REFERENCE           SIENNA
+LANG_ENGLISH     "シエナ"
+
+REFERENCE           ORANGERED
+LANG_ENGLISH     "オレンジレッド"
+
+REFERENCE           FLOD
+LANG_ENGLISH     "高LOD描画を強制"
+
+REFERENCE           BB
+LANG_ENGLISH     "黒いバーを無効化"
+
+REFERENCE           STARTINTRO
+LANG_ENGLISH     "開始イントロを無効化"
+
+REFERENCE           STARTHINT
+LANG_ENGLISH     "開始ヒントを無効化"
+
+REFERENCE           LOADING
+LANG_ENGLISH     "ソロロード画面ムービーを無効化"
+
+REFERENCE           LOWAMMO
+LANG_ENGLISH     "弾切れ音を無効化"
+
+REFERENCE           HINTICON
+LANG_ENGLISH     "ヒントアイコンを無効化"
+
+REFERENCE           PERKSLOT
+LANG_ENGLISH     "パークスロットパワーアップドロップ"
+
+REFERENCE           RELOADPROMPT
+LANG_ENGLISH     "リロードプロンプトを無効化"
+
+REFERENCE           PERKSLOT_SELF
+LANG_ENGLISH     "自分のみに追加"
+
+REFERENCE           PERKSLOT_ALL
+LANG_ENGLISH     "全員に追加"
+
+REFERENCE           SEEWALL
+LANG_ENGLISH     "壁越しプレイヤー名表示を無効化"
+
+REFERENCE           LASTZOMBIE
+LANG_ENGLISH     "ラストゾンビキーラインを無効化"
+
+REFERENCE           TOMBNAME
+LANG_ENGLISH     "オリジンズ巨人ロボット名を無効化"
+
+REFERENCE           ZA
+LANG_ENGLISH     "ゾーンアナウンサーを無効化（現在地）"
+
+REFERENCE           SELFHP
+LANG_ENGLISH     "自分の体力バーを無効化"
+
+REFERENCE           LAUNCHER_LOCK
+LANG_ENGLISH     "ロケットランチャーロックを無効化"
+
+REFERENCE           POINTS_COLOR
+LANG_ENGLISH     "スコアカラーをUIカラーで上書き（再起動必要）"
+
+REFERENCE           HIGHROUND_TIMER
+LANG_ENGLISH     "ゲーム内タイマー"
+
+REFERENCE           CURRENT
+LANG_ENGLISH     "現在"
+
+REFERENCE           LAST
+LANG_ENGLISH     "最後"
+
+REFERENCE           HITM_STAY_M
+LANG_ENGLISH     "小さいヒットマーカー"
+
+REFERENCE           ZCPERK
+LANG_ENGLISH     "ZCマップで追加パークマシンとPAPを無効化（再起動必要）"
+
+REFERENCE           NOPES
+LANG_ENGLISH     "MoonでP.E.S.に触れない"
+
+REFERENCE           PAPBOX
+LANG_ENGLISH     "Papされたミステリーボックス（AF＆50EE必要）"
+
+REFERENCE           MOTIONUI
+LANG_ENGLISH     "モーションUI"
+
+REFERENCE           MOTIONUI_1
+LANG_ENGLISH     "反転 / 移動"
+
+REFERENCE           MOTIONUI_2
+LANG_ENGLISH     "反転 / 移動（逆）"
+
+REFERENCE           MOTIONUI_3
+LANG_ENGLISH     "移動"
+
+REFERENCE           MOTIONUI_4
+LANG_ENGLISH     "反転"
+
+REFERENCE           MOTIONUI_INTENSITY
+LANG_ENGLISH     "モーションUIの強さ"
+
+REFERENCE           NO_SUPPORT_LINE1
+LANG_ENGLISH     "^1サポートされていないバージョンを検出\n^3以下を確認してください^7:"
+
+REFERENCE           NO_SUPPORT_LINE2
+LANG_ENGLISH     "\n\n\n^21^7. Steamクライアント^BBUTTON_CYCLE_RIGHT^でBlack Ops IIIを起動していますか？（非Steamゲームは無視）"
+
+REFERENCE           NO_SUPPORT_LINE3
+LANG_ENGLISH     "\n\n\n\n^22^7. 現在のSteamアカウント^BBUTTON_CYCLE_RIGHT^でBlack Ops IIIを購入済みですか？"
+
+REFERENCE           NO_SUPPORT_LINE4
+LANG_ENGLISH     "\n\n\n\n\n^23^7. 現在、以下のデバイスまたはOSを使用していますか？ ^5Windows 10 ^7/ ^5Windows 11 ^7/ ^5Steam Deck ^7/ ^5Linux ^7"
+
+REFERENCE           MWZCOLOR
+LANG_ENGLISH     "BO6チームカラー（再起動必要）"
+
+REFERENCE           AMMOBAG
+LANG_ENGLISH     "2ラウンドごとに出現する弾薬袋を無効化"
+
+REFERENCE           SLOTHUD
+LANG_ENGLISH     "パークスロットHUDを無効化"
+
+REFERENCE           STABAR
+LANG_ENGLISH     "スタミナバーを無効化"
+
+REFERENCE           AUTOLEAN
+LANG_ENGLISH     "自動リーンを無効化"
+
+REFERENCE           BGB_START
+LANG_ENGLISH     "ゴブルガム開始ラウンド"
+
+REFERENCE           C4ENDING
+LANG_ENGLISH     "C4購入可能エンディング（150K+ / ラウンド35）"
+
+REFERENCE           GUNPOS
+LANG_ENGLISH     "一人称腕モデルの位置"
+
+REFERENCE           GUNPOS_ENABLE
+LANG_ENGLISH     "カスタム一人称腕モデル位置を有効化"
+
+REFERENCE           T7HUD
+LANG_ENGLISH     "HUDレイアウト（再起動必要）"
+
+REFERENCE           TIPHINT
+LANG_ENGLISH     "ヒントおよびソウルカウンターを無効化"
+
+REFERENCE           BARSPIN
+LANG_ENGLISH     "フラットUI（再起動必要）"
+
+REFERENCE           T7
+LANG_ENGLISH     "バニラ"
+
+REFERENCE           T10
+LANG_ENGLISH     "中央パークアイコン"
+
+REFERENCE           NOATTACHMENT  
+LANG_ENGLISH    "添付ファイルなし"  
+
+REFERENCE           HUDMOVEMENT
+LANG_ENGLISH        "HUDの揺れを無効にする"
+
+REFERENCE           BATTLECHAT
+LANG_ENGLISH        "プレイヤーのチャット字幕を無効にする"
+
+REFERENCE           IE_OVERLAY
+LANG_ENGLISH        "アイドル状態の目フィルターを無効にする"
+
+REFERENCE           HPBAR_RANDOM_NAMES
+LANG_ENGLISH        "ランダムな名前を有効にして使用する"
+
+REFERENCE           PLAYER_HEALTHBAR
+LANG_ENGLISH        "プレイヤーの頭上に体力バーを表示"
+
+REFERENCE           BGB_NOULTRA
+LANG_ENGLISH        "有効（ウルトラレアなし）"
+
+REFERENCE           RELOADCANCEL
+LANG_ENGLISH        "手動リロードキャンセルを無効にする"
+
+REFERENCE           TRIGGER_MARKER
+LANG_ENGLISH        "トリガーマーカーを無効にする"
+
+REFERENCE           SHOTGUN_GIB
+LANG_ENGLISH        "ショットガンの破片を無効にする"
+
+ENDMARKER

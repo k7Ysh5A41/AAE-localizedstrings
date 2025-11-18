@@ -1,0 +1,332 @@
+// Note to translators:
+// Just edit the text inside the quotes, don't edit other code
+
+VERSION             "1"
+CONFIG              "C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           DISCORD_INVITE
+LANG_ENGLISH     "Erstelle eine Spieleinladung"
+
+REFERENCE           DISCORD_INVITE_DESC
+LANG_ENGLISH     "Bitte wählen Sie aus den folgenden Optionen und der Prozess startet unmittelbar nach der Auswahl"
+
+REFERENCE           DISCORD_INVITE_OPTION1
+LANG_ENGLISH     "Erstelle einen Einladungslink und sende ihn zum AAE Discord Server"
+
+REFERENCE           DISCORD_INVITE_OPTION2
+LANG_ENGLISH     "Erstelle einen Einladungslink und zeige ihn in Ihrem Browser zum Kopieren an"
+
+REFERENCE           SEND_INVITE_TOAST_HEAD1
+LANG_ENGLISH     "Bitte versuchen Sie es später erneut"
+
+REFERENCE           SEND_INVITE_TOAST_HEAD2
+LANG_ENGLISH     "Andere Spieler werden Ihre Einladung später sehen!"
+
+REFERENCE           SEND_INVITE_TOAST_HEAD3
+LANG_ENGLISH     "Einladungsfunktion wird initialisiert"
+
+REFERENCE           SEND_INVITE_TOAST_HEAD4
+LANG_ENGLISH     "Sie stellen zu viele Anfragen"
+
+REFERENCE           SEND_INVITE_TOAST_FOOT1
+LANG_ENGLISH     "Einladung nicht möglich"
+
+REFERENCE           SEND_INVITE_TOAST_FOOT2
+LANG_ENGLISH     "Bitte versuchen Sie es später erneut"
+
+REFERENCE           CREATE_INVITE_TOAST_HEAD1
+LANG_ENGLISH     "Einladungslink wurde an den Browser gesendet"
+
+REFERENCE           CREATE_INVITE_TOAST_FOOT1
+LANG_ENGLISH     "Link erstellt"
+
+REFERENCE           CREATE_INVITE_TOAST_HEAD2
+LANG_ENGLISH     "Link konnte nicht erstellt werden"
+
+REFERENCE           CAREERS
+LANG_ENGLISH     "^3AAE KARRIEREN"
+
+REFERENCE           BANK_BALANCE
+LANG_ENGLISH     "Bankguthaben"
+
+REFERENCE           PARASITE
+LANG_ENGLISH     "Parasit"
+
+REFERENCE           HIGHEST
+LANG_ENGLISH     "Höchster "
+
+REFERENCE           EE_COUNT
+LANG_ENGLISH     "Osterei-Anzahl"
+
+REFERENCE           BOARD_COUNT
+LANG_ENGLISH     "Brett-Anzahl"
+
+REFERENCE           PICKUP
+LANG_ENGLISH     " Aufgehoben"
+
+REFERENCE           BUILDABLES_COUNT
+LANG_ENGLISH     "Bauobjekt-Anzahl"
+
+REFERENCE           PLANTED
+LANG_ENGLISH     " Gepflanzt"
+
+REFERENCE           POWER_ON_COUNT
+LANG_ENGLISH     "Strom-Einschaltungen"
+
+REFERENCE           USES
+LANG_ENGLISH     " Verwendungen"
+
+REFERENCE           MEATBALLS
+LANG_ENGLISH     "Fleischbällchen"
+
+REFERENCE           WUNDERFIZZ
+LANG_ENGLISH     "Wunderfizz"
+
+REFERENCE           GRABBED
+LANG_ENGLISH     " Gegriffen"
+
+REFERENCE           WALLBUY_PURCHASED
+LANG_ENGLISH     "Wandkauf Getätigt"
+
+REFERENCE           NOT_GRAABED
+LANG_ENGLISH     " Nicht Gegriffen"
+
+REFERENCE           DIED_REVIVE
+LANG_ENGLISH     "Starb beim Wiederbeleben eines Spielers"
+
+REFERENCE           WALLBUY_PAP_AMMO
+LANG_ENGLISH     "PaP-Munition an der Wand gekauft"
+
+REFERENCE           AAT
+LANG_ENGLISH     "AAT Auslösungen"
+
+REFERENCE           DOWN_REVIVE
+LANG_ENGLISH     "Nach Wiederbelebung eines Spielers zu Boden gegangen"
+
+REFERENCE           WALLBUY_AMMO
+LANG_ENGLISH     "Munition an der Wand gekauft"
+
+REFERENCE           BGB
+LANG_ENGLISH     " Gekaut"
+
+REFERENCE           SAVE
+LANG_ENGLISH     "Ihre Karrieredaten werden gespeichert"
+
+REFERENCE           GAMBLER_DESC
+LANG_ENGLISH     "Nach dem Kauf gibt es einen 10-Sekunden-Countdown, dann passieren zufällige Dinge, manche gut, manche schlecht, manche interessant, viele Möglichkeiten."
+
+REFERENCE           DISCORD_INVITE_OPTION0
+LANG_ENGLISH     "Aktualisieren und füge den 'Spiel Beitreten'-Button zu deinem Discord-Profil hinzu"
+
+REFERENCE           RPC_TOAST_FOOT1
+LANG_ENGLISH     "Button konnte nicht aktualisiert werden"
+
+REFERENCE           RPC_TOAST_HEAD2
+LANG_ENGLISH     "Der Beitreten-Button wird aktualisiert"
+
+REFERENCE           RAINBOW_EYE_DESC
+LANG_ENGLISH     "Zombie-Augäpfel verwandeln sich in Regenbögen"
+
+REFERENCE           CHAT_HELP
+LANG_ENGLISH     "Tippe ^3/?^7 im Chat, um alle verfügbaren Chat-Befehle zu erhalten."
+
+REFERENCE           OUT_OF_BOUNDS
+LANG_ENGLISH     "^1AUßERHALB DER GRENZEN"
+
+REFERENCE           PAP_BUSY
+LANG_ENGLISH     "Pack-a-Punch ist Beschäftigt"
+
+REFERENCE           PAP_OCTOBOMB
+LANG_ENGLISH     "Sie können jetzt ^3[{+melee}]^7 drücken, um Pack-a-Punch auf Nur-Li'l-Arnie-Mode umzuschalten"
+
+REFERENCE           PAP_MONKEY
+LANG_ENGLISH     "Sie können jetzt ^3[{+melee}]^7 drücken, um Pack-a-Punch auf Nur-Zimbel-Affe-Mode umzuschalten"
+
+REFERENCE           PAP_ONLY_ACCEPTS
+LANG_ENGLISH     "Pack-a-Punch akzeptiert jetzt nur noch "
+
+REFERENCE           PAP_NOT_ACCEPTS
+LANG_ENGLISH     "Pack-a-Punch akzeptiert keine "
+
+REFERENCE           AFK
+LANG_ENGLISH     "AFK"
+
+REFERENCE           AFK_DESC
+LANG_ENGLISH     "Zombies ignorieren Sie currently und andere Spieler können Sie stoßen."
+
+REFERENCE           PAP_OR_NORMAL
+LANG_ENGLISH     "PaP oder Normal"
+
+REFERENCE           PAP_AND_NORMAL
+LANG_ENGLISH     "PaP und Normal"
+
+REFERENCE           THROW_CANCLE
+LANG_ENGLISH     " / Wurfgegenstand Abbrechen"
+
+REFERENCE           IMMUNE
+LANG_ENGLISH     "Immun"
+
+REFERENCE           RAMPAGE
+LANG_ENGLISH     "Rampage-Induktor"
+
+REFERENCE           VOID
+LANG_ENGLISH     "Dämonentor"
+
+REFERENCE           FIRE
+LANG_ENGLISH     "Runengefängnis"
+
+REFERENCE           LIGHTING
+LANG_ENGLISH     "Sturm"
+
+REFERENCE           WOLF
+LANG_ENGLISH     "Wolfheulen"
+
+REFERENCE           DEACTIVATE
+LANG_ENGLISH     "Deaktivieren"
+
+REFERENCE           GAMBLER
+LANG_ENGLISH     "Spieler"
+
+REFERENCE           MATCHMAKING_SETTINGS
+LANG_ENGLISH     "MATCHMAKING-PRÄFERENZEN"
+
+REFERENCE           MATCHMAKING_CREATE
+LANG_ENGLISH     "Nur Lobby erstellen"
+
+REFERENCE           MATCHMAKING_JOIN
+LANG_ENGLISH     "Lobby beitreten / erstellen"
+
+REFERENCE           INVITEDISCORD
+LANG_ENGLISH     "Einladen über Discord"
+
+REFERENCE           RESTARTHINT
+LANG_ENGLISH     "Drücke &&1 ^1&&2^7 Mal, um die Karte neu zu starten"
+
+REFERENCE           RESTARTING
+LANG_ENGLISH     "Neustart......"
+
+REFERENCE           NORAMPAGE
+LANG_ENGLISH     "Rampage-Induktor deaktivieren"
+
+REFERENCE           RANDOM_MAP
+LANG_ENGLISH     "ZUFÄLLIGER KARTENWECHSEL"
+
+REFERENCE           COPYLOBBYID
+LANG_ENGLISH     "Lobby-ID in die Zwischenablage kopieren"
+
+REFERENCE           JOINLOBBYID
+LANG_ENGLISH     "Beitreten über Zwischenablage"
+
+REFERENCE           LINKCOPY
+LANG_ENGLISH     "Einladungslink kopiert"
+
+REFERENCE           LOBBYIDCOPY
+LANG_ENGLISH     "Lobby-ID kopiert"
+
+REFERENCE           DISCORDRUN
+LANG_ENGLISH     "Discord-App muss im Hintergrund laufen"
+
+REFERENCE           DOWNLOAD_MAP_FROM_CLIPBOARD
+LANG_ENGLISH     "Karte aus Zwischenablage herunterladen"
+
+REFERENCE           DOWNLOAD_MAP_FROM_CLIPBOARD_TITLE
+LANG_ENGLISH     "Überprüfen Sie Ihre Steam-Download-Liste"
+
+REFERENCE           DOWNLOAD_MAP_FROM_CLIPBOARD_DESC
+LANG_ENGLISH     "Anfordern neuer Karten......"
+
+REFERENCE           DOWNLOAD_MAP_FROM_CLIPBOARD_ERROR_TITLE
+LANG_ENGLISH     "Fügen Sie die korrekte Karten-ID ein"
+
+REFERENCE           DOWNLOAD_MAP_FROM_CLIPBOARD_ERROR_DESC
+LANG_ENGLISH     "Falsche Karten-ID"
+
+REFERENCE           DOWNLOAD_MAP_FROM_CLIPBOARD_INSTALLED_TITLE
+LANG_ENGLISH     "Diese Karte wurde nun installiert"
+
+REFERENCE           VIDEOPLAYER
+LANG_ENGLISH     "KARTENKINEMATIK"
+
+REFERENCE           OUTRO_CAPS
+LANG_ENGLISH     "OUTRO"
+
+REFERENCE           OUTRO
+LANG_ENGLISH     "Outro"
+
+REFERENCE           ISLAND_LOAD_AA_GUN
+LANG_ENGLISH     "Halten Sie ^3[{+activate}]^7, um die Flugabwehrkanone zu laden"
+
+REFERENCE           ISLAND_FIRE_AA_GUN
+LANG_ENGLISH     "Halten Sie ^3[{+activate}]^7, um die Flugabwehrkanone abzufeuern"
+
+REFERENCE           NEED_UPDATE
+LANG_ENGLISH     "Neues AAE-Update gefunden!\nSie müssen AAE erneut abonnieren, wenn Sie Updates erhalten und mit anderen Spielern online spielen möchten"
+
+REFERENCE           QUIT
+LANG_ENGLISH        "Zum Desktop beenden"
+
+REFERENCE           BOOKMARKER
+LANG_ENGLISH        "Lesezeichen"
+
+REFERENCE           ADDBOOKMARKER
+LANG_ENGLISH        "Zu Favoriten hinzugefügt"
+
+REFERENCE           REMOVEBOOKMARKER
+LANG_ENGLISH        "Lesezeichen entfernt"
+
+REFERENCE           BOOKMARKER_ONLYUSERMAPS
+LANG_ENGLISH        "Nur benutzerdefinierte Karten"
+
+REFERENCE           BOOKMARKER_ERROR
+LANG_ENGLISH        "Aktion konnte nicht ausgeführt werden"
+
+REFERENCE           OPENINSTEAM
+LANG_ENGLISH        "In ^BBUTTON_CYCLE_RIGHT^ öffnen"
+
+REFERENCE           OPENINSTEAMCURRENTMAP
+LANG_ENGLISH        "Aktuelle Karte in ^BBUTTON_CYCLE_RIGHT^ öffnen"
+
+REFERENCE           ISLAND_RAINBOW_WATER
+LANG_ENGLISH        "HALTE ^3[{+activate}]^7, um das Regenbogen-115-Wasser aufzuheben"
+
+REFERENCE           ISLAND_RAINBOW_WATER_TITLE
+LANG_ENGLISH        "Regenbogen-115-Wasser"
+
+REFERENCE           UPDATE_ASPECT_RATIO
+LANG_ENGLISH        "Seitenverhältnis aktualisieren"
+
+REFERENCE           LITE_ONLY
+LANG_ENGLISH     "^4Nur kompatibel mit der AAE Lite-Version"
+
+REFERENCE           LOBBY_SIZE
+LANG_ENGLISH        "Klicken, um die Lobbygröße zu ändern"
+
+REFERENCE           DOWNLOAD_MAP_FROM_CLIPBOARD_INSTALLING_TITLE
+LANG_ENGLISH        "Diese Karte wird installiert"
+
+REFERENCE           DOWNLOAD_MAP_FROM_CLIPBOARD_INSTALLING_CONTENT
+LANG_ENGLISH        "Bitte warten"
+
+REFERENCE           DOWNLOAD_MAP_FROM_CLIPBOARD_INSTALLED_CONTENT
+LANG_ENGLISH        "Versuche eine andere Karte"
+
+REFERENCE           DOWNLOAD_MAP_FROM_CLIPBOARD_EMPTY_TITLE
+LANG_ENGLISH        "Bitte kopiere die korrekte Karten-ID in die Zwischenablage"
+
+REFERENCE           DOWNLOAD_MAP_FROM_CLIPBOARD_EMPTY_CONTENT
+LANG_ENGLISH        "Zwischenablage ist leer"
+
+REFERENCE           DOWNLOAD_MAP_FROM_CLIPBOARD_ERROR_DESC2
+LANG_ENGLISH        "Karten-ID nicht gefunden"
+
+REFERENCE           SWITCH_SINGLE_WIELD
+LANG_ENGLISH     "Drücke ^3[{+actionslot 3}]^7, um auf Einhandwaffe zu wechseln"
+
+REFERENCE           RAMPAGE_TOAST
+LANG_ENGLISH     "Raserei-Induktor deaktiviert durch"
+
+REFERENCE           RELOADING
+LANG_ENGLISH     "Nachladen"
+
+ENDMARKER

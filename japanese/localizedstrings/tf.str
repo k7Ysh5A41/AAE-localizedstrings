@@ -1,0 +1,575 @@
+// Note to translators:
+// Just edit the text inside the quotes, don't edit other code
+
+VERSION             "1"
+CONFIG              "C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE            TITLE
+LANG_ENGLISH         "^6TF'S ZOMBIE OPTION PRO"
+
+REFERENCE            SWITCH
+LANG_ENGLISH         "TFゾンビオプションを有効にする/デフォルトにリセットする"
+
+REFERENCE            WEAPON
+LANG_ENGLISH         "武器オプション"
+
+REFERENCE            MYSTERYBOX
+LANG_ENGLISH         "ミステリーボックスフィルター"
+
+REFERENCE            POWERUP
+LANG_ENGLISH         "パワーアップオプション"
+
+REFERENCE            PERK
+LANG_ENGLISH         "パークオプション"
+
+REFERENCE            BGB
+LANG_ENGLISH         "ゴブルガムオプション"
+
+REFERENCE            WEAPON_DESC
+LANG_ENGLISH         "武器オプションメニューを開きます。"
+
+REFERENCE            MYSTERYBOX_DESC
+LANG_ENGLISH         "これらのフィルターを使用すると、カスタムマップの武器を無効にできます。例えば、BO1、BO2などの武器が含まれるマップをプレイして、それらが気に入らない場合、このフィルターはそれらの武器がミステリーボックスに出現するのを防ぎ、BO3の武器のみを表示します。"
+
+REFERENCE            POWERUP_DESC
+LANG_ENGLISH         "パワーアップオプションメニューを開きます。"
+
+REFERENCE            PERK_DESC
+LANG_ENGLISH         "パークオプションメニューを開きます。"
+
+REFERENCE            BGB_DESC
+LANG_ENGLISH         "ゴブルガムオプションメニューを開きます。"
+
+REFERENCE            ZOMBIE
+LANG_ENGLISH         "ゾンビオプション"
+
+REFERENCE            PLAYER
+LANG_ENGLISH         "プレイヤーオプション"
+
+REFERENCE            ROAMER
+LANG_ENGLISH         "Roamerオプション"
+
+REFERENCE            GAME
+LANG_ENGLISH         "ゲームオプション"
+
+REFERENCE            SAVE_H
+LANG_ENGLISH         "SafeArea水平"
+
+REFERENCE            SAVE_V
+LANG_ENGLISH         "SafeArea垂直"
+
+REFERENCE            ZOMBIE_DESC
+LANG_ENGLISH         "ゾンビオプションメニューを開きます。"
+
+REFERENCE            PLAYER_DESC
+LANG_ENGLISH         "プレイヤーオプションメニューを開きます。"
+
+REFERENCE            ROAMER_DESC
+LANG_ENGLISH         "Roamerオプションメニューを開きます。"
+
+REFERENCE            GAME_DESC
+LANG_ENGLISH         "ゲームオプションメニューを開きます。"
+
+REFERENCE            SAVE_H_DESC
+LANG_ENGLISH         "Safeareaの水平範囲を調整します。"
+
+REFERENCE            SAVE_V_DESC
+LANG_ENGLISH         "Safeareaの垂直範囲を調整します。"
+
+REFERENCE            GAMEPLAY
+LANG_ENGLISH         "ゲームプレイ"
+
+REFERENCE            AI
+LANG_ENGLISH         "AI"
+
+REFERENCE            SYSTEM
+LANG_ENGLISH         "システム"
+
+REFERENCE            DEFAULT
+LANG_ENGLISH         "デフォルト"
+
+REFERENCE            SPRINT
+LANG_ENGLISH         "スプリント"
+
+REFERENCE            SUPER_SPRINT
+LANG_ENGLISH         "スーパースプリント"
+
+REFERENCE            KNOCK_BACK
+LANG_ENGLISH         "ノックバック"
+
+REFERENCE            PLAYER_HEALTH_1
+LANG_ENGLISH         "1ヒット（35％）"
+
+REFERENCE            PLAYER_HEALTH_2
+LANG_ENGLISH         "2ヒット（75％）"
+
+REFERENCE            PLAYER_HEALTH_3
+LANG_ENGLISH         "4ヒット（150％）"
+
+REFERENCE            PLAYER_HEALTH_4
+LANG_ENGLISH         "5ヒット（200％）"
+
+REFERENCE            ZOD
+LANG_ENGLISH         "Shadows of Evil"
+
+REFERENCE            FACTORY
+LANG_ENGLISH         "The Giant"
+
+REFERENCE            CASTLE
+LANG_ENGLISH         "Der Eisendrache"
+
+REFERENCE            ISLAND
+LANG_ENGLISH         "Zetsubou No Shima"
+
+REFERENCE            GK
+LANG_ENGLISH         "Gorod Krovi"
+
+REFERENCE            GENESIS
+LANG_ENGLISH         "Revelations"
+
+REFERENCE            KINO
+LANG_ENGLISH         "Kino der Toten"
+
+REFERENCE            TOMB
+LANG_ENGLISH         "Origins"
+
+REFERENCE            LESS
+LANG_ENGLISH         "少ない"
+
+REFERENCE            MORE
+LANG_ENGLISH         "もっと"
+
+REFERENCE            INSANE
+LANG_ENGLISH         "狂気"
+
+REFERENCE            STOOPID
+LANG_ENGLISH         "馬鹿げている"
+
+REFERENCE            INFINITE
+LANG_ENGLISH         "無限"
+
+REFERENCE            UI_30S
+LANG_ENGLISH         "30秒"
+
+REFERENCE            UI_1M
+LANG_ENGLISH         "1分"
+
+REFERENCE            BGB_OFF
+LANG_ENGLISH         "ゴブルガムマシンを無効にする"
+
+REFERENCE            BGB_RDM
+LANG_ENGLISH         "ランダムゴブルガム"
+
+REFERENCE            BGB_FIX
+LANG_ENGLISH         "固定ゴブルガムコスト"
+
+REFERENCE            BGB_COST
+LANG_ENGLISH         "ゴブルガムの基本コスト"
+
+REFERENCE            BGB_LIMIT
+LANG_ENGLISH         "ゴブルガム購入制限"
+
+REFERENCE            BGB_SP
+LANG_ENGLISH         "ショッピングフリーミュージックを無効にする"
+
+REFERENCE            BGB_NT
+LANG_ENGLISH         "無制限のニュートニアンネガション"
+
+REFERENCE            BGB_SP_DESC
+LANG_ENGLISH         "ショッピングフリーミュージックを無効にします。"
+
+REFERENCE            BGB_OFF_DESC
+LANG_ENGLISH         "マップ上のすべてのゴブルガムマシンを無効にします。"
+
+REFERENCE            BGB_RDM_DESC
+LANG_ENGLISH         "ゴブルガムはもはやプレイヤーの装備を使用せず、すべてのゴブルガムのリストからランダムに選択されます。"
+
+REFERENCE            BGB_COST_DESC
+LANG_ENGLISH         "ゴブルガムマシンの基本コスト。"
+
+REFERENCE            BGB_FIX_DESC
+LANG_ENGLISH         "ゴブルガムマシンの固定コスト。"
+
+REFERENCE            BGB_LIMIT_DESC
+LANG_ENGLISH         "ゴブルガムマシンの購入制限。"
+
+REFERENCE            BGB_TITLE
+LANG_ENGLISH         "ゴブルガムオプション"
+
+REFERENCE            ROUND
+LANG_ENGLISH         "スタートラウンド"
+
+REFERENCE            ZC
+LANG_ENGLISH         "ゾンビカウンター有効"
+
+REFERENCE            HITMARKER
+LANG_ENGLISH         "ゾンビヒットマーカー"
+
+REFERENCE            SE
+LANG_ENGLISH         "スコアイベント"
+
+REFERENCE            TIMEPLAY
+LANG_ENGLISH         "時間制ゲームプレイ"
+
+REFERENCE            DOOR
+LANG_ENGLISH         "すべてのドアが開いている状態で開始"
+
+REFERENCE            BOX_ALL
+LANG_ENGLISH         "すべての場所にミステリーボックス"
+
+REFERENCE            POWER
+LANG_ENGLISH         "電源を有効にして開始"
+
+REFERENCE            TRADE
+LANG_ENGLISH         "武器トレード"
+
+REFERENCE            SS
+LANG_ENGLISH         "観戦者スポーン"
+
+REFERENCE            LOCKER
+LANG_ENGLISH         "武器ロッカーと銀行を無効にする"
+
+REFERENCE            DELAY
+LANG_ENGLISH         "ラウンドディレイなし"
+
+REFERENCE            ROUND_DESC
+LANG_ENGLISH         "開始ラウンドを選択します。"
+
+REFERENCE            ZC_DESC
+LANG_ENGLISH         "画面左上にゾンビカウンターを追加して、残りのゾンビの数を表示します。"
+
+REFERENCE            DELAY_DESC
+LANG_ENGLISH         "ラウンド間の遅延を解除します。もちろん、roamerが有効な場合は無意味です。"
+
+REFERENCE            HITMARKER_DESC
+LANG_ENGLISH         "ゾンビにダメージを与えるときにヒットマーカーを表示します。"
+
+REFERENCE            SE_DESC
+LANG_ENGLISH         "まるでCold War Zombiesのように、クロスヘアの隣にスコアの取得方法を表示します。"
+
+REFERENCE            TIMEPLAY_DESC
+LANG_ENGLISH         "タイムドゲームプレイモードを有効にします。アクティブな場合、ゾンビはスポーンを止めず、目標はできるだけ長く持続することです。roamerまたはゾンビカウンターと互換性がありません。"
+
+REFERENCE            DOOR_DESC
+LANG_ENGLISH         "マップ上のすべてのドアを開きます。"
+
+REFERENCE            BOX_ALL_DESC
+LANG_ENGLISH         "ミステリーボックスを一度にすべての可能な場所にスポーンさせます。テディを防ぎます。"
+
+REFERENCE            POWER_DESC
+LANG_ENGLISH         "ゲームが始まると電源をオンにします。"
+
+REFERENCE            ROUNDREVIVE_DESC
+LANG_ENGLISH         "ラウンド終了時にすべてのプレイヤーを復活させ、フルヘルスを回復します。"
+
+REFERENCE            TRADE_DESC
+LANG_ENGLISH         "他のプレイヤーと武器をトレードします。"
+
+REFERENCE            SS_DESC
+LANG_ENGLISH         "観戦者は死んでから5分後にリスポーンします。"
+
+REFERENCE            GAME_TITLE
+LANG_ENGLISH         "ゲームオプション"
+
+REFERENCE            BOX_FILTER_DESC
+LANG_ENGLISH         "これらのフィルターを使用すると、各ゲームから追加された追加の武器をカスタムマップから無効にできます。たとえば、「BO1の武器を無効にする」は、BO1の武器を使用するカスタムマップがそれらをボックスに追加するのを止めます。これらはすべてのゲームから武器を追加しません。"
+
+REFERENCE            T4
+LANG_ENGLISH         "WAWの武器を無効にする"
+
+REFERENCE            IW4
+LANG_ENGLISH         "MW2の武器を無効にする"
+
+REFERENCE            T5
+LANG_ENGLISH         "BO1の武器を無効にする"
+
+REFERENCE            IW5
+LANG_ENGLISH         "MW3の武器を無効にする"
+
+REFERENCE            T6
+LANG_ENGLISH         "BO2の武器を無効にする"
+
+REFERENCE            IW6
+LANG_ENGLISH         "GHOSTSの武器を無効にする"
+
+REFERENCE            S1
+LANG_ENGLISH         "AWの武器を無効にする"
+
+REFERENCE            IW7
+LANG_ENGLISH         "IWの武器を無効にする"
+
+REFERENCE            H1
+LANG_ENGLISH         "MWRの武器を無効にする"
+
+REFERENCE            S2
+LANG_ENGLISH         "WW2の武器を無効にする"
+
+REFERENCE            T8
+LANG_ENGLISH         "BO4の武器を無効にする"
+
+REFERENCE            IW8
+LANG_ENGLISH         "MW2019の武器を無効にする"
+
+REFERENCE            T9
+LANG_ENGLISH         "BOCWの武器を無効にする"
+
+REFERENCE            ELMG_WEAPON
+LANG_ENGLISH         "このMODの武器を無効にする"
+
+REFERENCE            MYSTERYBOX_TITLE
+LANG_ENGLISH         "ミステリーボックスフィルター"
+
+REFERENCE            PERKLIMIT
+LANG_ENGLISH         "パークの制限を解除する"
+
+REFERENCE            QUADKICK
+LANG_ENGLISH         "大きなミュールキック"
+
+REFERENCE            PERKAHOLIC
+LANG_ENGLISH         "Perkaholicでスポーン"
+
+REFERENCE            REVIVE
+LANG_ENGLISH         "Quick Reviveでスポーン"
+
+REFERENCE            ROUNDREVIVE
+LANG_ENGLISH         "ラウンド終了時のリバイブ"
+
+REFERENCE            T8PERK_DESC
+LANG_ENGLISH         "最後のスタンドに入るときにすべてのパークが失われるのではなく、少しずつ1つずつ失われます。 パークを持っていると失われる速度が上がり、パークを持っていないと失われる速度が遅くなります。"
+
+REFERENCE            PERKLIMIT_DESC
+LANG_ENGLISH         "プレイヤーが無制限のパークを購入できるようにします。"
+
+REFERENCE            T8PERK
+LANG_ENGLISH         "時間ベースのパーク喪失"
+
+REFERENCE            QUADKICK_DESC
+LANG_ENGLISH         "ミュールキックで4つの武器を持つことができるようになります。\n\n^1注意^7: \nWeapon Restore＆Mule Kick Weapon Restoreおよび時間ベースのパーク損失は機能しなくなります。"
+
+REFERENCE            PERKAHOLIC_DESC
+LANG_ENGLISH         "パークアホリックで始めるかどうかを選択します。"
+
+REFERENCE            T8PERK_DESC
+LANG_ENGLISH         "最後のスタンドに入るときにすべてのパークが失われるのではなく、少しずつ1つずつ失われます。 パークを持っていると失われる速度が上がり、パークを持っていないと失われる速度が遅くなります。"
+
+REFERENCE            REVIVE_DESC
+LANG_ENGLISH         "クイックリバイブで始めるかどうかを選択します。"
+
+REFERENCE            PERK_TITLE
+LANG_ENGLISH         "パークオプション"
+
+REFERENCE            SCORE
+LANG_ENGLISH         "開始ポイント"
+
+REFERENCE            SPEED
+LANG_ENGLISH         "移動速度の倍率"
+
+REFERENCE            HEALTH
+LANG_ENGLISH         "プレイヤーの体力"
+
+REFERENCE            EXO
+LANG_ENGLISH         "EXOムーブメント"
+
+REFERENCE            SCORE_DESC
+LANG_ENGLISH         "ゲームを開始するためのポイントを選択します。"
+
+REFERENCE            SPEED_DESC
+LANG_ENGLISH         "プレイヤーの速度を調整します。 1はデフォルトです。"
+
+REFERENCE            HEALTH_DESC
+LANG_ENGLISH         "ゲームを開始する際のライフポイントを選択してください。\nデフォルトの健康 = 100 \nデフォルトの敵のダメージ = 45"
+
+REFERENCE            EXO_DESC
+LANG_ENGLISH         "EXOムーブメントを有効にします。 （おそらく、EXOムーブメントを使用するSoEやDer Eisendracheなどのマップでは機能しないでしょう）"
+
+REFERENCE            FIRENDLYFIRE_DESC
+LANG_ENGLISH         "反射：仲間に与えたダメージはあなたに適用されます。\n\n共有：仲間に与えたダメージはあなたとその仲間の間で分割されます。\n\nノックバック：仲間にダメージを与えませんが、仲間をノックバックします。"
+
+REFERENCE            PLAYER_TITLE
+LANG_ENGLISH         "プレイヤーオプション"
+
+REFERENCE            POWERUP_SPAWN
+LANG_ENGLISH         "パワーアップのスポーン数"
+
+REFERENCE            NUKE
+LANG_ENGLISH         "改良型ニューク"
+
+REFERENCE            NUKE_SCORE
+LANG_ENGLISH         "改良型ニュークポイント"
+
+REFERENCE            CARPENTER
+LANG_ENGLISH         "BO4カーペンター"
+
+REFERENCE            FREEPERK
+LANG_ENGLISH         "無料のパークパワーアップを有効にする"
+
+REFERENCE            POWERUP_SPAWN_DESC
+LANG_ENGLISH         "ラウンドごとにどれだけのパワーアップがスポーンするかを選択します。"
+
+REFERENCE            NUKE_DESC
+LANG_ENGLISH         "カブーンは今、ゾンビを倒した時に一定のポイントを与えます（最低でも400ポイント）、そしてカブーンを取ると、ゾンビは消えるのを待つ必要なく即座に死にます。"
+
+REFERENCE            NUKE_SCORE_DESC
+LANG_ENGLISH         "ゾンビごとにどれだけのポイントを得るかを選択します。"
+
+REFERENCE            CARPENTER_DESC
+LANG_ENGLISH         "カーペンターがシールドを修理します。"
+
+REFERENCE            MAXAMMO_DESC
+LANG_ENGLISH         "マックスアモはクリップも補充します。"
+
+REFERENCE            ROAMER
+LANG_ENGLISH         "Roamerオプション"
+
+REFERENCE            ROAMERTIME
+LANG_ENGLISH         "ラウンド間のRoamerタイム"
+
+REFERENCE            ROMAER_DESC
+LANG_ENGLISH         "Roamerを有効にすると、各ラウンドの終わりに次のラウンドが始まる前に待つことができます。 クローラーはもういりません！ 次のラウンドを開始するには、ADS + Meleeを押します"
+
+REFERENCE            ROAMERTIME_DESC
+LANG_ENGLISH         "ラウンド間の待ち時間を選択します。"
+
+REFERENCE            ROAMER_TITLE
+LANG_ENGLISH         "ROAMERオプション"
+
+REFERENCE            T7
+LANG_ENGLISH         "BO3武器を追加"
+
+REFERENCE            STARTAMMO
+LANG_ENGLISH         "最大弾薬で開始"
+
+REFERENCE            RK5
+LANG_ENGLISH         "RK5で開始"
+
+REFERENCE            BOWIE
+LANG_ENGLISH         "ボウイナイフで開始"
+
+REFERENCE            RADM_WEAPON
+LANG_ENGLISH         "ランダムな初期武器"
+
+REFERENCE            OWNCAMO
+LANG_ENGLISH         "独自のカモを使用"
+
+REFERENCE            PAPCAMO
+LANG_ENGLISH         "Pack-a-Punchのカモを選択"
+
+REFERENCE            BOXSHARE
+LANG_ENGLISH         "ミステリーボックスシェア"
+
+REFERENCE            LOADOUTSAVE
+LANG_ENGLISH         "Weapon Restore＆Mule Kick Weapon Restore"
+
+REFERENCE            C4
+LANG_ENGLISH         "C4の購入可能なエンディングを無効にする"
+
+REFERENCE            T7_DESC
+LANG_ENGLISH         "BO3武器を強制的にミステリーボックスに追加します。"
+
+REFERENCE            STARTAMMO_DESC
+LANG_ENGLISH         "ゲームをピストルの最大弾薬で開始するかどうかを選択します。"
+
+REFERENCE            RK5_DESC
+LANG_ENGLISH         "スタートピストルをRK5に変更し、プレイヤーがスーパーeeをクリアしたかのようにします。"
+
+REFERENCE            BOWIE_DESC
+LANG_ENGLISH         "すべてのプレイヤーにボウイナイフを与えます。"
+
+REFERENCE            RADM_WEAPON_DESC
+LANG_ENGLISH         "すべてのプレイヤーにランダムな初期武器を与えます。"
+
+REFERENCE            OWNCAMO_DESC
+LANG_ENGLISH         "PAP後の武器はあなたの元のカモを使用します。"
+
+REFERENCE            PAPCAMO_DESC
+LANG_ENGLISH         "使用するPack-a-Punchカモを選択します。"
+
+REFERENCE            BOXSHARE_DESC
+LANG_ENGLISH         "ミステリーボックスでメレー攻撃すると、仲間と武器を共有できます。"
+
+REFERENCE            LOADOUTSAVE_DESC
+LANG_ENGLISH         "現在のホストから切断された場合、現在のホストは武器、パーク、ポイントを保存します。 再接続した後、失ったものを回復します（死後の次のラウンドのリスポーンにも適用されます）。"
+
+REFERENCE            C4_DESC
+LANG_ENGLISH         "35ラウンド後、150,000ポイントを持ってC4を起爆するとゲームが終了します。 選択した場合、この効果をオフにします。"
+
+REFERENCE            WEAPON_TITLE
+LANG_ENGLISH         "武器オプション"
+
+REFERENCE            KILL
+LANG_ENGLISH         "キルごとの追加ポイント"
+
+REFERENCE            MELEEKILL
+LANG_ENGLISH         "ミーリーキルごとの追加ポイント"
+
+REFERENCE            HEADSHOTKILL
+LANG_ENGLISH         "ヘッドショットキルごとの追加ポイント"
+
+REFERENCE            MAXZM
+LANG_ENGLISH         "スポーンされるゾンビの最大数"
+
+REFERENCE            SLOWZM
+LANG_ENGLISH         "弱いゾンビ"
+
+REFERENCE            ZMSPEED
+LANG_ENGLISH         "ゾンビの移動速度"
+
+REFERENCE            SPAWNDELAY
+LANG_ENGLISH         "ゾンビのスポーンディレイなし"
+
+REFERENCE            KILL_DESC
+LANG_ENGLISH         "ゾンビを倒すと追加のポイントを獲得します。"
+
+REFERENCE            MELEEKILL_DESC
+LANG_ENGLISH         "ミーリーキルでゾンビを倒すと追加のポイントを獲得します。"
+
+REFERENCE            HEADSHOTKILL_DESC
+LANG_ENGLISH         "ヘッドショットでゾンビを倒すと追加のポイントを獲得します。"
+
+REFERENCE            MAXZM_DESC
+LANG_ENGLISH         "いつでもスポーンできるゾンビの最大数。 24はデフォルトです。 高い数値はラグの問題を引き起こす可能性があります。 私がテストした最高の値は40です。"
+
+REFERENCE            SLOWZM_DESC
+LANG_ENGLISH         "ゾンビの強さが遅く増加します。"
+
+REFERENCE            ZMSPEED_DESC
+LANG_ENGLISH         "すべてのゾンビはこの移動速度を強制します。"
+
+REFERENCE            SPAWNDELAY_DESC
+LANG_ENGLISH         "ゾンビのスポーンディレイを0に設定します。これにより、ゾンビは即座にスポーンします。"
+
+REFERENCE            ZOMBIE_TITLE
+LANG_ENGLISH         "ゾンビオプション"
+
+REFERENCE            MW2019
+LANG_ENGLISH         "IW/MW2019"
+
+REFERENCE            CW
+LANG_ENGLISH         "Cold War"
+
+REFERENCE            BO4
+LANG_ENGLISH         "Black Ops 4"
+
+REFERENCE            HITMARKER_SOUND
+LANG_ENGLISH         "ヒットマーカーサウンド"
+
+REFERENCE            DAMAGE
+LANG_ENGLISH         "ダメージ解析"
+
+REFERENCE            CRAZYZOMBIE
+LANG_ENGLISH         "ホラーゾンビ"
+
+REFERENCE            HUD
+LANG_ENGLISH         "HUDなし"
+
+REFERENCE            LIMIT
+LANG_ENGLISH         "ボックス内のワンダーウェポンのコピーを許可"
+
+REFERENCE            HPBAR
+LANG_ENGLISH         "プレイヤーのヘルスバー"
+
+REFERENCE            HPBAR_DESC
+LANG_ENGLISH         "左下隅にプレイヤーのヘルスを表示します。"
+
+ENDMARKER

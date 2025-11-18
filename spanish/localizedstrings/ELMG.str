@@ -1,0 +1,215 @@
+// Note to translators:
+// Just edit the text inside the quotes, don't edit other code
+
+VERSION             "1"
+CONFIG              "C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           SHARE_DROP
+LANG_ENGLISH     "Soltaste unos puntos ^5"
+
+REFERENCE           SHARE_OUT
+LANG_ENGLISH     "^1¡Fondos insuficientes!"
+
+REFERENCE           ZMS_LEFT
+LANG_ENGLISH     "Enemigos Restantes"
+
+REFERENCE           ZM_LEFT
+LANG_ENGLISH     "Enemigos Restantes"
+
+REFERENCE           DOG_LEFT
+LANG_ENGLISH     "Enemigos Restantes"
+
+REFERENCE           END_OF_ROUND
+LANG_ENGLISH     "Receso"
+
+REFERENCE           TRADE_GUN
+LANG_ENGLISH     "Presiona ^3[{+activate}] ^7para intercambiar armas con el otro jugador."
+
+REFERENCE           TRADE_WAIT
+LANG_ENGLISH     "Esperando al otro jugador."
+
+REFERENCE           TRADE_BLOCK
+LANG_ENGLISH     "No puedes cambiar esta arma."
+
+REFERENCE           TRADE_HAS
+LANG_ENGLISH     "El otro jugador ya tiene esta arma."
+
+REFERENCE           TRADE_YOU_HAS
+LANG_ENGLISH     "No puedes intercambiar un arma que el otro jugador tiene actualmente."
+
+REFERENCE           ADDED
+LANG_ENGLISH     "Agregado ^5"
+
+REFERENCE           THE_ZM
+LANG_ENGLISH     " ^7¡Zombis!"
+
+REFERENCE           GIVE_GUM
+LANG_ENGLISH     "GobbleGum ^5"
+
+REFERENCE           GIVE_AAT
+LANG_ENGLISH     "AAT ^5"
+
+REFERENCE           ADD_CAMO
+LANG_ENGLISH     "Camuflaje: ^5"
+
+REFERENCE           TO_PLAYER
+LANG_ENGLISH     "^7 Dar a ^1"
+
+REFERENCE           ALL_PLAYER
+LANG_ENGLISH     "^7 Dar a todos"
+
+REFERENCE           ROUND
+LANG_ENGLISH     "Ronda^5 "
+
+REFERENCE           IS_END
+LANG_ENGLISH     " ^7Se acabó"
+
+REFERENCE           ZM_SPAWN
+LANG_ENGLISH     "El retraso de aparición de zombis se cambió a ^5"
+
+REFERENCE           SEC
+LANG_ENGLISH     "^7 Segundos"
+
+REFERENCE           ZM_LIMIT
+LANG_ENGLISH     "El límite máximo de zombis ha cambiado a: ^5"
+
+REFERENCE           ZM_PLAYER
+LANG_ENGLISH     "El número total de zombis agregados cada vez que un jugador ingresa se ha establecido en: ^5"
+
+REFERENCE           ZM_SPEED
+LANG_ENGLISH     "La velocidad de movimiento de los zombis cambiará en la siguiente ronda: ^5%"
+
+REFERENCE           ZM_PERK
+LANG_ENGLISH     "Limite de ventajas: ^5"
+
+REFERENCE           ZM_POWER
+LANG_ENGLISH     "Estado de energía: ^5"
+
+REFERENCE           CHEAT_ON
+LANG_ENGLISH     "Los trucos como comandos están habilitados"
+
+REFERENCE           CHEAT_OFF
+LANG_ENGLISH     "Los trucos como comandos están deshabilitados"
+
+REFERENCE           HITMARKER_ON
+LANG_ENGLISH     "Hitmarker encendido"
+
+REFERENCE           HITMARKER_OFF
+LANG_ENGLISH     "Hitmarker apagado"
+
+REFERENCE           CANT_BGB_HINT
+LANG_ENGLISH     "GobbleGum No disponible"
+
+REFERENCE           BGB_ON
+LANG_ENGLISH     "Máquina GobbleGum activada"
+
+REFERENCE           BGB_OFF
+LANG_ENGLISH     "Máquina GobbleGum desactivada"
+
+REFERENCE           SONG_CHANGE
+LANG_ENGLISH     "Cambiando a una nueva canción..."
+
+REFERENCE           SONG_PLAY
+LANG_ENGLISH     "Canción Iniciada: ^5"
+
+REFERENCE           SONG_STOPING
+LANG_ENGLISH     "La música se está deteniendo..."
+
+REFERENCE           SONG_STOPED
+LANG_ENGLISH     "La música se detuvo."
+
+REFERENCE           GG
+LANG_ENGLISH     "Arma: ^5"
+
+REFERENCE           WITHDRAW
+LANG_ENGLISH     "^3[{+activate}]^7 para retirar ^BBUTTON_COD_POINT_ICON^1000 (coste: ^BBUTTON_COD_POINT_ICON^&&1 | ^3[{+melee}]^7 para revisar tu balance)"//"Presiona ^3[{+activate}]^7 para retirar 1000 [coste: 100 | Presiona ^3[{+melee}]^7 para revisar tu balance]"
+
+REFERENCE           DEPOSIT
+LANG_ENGLISH     "^3[{+activate}]^7 para depositar ^BBUTTON_COD_POINT_ICON^1000 (coste: ^BBUTTON_COD_POINT_ICON^&&1 | ^3[{+melee}]^7 para revisar tu balance)"//"Presiona ^3[{+activate}]^7 para depositar 1000 [coste: 100 | Presiona ^3[{+melee}]^7 para revisar tu balance]" 
+
+REFERENCE           WEAPONLOCKER_GETBACK
+LANG_ENGLISH     "Presiona ^3[{+activate}]^7 Para tomar tu arma del depósito de armas, Arma: &&1^7]."
+
+REFERENCE           WEAPONLOCKER_STORE
+LANG_ENGLISH     "Presiona ^3[{+activate}]^7 Para almacenar tu arma."
+
+REFERENCE           WEAPONLOCKER_LOADING
+LANG_ENGLISH     "Procesando..."
+
+REFERENCE           BANK_SCORE
+LANG_ENGLISH     "^5Saldo actual: ^7"
+
+REFERENCE           BANK_OVERLOAD
+LANG_ENGLISH     "^1¡El banco esta lleno!"
+
+REFERENCE           AF_TITLE
+LANG_ENGLISH     "¿Quieres habilitar el mod menu en tu partida?"
+
+REFERENCE           AF_DESC
+LANG_ENGLISH     "Si habilitas este mod menu, el depósito de armas y el banco no se podrán usar\nPara abrir el mod menu, presiona ^3[{+stance}]^7 + ^3[{+reload}]^7 (y con mando ^3Agacharse^7 + ^3Recargar^7)"
+
+REFERENCE           AF
+LANG_ENGLISH     "HABILITAR MOD MENU"
+
+REFERENCE           PAUSE_TITLE
+LANG_ENGLISH     "Pausa"
+
+REFERENCE           PAUSE_DESC
+LANG_ENGLISH     "Presiona ^3No ^7para reanudar."
+
+REFERENCE           LOCKER_BAN
+LANG_ENGLISH     "^1Puntajes ilegales detectados, el depósito de armas y el banco ahora no se pueden usar."
+
+REFERENCE           PAUSE
+LANG_ENGLISH     "PAUSA"
+
+REFERENCE           BOXSHARE_TAKE
+LANG_ENGLISH     "^3[{+activate}]^7 Para tomar el arma."
+
+REFERENCE           SHIELD_HINT
+LANG_ENGLISH     "Presiona ^3[{+activate}]^7 para usar el antidisturbios."
+
+REFERENCE           SHIELD_HINT_HOWTO
+LANG_ENGLISH     "Presiona ^3[{+actionslot 2}]^7 para guardar el antidisturbios."
+
+REFERENCE           SPIKE_HINT
+LANG_ENGLISH     "Presiona ^3[{+activate}]^7/^3[{+melee}] ^72 veces seguidas para detonar las púas."
+
+REFERENCE           BOXSHARE_HINT
+LANG_ENGLISH     "Presiona ^3[{+melee}]^7 para regalar el arma que te salió de la caja."
+
+REFERENCE           START_HINT_GAMEPAD
+LANG_ENGLISH     "^3[{+breath_sprint}] ^7+ ^3[{+reload}] ^7Para inspeccionar arma\n^3[{+actionslot 3}]^7 + ^3[{+melee}] ^7Para activar o desactivar la linterna\n^3[{+actionslot 3}]^7 + ^3[{+breath_sprint}] ^7Para soltar algunos puntos\n^3LeftDpad^7 + ^2A ^7Para activar la visión nocturna"
+
+REFERENCE           START_HINT
+LANG_ENGLISH     "^3[{+reload}] ^7Para inspeccionar arma\n^3[{+actionslot 3}]^7 + ^3[{+melee}] ^7Para activar o desactivar la linterna\n^3[{+actionslot 3}]^7 + ^3[{+breath_sprint}] ^7Para soltar algunos puntos\n^3[{+actionslot 3}]^7 + ^3[{+gostand}] ^7Para activar la visión nocturna"
+
+REFERENCE           REMOVEPERK_HINT
+LANG_ENGLISH     "Presiona ^3[{+activate}]^7 + ^3[{+melee}] ^7 para remover esta ventaja."
+
+REFERENCE           KATANA_HINT
+LANG_ENGLISH     "^3[{+attack}]^7 Para un súper deslizamiento.\n^3[{+reload}]^7 Para tener a simple vista y munición ilimitada (una vez por ronda).\n^3[{+melee}]^7 Para recuperar la salud."
+
+REFERENCE           KATANA_HINT_GAMEPAD
+LANG_ENGLISH     "^3[{+attack}]^7 Para un súper deslizamiento.\n^3[{+breath_sprint}] ^7+ ^3[{+reload}]^7 Para tener a simple vista y munición ilimitada (una vez por ronda).\n^3[{+melee}]^7 Para recuperar la salud."
+
+REFERENCE           MOD_DESC
+LANG_ENGLISH     "Bienvenidos al mod de zombis All-Around Enhancement. Este mod añade muchas funciones QoL y repara varios problemas del BO3 vanilla en un solo mod, lo que lo convierte en el mod de zombis definitivo."
+
+REFERENCE           CHAT_BANK_SAVE1
+LANG_ENGLISH     " ^7Ha depositado^3 "
+
+REFERENCE           CHAT_BANK_SAVE2
+LANG_ENGLISH     " ^7en el banco"
+
+REFERENCE           CHAT_TRANSFER1
+LANG_ENGLISH     " ^7Ha transferido^3 "
+
+REFERENCE           CHAT_TRANSFER2
+LANG_ENGLISH     " ^7a "
+
+REFERENCE           ROAMER_SPECTATING
+LANG_ENGLISH     "Presiona ^3[{+activate}] ^7para terminar esta ronda"
+
+ENDMARKER

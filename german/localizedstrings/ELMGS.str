@@ -1,0 +1,92 @@
+// Note to translators:
+// Just edit the text inside the quotes, don't edit other code
+
+VERSION             "1"
+CONFIG              "C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           ZOMBIERIOT
+LANG_ENGLISH     "^1Endspiel-Herausforderung!"
+
+REFERENCE           PAP1
+LANG_ENGLISH     "^7Gewöhnlich"
+
+REFERENCE           PAP2
+LANG_ENGLISH     "^4Selten"
+
+REFERENCE           PAP3
+LANG_ENGLISH     "^6Legendär"
+
+REFERENCE           PAP4
+LANG_ENGLISH     "^3Episch"
+
+REFERENCE           PAP_TITLE
+LANG_ENGLISH     "Pack-a-Punch-Level: "
+
+REFERENCE           EXITLEVEL
+LANG_ENGLISH     "Sofort Beenden"
+
+REFERENCE           EXITLEVEL_DESC
+LANG_ENGLISH     "Alle Spieler im Lobby verlassen sofort die Karte"
+
+REFERENCE           DISCORD
+LANG_ENGLISH     "^2DISCORD BEITRETEN"
+
+REFERENCE           INFO
+LANG_ENGLISH     "MOD INFO"
+
+REFERENCE           START
+LANG_ENGLISH     "Los geht’s"
+
+REFERENCE           TOMB_LINE2
+LANG_ENGLISH     "Nordfrankreich, 1918"
+
+REFERENCE           DIE_LINE1
+LANG_ENGLISH     "GROSSER SPRUNG NACH VORN"
+
+REFERENCE           DIE_LINE2
+LANG_ENGLISH     "PROVINZ 22"
+
+REFERENCE           COAST_LINE1
+LANG_ENGLISH     "Gesamte Besetzung"
+
+REFERENCE           COAST_LINE2
+LANG_ENGLISH     "KRASNOYARSK KRAI"
+
+REFERENCE           COAST_LINE3
+LANG_ENGLISH     "CALL OF THE DEAD"
+
+REFERENCE           TEMPLE_LINE1
+LANG_ENGLISH     "Die Zeit wird es zeigen"
+
+REFERENCE           COS_LINE1
+LANG_ENGLISH     "Casimir-Mechanismus"
+
+REFERENCE           MOON_LINE1
+LANG_ENGLISH     "Richtofens großer Plan"
+
+REFERENCE           TRANZIT_LINE2
+LANG_ENGLISH     "NÖRDLICHE HÄLFTE DER ERDE"
+
+REFERENCE           MOB_LINE1
+LANG_ENGLISH     "ALCATRAZ-INSEL"
+
+REFERENCE           MOB_LINE2
+LANG_ENGLISH     "San Francisco Bay, USA"
+
+REFERENCE           LEV_LINE1
+LANG_ENGLISH     "Leviathan"
+
+REFERENCE           LEV_LINE2
+LANG_ENGLISH     "Unterwasser-Forschungseinrichtung"
+
+REFERENCE           RAIN_LINE1
+LANG_ENGLISH     "TÖDLICHER REGEN"
+
+REFERENCE           RAIN_LINE2
+LANG_ENGLISH     "VERLASSENE STADT"
+
+REFERENCE           GENESIS_LINE1
+LANG_ENGLISH     "Eine bessere Zukunft"
+
+ENDMARKER

@@ -1,0 +1,422 @@
+// Note to translators:
+// Just edit the text inside the quotes, don't edit other code
+
+VERSION             "1"
+CONFIG              "C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           TOMB_1
+LANG_ENGLISH     "^1サマンサ^7: それはずっと昔、大戦の戦場で始まった。"
+
+REFERENCE           TOMB_2
+LANG_ENGLISH     "^1サマンサ^7: 二人のドイツ人科学者が、何世紀も封じられていた暗く神秘的な力を利用しようとした。"
+
+REFERENCE           TOMB_3
+LANG_ENGLISH     "^1サマンサ^7: 彼らは、その発見がドイツの究極の勝利を保証すると信じていた。"
+
+REFERENCE           TOMB_4
+LANG_ENGLISH     "^1サマンサ^7: 彼らが想像もしなかったのは、その研究が何をもたらすかだった。"
+
+REFERENCE           TOMB_5
+LANG_ENGLISH     "^1サマンサ^7: 古代の悪が最前線を襲う中、連合軍の希望はそれを止めるために送られた三人の兵士に託された。"
+
+REFERENCE           TOMB_6
+LANG_ENGLISH     "^1サマンサ^7: 私はサマンサ。これがどう始まったか話してあげる。"
+
+REFERENCE           THEATER_1
+LANG_ENGLISH     "^1リヒトーフェン^7: 記録741021！この施設がグループ935の真の目的の鍵かもしれない。"
+
+REFERENCE           THEATER_2
+LANG_ENGLISH     "^1リヒトーフェン^7: 私はまだ奇妙な味方を信用していないが、彼らは私にとって大いに役立っている。さて、話が逸れた。"
+
+REFERENCE           THEATER_3
+LANG_ENGLISH     "^1リヒトーフェン^7: M.T.D.が時間旅行できるとは誰が思っただろう？このグループはどれだけ施設を持っているのか？"
+
+REFERENCE           THEATER_4
+LANG_ENGLISH     "^1リヒトーフェン^7: あの少女はどこに消えたのだ？"
+
+REFERENCE           THEATER_5
+LANG_ENGLISH     "^1リヒトーフェン^7: 時が経てば、呪われし劇場で新たな謎が私たちを待っているだろう。"
+
+REFERENCE           TOMB_OUTRO_1
+LANG_ENGLISH     "^1サマンサ^7: アガルタの門が開くと、四人の英雄は想像を超える富を得た。"
+
+REFERENCE           TOMB_OUTRO_2
+LANG_ENGLISH     "^1サマンサ^7: その日から、サマンサが彼らを永遠に守ることを知っていた。"
+
+REFERENCE           TOMB_OUTRO_3
+LANG_ENGLISH     "^1エディ^7: 全部間違っているよ。前に言っただろ？彼らの目は青くないと！"
+
+REFERENCE           TOMB_OUTRO_4
+LANG_ENGLISH     "^1サマンサ^7: 今度は私の番よ、エディ。好きなことができるの。"
+
+REFERENCE           TOMB_OUTRO_5
+LANG_ENGLISH     "^1エディ^7: でも…ちゃんと遊び方も知らないくせに！女の子はゾンビのことをあまり知らないんだ。"
+
+REFERENCE           TOMB_OUTRO_6
+LANG_ENGLISH     "^1マキシス^7: おもちゃは片付けなさい、子供たち。地下室に降りる前に窓が閉まっているか確かめるんだよ。"
+
+REFERENCE           TOMB_OUTRO_7
+LANG_ENGLISH     "^1エディ^7: パパの言うことをちゃんと聞いたほうがいいよ。"
+
+REFERENCE           TOMB_OUTRO_8
+LANG_ENGLISH     "^1エディ^7: まだ自分の番が来ていなかったんだ…"
+
+REFERENCE           TOMB_OUTRO_9
+LANG_ENGLISH     "^1サマンサ^7: 明日だよ、エディ。ルールは君が決めていいから、約束する。"
+
+REFERENCE           TOMB_OUTRO_10
+LANG_ENGLISH     "^1サマンサ^7: さあ、フラッフィー！"
+
+REFERENCE           TOMB_OUTRO_11
+LANG_ENGLISH     "^1エディ^7: 物語の中の英雄が本物だったらいいのにね、サム。"
+
+REFERENCE           TOMB_OUTRO_12
+LANG_ENGLISH     "^1サマンサ^7: わかるよ。でも、きっとすべてうまくいくよ。"
+
+REFERENCE           TOMB_OUTRO_13
+LANG_ENGLISH     "^1サマンサ^7: ...パパは計画があるって言ってる。"
+
+REFERENCE           GENESIS_OUTRO_1
+LANG_ENGLISH     "^1ドクター・モンティ^7: 悪が消えたから、すべてを元通りにできる。"
+
+REFERENCE           GENESIS_OUTRO_2
+LANG_ENGLISH     "^1ドクター・モンティ^7: ゾンビも、アポシコンも、シャドウマンもいない。"
+
+REFERENCE           GENESIS_OUTRO_3
+LANG_ENGLISH     "^1ドクター・モンティ^7: すべて永遠に消えた。"
+
+REFERENCE           GENESIS_OUTRO_4
+LANG_ENGLISH     "^1ドクター・モンティ^7: でも、面白いことに。"
+
+REFERENCE           GENESIS_OUTRO_5
+LANG_ENGLISH     "^1ドクター・モンティ^7: 君たち雪の結晶は、もうここにいてはいけない。"
+
+REFERENCE           GENESIS_OUTRO_6
+LANG_ENGLISH     "^1ドクター・モンティ^7: もう存在から消え去っているはずだ。"
+
+REFERENCE           GENESIS_OUTRO_7
+LANG_ENGLISH     "^1ドクター・モンティ^7: その血の小瓶は…"
+
+REFERENCE           GENESIS_OUTRO_8
+LANG_ENGLISH     "^1リヒトーフェン^7: いつその話を持ち出すのかと思っていたよ。"
+
+REFERENCE           GENESIS_OUTRO_9
+LANG_ENGLISH     "^1ドクター・モンティ^7: それらはすでに閉じた現実から来ている！"
+
+REFERENCE           GENESIS_OUTRO_10
+LANG_ENGLISH     "^1ドクター・モンティ^7: ここにいるべきじゃない、ここにいるはずがない！"
+
+REFERENCE           GENESIS_OUTRO_11
+LANG_ENGLISH     "^1ドクター・モンティ^7: そんな逆説は私の完璧な世界を危険にさらす！"
+
+REFERENCE           GENESIS_OUTRO_12
+LANG_ENGLISH     "^1ドクター・モンティ^7: 君たちと君たちのクソ自由意志！どうすればいい？どうすればいい！？"
+
+REFERENCE           GENESIS_OUTRO_13
+LANG_ENGLISH     "^1ドクター・モンティ^7: ここにい続けることはできない。"
+
+REFERENCE           GENESIS_OUTRO_14
+LANG_ENGLISH     "^1リヒトーフェン^7: 他の場所に送ることができるだろう。まだ行ったことのない場所に。"
+
+REFERENCE           GENESIS_OUTRO_15
+LANG_ENGLISH     "^1ドクター・モンティ^7: うーん！歴史のどこかに小さな隅を作れると思う。"
+
+REFERENCE           GENESIS_OUTRO_16
+LANG_ENGLISH     "^1ドクター・モンティ^7: 残しておいた他のガラクタを捨てられる場所だ。"
+
+REFERENCE           GENESIS_OUTRO_17
+LANG_ENGLISH     "^1ドクター・モンティ^7: それか、君たちを存在から消すか。"
+
+REFERENCE           GENESIS_OUTRO_18
+LANG_ENGLISH     "^1ドクター・モンティ^7: おお！ちょっと待って… 実は全部うまくいく！"
+
+REFERENCE           PRISON_INTRO_1
+LANG_ENGLISH     "^1フィン^7: ようサル、もう50回はこれやっただろ。"
+
+REFERENCE           PRISON_INTRO_2
+LANG_ENGLISH     "^1サル^7: 必要ならあと50回やろうぜ。"
+
+REFERENCE           PRISON_INTRO_3
+LANG_ENGLISH     "^1サル^7: 9時30分、消灯、警備員が巡回を始める。"
+
+REFERENCE           PRISON_INTRO_4
+LANG_ENGLISH     "^1サル^7: 今夜の調子はどうだ、ファーガソン？家族は元気か？"
+
+REFERENCE           PRISON_INTRO_5
+LANG_ENGLISH     "^1ファーガソン^7: みんな元気だよ、デリュカさん。息子のトミーはもうすぐ6歳になる。"
+
+REFERENCE           PRISON_MUSIC_6
+LANG_ENGLISH     "ディーゼルを燃やしている、恐竜の骨を燃やしている"
+
+REFERENCE           PRISON_MUSIC_7
+LANG_ENGLISH     "静かな水辺まで川を下る"
+
+REFERENCE           PRISON_MUSIC_8
+LANG_ENGLISH     "そして犬の群れに乗る"
+
+REFERENCE           PRISON_MUSIC_9
+LANG_ENGLISH     "錆びた檻を破るつもりだ"
+
+REFERENCE           DIE_INTRO_1
+LANG_ENGLISH     "^1スタクリンガー^7: 理解できない。\n^1リヒトーフェン^7: *聞き取れない*"
+
+REFERENCE           DIE_INTRO_2
+LANG_ENGLISH     "^1スタクリンガー^7: なぜこんなことを？なぜ僕なんだ？"
+
+REFERENCE           DIE_INTRO_3
+LANG_ENGLISH     "^1スタクリンガー^7: どこに行くんだ？わからないのか？何も残っていない！"
+
+REFERENCE           DIE_INTRO_4
+LANG_ENGLISH     "^1スタクリンガー^7: うわっ…どうやって…？\n^1リヒトーフェン^7: *聞き取れない*"
+
+REFERENCE           DIE_INTRO_5
+LANG_ENGLISH     "^1スタクリンガー^7: 何？「裂け目を修復する」ってどういう意味？\n^1リヒトーフェン^7: *聞き取れない*"
+
+REFERENCE           DIE_INTRO_6
+LANG_ENGLISH     "^1スタクリンガー^7: いや、俺はそうしたくないんだ。考えたか？\n^1リヒトーフェン^7: *聞き取れない*"
+
+REFERENCE           DIE_INTRO_7
+LANG_ENGLISH     "^1スタクリンガー^7: おい、「肉体」のことは言うな！俺がやったことを…\n知られたら殺される！くそ！"
+
+REFERENCE           DIE_INTRO_8
+LANG_ENGLISH     "^1ラスマン^7: 妄想の友達と話すなら、Zフリーゾーンにいる時にしろよ、スタック！"
+
+REFERENCE           DIE_INTRO_9
+LANG_ENGLISH     "^1ラスマン^7: ああああああああ！！！！！！"
+
+REFERENCE           DIE_INTRO_10
+LANG_ENGLISH     "^1ミスティ^7: バカ！こっちに来い！今すぐ！"
+
+REFERENCE           DIE_INTRO_11
+LANG_ENGLISH     "^1マーリトン^7: 早く！早く！"
+
+REFERENCE           DIE_INTRO_12
+LANG_ENGLISH     "^1スタクリンガー^7: どうする？"
+
+REFERENCE           DIE_INTRO_13
+LANG_ENGLISH     "^1ミスティ^7: 武装して、防衛に適した場所を探して、敵を倒す。それだけだ。"
+
+REFERENCE           DIE_INTRO_14
+LANG_ENGLISH     "^1リヒトーフェン^7: *聞き取れない*\n^1スタクリンガー^7: わからない！"
+
+REFERENCE           DIE_INTRO_15
+LANG_ENGLISH     "^1マーリトン^7: 何言ってるんだ、スタクリンガー？ミスティははっきり言っただろ！"
+
+REFERENCE           DIE_INTRO_16
+LANG_ENGLISH     "^1リヒトーフェン^7: 運命を受け入れろ！やり直せ！"
+
+REFERENCE           DIE_INTRO_17
+LANG_ENGLISH     "^1ミスティ^7: 倒れるなら、戦って倒れる！ああ！"
+
+REFERENCE           DIE_INTRO_18
+LANG_ENGLISH     "^1スタクリンガー^7: ここに来たことがあるのか？"
+
+REFERENCE           COAST_INTRO_1
+LANG_ENGLISH     "^8ジョージ・A・ロメロ^7: 『内なるモンスター』のアイデアは昔から好きだ。ゾンビは俺たち自身だ。"
+
+REFERENCE           COAST_INTRO_2
+LANG_ENGLISH     "^8ジョージ・A・ロメロ^7: ゾンビはブルーカラーのモンスターみたいなものだ。"
+
+REFERENCE           COAST_INTRO_3
+LANG_ENGLISH     "^1トレホ^7: 完全に包囲されている！"
+
+REFERENCE           COAST_INTRO_4
+LANG_ENGLISH     "^1イングランド^7: 完全に詰んだ！"
+
+REFERENCE           COAST_INTRO_5
+LANG_ENGLISH     "^1ルーカー^7: ふざけんなよ！こんなことをずっと祈ってたんだ！行くぞ！"
+
+REFERENCE           COAST_INTRO_6
+LANG_ENGLISH     "^1サラ^7: みんな…仕事にかかろう。"
+
+REFERENCE           COAST_INTRO_7
+LANG_ENGLISH     "^1俳優^7: おい神様、また外したぞ！"
+
+REFERENCE           COAST_INTRO_8
+LANG_ENGLISH     "^8ジョージ・A・ロメロ^7: うっ…カット！目が見えてないのか？"
+
+REFERENCE           COAST_INTRO_9
+LANG_ENGLISH     "^8ジョージ・A・ロメロ^7: こうだ。"
+
+REFERENCE           COAST_INTRO_10
+LANG_ENGLISH     "^1イングランド^7: うあっ！"
+
+REFERENCE           COAST_INTRO_11
+LANG_ENGLISH     "^8ジョージ・A・ロメロ^7: そうだろ？"
+
+REFERENCE           COAST_INTRO_12
+LANG_ENGLISH     "^1トレホ^7: 違うんだ、こうやるんだ。"
+
+REFERENCE           COAST_INTRO_13
+LANG_ENGLISH     "^1イングランド^7: うあっ！ダニー！"
+
+REFERENCE           COAST_INTRO_14
+LANG_ENGLISH     "^1サラ^7: こうやるの！"
+
+REFERENCE           COAST_INTRO_15
+LANG_ENGLISH     "^8ジョージ・A・ロメロ^7: さっさとヘアメイクに戻れ。全然死人っぽくないぞ！"
+
+REFERENCE           COAST_INTRO_16
+LANG_ENGLISH     "^1俳優^7: さあ、行こうぜ。"
+
+REFERENCE           COAST_INTRO_17
+LANG_ENGLISH     "^1ルーカー^7: 台本にないだろ。"
+
+REFERENCE           COAST_INTRO_18
+LANG_ENGLISH     "マイケル・ルーカー"
+
+REFERENCE           COAST_INTRO_19
+LANG_ENGLISH     "^1トレホ^7: 新しいのを書いてるんだ！『マゴット！サック！マサカー！』ってな。"
+
+REFERENCE           COAST_INTRO_20
+LANG_ENGLISH     "ダニー・トレホ"
+
+REFERENCE           COAST_INTRO_21
+LANG_ENGLISH     "^1イングランド^7: これこそ悪夢だ！"
+
+REFERENCE           COAST_INTRO_22
+LANG_ENGLISH     "ロバート・イングランド"
+
+REFERENCE           COAST_INTRO_23
+LANG_ENGLISH     "^1サラ^7: いくぞ、ゾンビを倒そう！"
+
+REFERENCE           COAST_INTRO_24
+LANG_ENGLISH     "サラ・ミシェル・ゲラー"
+
+REFERENCE           ISLAND_OUTRO_1
+LANG_ENGLISH     "^1タケオ 1.0^7: お前の目… 見覚えがある。まるで自分の目のようだ。"
+
+REFERENCE           ISLAND_OUTRO_2
+LANG_ENGLISH     "^1タケオ^7: 武雄真咲… こんな所で会うとは思わなかった。"
+
+REFERENCE           ISLAND_OUTRO_3
+LANG_ENGLISH     "^1タケオ 1.0^7: 俺は戦士だった… 多くの偉大な戦いに挑んだ、我らの国の栄光のために…"
+
+REFERENCE           ISLAND_OUTRO_4
+LANG_ENGLISH     "^1タケオ 1.0^7: 侍の死にゆく魂の名誉のために。俺は…英雄だった。"
+
+REFERENCE           ISLAND_OUTRO_5
+LANG_ENGLISH     "^1タケオ^7: この記憶を共有する。多くの同じ勝利を経験してきた。"
+
+REFERENCE           ISLAND_OUTRO_6
+LANG_ENGLISH     "^1タケオ 1.0^7: 後になって、俺の勝利は…望まれていなかったことを知った。"
+
+REFERENCE           ISLAND_OUTRO_7
+LANG_ENGLISH     "^1タケオ 1.0^7: 彼の裏切りはささやかな嫉妬によるものだった。俺が何でも耐えられ、死をも恐れないことを知っていた！"
+
+REFERENCE           ISLAND_OUTRO_8
+LANG_ENGLISH     "^1タケオ^7: 罰は一つのことだ。これは…残酷だ。"
+
+REFERENCE           ISLAND_OUTRO_9
+LANG_ENGLISH     "^1タケオ^7: こんな苦しみを他の魂に望むほど邪悪な者がいるのか？我々の中でそんな不名誉な者がいるのか？！"
+
+REFERENCE           ISLAND_OUTRO_10
+LANG_ENGLISH     "^1タケオ 1.0^7: 自分の忠誠心に盲目になっているのか？命令は…皇帝から直接来ている！"
+
+REFERENCE           ISLAND_OUTRO_11
+LANG_ENGLISH     "^1タケオ^7: 俺の人生…俺の道は…嘘の上に築かれている。"
+
+REFERENCE           ISLAND_OUTRO_12
+LANG_ENGLISH     "^1タケオ^7: この世界は…悪に汚染され、消費されたかもしれない。しかし、俺たちは物事を変える力を持っている。"
+
+REFERENCE           ISLAND_OUTRO_13
+LANG_ENGLISH     "^1タケオ^7: より良い明日は…過去の灰を吹き飛ばすことでしか実現しない。"
+
+REFERENCE           ISLAND_OUTRO_14
+LANG_ENGLISH     "^1タケオ 1.0^7: 誰も慈悲がどのように我々を見つけるかを選べない。"
+
+REFERENCE           ISLAND_OUTRO_15
+LANG_ENGLISH     "^1タケオ 1.0^7: …しかし、俺は平和だ。"
+
+REFERENCE           ISLAND_OUTRO_16
+LANG_ENGLISH     "^1タケオ 1.0^7: 何をしなければならないか理解している。"
+
+REFERENCE           ISLAND_OUTRO_17
+LANG_ENGLISH     "^1タケオ 1.0^7: …俺の介錯人になってくれるか？"
+
+REFERENCE           ISLAND_OUTRO_18
+LANG_ENGLISH     "^1タケオ^7: それは…名誉なことだ！"
+
+REFERENCE           ISLAND_OUTRO_19
+LANG_ENGLISH     "^1デンプシー^7: 三人終わった、あとはお前だ、ニコライ。"
+
+REFERENCE           ISLAND_OUTRO_20
+LANG_ENGLISH     "^1リヒトーフェン^7: いいえ。まだやるべきことがある。連鎖反応を起こさねばならない。"
+
+REFERENCE           STALINGRAD_OUTRO_1
+LANG_ENGLISH     "^1ニコライ 1.0^7: 今、俺を殺せると思っているのか？！"
+
+REFERENCE           STALINGRAD_OUTRO_2
+LANG_ENGLISH     "^1ニコライ^7: 悪いな、ニコライ。別の方法があればよかったのに。"
+
+REFERENCE           STALINGRAD_OUTRO_3
+LANG_ENGLISH     "^1ニコライ^7: しかし、心の中では同じ痛みを共有している。"
+
+REFERENCE           STALINGRAD_OUTRO_4
+LANG_ENGLISH     "^1ニコライ^7: お前が隠し、酒に溺れてぼやけている痛みをな！"
+
+REFERENCE           STALINGRAD_OUTRO_5
+LANG_ENGLISH     "^1ニコライ^7: そうだ、自分の記憶の痛みだ！"
+
+REFERENCE           STALINGRAD_OUTRO_6
+LANG_ENGLISH     "^1ニコライ^7: お前は愛し、失った…他は全部痛みから目をそらす妄想だ。"
+
+REFERENCE           STALINGRAD_OUTRO_7
+LANG_ENGLISH     "^1ニコライ^7: 俺が話していることを知っている、覚えている。爆弾が落ちる前に…彼女が連れ去られる前に。"
+
+REFERENCE           STALINGRAD_OUTRO_8
+LANG_ENGLISH     "^1ニコライ 1.0^7: 忘れられることには…理由がある！"
+
+REFERENCE           STALINGRAD_OUTRO_9
+LANG_ENGLISH     "^1リヒトーフェン^7: 終わった。"
+
+REFERENCE           STALINGRAD_OUTRO_10
+LANG_ENGLISH     "^1リヒトーフェン^7: 魂は集められた、マキシス。"
+
+REFERENCE           STALINGRAD_OUTRO_11
+LANG_ENGLISH     "^1リヒトーフェン^7: また会おう…すぐに。"
+
+REFERENCE           CASTLE_OUTRO_1
+LANG_ENGLISH         "^1リヒトーフェン^7: 彼はまだ生きている。"
+
+REFERENCE           CASTLE_OUTRO_2 
+LANG_ENGLISH         "^1デンプシー^7: そうであってほしい、くそ。"
+
+REFERENCE           CASTLE_OUTRO_3
+LANG_ENGLISH         "^1リヒトーフェン^7: この対象はいつか宇宙全体に混乱をもたらすだろう。生かしておくわけにはいかない。"
+
+REFERENCE           CASTLE_OUTRO_4
+LANG_ENGLISH         "^1デンプシー^7: ううっ！こんなはずじゃなかった！"
+
+REFERENCE           CASTLE_OUTRO_5
+LANG_ENGLISH         "^1デンプシー^7: パッケージを確保して、手早く済ますはずだった！"
+
+REFERENCE           CASTLE_OUTRO_6
+LANG_ENGLISH         "^1デンプシー^7: 代わりに一つの災難がまた一つと続いた。"
+
+REFERENCE           CASTLE_OUTRO_7
+LANG_ENGLISH         "^1デンプシー^7: お前を信用するべきじゃなかった、リヒトーフェン！絶対に！"
+
+REFERENCE           CASTLE_OUTRO_8
+LANG_ENGLISH         "^1リヒトーフェン^7: 俺を信用するべきだ、デンプシー。みんなそうするべきだ。"
+
+REFERENCE           CASTLE_OUTRO_9
+LANG_ENGLISH         "^1リヒトーフェン^7: このアーティファクトは対象の魂、つまりお前の魂を収めて保存する力がある。"
+
+REFERENCE           CASTLE_OUTRO_10
+LANG_ENGLISH         "^1リヒトーフェン^7: しかし、それは死の瞬間の後にしかできない。お前が俺のもう一人の自分に対してやったように。"
+
+REFERENCE           CASTLE_OUTRO_11
+LANG_ENGLISH         "^1デンプシー^7: だから、お前が自分の死体のそばにひざまずいていた時にそれをしていたんだな！"
+
+REFERENCE           CASTLE_OUTRO_12
+LANG_ENGLISH         "^1リヒトーフェン^7: それが唯一の方法だ。"
+
+REFERENCE           CASTLE_OUTRO_13
+LANG_ENGLISH         "^1デンプシー^7: 待て！宇宙を救うために誰かがやらなきゃならないなら、それは俺だ。"
+
+REFERENCE           CASTLE_OUTRO_14
+LANG_ENGLISH         "^1デンプシー^7: 会えてよかった、タンク。"
+
+ENDMARKER

@@ -1,0 +1,92 @@
+// Note to translators:
+// Just edit the text inside the quotes, don't edit other code
+
+VERSION             "1"
+CONFIG              "C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           ZOMBIERIOT
+LANG_ENGLISH     "^1¡Fin del Desafío!"
+
+REFERENCE           PAP1
+LANG_ENGLISH     "^7Inusual "
+
+REFERENCE           PAP2
+LANG_ENGLISH     "^4Poco común "
+
+REFERENCE           PAP3
+LANG_ENGLISH     "^6Excepcional "
+
+REFERENCE           PAP4
+LANG_ENGLISH     "^3De leyenda "
+
+REFERENCE           PAP_TITLE
+LANG_ENGLISH     "Nivel del Pack-a Punch: "
+
+REFERENCE           EXITLEVEL
+LANG_ENGLISH     "Salida instantánea"
+
+REFERENCE           EXITLEVEL_DESC
+LANG_ENGLISH     "Todos los jugadores que estan en la partida saldran instantáneamente del mapa y volveran a la lobby."
+
+REFERENCE           DISCORD
+LANG_ENGLISH     "^2ÚNETE AL DISCORD"
+
+REFERENCE           INFO
+LANG_ENGLISH     "INFO DEL MOD"
+
+REFERENCE           START
+LANG_ENGLISH     "¡EMPEZAR PARTIDA!"
+
+REFERENCE           TOMB_LINE2
+LANG_ENGLISH     "Norte de Francia, 1918"
+
+REFERENCE           DIE_LINE1
+LANG_ENGLISH     "UN GRAN SALTO ADELANTE"
+
+REFERENCE           DIE_LINE2
+LANG_ENGLISH     "Provincia 22"
+
+REFERENCE           COAST_LINE1
+LANG_ENGLISH     "EL ELENCO ESTELAR"
+
+REFERENCE           COAST_LINE2
+LANG_ENGLISH     "Krai De Krasnoyarsk"
+
+REFERENCE           COAST_LINE3
+LANG_ENGLISH     "CALL OF THE DEAD"
+
+REFERENCE           TEMPLE_LINE1
+LANG_ENGLISH     "EL TIEMPO LO DIRÁ"
+
+REFERENCE           COS_LINE1
+LANG_ENGLISH     "MECANISMO CASIMIR"
+
+REFERENCE           MOON_LINE1
+LANG_ENGLISH     "EL GRAN PLAN DE RICHTOFEN"
+
+REFERENCE           TRANZIT_LINE2
+LANG_ENGLISH     "Hemisferio Norte"
+
+REFERENCE           MOB_LINE1
+LANG_ENGLISH     "ISLA DE ALCATRAZ"
+
+REFERENCE           MOB_LINE2
+LANG_ENGLISH     "Bahía de San Francisco, EE. UU."
+
+REFERENCE           LEV_LINE1
+LANG_ENGLISH     "LEVIATHAN"
+
+REFERENCE           LEV_LINE2
+LANG_ENGLISH     "Instalación de Investigación Subacuática"
+
+REFERENCE           RAIN_LINE1
+LANG_ENGLISH     "MUERTE LLUVIOSA"
+
+REFERENCE           RAIN_LINE2
+LANG_ENGLISH     "Pueblo Abandonado"
+
+REFERENCE           GENESIS_LINE1
+LANG_ENGLISH     "POR UN MAÑANA MEJOR"
+
+ENDMARKER

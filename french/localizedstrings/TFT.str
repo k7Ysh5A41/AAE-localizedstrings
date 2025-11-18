@@ -1,0 +1,113 @@
+// Note to translators:
+// Just edit the text inside the quotes, don't edit other code
+
+VERSION             "1"
+CONFIG              "C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           RANDOM_ATTACHMENTS
+LANG_ENGLISH     "Accessoires et camouflages complètement aléatoires"
+
+REFERENCE           RANDOM_ATTACHMENTS_DESC
+LANG_ENGLISH     "Chaque nouvelle arme obtenue aura des accessoires, un réticule et un camouflage aléatoires"
+
+REFERENCE           WEAPON_LIMIT
+LANG_ENGLISH     "Limite d’armes"
+
+REFERENCE           WEAPON_LIMIT_OPTIONS_DESC
+LANG_ENGLISH     "Les joueurs ne peuvent pas utiliser les mêmes armes les uns que les autres"
+
+REFERENCE           PREPATCH_BGB
+LANG_ENGLISH     "Gobblegum avant correctif"
+
+REFERENCE           PREPATCH_BGB_DESC
+LANG_ENGLISH     "La machine à Gobblegum fonctionnera comme dans la version initiale de BO3 (jour 1). Cela inclut :\n  - Utilisable seulement une fois par manche\n  - Seulement 37 % des machines à Gobblegum sont disponibles\n  - Les machines à Gobblegum peuvent se fermer et s’ouvrir à d’autres emplacements\n  - Le prix par défaut est de 500 points"
+
+REFERENCE           ZOMBIE_COUNT
+LANG_ENGLISH     "Algorithme de calcul du nombre de zombies par manche"
+
+REFERENCE           ZOMBIE_COUNT_DESC
+LANG_ENGLISH     "Modifie la façon dont le jeu calcule le nombre de zombies à tuer pour terminer la manche."
+
+REFERENCE           SPAWNTYPE
+LANG_ENGLISH     "Méthodes d’apparition des ennemis"
+
+REFERENCE           SPAWNTYPE_DESC
+LANG_ENGLISH     "Beaucoup de zombies spéciaux :\nAugmente massivement le nombre d’ennemis spéciaux sur chaque carte Treyarch, par exemple une multitude de Margwas et de Panzersoldats, avec prise en charge des cartes suivantes :\nShadows of Evil\nDer Eisendrache\nZetsubou No Shima\nGorod Krovi\nRevelations\nShangri-La\nMoon\nOrigins"
+
+REFERENCE           SPAWNTYPE_OPTION_DESC
+LANG_ENGLISH     "Beaucoup de zombies spéciaux"
+
+REFERENCE           ZOMBIE_H
+LANG_ENGLISH     "Limiter la santé des zombies"
+
+REFERENCE           ZOMBIE_H_DESC
+LANG_ENGLISH     "La santé des zombies cessera d’augmenter lorsqu’ils atteignent cette manche."
+
+REFERENCE           CRAZYZOMBIE_DESC
+LANG_ENGLISH     "La vitesse des zombies est doublée pour toutes les actions."
+
+REFERENCE           DAMAGE_NUMBER
+LANG_ENGLISH     "Affichage des dégâts"
+
+REFERENCE           DAMAGE_NUMBER_DESC
+LANG_ENGLISH     "Choisir d’afficher ou de masquer la quantité de dégâts infligés à l’ennemi."
+
+REFERENCE           CENTERCROSS
+LANG_ENGLISH     "Désactiver le petit point au centre de l’écran"
+
+REFERENCE           ITEM_DUPE_RENDER
+LANG_ENGLISH     "Mettre en surbrillance les pièces à fabriquer"
+
+REFERENCE           ITEM_DUPE_RENDER_DESC
+LANG_ENGLISH     "Les pièces à fabriquer pouvant être ramassées sur la carte peuvent être vues à travers les murs."
+
+REFERENCE           ITEM_DUPE_RENDER_OPTION
+LANG_ENGLISH     "Peut être vu à travers les murs"
+
+REFERENCE           ITEM_DUPE_RENDER_OPTIONS
+LANG_ENGLISH     "Peut être vu depuis un point de vue"
+
+REFERENCE           MODGAMES
+LANG_ENGLISH     "MODES DE JEU"
+
+REFERENCE           ROULETTE
+LANG_ENGLISH     "Roulette d’armes"
+
+REFERENCE           ROULETTE_DESC
+LANG_ENGLISH     "Un mode de jeu mod où chaque manche vous recevez une arme aléatoire et devez survivre avec cette arme.\nPar défaut, il n’y a pas d’objectif final, et cela fonctionne bien avec le paramètre de mode de jeu End Game Challenge.\nCe mode est basé sur les manches, et dans les manches plus tardives (20+), il y aura une pause de 30 secondes pour vous permettre d’améliorer vos armes et de vous préparer pour la manche suivante."
+
+REFERENCE           SNAIL
+LANG_ENGLISH     "Escargot immortel"
+
+REFERENCE           SNAIL_DESC
+LANG_ENGLISH     "Un coup et vous tombez. Plus les manches augmentent, plus l’escargot devient rapide."
+
+REFERENCE           DUCK
+LANG_ENGLISH     "Player Quacknarok"
+
+REFERENCE           DUCK_DESC
+LANG_ENGLISH     "Tous les joueurs portent une bouée en forme de canard"
+
+REFERENCE           ALERT
+LANG_ENGLISH     "\n\n^BBUTTON_CYCLE_LEFT^ Changer cette option désactive AAE Carrière, Banque, Casier d’armes"
+
+REFERENCE           RAMPAGE
+LANG_ENGLISH     "Remplacer la boule 8 du Gambler par l’Inducteur de frénésie"
+
+REFERENCE           RAMPAGE_DESC
+LANG_ENGLISH     "Échanger l’emplacement du Gambler et de l’Inducteur de frénésie pour prendre en charge les cartes personnalisées.\n\nInducteur de frénésie :\nActivez pour que les zombies apparaissent rapidement et se déplacent plus vite."
+
+REFERENCE           THEGIANT_WEAPON
+LANG_ENGLISH     "Ajouter les armes de The Giant à la boîte mystère"
+
+REFERENCE           HIDE_CUSTOM_MAP_WEAPON
+LANG_ENGLISH     "Masquer les armes des cartes personnalisées dans la boîte mystère"
+
+REFERENCE           HIDE_AAE_WEAPON
+LANG_ENGLISH     "Masquer les armes de l’AAE dans la boîte mystère"
+
+REFERENCE           ALLWALLBUY
+LANG_ENGLISH         "Activer les armes murales à bas prix dans la boîte"
+
+ENDMARKER

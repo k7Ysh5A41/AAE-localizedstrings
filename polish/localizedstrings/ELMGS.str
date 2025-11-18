@@ -1,0 +1,92 @@
+// Note to translators:
+// Just edit the text inside the quotes, don't edit other code
+
+VERSION             "1"
+CONFIG              "C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           ZOMBIERIOT
+LANG_ENGLISH     "^1Wyzwaniem końcowym!"
+
+REFERENCE           PAP1
+LANG_ENGLISH     "^7Pospolity"
+
+REFERENCE           PAP2
+LANG_ENGLISH     "^4Rzadki"
+
+REFERENCE           PAP3
+LANG_ENGLISH     "^6Legendarny"
+
+REFERENCE           PAP4
+LANG_ENGLISH     "^3Epicki"
+
+REFERENCE           PAP_TITLE
+LANG_ENGLISH     "Poziom Pack-a-Punch: "
+
+REFERENCE           EXITLEVEL
+LANG_ENGLISH     "Natychmiastowe wyjście"
+
+REFERENCE           EXITLEVEL_DESC
+LANG_ENGLISH     "Wszyscy gracze w lobby natychmiast opuszczają mapę"
+
+REFERENCE           DISCORD
+LANG_ENGLISH     "^2DOŁĄCZ DO DISCORD"
+
+REFERENCE           INFO
+LANG_ENGLISH     "Informacje o MODzie"
+
+REFERENCE           START
+LANG_ENGLISH     "Zaczynamy"
+
+REFERENCE           TOMB_LINE2
+LANG_ENGLISH     "Północna Francja, 1918"
+
+REFERENCE           DIE_LINE1
+LANG_ENGLISH     "WIELKI SKOK NAPrzód"
+
+REFERENCE           DIE_LINE2
+LANG_ENGLISH     "PROWINCJA 22"
+
+REFERENCE           COAST_LINE1
+LANG_ENGLISH     "Pełna obsada"
+
+REFERENCE           COAST_LINE2
+LANG_ENGLISH     "KRASNOJARSK KRAJ"
+
+REFERENCE           COAST_LINE3
+LANG_ENGLISH     "CALL OF THE DEAD"
+
+REFERENCE           TEMPLE_LINE1
+LANG_ENGLISH     "Podróże w czasie pokażą"
+
+REFERENCE           COS_LINE1
+LANG_ENGLISH     "Mechanizm Casimira"
+
+REFERENCE           MOON_LINE1
+LANG_ENGLISH     "Wielki plan Richtofena"
+
+REFERENCE           TRANZIT_LINE2
+LANG_ENGLISH     "PÓŁKULA PÓŁNOCNA"
+
+REFERENCE           MOB_LINE1
+LANG_ENGLISH     "WYSPA ALCATRAZ"
+
+REFERENCE           MOB_LINE2
+LANG_ENGLISH     "Zatoka San Francisco, USA"
+
+REFERENCE           LEV_LINE1
+LANG_ENGLISH     "Lewiatan"
+
+REFERENCE           LEV_LINE2
+LANG_ENGLISH     "Podwodna placówka badawcza"
+
+REFERENCE           RAIN_LINE1
+LANG_ENGLISH     "DESZCZOWA ŚMIERĆ"
+
+REFERENCE           RAIN_LINE2
+LANG_ENGLISH     "OPUSZCZONE MIASTO"
+
+REFERENCE           GENESIS_LINE1
+LANG_ENGLISH     "Lepsze jutro"
+
+ENDMARKER

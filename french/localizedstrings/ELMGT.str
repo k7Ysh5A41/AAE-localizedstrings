@@ -1,0 +1,92 @@
+// Note to translators:
+// Just edit the text inside the quotes, don't edit other code
+
+VERSION             "1"
+CONFIG              "C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           SILENCER
+LANG_ENGLISH     "^2Boost des power-ups"
+
+REFERENCE           SILENCER_DESC
+LANG_ENGLISH     "^2Augmente les chances que des power-ups apparaissent."
+
+REFERENCE           FMJ_DESC
+LANG_ENGLISH     "^2Inflige 200% de dégâts aux ennemis non-zombies."
+
+REFERENCE           EE_COUNT
+LANG_ENGLISH     "^5Easter eggs complétés : ^7"
+
+REFERENCE           EE_COMPLETED_START
+LANG_ENGLISH     "J'ai complété "
+
+REFERENCE           EE_COMPLETED_END
+LANG_ENGLISH     " Easter egg au total"
+
+REFERENCE           ROAMER_LABEL
+LANG_ENGLISH     "Appuyez sur ^3ADS^7 + ^3[{+melee}]^7 pour démarrer le prochain round"
+
+REFERENCE           ROAMER_LABEL_TIMER
+LANG_ENGLISH     "Appuyez sur ^3ADS^7 + ^3[{+melee}]^7 pour démarrer le prochain round\nTemps restant : ^5"
+
+REFERENCE           PURIFIER_HINT
+LANG_ENGLISH     "Tirez des flammes sur vos coéquipiers pour les réanimer"
+
+REFERENCE           OUTRIDER_HINT
+LANG_ENGLISH     "Tirez directement sur vos coéquipiers pour les réanimer"
+
+REFERENCE           GB_PW
+LANG_ENGLISH     "^8Monde Pixel"
+
+REFERENCE           GB_RW
+LANG_ENGLISH     "^8Monde Réel"
+
+REFERENCE           GB_SKY
+LANG_ENGLISH     "^8Rotation du ciel pendant 1 minute"
+
+REFERENCE           GB_NOAMMO
+LANG_ENGLISH     "^1DONNEZ-MOI DES MUNITIONS !!"
+
+REFERENCE           GB_DWARF
+LANG_ENGLISH     "Nain"
+
+REFERENCE           GB_DWARFOVER
+LANG_ENGLISH     "Nain terminé"
+
+REFERENCE           GB_LEAK
+LANG_ENGLISH     "^1Fuite d'argent"
+
+REFERENCE           GB_LEAKOVER
+LANG_ENGLISH     "^5Fuite d'argent terminée"
+
+REFERENCE           GB_INFAMMO
+LANG_ENGLISH     "^2TIREZ SANS MODÉRATION !!"
+
+REFERENCE           GG_LV
+LANG_ENGLISH     "^2Niveau de l'arme : ^7"
+
+REFERENCE           MAPINTRO
+LANG_ENGLISH     "Désactiver les cinématiques de chargement"
+
+REFERENCE           BOTS
+LANG_ENGLISH     "Bots"
+
+REFERENCE           LOBBY_PASSWORD
+LANG_ENGLISH     "Mot de passe du lobby"
+
+REFERENCE           LOBBY_PASSWORD_DESC
+LANG_ENGLISH     "Ajouter un mot de passe au lobby"
+
+REFERENCE           WINER
+LANG_ENGLISH     "^5Gagnant^7 : "
+
+REFERENCE           GG_UP
+LANG_ENGLISH     "^2Promotion de l'arme"
+
+REFERENCE           GG_DOWN
+LANG_ENGLISH     "^1Humilié"
+
+REFERENCE           DPAP_DESC
+LANG_ENGLISH     "Le système re-PAP de BO4. Votre premier PAP donnera la quantité normale de dégâts que le PAP donnait toujours dans BO3. Après cela, vous pouvez refaire le PAP jusqu'à 4 fois pour obtenir un total de 80% d'augmentation supplémentaire des dégâts PAP normaux de BO3. Vous verrez un indicateur en bas à droite de l'écran sous l'arme indiquant son niveau PAP, le plus élevé étant ÉPIQUE (texte jaune)."
+
+ENDMARKER

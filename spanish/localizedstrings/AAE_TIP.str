@@ -1,0 +1,113 @@
+// Note to translators:
+// Just edit the text inside the quotes, don't edit other code
+
+VERSION             "1"
+CONFIG              "C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           ROCKETSHIELD_UPGRADED_TITLE
+LANG_ENGLISH     "^2Mejora del Escudo Cohete^7"
+
+REFERENCE           ROCKETSHIELD_UPGRADED_CONTENT
+LANG_ENGLISH     "1. Debes matar a 10 zombis usando el impulso del Escudo Cohete y debes repetirlo 12 veces.\n^6(Si mataste menos de 10 zombis, debes comenzar de nuevo)^7\n^7 2. Cuando escuches el sonido de celebración, recibirás el Escudo Cohete mejorado."
+
+REFERENCE           IDGUN_UPGRADED_TITLE
+LANG_ENGLISH     "^2Mejora del Siervo Apoticón^7"
+
+REFERENCE           IDGUN_UPGRADED_CONTENT
+LANG_ENGLISH     "1. Debes buscar un capullo que estará colgado en el mapa y debes tener el Siervo Apoticón en la mano.\n^6(Cuando estés cerca del capullo, el Sirviente emitirá un sonido de latido)^7\n^7 2. Ya encontrado el capullo, usa el Siervo Apoticón para matar a 100 zombis cerca de él.\n3. Si el capullo ya no absorbe almas, ahora le dispararás al capullo con el Sirviente y este será absorbido por el capullo.\n^6(Deberás esperar una ronda para que el capullo madure)^7\n^7 4. Pasada la ronda, dispárale al capullo así caerá el Siervo Apoticón mejorado, que cualquier jugador puede tomar."
+
+REFERENCE           GASMASK_UPGRADED_TITLE
+LANG_ENGLISH     "^2Mejora de la Máscara de Gas^7"
+
+REFERENCE           GASMASK_UPGRADED_CONTENT
+LANG_ENGLISH     "Donde construiste la Máscara de Gas, dispárale a la mesa con la Masamune. Esto\nmejorará la Máscara de Gas instantáneamente, dándote inmunidad infinita a las\nesporas tóxicas."
+
+REFERENCE           FREEGUM_TITLE
+LANG_ENGLISH     "^2¡Donde sea, menos aquí! ¡Gratis!^7"
+
+REFERENCE           FREEGUM_CONTENT
+LANG_ENGLISH     "Aquí podrás conseguir gratis el GobbleGum de '¡Donde sea, menos aquí!'"
+
+REFERENCE           AA_AMMO_CHANCE_TITLE
+LANG_ENGLISH     "^2Aumenta tu munición alternativa (AAT)^7"
+
+REFERENCE           AA_AMMO_CHANCE_CONTENT
+LANG_ENGLISH     "El GobbleGum de 'Elemental Gum' aumentará la probabilidad\nde que aparezca más munición alternativa (AAT) un 100%"
+
+REFERENCE           GIANT_PERK_EE_TITLE
+LANG_ENGLISH     "^2Easter Egg:^7 Ventaja extra"
+
+REFERENCE           GIANT_PERK_EE_CONTENT
+LANG_ENGLISH     "Lanza un Mono Bomba en cada uno de los tres\nteletransportadores para activar este botón."
+
+REFERENCE           GENESIS_SHIELD_TITLE
+LANG_ENGLISH     "^2Mejora del Escudo Dragón^7"
+
+REFERENCE           GENESIS_SHIELD_CONTENT
+LANG_ENGLISH     "1. Usa el Siervo Apoticón y dispárale a la mesa de construcción.\n^6(El vórtice absorberá el Sirviente y no lo devolverá)^7\n^7 2. Una vez que el vórtice se cierre, la mejora del escudo se habrá completado."
+
+REFERENCE           TEMPLE_KEY_COMBO_EE_TITLE
+LANG_ENGLISH     "^2Easter Egg:^7 Monos Explosivos"
+
+REFERENCE           TEMPLE_KEY_COMBO_EE_CONTENT
+LANG_ENGLISH     "Párate aquí y pulsa la siguiente combinación para hacer explotar a los monos:\n^3[{+actionslot 1}] [{+actionslot 1}] [{+actionslot 2}] [{+gostand}]"
+
+REFERENCE           MOON_SUPER_PES_TITLE
+LANG_ENGLISH     "^2Mejora del Traje Presurizado^7"
+
+REFERENCE           MOON_SUPER_PES_CONTENT
+LANG_ENGLISH     "El P.E.S. (Traje Presurizado) ahora es hackeable. Si lo hackeas y lo recoges de nuevo,\npodrás usar el hacker y el Traje Presurizado a la vez."
+
+REFERENCE           MOON_DIGGER_HACKING_TITLE
+LANG_ENGLISH     "^2Excavadoras hackeables^7"
+
+REFERENCE           MOON_DIGGER_HACKING_CONTENT
+LANG_ENGLISH     "El costo para hackear los paneles de Omicron y Epsilon son de 1000 puntos.\nEl costo del panel Pi es de 5000 puntos si las máquinas de GobbleGum están deshabilitadas o si está\nactivado el modo GobbleGum aleatorios.\nDe lo contrario, el panel Pi no será hackeable hasta la ronda 10 y su costo cambiará a 50000 puntos.\nSi el Túnel 6 es destruido antes de ser hackeado, el costo del panel Pi cambiará a 1000 puntos."
+
+REFERENCE           MOON_EE_ITEM_TITLE
+LANG_ENGLISH     "^2Easter Egg^7: Objetos Random"
+
+REFERENCE           MOON_EE_ITEM_CONTENT
+LANG_ENGLISH     "Después de la ronda 10, la plataforma de salto tendrá la posibilidad de generar armas\ny equipamientos raros. Tendrás 10 minutos para recogerlos después de que aparezcan."
+
+REFERENCE           FIRETYPE
+LANG_ENGLISH      "Modo de disparo"
+
+REFERENCE           MELEETIME
+LANG_ENGLISH      "Tiempo de CaC"
+
+REFERENCE           DAMAGE
+LANG_ENGLISH      "Daño"
+
+REFERENCE           STK
+LANG_ENGLISH      "Disparos para matar en ronda 30"
+
+REFERENCE           SHOTCOUNT
+LANG_ENGLISH      "Cantidad de disparos de escopeta"
+
+REFERENCE           BOLTTIME
+LANG_ENGLISH      "Tiempo del cerrojo"
+
+REFERENCE           RELOADTIME
+LANG_ENGLISH      "Tiempo de recarga"
+
+REFERENCE           MAGSIZE
+LANG_ENGLISH      "Tamaño del cargador"
+
+REFERENCE           STOCKAMMO
+LANG_ENGLISH      "Munición en reserva"
+
+REFERENCE           WONDERWEAPON
+LANG_ENGLISH     "ARMA MARAVILLOSA"
+
+REFERENCE           GASWEAPON
+LANG_ENGLISH     "ARMA DE GAS"
+
+REFERENCE           FREE_LANDER_TITLE
+LANG_ENGLISH       "Módulo Lunar Gratis"
+
+REFERENCE           FREE_LANDER
+LANG_ENGLISH       "Te dice paga ¿250? Ja, ¡mentira!, ¡este módulo lunar es gratis!"
+
+ENDMARKER

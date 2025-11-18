@@ -1,0 +1,113 @@
+// Note to translators:
+// Just edit the text inside the quotes, don't edit other code
+
+VERSION             "1"
+CONFIG              "C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           RANDOM_ATTACHMENTS
+LANG_ENGLISH     "Völlig zufällige Aufsätze und Tarnungen"
+
+REFERENCE           RANDOM_ATTACHMENTS_DESC
+LANG_ENGLISH     "Jede neue Waffe, die du erhältst, hat zufällige Aufsätze, ein Fadenkreuz und eine Tarnung"
+
+REFERENCE           WEAPON_LIMIT
+LANG_ENGLISH     "Waffenlimit"
+
+REFERENCE           WEAPON_LIMIT_OPTIONS_DESC
+LANG_ENGLISH     "Spieler können nicht dieselben Waffen wie andere Spieler benutzen"
+
+REFERENCE           PREPATCH_BGB
+LANG_ENGLISH     "Gobblegum vor Patch"
+
+REFERENCE           PREPATCH_BGB_DESC
+LANG_ENGLISH     "Die Gobblegum-Maschine funktioniert wie in der ungepatchten Version (Tag-1-Version) von BO3. Enthält:\n  - Nur einmal pro Runde benutzbar\n  - Nur 37 % der Gobblegum-Maschinen sind verfügbar\n  - Gobblegum-Maschinen können sich schließen und an anderen Orten wieder öffnen\n  - Standardpreis: 500 Punkte"
+
+REFERENCE           ZOMBIE_COUNT
+LANG_ENGLISH     "Algorithmus für die Anzahl der Zombies pro Runde"
+
+REFERENCE           ZOMBIE_COUNT_DESC
+LANG_ENGLISH     "Ändert, wie das Spiel berechnet, wie viele Zombies getötet werden müssen, um die Runde zu beenden."
+
+REFERENCE           SPAWNTYPE
+LANG_ENGLISH     "Methoden für Gegner-Spawn"
+
+REFERENCE           SPAWNTYPE_DESC
+LANG_ENGLISH     "Viele Spezialzombies:\nErhöht massiv die Anzahl spezieller Gegner auf jeder Treyarch-Map, z. B. viele Margwas und viele Panzersoldaten, mit Unterstützung für folgende Maps:\nShadows of Evil\nDer Eisendrache\nZetsubou No Shima\nGorod Krovi\nRevelations\nShangri-La\nMoon\nOrigins"
+
+REFERENCE           SPAWNTYPE_OPTION_DESC
+LANG_ENGLISH     "Viele Spezialzombies"
+
+REFERENCE           ZOMBIE_H
+LANG_ENGLISH     "Zombie-Gesundheit begrenzen"
+
+REFERENCE           ZOMBIE_H_DESC
+LANG_ENGLISH     "Die Gesundheit der Zombies hört auf zu steigen, wenn diese Runde erreicht ist."
+
+REFERENCE           CRAZYZOMBIE_DESC
+LANG_ENGLISH     "Die Geschwindigkeit der Zombies ist bei allen Aktionen verdoppelt."
+
+REFERENCE           DAMAGE_NUMBER
+LANG_ENGLISH     "Anzeige der Schadenszahlen"
+
+REFERENCE           DAMAGE_NUMBER_DESC
+LANG_ENGLISH     "Wähle, ob der verursachte Schaden am Gegner angezeigt oder ausgeblendet werden soll."
+
+REFERENCE           CENTERCROSS
+LANG_ENGLISH     "Deaktiviere den kleinen Punkt in der Bildschirmmitte"
+
+REFERENCE           ITEM_DUPE_RENDER
+LANG_ENGLISH     "Hervorhebung von sammelbaren Teilen"
+
+REFERENCE           ITEM_DUPE_RENDER_DESC
+LANG_ENGLISH     "Sammelbare Teile auf der Karte können durch Wände hindurch gesehen werden."
+
+REFERENCE           ITEM_DUPE_RENDER_OPTION
+LANG_ENGLISH     "Kann durch Wände gesehen werden"
+
+REFERENCE           ITEM_DUPE_RENDER_OPTIONS
+LANG_ENGLISH     "Kann von einem Aussichtspunkt gesehen werden"
+
+REFERENCE           MODGAMES
+LANG_ENGLISH     "MOD-SPIELE"
+
+REFERENCE           ROULETTE
+LANG_ENGLISH     "Waffenroulette"
+
+REFERENCE           ROULETTE_DESC
+LANG_ENGLISH     "Ein Mod-Spielmodus, in dem du in jeder Runde eine zufällige Waffe erhältst und mit dieser überleben musst.\nStandardmäßig gibt es kein Endziel und er funktioniert gut mit der End Game Challenge-Einstellung für Mod-Spiele.\nDieser Modus ist rundenbasiert, und in späteren Runden (20+) gibt es eine 30-sekündige Pause, um Waffen aufzurüsten und sich auf die nächste Runde vorzubereiten."
+
+REFERENCE           SNAIL
+LANG_ENGLISH     "Unsterbliche Schnecke"
+
+REFERENCE           SNAIL_DESC
+LANG_ENGLISH     "Ein Treffer und du gehst zu Boden. Je höher die Runden, desto schneller wird die Schnecke."
+
+REFERENCE           DUCK
+LANG_ENGLISH     "Player Quacknarok"
+
+REFERENCE           DUCK_DESC
+LANG_ENGLISH     "Alle Spieler tragen eine Enten-Schwimmhilfe"
+
+REFERENCE           ALERT
+LANG_ENGLISH     "\n\n^BBUTTON_CYCLE_LEFT^ Durch Ändern dieser Option wird AAE Karriere, Bank und Waffenlager deaktiviert"
+
+REFERENCE           RAMPAGE
+LANG_ENGLISH     "Ersetze die Gambler-8-Ball durch den Rampage Inducer"
+
+REFERENCE           RAMPAGE_DESC
+LANG_ENGLISH     "Tausche den Standort von Gambler und Rampage Inducer, um benutzerdefinierte Karten zu unterstützen.\n\nRampage Inducer:\nAktivieren, damit Zombies schneller erscheinen und sich schneller bewegen."
+
+REFERENCE           THEGIANT_WEAPON
+LANG_ENGLISH     "Füge Waffen aus The Giant zur Mystery Box hinzu"
+
+REFERENCE           HIDE_CUSTOM_MAP_WEAPON
+LANG_ENGLISH     "Verstecke Waffen von benutzerdefinierten Karten in der Mystery Box"
+
+REFERENCE           HIDE_AAE_WEAPON
+LANG_ENGLISH     "Verstecke Waffen von AAE in der Mystery Box"
+
+REFERENCE           ALLWALLBUY
+LANG_ENGLISH         "Günstige Wandwaffen in der Box aktivieren"
+
+ENDMARKER
