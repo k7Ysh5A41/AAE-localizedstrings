@@ -12,7 +12,7 @@ REFERENCE           HOTJOIN_DESC
 LANG_ENGLISH     "Игроки не могут присоединяться после начала матча."
 
 REFERENCE           GAMBLER
-LANG_ENGLISH     "Отключить гамблер"
+LANG_ENGLISH     "Отключить гэмблер"
 
 REFERENCE           DOG
 LANG_ENGLISH     "Отключить специальные раунды"
