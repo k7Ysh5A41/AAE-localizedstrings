@@ -12,7 +12,7 @@ REFERENCE           PLAYERMONITOR_DOA
 LANG_ENGLISH     "Точка зрения других игроков (с неба на землю)"
 
 REFERENCE           WALLBUY
-LANG_ENGLISH     "Отключить подсказки Wall Buy"
+LANG_ENGLISH     "Отключить подсказки покупки со стены"
 
 REFERENCE           PLAYER_HPBAR
 LANG_ENGLISH     "Отключить полоску здоровья над игроком"
@@ -27,7 +27,7 @@ REFERENCE           DISABLE_AFK
 LANG_ENGLISH     "Отключить AFK"
 
 REFERENCE           BGB_DROP
-LANG_ENGLISH     "Выпадение улучшений Gobblegum"
+LANG_ENGLISH     "Выпадение улучшений губль-гам"
 
 REFERENCE           FPS
 LANG_ENGLISH     "Графика низкого качества"
@@ -36,10 +36,10 @@ REFERENCE           SM
 LANG_ENGLISH     "Показать собственную скорость движения"
 
 REFERENCE           AAT
-LANG_ENGLISH     "Отключить AAT"
+LANG_ENGLISH     "Отключить альтернативный тип боеприпасов"
 
 REFERENCE           ADS
-LANG_ENGLISH     "Без увеличения ADS"
+LANG_ENGLISH     "Без увеличения прицеливания"
 
 REFERENCE           T6PAP
 LANG_ENGLISH     "BO2 Pack-a-Punch"
@@ -159,7 +159,7 @@ REFERENCE           ORANGERED
 LANG_ENGLISH     "Оранжево-красный"
 
 REFERENCE           FLOD
-LANG_ENGLISH     "Принудительно высокая детализация LOD"
+LANG_ENGLISH     "Принудительно высокий уровень детализации"
 
 REFERENCE           BB
 LANG_ENGLISH     "Отключить черную полосу"
@@ -171,7 +171,7 @@ REFERENCE           STARTHINT
 LANG_ENGLISH     "Отключить стартовую подсказку"
 
 REFERENCE           LOADING
-LANG_ENGLISH     "Отключить видео загрузки соло"
+LANG_ENGLISH     "Отключить интро в соло"
 
 REFERENCE           LOWAMMO
 LANG_ENGLISH     "Отключить звук низкого боезапаса"
@@ -180,7 +180,7 @@ REFERENCE           HINTICON
 LANG_ENGLISH     "Отключить иконку подсказки"
 
 REFERENCE           PERKSLOT
-LANG_ENGLISH     "Выпадение усилений Perk Slot"
+LANG_ENGLISH     "Выпадение бонуса перк слотов"
 
 REFERENCE           RELOADPROMPT
 LANG_ENGLISH     "Отключить подсказку перезарядки"
@@ -228,10 +228,10 @@ REFERENCE           ZCPERK
 LANG_ENGLISH     "Отключить дополнительные машины Perk и PAP на картах ZC (требуется перезапуск)"
 
 REFERENCE           NOPES
-LANG_ENGLISH     "Невозможно взаимодействовать с P.E.S. на Moon"
+LANG_ENGLISH     "Невозможно взаимодействовать с скафандром на Луне"
 
 REFERENCE           PAPBOX
-LANG_ENGLISH     "Pap'd Mystery Box (Требуется AF & 50 EE)"
+LANG_ENGLISH     "Улучшение таинственного ящика (Требуется AF & 50 EE)"
 
 REFERENCE           MOTIONUI
 LANG_ENGLISH     "Интерфейс движения"
@@ -270,7 +270,7 @@ REFERENCE           AMMOBAG
 LANG_ENGLISH     "Отключить появление сумки с боеприпасами каждые 2 раунда"
 
 REFERENCE           SLOTHUD
-LANG_ENGLISH     "Отключить HUD слота Perk"
+LANG_ENGLISH     "Отключить HUD перк слота"
 
 REFERENCE           STABAR
 LANG_ENGLISH     "Отключить индикатор выносливости"
@@ -279,10 +279,10 @@ REFERENCE           AUTOLEAN
 LANG_ENGLISH     "Отключить автоматический наклон"
 
 REFERENCE           BGB_START
-LANG_ENGLISH     "Старт раунда Gobblegum"
+LANG_ENGLISH     "Старт раунда губль-гам"
 
 REFERENCE           C4ENDING
-LANG_ENGLISH     "Купаемое окончание C4 (150K+ / раунд 35)"
+LANG_ENGLISH     "Покупаемок окончание C4 (150K+ / раунд 35)"
 
 REFERENCE           GUNPOS
 LANG_ENGLISH     "Положение модели руки от первого лица"
@@ -300,10 +300,10 @@ REFERENCE           BARSPIN
 LANG_ENGLISH     "Плоский интерфейс (требуется перезапуск)"
 
 REFERENCE           T7
-LANG_ENGLISH     "Ваниль"
+LANG_ENGLISH     "Стандарт"
 
 REFERENCE           T10
-LANG_ENGLISH     "Центральные иконки Perk"
+LANG_ENGLISH     "По центру"
 
 REFERENCE           NOATTACHMENT  
 LANG_ENGLISH     "Нет вложения"  
@@ -315,7 +315,7 @@ REFERENCE           BATTLECHAT
 LANG_ENGLISH        "Отключить субтитры разговоров игроков"
 
 REFERENCE           IE_OVERLAY
-LANG_ENGLISH        "Отключить фильтр неактивных глаз"
+LANG_ENGLISH        "Отключить фильтр пустого места"
 
 REFERENCE           HPBAR_RANDOM_NAMES
 LANG_ENGLISH        "Включить и использовать случайные имена"

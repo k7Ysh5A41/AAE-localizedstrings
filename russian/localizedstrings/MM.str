@@ -9,7 +9,7 @@ REFERENCE           WEAPONSMODSMENU
 LANG_ENGLISH     "Меню модификаций оружия" 
 
 REFERENCE           PACKERPUNCHOPTIONS
-LANG_ENGLISH     "Опции Pack-a-Punch"
+LANG_ENGLISH     "Опции улучшайзера"
 
 REFERENCE           DROPCURRENTWEAPON
 LANG_ENGLISH     "Выбросить текущее оружие"
@@ -27,7 +27,7 @@ REFERENCE           TOGGLELEFTSIDEWEAPON
 LANG_ENGLISH     "Переключить оружие на левую сторону"
 
 REFERENCE           PACKERPUNCHCURRENTWEAPON
-LANG_ENGLISH     "Pack-a-Punch текущего оружия"
+LANG_ENGLISH     "Улучшение текущего оружия"
 
 REFERENCE           UNPACKCURRENTWEAPON
 LANG_ENGLISH     "Распаковать текущее оружие"
@@ -108,13 +108,13 @@ REFERENCE           TOGGLEENTITYCOLLISION
 LANG_ENGLISH     "Переключить коллизию сущностей"
 
 REFERENCE           REVIVEALLCLIENTS
-LANG_ENGLISH     "Воскресить всех клиентов"
+LANG_ENGLISH     "Воскресить всех игроков"
 
 REFERENCE           MYSTERYBOXMODS
 LANG_ENGLISH     "Модификации Таинственного ящика"
 
 REFERENCE           MYSTERYBOXNEVERMOVES
-LANG_ENGLISH     "Таинственный ящик никогда не двигается"
+LANG_ENGLISH     "Таинственный ящик никогда не двинется"
 
 REFERENCE           MYSTERYBOXOPENINGPRICE
 LANG_ENGLISH     "Стоимость открытия Таинственного ящика"
@@ -231,7 +231,7 @@ REFERENCE           CUSTOMIZEMENU
 LANG_ENGLISH     "Меню настройки"
 
 REFERENCE           EXTRAPERKEASTEREGG
-LANG_ENGLISH     "Дополнительный перковый пасхалка"
+LANG_ENGLISH     "Дополнительная перковая пасхалка"
 
 REFERENCE           STARTGIANTCLOCK
 LANG_ENGLISH     "Запустить гигантские часы"
@@ -327,7 +327,7 @@ REFERENCE           TOGGLEVISIBLECHECK
 LANG_ENGLISH     "Переключить проверку видимости"
 
 REFERENCE           SETTOROUND50
-LANG_ENGLISH     "Установить на раунд 50"
+LANG_ENGLISH     "Установить 50 раунд"
 
 REFERENCE           O50ROUNDS
 LANG_ENGLISH     "+ 50 раундов"
@@ -351,7 +351,7 @@ REFERENCE           D1ROUNDS
 LANG_ENGLISH     "- 1 раунд"
 
 REFERENCE           SETTOROUND1
-LANG_ENGLISH     "Установить на раунд 1"
+LANG_ENGLISH     "Установить 1 раунд"
 
 REFERENCE           TOGGLEGODMODE
 LANG_ENGLISH     "Переключить режим бога"

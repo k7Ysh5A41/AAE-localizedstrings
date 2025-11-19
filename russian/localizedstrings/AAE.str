@@ -138,10 +138,10 @@ REFERENCE           PAP_BUSY
 LANG_ENGLISH     "Pack-a-Punch занят"
 
 REFERENCE           PAP_OCTOBOMB
-LANG_ENGLISH     "Нажмите ^3[{+melee}]^7, чтобы переключить Pack-a-Punch в режим Только Li'l Arnie"
+LANG_ENGLISH     "Нажмите ^3[{+melee}]^7, чтобы переключить Pack-a-Punch в режим Только маленький Арни"
 
 REFERENCE           PAP_MONKEY
-LANG_ENGLISH     "Нажмите ^3[{+melee}]^7, чтобы переключить Pack-a-Punch в режим Только Обезьяна-Барабан"
+LANG_ENGLISH     "Нажмите ^3[{+melee}]^7, чтобы переключить Pack-a-Punch в режим Только Бомба-обезьяна"
 
 REFERENCE           PAP_ONLY_ACCEPTS
 LANG_ENGLISH     "Pack-a-Punch теперь принимает только "
@@ -153,7 +153,7 @@ REFERENCE           AFK
 LANG_ENGLISH     "AFK"
 
 REFERENCE           AFK_DESC
-LANG_ENGLISH     "Вы в данный момент игнорируетесь зомби, и другие игроки могут вас толкать."
+LANG_ENGLISH     "Вас в данный момент игнорируют зомби, и другие игроки могут вас толкать."
 
 REFERENCE           PAP_OR_NORMAL
 LANG_ENGLISH     "PaP или обычный"

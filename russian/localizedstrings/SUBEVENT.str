@@ -87,7 +87,7 @@ REFERENCE           PING_POWER
 LANG_ENGLISH     "Выключатель питания"
 
 REFERENCE           PING_PERK_RANDOM
-LANG_ENGLISH     "Der Wunderfizz"
+LANG_ENGLISH     "Вундершипучка"
 
 REFERENCE           PING_BOX
 LANG_ENGLISH     "Таинственная коробка"
@@ -96,10 +96,10 @@ REFERENCE           PING_ZOMBIE
 LANG_ENGLISH     "^1Враг"
 
 REFERENCE           PING_BGB
-LANG_ENGLISH     "Машина GobbleGum"
+LANG_ENGLISH     "Машина губль-гам"
 
 REFERENCE           PING_PERK
-LANG_ENGLISH     "Машина Perk"
+LANG_ENGLISH     "Перк машина"
 
 REFERENCE           PING_PAP
 LANG_ENGLISH     "Машина Pack-a-Punch"

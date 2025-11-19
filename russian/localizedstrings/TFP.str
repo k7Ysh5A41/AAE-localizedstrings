@@ -27,7 +27,7 @@ REFERENCE           EXTPLAYER_DESC
 LANG_ENGLISH     "Максимальное количество игроков увеличено до 10 (^1очень нестабильно^7), машины Gobblegum будут отключены из-за ^3ограничений игрового движка^7.\n\nДетали поддержки карт:\n\nZombies Chronicles все карты\n(^2Стабильно, Main EE совместимо^7)\n\nSoE/DE/GK\n(^3Менее стабильно, Main EE совместимо^7)\n\nДругие карты 3arc (^3Менее стабильно^7)\nПользовательские карты (Неизвестно)"
 
 REFERENCE           FFFIVE
-LANG_ENGLISH     "Friendly Fire, но не убивает"
+LANG_ENGLISH     "Огонь по своим, но не убивает"
 
 REFERENCE           ROUNDLIMIT
 LANG_ENGLISH     "Закончить матч на этом раунде"
@@ -39,13 +39,13 @@ REFERENCE           ROUNDTIME_DESC
 LANG_ENGLISH     "Вы сейчас в End Game. После завершения раунда, указанного в опции 'Закончить матч на этом раунде', проверьте свои навыки, выживая в бесконечной волне мгновенно появляющихся зомби в течение указанного времени. Столкнитесь с новыми Super Sprinter и Tranzit Bus Sprinter. Если запустить до раунда 40, штраф за неудачу — знать, что орда победила вас..."
 
 REFERENCE           TRADE_DESC
-LANG_ENGLISH     "Обмен оружием с другим игроком. Подойдите к игроку, на которого хотите обменяться, и посмотрите на его оружие. Оба игрока должны удерживать экранный промпт до заполнения полосы, затем оружие будет обменяно."
+LANG_ENGLISH     "Обмен оружием с другим игроком. Подойдите к игроку, с которым хотите обменяться, и посмотрите на его оружие. Оба игрока должны удерживать кнопку взаимодействия до заполнения полосы, затем игроки обменяются оружием."
 
 REFERENCE           GAMBLER_DESC
 LANG_ENGLISH     "Создает плавающий Lucky 8 шар в точке спауна игрока, который можно использовать за 1000 очков для случайного эффекта. Некоторые хорошие, некоторые плохие, некоторые средние. Можно купить только один раз за раунд."
 
 REFERENCE           SOLOREVIVE
-LANG_ENGLISH     "Неограниченное одиночное возрождение"
+LANG_ENGLISH     "Неограниченный реаниматор (Соло)"
 
 REFERENCE           PERKPLUS
 LANG_ENGLISH     "Отключить улучшения перков"
@@ -66,7 +66,7 @@ REFERENCE           SHOCK
 LANG_ENGLISH     "Грифф режим только для одной команды"
 
 REFERENCE           SHOCK_DESC
-LANG_ENGLISH     "Действия, которые обычно были friendly fire, замедляют игроков и оглушают экран."
+LANG_ENGLISH     "Действия, которые обычно были огнём по своим, замедляют игроков и оглушают экран."
 
 REFERENCE           BLOOD
 LANG_ENGLISH     "Отключить кровь"
@@ -78,25 +78,25 @@ REFERENCE           ROAMER_DESC
 LANG_ENGLISH     "Позволяет задать паузу между раундами. Время можно настраивать, следующую волну можно запустить вручную через промпт в игре."
 
 REFERENCE           DPAP
-LANG_ENGLISH     "BO4 Pack-a-Punch Repack"
+LANG_ENGLISH     "Переупаковка оружия из BO4"
 
 REFERENCE           LOADOUTSAVE2
-LANG_ENGLISH     "Очистить сохраненный набор после bleed out"
+LANG_ENGLISH     "Очистить сохраненный набор после смерти"
 
 REFERENCE           LOADOUTSAVE2_DESC
-LANG_ENGLISH     "Очищает оружие после bleedout, возрождение будет только с пистолетом. Работает с опциями 'Weapon Restore & Mule Kick Weapon Restore'."
+LANG_ENGLISH     "Очищает оружие после смерти, возрождение будет только с пистолетом. Работает с опциями 'Weapon Restore & Mule Kick Weapon Restore'."
 
 REFERENCE           RIPPER
-LANG_ENGLISH     "Отключить замену Bowie Knife на Ripper"
+LANG_ENGLISH     "Отключить замену ножа боуи на риппер"
 
 REFERENCE           RIPPER_DESC
-LANG_ENGLISH     "Держа Bowie Knife с Widow's Wine, оружие апгрейдится до Ripper из Multiplayer с большим уроном и самонаведением. Эта опция отключает это."
+LANG_ENGLISH     "Держа нож боуи с вином вдвовы, оружие апгрейдится до риппера из мультиплеера с большим уроном и самонаведением. Эта опция отключает это."
 
 REFERENCE           DW
-LANG_ENGLISH     "Отключить Dualwield PAP Wonder Weapons"
+LANG_ENGLISH     "Отключить двуручное чудесное оружие после улучшения"
 
 REFERENCE           DW_DESC
-LANG_ENGLISH     "Ray Gun Mark I и Thundergun становятся двуручными с PAP + All Around Enhancement. Эта опция отключает это."
+LANG_ENGLISH     "Первый лучемёт и Сверхоружие становятся двуручными после улучшения + All Around Enhancement. Эта опция отключает это."
 
 REFERENCE           ZMBAR
 LANG_ENGLISH     "Полоса здоровья зомби"
@@ -108,9 +108,9 @@ REFERENCE           JUKE_DESC
 LANG_ENGLISH     "Зомби будут случайно двигаться влево и вправо, а не по прямой, как в Black Ops 1."
 
 REFERENCE           AUTORUN
-LANG_ENGLISH     "Отключить супер-спринтеров после раунда 40"
+LANG_ENGLISH     "Отключить супер-спринтеров после 40 раунда"
 
 REFERENCE           AUTORUN_DESC
-LANG_ENGLISH     "Все зомби становятся супер-спринтерами после раунда 40 с All Around Enhancement. Эта опция ограничивает только некоторых зомби на раунд."
+LANG_ENGLISH     "Все зомби становятся супер-спринтерами после 40 раунда с All Around Enhancement. Эта опция ограничивает только некоторых зомби на раунд."
 
 ENDMARKER
