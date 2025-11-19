@@ -24,13 +24,13 @@ REFERENCE           DROPSOME
 LANG_ENGLISH     "Я здесь сбросил немного очков!"
 
 REFERENCE           GOTPERK
-LANG_ENGLISH     "Я получил Perk"
+LANG_ENGLISH     "Я получил перк"
 
 REFERENCE           READY
 LANG_ENGLISH     "Я готов"
 
 REFERENCE           AUTOREVIVE
-LANG_ENGLISH     "Я получил Auto Revive"
+LANG_ENGLISH     "Я получил самооживление"
 
 REFERENCE           GOTSOMEPERK
 LANG_ENGLISH     "Я получил"
@@ -102,6 +102,6 @@ REFERENCE           PING_PERK
 LANG_ENGLISH     "Перк машина"
 
 REFERENCE           PING_PAP
-LANG_ENGLISH     "Машина Pack-a-Punch"
+LANG_ENGLISH     "Машина улучшайзер"
 
 ENDMARKER
