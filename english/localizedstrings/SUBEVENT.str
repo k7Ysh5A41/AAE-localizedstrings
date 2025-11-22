@@ -104,4 +104,16 @@ LANG_ENGLISH     "Perk Machine"
 REFERENCE           PING_PAP
 LANG_ENGLISH     "Pack-a-Punch Machine"
 
+REFERENCE           FULL_AMMO
+LANG_ENGLISH     "Max Ammo"
+
+REFERENCE           CARPENTER
+LANG_ENGLISH     "Carpenter"
+
+REFERENCE           ZOMBIE_BLOOD
+LANG_ENGLISH     "Zombie Blood"
+
+REFERENCE           INSTA_KILL
+LANG_ENGLISH     "Insta Kill"
+
 ENDMARKER
