@@ -329,4 +329,52 @@ LANG_ENGLISH     "Rampage Inducer Deactivated By"
 REFERENCE           RELOADING
 LANG_ENGLISH     "Reloading"
 
+REFERENCE           REWARD_TITLE
+LANG_ENGLISH     "Easter Egg completion rewards"
+
+REFERENCE           REWARD_15
+LANG_ENGLISH     "15 Times"
+
+REFERENCE           REWARD_LINE1
+LANG_ENGLISH     "No ^BBUTTON_COD_POINT_ICON^100 fee for deposits or withdrawals at the bank."
+
+REFERENCE           REWARD_25
+LANG_ENGLISH     "25 Times"
+
+REFERENCE           REWARD_LINE2
+LANG_ENGLISH     "Each round allows 30 withdrawals."
+
+REFERENCE           REWARD_LINE3
+LANG_ENGLISH     "Weapon Locker will fully reload your weapons."
+
+REFERENCE           REWARD_LINE4
+LANG_ENGLISH     "Gambler costs you only ^BBUTTON_COD_POINT_ICON^10."
+
+REFERENCE           REWARD_50
+LANG_ENGLISH     "50 Times"
+
+REFERENCE           REWARD_LINE5
+LANG_ENGLISH     "Each bank withdrawal returns ^BBUTTON_COD_POINT_ICON^100."
+
+REFERENCE           REWARD_LINE6
+LANG_ENGLISH     "Gambler can be used twice per round."
+
+REFERENCE           REWARD_LINE7
+LANG_ENGLISH     "The gambler's lost points have no effect on you."
+
+REFERENCE           REWARD_LINE8
+LANG_ENGLISH     "Each Carpenter grants an additional ^BBUTTON_COD_POINT_ICON^200."
+
+REFERENCE           REWARD_LINE9
+LANG_ENGLISH     "Pack-a-Punch spare change increased to ^BBUTTON_COD_POINT_ICON^1000."
+
+REFERENCE           REWARD_LINE10
+LANG_ENGLISH     "Each weapon upgrade grants 50 points."
+
+REFERENCE           REWARD_LINE11
+LANG_ENGLISH     "Get ^BBUTTON_COD_POINT_ICON^500 for drinking a perk."
+
+REFERENCE           CLICKHERE
+LANG_ENGLISH     "Click Here"
+
 ENDMARKER
