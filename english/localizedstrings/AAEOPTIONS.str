@@ -335,4 +335,7 @@ LANG_ENGLISH     "Disable Trigger Marker"
 REFERENCE           SHOTGUN_GIB
 LANG_ENGLISH     "Disable Shotgun Gib"
 
+REFERENCE           WEAPON_KIT_PAP
+LANG_ENGLISH     "Weapon Kit is only for paped"
+
 ENDMARKER
