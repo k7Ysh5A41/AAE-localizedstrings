@@ -77,9 +77,6 @@ LANG_ENGLISH         "^6W^3H^5I^2M^7S^2I^5C^3A^6L\n^7Ativa imediatamente (Dura 5
 REFERENCE            EDDIE_HINT
 LANG_ENGLISH         "Ativo por 5 rodadas completas\nTodos os zumbis se transformam em Edward Richtofen."
 
-REFERENCE            LUCKY_CRIT
-LANG_ENGLISH         "Crítico da Sorte"
-
 REFERENCE            LUCKY_CRIT_DESC
 LANG_ENGLISH         "^7Ativa imediatamente (Dura 3 rodadas completas)\nAumenta as chances de ativar um tipo de munição alternativo aleatório e garante 100% de chance de obter o projétil AA em Zetsubou."
 
@@ -97,6 +94,9 @@ LANG_ENGLISH         "Ativado (5x ativações)\nTeletransporta instantaneamente 
 
 REFERENCE            COAGULANT_DESC
 LANG_ENGLISH         "Ativa imediatamente (Dura 2 horas)\nTempo de sangramento aumentado para 2 horas."
+
+REFERENCE            COAGULANT_HINT
+LANG_ENGLISH         "Ativo por 2 horas\nTempo de sangramento de 2 horas"
 
 REFERENCE            IN_PLAIN_SIGHT_DESC
 LANG_ENGLISH         "Ativado (5x ativações, 10 segundos cada)\nOs zumbis o ignoram por 10 segundos."
@@ -117,7 +117,7 @@ REFERENCE            LICENSED_CONTRACTOR_DESC
 LANG_ENGLISH         "^2MEGA\n^7Ativado (5x ativações)\nGera um bônus de Carpinteiro."
 
 REFERENCE            PHOENIX_UP_DESC
-LANG_ENGLISH         "^2MEGA\n^7Ativado (5x ativações)\nRevive todos os companheiros de equipe. Eles mantêm todos os seus aprimoramentos."
+LANG_ENGLISH         "^2MEGA\n^7Ativado (5 utilizações)\nRevive todos (incluindo você). Todos mantêm todos os seus perks."
 
 REFERENCE            RESPIN_CYCLE_DESC
 LANG_ENGLISH         "^2MEGA\n^7Ativado (5x ativações)\nPermite girar novamente as armas em uma caixa mágica após ser usada."
@@ -136,5 +136,11 @@ LANG_ENGLISH         "^3RARA MEGA\n^7Ativa imediatamente (Ativa por 5 rodadas co
 
 REFERENCE            DANGER_CLOSEST_DESC
 LANG_ENGLISH         "Ativa imediatamente (Dura 20 rodadas completas)\nSem dano explosivo."
+
+REFERENCE            BURNED_OUT_DESC
+LANG_ENGLISH         "Ativa imediatamente (dura 6 acertos)\nAntes de sofrer dano letal, você se torna imune e causa dano aos zumbis em uma área ampla."
+
+REFERENCE            BURNED_OUT_HINT
+LANG_ENGLISH         "Ativa automaticamente antes de sofrer dano letal e torna você imune\nCause dano aos zumbis em uma área ampla"
 
 ENDMARKER

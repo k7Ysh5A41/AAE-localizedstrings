@@ -104,4 +104,16 @@ LANG_ENGLISH     "パークマシン"
 REFERENCE           PING_PAP
 LANG_ENGLISH     "パックアパンチマシン"
 
+REFERENCE           FULL_AMMO
+LANG_ENGLISH        "最大弾薬"
+
+REFERENCE           CARPENTER
+LANG_ENGLISH        "カーペンター"
+
+REFERENCE           ZOMBIE_BLOOD
+LANG_ENGLISH        "ゾンビブラッド"
+
+REFERENCE           INSTA_KILL
+LANG_ENGLISH        "インスタキル"
+
 ENDMARKER

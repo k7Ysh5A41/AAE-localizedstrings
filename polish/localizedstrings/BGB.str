@@ -77,9 +77,6 @@ LANG_ENGLISH         "^6F^3A^5N^2T^7A^2S^5T^3I^6C\n^7Aktywowane natychmiast (trw
 REFERENCE            EDDIE_HINT
 LANG_ENGLISH         "Aktywne przez 5 pełnych rund\nWszystkie zombi zmieniają się w Edwarda Richtofena."
 
-REFERENCE            LUCKY_CRIT
-LANG_ENGLISH         "Szczęśliwy krytyk"
-
 REFERENCE            LUCKY_CRIT_DESC
 LANG_ENGLISH         "^7Aktywowane natychmiast (trwa 3 pełne rundy)\nZwiększa szanse na aktywowanie losowego typu alternatywnej amunicji, daje również 100% szansę na zdobycie pocisku AA w Zetsubou."
 
@@ -97,6 +94,9 @@ LANG_ENGLISH         "Aktywowana (5x użycia)\nNatychmiast teleportuje cię w lo
 
 REFERENCE            COAGULANT_DESC
 LANG_ENGLISH         "Aktywuje się natychmiast (Działa przez 2 godziny)\nCzas wykrwawiania wydłużony do 2 godzin."
+
+REFERENCE            COAGULANT_HINT
+LANG_ENGLISH         "Aktywne przez 2 godziny\n2 godziny czasu wykrwawiania"
 
 REFERENCE            IN_PLAIN_SIGHT_DESC
 LANG_ENGLISH         "Aktywowana (5x użycia, po 10 sekund każda)\nZombie ignorują cię przez 10 sekund."
@@ -117,7 +117,7 @@ REFERENCE            LICENSED_CONTRACTOR_DESC
 LANG_ENGLISH         "^2MEGA\n^7Aktywowana (5x użycia)\nTworzy ulepszenie Stolarz."
 
 REFERENCE            PHOENIX_UP_DESC
-LANG_ENGLISH         "^2MEGA\n^7Aktywowana (5x użycia)\nReaktywuje wszystkich sojuszników. Sojusznicy zachowują wszystkie swoje ulepszenia."
+LANG_ENGLISH         "^2MEGA\n^7Aktywowany (5 użyć)\nWskrzesza wszystkich (łącznie z tobą). Każdy zachowuje wszystkie swoje perki."
 
 REFERENCE            RESPIN_CYCLE_DESC
 LANG_ENGLISH         "^2MEGA\n^7Aktywowana (5x użycia)\nPonownie losuje broń z magicznej skrzyni po jej użyciu."
@@ -136,5 +136,11 @@ LANG_ENGLISH         "^3RZADKA MEGA\n^7Aktywuje się natychmiast (Aktywna przez 
 
 REFERENCE            DANGER_CLOSEST_DESC
 LANG_ENGLISH         "Aktywuje się natychmiast (Działa przez 20 pełnych rund)\nBrak obrażeń od wybuchów."
+
+REFERENCE            BURNED_OUT_DESC
+LANG_ENGLISH         "Aktywuje się natychmiast (trwa 6 trafień)\nZanim otrzymasz śmiertelne obrażenia, stajesz się odporny i zadajesz obrażenia zombie na dużym obszarze."
+
+REFERENCE            BURNED_OUT_HINT
+LANG_ENGLISH         "Automatycznie aktywuje się przed otrzymaniem śmiertelnych obrażeń i daje odporność\nZadaje obrażenia zombie na dużym obszarze"
 
 ENDMARKER

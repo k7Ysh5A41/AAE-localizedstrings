@@ -77,9 +77,6 @@ LANG_ENGLISH         "^6F^3A^5N^2T^7A^2S^5T^3I^6C\n^7Attivazione immediata (Dura
 REFERENCE            EDDIE_HINT
 LANG_ENGLISH         "Attivo per 5 round completi\nTutti gli zombie diventano Edward Richtofen."
 
-REFERENCE            LUCKY_CRIT
-LANG_ENGLISH         "Colpo Fortunato"
-
 REFERENCE            LUCKY_CRIT_DESC
 LANG_ENGLISH         "^7Attivazione immediata (Dura 3 round completi)\nAumenta le probabilità di attivare un tipo di munizione alternativo casuale e garantisce il 100% di possibilità di ottenere il proiettile AA in Zetsubou."
 
@@ -97,6 +94,9 @@ LANG_ENGLISH         "Attivato (5x attivazioni)\nTeletrasporta istantaneamente i
 
 REFERENCE            COAGULANT_DESC
 LANG_ENGLISH         "Si attiva immediatamente (Dura 2 ore)\nTempo di dissanguamento esteso a 2 ore."
+
+REFERENCE            COAGULANT_HINT
+LANG_ENGLISH         "Attivo per 2 ore\nTempo di dissanguamento di 2 ore"
 
 REFERENCE            IN_PLAIN_SIGHT_DESC
 LANG_ENGLISH         "Attivato (5x attivazioni, 10 secondi ciascuna)\nGli zombie ti ignorano per 10 secondi."
@@ -117,7 +117,7 @@ REFERENCE            LICENSED_CONTRACTOR_DESC
 LANG_ENGLISH         "^2MEGA\n^7Attivato (5x attivazioni)\nGenera un bonus Carpentiere."
 
 REFERENCE            PHOENIX_UP_DESC
-LANG_ENGLISH         "^2MEGA\n^7Attivato (5x attivazioni)\nRianima tutti i compagni di squadra. I compagni mantengono tutti i loro potenziamenti."
+LANG_ENGLISH         "^2MEGA\n^7Attivato (5 utilizzi)\nRianima tutti (incluso te). Tutti mantengono tutti i propri perk."
 
 REFERENCE            RESPIN_CYCLE_DESC
 LANG_ENGLISH         "^2MEGA\n^7Attivato (5x attivazioni)\nRimescola le armi in una cassa magica dopo l’attivazione."
@@ -136,5 +136,11 @@ LANG_ENGLISH         "^3RARA MEGA\n^7Si attiva immediatamente (Attivo per 5 roun
 
 REFERENCE            DANGER_CLOSEST_DESC
 LANG_ENGLISH         "Si attiva immediatamente (Dura 20 round completi)\nNessun danno da esplosione."
+
+REFERENCE            BURNED_OUT_DESC
+LANG_ENGLISH         "Si attiva immediatamente (dura 6 colpi)\nPrima di subire danni letali, diventi immune e infliggi danni agli zombie in un'ampia area."
+
+REFERENCE            BURNED_OUT_HINT
+LANG_ENGLISH         "Si attiva automaticamente prima di subire danni letali e ti rende immune\nInfliggi danni agli zombie in un'ampia area"
 
 ENDMARKER

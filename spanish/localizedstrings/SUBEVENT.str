@@ -93,7 +93,7 @@ REFERENCE           PING_BOX
 LANG_ENGLISH     "la Caja Misteriosa"
 
 REFERENCE           PING_ZOMBIE
-LANG_ENGLISH     "a un ^1Enemigo"
+LANG_ENGLISH     "a un ^1enemigo"
 
 REFERENCE           PING_BGB
 LANG_ENGLISH     "una máquina de GobbleGum"
@@ -103,5 +103,17 @@ LANG_ENGLISH     "una máquina de ventaja"
 
 REFERENCE           PING_PAP
 LANG_ENGLISH     "la máquina de Pack-A-Punch"
+
+REFERENCE           FULL_AMMO
+LANG_ENGLISH        "Munición máxima"
+
+REFERENCE           CARPENTER
+LANG_ENGLISH        "Carpintero"
+
+REFERENCE           ZOMBIE_BLOOD
+LANG_ENGLISH        "Sangre zombi"
+
+REFERENCE           INSTA_KILL
+LANG_ENGLISH        "Baja instantánea"
 
 ENDMARKER

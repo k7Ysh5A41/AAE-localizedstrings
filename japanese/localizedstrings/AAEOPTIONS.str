@@ -327,12 +327,15 @@ REFERENCE           BGB_NOULTRA
 LANG_ENGLISH        "有効（ウルトラレアなし）"
 
 REFERENCE           RELOADCANCEL
-LANG_ENGLISH        "手動リロードキャンセルを無効にする"
+LANG_ENGLISH        "（SpeedCola キャンセルは含まれません）スプリントリロードを有効にする"
 
 REFERENCE           TRIGGER_MARKER
 LANG_ENGLISH        "トリガーマーカーを無効にする"
 
 REFERENCE           SHOTGUN_GIB
 LANG_ENGLISH        "ショットガンの破片を無効にする"
+
+REFERENCE           WEAPON_KIT_PAP
+LANG_ENGLISH        "ウェポンキットは強化された武器専用です"
 
 ENDMARKER
