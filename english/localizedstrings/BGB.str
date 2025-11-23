@@ -96,7 +96,7 @@ REFERENCE            COAGULANT_DESC
 LANG_ENGLISH         "Activates Immediately (Lasts 2 Hours)\n2 Hours bleedout time."
 
 REFERENCE            COAGULANT_HINT
-LANG_ENGLISH         "Active for 20 minutes\n2 Hours bleedout time"
+LANG_ENGLISH         "Active for 2 Hours\n2 Hours bleedout time"
 
 REFERENCE            IN_PLAIN_SIGHT_DESC
 LANG_ENGLISH         "Activated (5x Activations, 10 seconds each)\nYou are ignored by zombies for 10 seconds."
