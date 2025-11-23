@@ -369,7 +369,7 @@ REFERENCE           REWARD_LINE9
 LANG_ENGLISH     "Pack-a-Punch spare change increased to ^BBUTTON_COD_POINT_ICON^1000."
 
 REFERENCE           REWARD_LINE10
-LANG_ENGLISH     "Each weapon upgrade grants 50 points."
+LANG_ENGLISH     "Each weapon upgrade grants ^BBUTTON_COD_POINT_ICON^50."
 
 REFERENCE           REWARD_LINE11
 LANG_ENGLISH     "Get ^BBUTTON_COD_POINT_ICON^500 for drinking a perk."
