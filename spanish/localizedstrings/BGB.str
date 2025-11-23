@@ -98,6 +98,9 @@ LANG_ENGLISH         "Activado (x5 activaciones).\nTe teletransportas al instant
 REFERENCE            COAGULANT_DESC
 LANG_ENGLISH         "Activador: inmediato (dura 2 horas).\nAumenta el tiempo de desangramiento durante 2 horas."
 
+REFERENCE            COAGULANT_HINT
+LANG_ENGLISH         "Activado durante 2 horas completas.\nAumenta el tiempo de desangramiento durante 2 horas."
+
 REFERENCE            IN_PLAIN_SIGHT_DESC
 LANG_ENGLISH         "Activado (x5 activaciones de 10 segundos cada una).\nLos zombis te ignoran durante 10 segundos."
 
@@ -117,7 +120,7 @@ REFERENCE            LICENSED_CONTRACTOR_DESC
 LANG_ENGLISH         "^2MEGA\n^7Activado (x5 activaciones).\nAparece un potenciador de carpintero."
 
 REFERENCE            PHOENIX_UP_DESC
-LANG_ENGLISH         "^2MEGA\n^7Activado (x5 activaciones).\nRevive a todos tus compañeros. Estos mantienen todas sus ventajas, y también funciona en solitario."
+LANG_ENGLISH         "^2MEGA\n^7Activado (x5 activaciones).\nRevive a todos tus compañeros (incluyéndote). Todos mantienen todas sus ventajas."
 
 REFERENCE            RESPIN_CYCLE_DESC
 LANG_ENGLISH         "^2MEGA\n^7Activado (x5 activaciones).\nRepetición de tirada en la caja mágica después de activarla."
@@ -136,5 +139,11 @@ LANG_ENGLISH         "^3MEGA RARO\n^7Activador: inmediato (dura 5 rondas complet
 
 REFERENCE            DANGER_CLOSEST_DESC
 LANG_ENGLISH         "Activador: inmediato (dura 20 rondas completas).\nCero daño por explosivos."
+
+REFERENCE            BURNED_OUT_DESC
+LANG_ENGLISH         "^2MEGA\n^7Activador: inmediato (dura 6 impactos).\nAntes de recibir un daño letal de los enemigos, te vuelves inmune a ese daño y causaras un daño a los zombis en una área amplia."
+
+REFERENCE            BURNED_OUT_HINT
+LANG_ENGLISH         "Se autoactiva antes de recibir un daño letal y te vuelve inmune\nQuema a los zombis en un área amplia."
 
 ENDMARKER

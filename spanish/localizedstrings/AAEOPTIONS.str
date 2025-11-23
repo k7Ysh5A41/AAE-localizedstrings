@@ -327,12 +327,15 @@ REFERENCE           BGB_NOULTRA
 LANG_ENGLISH        "Activada, pero sin Mega Raros"
 
 REFERENCE           RELOADCANCEL
-LANG_ENGLISH        "Deshabilitar la cancelación manual de recarga"
+LANG_ENGLISH        "Deshab. la cancel. auto. de recarga (Cola Rápida no incluido)"
 
 REFERENCE           TRIGGER_MARKER
 LANG_ENGLISH        "Deshabilitar el marcador visual circular de los activadores"
 
 REFERENCE           SHOTGUN_GIB
 LANG_ENGLISH        "Deshab. el desmembramiento cuando se usan las escopetas"
+
+REFERENCE           WEAPON_KIT_PAP
+LANG_ENGLISH        "El kit de armas solo funciona con las armas mejoradas"
 
 ENDMARKER

@@ -327,12 +327,15 @@ REFERENCE           BGB_NOULTRA
 LANG_ENGLISH        "Ativado, mas sem Ultra-Rare"
 
 REFERENCE           RELOADCANCEL
-LANG_ENGLISH        "Desativar Cancelamento de Recarga Manual"
+LANG_ENGLISH        "( Cancelamento do SpeedCola não incluído ) Ativar recarregamento ao correr"
 
 REFERENCE           TRIGGER_MARKER
 LANG_ENGLISH        "Desativar Marcador de Gatilho"
 
 REFERENCE           SHOTGUN_GIB
 LANG_ENGLISH        "Desativar fragmentos da Espingarda"
+
+REFERENCE           WEAPON_KIT_PAP
+LANG_ENGLISH        "O kit de armas é apenas para armas aprimoradas"
 
 ENDMARKER

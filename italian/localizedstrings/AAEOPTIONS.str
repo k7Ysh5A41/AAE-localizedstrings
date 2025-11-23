@@ -327,12 +327,15 @@ REFERENCE           BGB_NOULTRA
 LANG_ENGLISH        "Attivato, ma senza Ultra-Rare"
 
 REFERENCE           RELOADCANCEL
-LANG_ENGLISH        "Disattiva annullamento ricarica manuale"
+LANG_ENGLISH        "( Annullamento SpeedCola non incluso ) Abilita la ricarica durante la corsa"
 
 REFERENCE           TRIGGER_MARKER
 LANG_ENGLISH        "Disattiva marcatore grilletto"
 
 REFERENCE           SHOTGUN_GIB
 LANG_ENGLISH        "Disattiva frammenti del fucile a pompa"
+
+REFERENCE           WEAPON_KIT_PAP
+LANG_ENGLISH        "Il kit arma è solo per le armi potenziate"
 
 ENDMARKER

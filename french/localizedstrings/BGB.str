@@ -77,9 +77,6 @@ LANG_ENGLISH         "^6F^3A^5N^2T^7A^2I^5S^3T^6I^7Q\n^7Activation immédiate (D
 REFERENCE            EDDIE_HINT
 LANG_ENGLISH         "Actif pendant 5 tours complets\nTous les zombies deviennent Edward Richtofen."
 
-REFERENCE            LUCKY_CRIT
-LANG_ENGLISH         "Crit Chanceux"
-
 REFERENCE            LUCKY_CRIT_DESC
 LANG_ENGLISH         "^7Activation immédiate (Dure 3 tours complets)\nAméliore vos chances d'activer un type de munitions alternatif aléatoire, et donne également 100% de chance d'obtenir la balle AA dans Zetsubou."
 
@@ -97,6 +94,9 @@ LANG_ENGLISH         "Activé (5x activations)\nTéléporte instantanément à u
 
 REFERENCE            COAGULANT_DESC
 LANG_ENGLISH         "S’active immédiatement (Dure 2 heures)\nTemps d’hémorragie prolongé à 2 heures."
+
+REFERENCE            COAGULANT_HINT
+LANG_ENGLISH         "Actif pendant 2 heures\nTemps d’hémorragie de 2 heures"
 
 REFERENCE            IN_PLAIN_SIGHT_DESC
 LANG_ENGLISH         "Activé (5x activations, 10 secondes chacune)\nLes zombies vous ignorent pendant 10 secondes."
@@ -117,7 +117,7 @@ REFERENCE            LICENSED_CONTRACTOR_DESC
 LANG_ENGLISH         "^2MÉGA\n^7Activé (5x activations)\nFait apparaître un bonus de Charpentier."
 
 REFERENCE            PHOENIX_UP_DESC
-LANG_ENGLISH         "^2MÉGA\n^7Activé (5x activations)\nRéanime tous les coéquipiers. Les coéquipiers conservent tous leurs atouts."
+LANG_ENGLISH         "^2MEGA\n^7Activé (5 utilisations)\nRéanime tout le monde (y compris vous). Tout le monde conserve tous ses atouts."
 
 REFERENCE            RESPIN_CYCLE_DESC
 LANG_ENGLISH         "^2MÉGA\n^7Activé (5x activations)\nRelance les armes dans une boîte magique après son activation."
@@ -136,5 +136,11 @@ LANG_ENGLISH         "^3RARE MÉGA\n^7S’active immédiatement (Actif pendant 5
 
 REFERENCE            DANGER_CLOSEST_DESC
 LANG_ENGLISH         "S’active immédiatement (Dure 20 manches complètes)\nAucun dégât explosif."
+
+REFERENCE            BURNED_OUT_DESC
+LANG_ENGLISH         "S’active immédiatement (dure 6 coups)\nAvant de subir des dégâts mortels, vous devenez immunisé et infligez des dégâts aux zombies dans une large zone."
+
+REFERENCE            BURNED_OUT_HINT
+LANG_ENGLISH         "S’active automatiquement avant de subir des dégâts mortels et vous rend immunisé\nInflige des dégâts aux zombies dans une large zone"
 
 ENDMARKER

@@ -77,9 +77,6 @@ LANG_ENGLISH         "^6F^3A^5N^2T^7A^2S^5T^3I^6S\n^7Sofort aktiviert (Dauert 5 
 REFERENCE            EDDIE_HINT
 LANG_ENGLISH         "Aktiv für 5 volle Runden\nAlle Zombies werden zu Edward Richtofen."
 
-REFERENCE            LUCKY_CRIT
-LANG_ENGLISH         "Glückstreffer"
-
 REFERENCE            LUCKY_CRIT_DESC
 LANG_ENGLISH         "^7Sofort aktiviert (Dauert 3 volle Runden)\nErhöht die Chance, einen zufälligen alternativen Munitions-Typ zu aktivieren, und garantiert 100% Chance auf die AA-Kugel in Zetsubou."
 
@@ -97,6 +94,9 @@ LANG_ENGLISH         "Aktiviert (5x Aktivierungen)\nTeleportiert dich sofort an 
 
 REFERENCE            COAGULANT_DESC
 LANG_ENGLISH         "Wird sofort aktiviert (Hält 2 Stunden)\n2 Stunden Blutungszeit."
+
+REFERENCE            COAGULANT_HINT
+LANG_ENGLISH         "Für 2 Stunden aktiv\n2 Stunden Blutungszeit"
 
 REFERENCE            IN_PLAIN_SIGHT_DESC
 LANG_ENGLISH         "Aktiviert (5x Aktivierungen, jeweils 10 Sekunden)\nZombies ignorieren dich für 10 Sekunden."
@@ -117,7 +117,7 @@ REFERENCE            LICENSED_CONTRACTOR_DESC
 LANG_ENGLISH         "^2MEGA\n^7Aktiviert (5x Aktivierungen)\nErzeugt ein Zimmermann-Power-Up."
 
 REFERENCE            PHOENIX_UP_DESC
-LANG_ENGLISH         "^2MEGA\n^7Aktiviert (5x Aktivierungen)\nBelebt alle Teamkameraden wieder. Teamkameraden behalten all ihre Perks."
+LANG_ENGLISH         "^2MEGA\n^7Aktiviert (5 Verwendungen)\nBelebt alle wieder (einschließlich dich selbst). Jeder behält all seine Perks."
 
 REFERENCE            RESPIN_CYCLE_DESC
 LANG_ENGLISH         "^2MEGA\n^7Aktiviert (5x Aktivierungen)\nDreht die Waffen in einer mysteriösen Kiste nach der Aktivierung erneut."
@@ -136,5 +136,11 @@ LANG_ENGLISH         "^3SELTENE MEGA\n^7Wird sofort aktiviert (Aktiv für 5 voll
 
 REFERENCE            DANGER_CLOSEST_DESC
 LANG_ENGLISH         "Wird sofort aktiviert (Hält 20 volle Runden)\nKein Explosionsschaden."
+
+REFERENCE            BURNED_OUT_DESC
+LANG_ENGLISH         "Aktiviert sich sofort (hält 6 Treffer)\nBevor du tödlichen Schaden erleidest, wirst du immun und fügst Zombies in einem großen Bereich Schaden zu."
+
+REFERENCE            BURNED_OUT_HINT
+LANG_ENGLISH         "Aktiviert sich automatisch, bevor du tödlichen Schaden erleidest und macht dich immun\nFügt Zombies in einem großen Bereich Schaden zu"
 
 ENDMARKER

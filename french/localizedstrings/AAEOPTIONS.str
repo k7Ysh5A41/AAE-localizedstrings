@@ -327,12 +327,15 @@ REFERENCE           BGB_NOULTRA
 LANG_ENGLISH        "Activé, mais pas Ultra-Rare"
 
 REFERENCE           RELOADCANCEL
-LANG_ENGLISH        "Désactiver l’annulation manuelle du rechargement"
+LANG_ENGLISH        "( SpeedCola Cancel non inclus ) Activer le rechargement en sprint"
 
 REFERENCE           TRIGGER_MARKER
 LANG_ENGLISH        "Désactiver le marqueur de déclenchement"
 
 REFERENCE           SHOTGUN_GIB
 LANG_ENGLISH        "Désactiver l’explosion de fusil à pompe"
+
+REFERENCE           WEAPON_KIT_PAP
+LANG_ENGLISH        "Le kit d'arme est uniquement pour les armes améliorées"
 
 ENDMARKER

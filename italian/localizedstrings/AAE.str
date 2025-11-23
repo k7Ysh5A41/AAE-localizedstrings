@@ -329,4 +329,52 @@ LANG_ENGLISH     "Induttore di furia disattivato da"
 REFERENCE           RELOADING
 LANG_ENGLISH     "Ricaricamento"
 
+REFERENCE           REWARD_TITLE
+LANG_ENGLISH        "Ricompense per il completamento dell'Easter Egg"
+
+REFERENCE           REWARD_15
+LANG_ENGLISH        "15 volte"
+
+REFERENCE           REWARD_LINE1
+LANG_ENGLISH        "Nessuna tassa di ^BBUTTON_COD_POINT_ICON^100 per depositi o prelievi in banca."
+
+REFERENCE           REWARD_25
+LANG_ENGLISH        "25 volte"
+
+REFERENCE           REWARD_LINE2
+LANG_ENGLISH        "Ogni round permette 30 prelievi."
+
+REFERENCE           REWARD_LINE3
+LANG_ENGLISH        "L'Armeria ricarica completamente le tue armi."
+
+REFERENCE           REWARD_LINE4
+LANG_ENGLISH        "Il Gambler costa solo ^BBUTTON_COD_POINT_ICON^10."
+
+REFERENCE           REWARD_50
+LANG_ENGLISH        "50 volte"
+
+REFERENCE           REWARD_LINE5
+LANG_ENGLISH        "Ogni prelievo bancario restituisce ^BBUTTON_COD_POINT_ICON^100."
+
+REFERENCE           REWARD_LINE6
+LANG_ENGLISH        "Il Gambler può essere usato due volte per round."
+
+REFERENCE           REWARD_LINE7
+LANG_ENGLISH        "I punti persi del Gambler non ti influenzano."
+
+REFERENCE           REWARD_LINE8
+LANG_ENGLISH        "Ogni Carpenter concede ^BBUTTON_COD_POINT_ICON^200 aggiuntivi."
+
+REFERENCE           REWARD_LINE9
+LANG_ENGLISH        "Il resto del Pack-a-Punch aumenta a ^BBUTTON_COD_POINT_ICON^1000."
+
+REFERENCE           REWARD_LINE10
+LANG_ENGLISH        "Ogni potenziamento arma concede 50 punti."
+
+REFERENCE           REWARD_LINE11
+LANG_ENGLISH        "Ottieni ^BBUTTON_COD_POINT_ICON^500 per bere un perk."
+
+REFERENCE           CLICKHERE
+LANG_ENGLISH        "Clicca qui"
+
 ENDMARKER

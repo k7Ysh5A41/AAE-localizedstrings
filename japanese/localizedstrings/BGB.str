@@ -77,9 +77,6 @@ LANG_ENGLISH         "^6F^3A^5N^2T^7A^2S^5T^3I^6C\n^7即座に発動 (5ラウン
 REFERENCE            EDDIE_HINT
 LANG_ENGLISH         "5ラウンド継続\nすべてのゾンビがエドワード・リヒトホーフェンになります。"
 
-REFERENCE            LUCKY_CRIT
-LANG_ENGLISH         "ラッキークリット"
-
 REFERENCE            LUCKY_CRIT_DESC
 LANG_ENGLISH         "^7即座に発動 (3ラウンド継続)\nランダムな代替弾薬タイプを発動する確率を上げ、ゼツボウでAA弾を100%取得できます。"
 
@@ -97,6 +94,9 @@ LANG_ENGLISH         "発動（5回使用可能）\nランダムな場所に即�
 
 REFERENCE            COAGULANT_DESC
 LANG_ENGLISH         "即時発動（持続時間：2時間）\n出血時間が2時間に延長される。"
+
+REFERENCE            COAGULANT_HINT
+LANG_ENGLISH         "2時間有効\n出血時間は2時間"
 
 REFERENCE            IN_PLAIN_SIGHT_DESC
 LANG_ENGLISH         "発動（5回使用可能、各10秒間）\nゾンビが10秒間あなたを無視する。"
@@ -117,7 +117,7 @@ REFERENCE            LICENSED_CONTRACTOR_DESC
 LANG_ENGLISH         "^2メガ\n^7発動（5回使用可能）\nカーペンターのパワーアップを出現させる。"
 
 REFERENCE            PHOENIX_UP_DESC
-LANG_ENGLISH         "^2メガ\n^7発動（5回使用可能）\n全てのチームメイトを復活させる。チームメイトは全てのパークを保持する。"
+LANG_ENGLISH         "^2MEGA\n^7発動（5 回使用可能）\n全員を復活させる（自分も含む）。全員が自分の全パークを保持する。"
 
 REFERENCE            RESPIN_CYCLE_DESC
 LANG_ENGLISH         "^2メガ\n^7発動（5回使用可能）\nミステリーボックスで取得した武器を再抽選できる。"
@@ -136,5 +136,11 @@ LANG_ENGLISH         "^3レア メガ\n^7即時発動（5ラウンド持続）\n
 
 REFERENCE            DANGER_CLOSEST_DESC
 LANG_ENGLISH         "即時発動（20ラウンド持続）\n爆発によるダメージを受けない。"
+
+REFERENCE            BURNED_OUT_DESC
+LANG_ENGLISH         "即座に発動（6 回の攻撃に持続）\n致命的なダメージを受ける前に無敵になり、広範囲のゾンビにダメージを与える。"
+
+REFERENCE            BURNED_OUT_HINT
+LANG_ENGLISH         "致命的なダメージを受ける前に自動発動して無敵になる\n広範囲のゾンビにダメージを与える"
 
 ENDMARKER
