@@ -374,6 +374,18 @@ LANG_ENGLISH     "Each weapon upgrade grants ^BBUTTON_COD_POINT_ICON^50."
 REFERENCE           REWARD_LINE11
 LANG_ENGLISH     "Get ^BBUTTON_COD_POINT_ICON^500 for drinking a perk."
 
+REFERENCE           REWARD_90
+LANG_ENGLISH     "90 Times"
+
+REFERENCE           REWARD_LINE12
+LANG_ENGLISH     "If you don't have a shield, the game will automatically give you one."
+
+REFERENCE           REWARD_LINE13
+LANG_ENGLISH     "Your Right Dpad equipment will be continuously resupplied."
+
+REFERENCE           REWARD_LINE14
+LANG_ENGLISH     "If your current points exactly 5, you will receive 50000."
+
 REFERENCE           CLICKHERE
 LANG_ENGLISH     "Click Here"
 
