@@ -329,4 +329,52 @@ LANG_ENGLISH     "Inducteur de frénésie désactivé par"
 REFERENCE           RELOADING
 LANG_ENGLISH     "Rechargement"
 
+REFERENCE           REWARD_TITLE
+LANG_ENGLISH        "Récompenses de fin d'Easter Egg"
+
+REFERENCE           REWARD_15
+LANG_ENGLISH        "15 fois"
+
+REFERENCE           REWARD_LINE1
+LANG_ENGLISH        "Aucun frais de ^BBUTTON_COD_POINT_ICON^100 pour les dépôts ou retraits à la banque."
+
+REFERENCE           REWARD_25
+LANG_ENGLISH        "25 fois"
+
+REFERENCE           REWARD_LINE2
+LANG_ENGLISH        "Chaque manche permet 30 retraits."
+
+REFERENCE           REWARD_LINE3
+LANG_ENGLISH        "Le casier d'armes recharge complètement vos armes."
+
+REFERENCE           REWARD_LINE4
+LANG_ENGLISH        "Le Gambler ne coûte que ^BBUTTON_COD_POINT_ICON^10."
+
+REFERENCE           REWARD_50
+LANG_ENGLISH        "50 fois"
+
+REFERENCE           REWARD_LINE5
+LANG_ENGLISH        "Chaque retrait bancaire rend ^BBUTTON_COD_POINT_ICON^100."
+
+REFERENCE           REWARD_LINE6
+LANG_ENGLISH        "Le Gambler peut être utilisé deux fois par manche."
+
+REFERENCE           REWARD_LINE7
+LANG_ENGLISH        "Les points perdus du Gambler n'ont aucun effet sur vous."
+
+REFERENCE           REWARD_LINE8
+LANG_ENGLISH        "Chaque Carpenter accorde ^BBUTTON_COD_POINT_ICON^200 supplémentaires."
+
+REFERENCE           REWARD_LINE9
+LANG_ENGLISH        "La monnaie du Pack-a-Punch augmente à ^BBUTTON_COD_POINT_ICON^1000."
+
+REFERENCE           REWARD_LINE10
+LANG_ENGLISH        "Chaque amélioration d’arme donne 50 points."
+
+REFERENCE           REWARD_LINE11
+LANG_ENGLISH        "Recevez ^BBUTTON_COD_POINT_ICON^500 en buvant un atout."
+
+REFERENCE           CLICKHERE
+LANG_ENGLISH        "Cliquez ici"
+
 ENDMARKER

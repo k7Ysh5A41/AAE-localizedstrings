@@ -329,4 +329,52 @@ LANG_ENGLISH     "Induktor szału został dezaktywowany przez"
 REFERENCE           RELOADING
 LANG_ENGLISH     "Przeładowywanie"
 
+REFERENCE           REWARD_TITLE
+LANG_ENGLISH        "Nagrody za ukończenie Easter Egga"
+
+REFERENCE           REWARD_15
+LANG_ENGLISH        "15 razy"
+
+REFERENCE           REWARD_LINE1
+LANG_ENGLISH        "Brak opłaty ^BBUTTON_COD_POINT_ICON^100 za depozyty lub wypłaty w banku."
+
+REFERENCE           REWARD_25
+LANG_ENGLISH        "25 razy"
+
+REFERENCE           REWARD_LINE2
+LANG_ENGLISH        "Każda runda pozwala na 30 wypłat."
+
+REFERENCE           REWARD_LINE3
+LANG_ENGLISH        "Schowek na broń całkowicie przeładowuje twoje bronie."
+
+REFERENCE           REWARD_LINE4
+LANG_ENGLISH        "Gambler kosztuje tylko ^BBUTTON_COD_POINT_ICON^10."
+
+REFERENCE           REWARD_50
+LANG_ENGLISH        "50 razy"
+
+REFERENCE           REWARD_LINE5
+LANG_ENGLISH        "Każda wypłata bankowa zwraca ^BBUTTON_COD_POINT_ICON^100."
+
+REFERENCE           REWARD_LINE6
+LANG_ENGLISH        "Gamblera można użyć dwa razy na rundę."
+
+REFERENCE           REWARD_LINE7
+LANG_ENGLISH        "Utracone punkty z Gamblera nie mają na ciebie wpływu."
+
+REFERENCE           REWARD_LINE8
+LANG_ENGLISH        "Każdy Carpenter daje dodatkowe ^BBUTTON_COD_POINT_ICON^200."
+
+REFERENCE           REWARD_LINE9
+LANG_ENGLISH        "Reszta z Pack-a-Punch zwiększona do ^BBUTTON_COD_POINT_ICON^1000."
+
+REFERENCE           REWARD_LINE10
+LANG_ENGLISH        "Każde ulepszenie broni daje 50 punktów."
+
+REFERENCE           REWARD_LINE11
+LANG_ENGLISH        "Otrzymujesz ^BBUTTON_COD_POINT_ICON^500 za wypicie perka."
+
+REFERENCE           CLICKHERE
+LANG_ENGLISH        "Kliknij tutaj"
+
 ENDMARKER

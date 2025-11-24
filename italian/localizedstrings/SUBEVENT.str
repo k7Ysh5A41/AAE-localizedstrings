@@ -104,4 +104,16 @@ LANG_ENGLISH     "Macchina dei perk"
 REFERENCE           PING_PAP
 LANG_ENGLISH     "Macchina Pack-a-Punch"
 
+REFERENCE           FULL_AMMO
+LANG_ENGLISH        "Munizioni massime"
+
+REFERENCE           CARPENTER
+LANG_ENGLISH        "Carpentiere"
+
+REFERENCE           ZOMBIE_BLOOD
+LANG_ENGLISH        "Sangue di zombie"
+
+REFERENCE           INSTA_KILL
+LANG_ENGLISH        "Uccisione immediata"
+
 ENDMARKER

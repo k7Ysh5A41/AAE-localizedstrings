@@ -329,4 +329,52 @@ LANG_ENGLISH     "フレンジーインデューサーが無効化されまし�
 REFERENCE           RELOADING
 LANG_ENGLISH     "リロード中"
 
+REFERENCE           REWARD_TITLE
+LANG_ENGLISH        "イースターエッグ達成報酬"
+
+REFERENCE           REWARD_15
+LANG_ENGLISH        "15 回"
+
+REFERENCE           REWARD_LINE1
+LANG_ENGLISH        "銀行での預金・引き出しに ^BBUTTON_COD_POINT_ICON^100 の手数料はありません。"
+
+REFERENCE           REWARD_25
+LANG_ENGLISH        "25 回"
+
+REFERENCE           REWARD_LINE2
+LANG_ENGLISH        "各ラウンドで 30 回の引き出しが可能です."
+
+REFERENCE           REWARD_LINE3
+LANG_ENGLISH        "武器ロッカーは武器を完全にリロードします。"
+
+REFERENCE           REWARD_LINE4
+LANG_ENGLISH        "ギャンブラーのコストは ^BBUTTON_COD_POINT_ICON^10 のみです。"
+
+REFERENCE           REWARD_50
+LANG_ENGLISH        "50 回"
+
+REFERENCE           REWARD_LINE5
+LANG_ENGLISH        "銀行引き出しごとに ^BBUTTON_COD_POINT_ICON^100 が返還されます。"
+
+REFERENCE           REWARD_LINE6
+LANG_ENGLISH        "ギャンブラーはラウンドごとに 2 回使用できます。"
+
+REFERENCE           REWARD_LINE7
+LANG_ENGLISH        "ギャンブラーで失われたポイントはあなたに影響しません。"
+
+REFERENCE           REWARD_LINE8
+LANG_ENGLISH        "カーペンターごとに ^BBUTTON_COD_POINT_ICON^200 を追加で獲得します。"
+
+REFERENCE           REWARD_LINE9
+LANG_ENGLISH        "Pack-a-Punch のお釣りが ^BBUTTON_COD_POINT_ICON^1000 に増加します。"
+
+REFERENCE           REWARD_LINE10
+LANG_ENGLISH        "武器強化ごとに 50 ポイント獲得できます。"
+
+REFERENCE           REWARD_LINE11
+LANG_ENGLISH        "パークを飲むと ^BBUTTON_COD_POINT_ICON^500 を獲得します。"
+
+REFERENCE           CLICKHERE
+LANG_ENGLISH        "ここをクリック"
+
 ENDMARKER

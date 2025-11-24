@@ -329,4 +329,52 @@ LANG_ENGLISH     "Raserei-Induktor deaktiviert durch"
 REFERENCE           RELOADING
 LANG_ENGLISH     "Nachladen"
 
+REFERENCE           REWARD_TITLE
+LANG_ENGLISH        "Belohnungen für das Abschließen des Easter Eggs"
+
+REFERENCE           REWARD_15
+LANG_ENGLISH        "15-mal"
+
+REFERENCE           REWARD_LINE1
+LANG_ENGLISH        "Keine ^BBUTTON_COD_POINT_ICON^100 Gebühr für Ein- oder Auszahlungen bei der Bank."
+
+REFERENCE           REWARD_25
+LANG_ENGLISH        "25-mal"
+
+REFERENCE           REWARD_LINE2
+LANG_ENGLISH        "Jede Runde erlaubt 30 Abhebungen."
+
+REFERENCE           REWARD_LINE3
+LANG_ENGLISH        "Der Waffenschrank lädt deine Waffen vollständig nach."
+
+REFERENCE           REWARD_LINE4
+LANG_ENGLISH        "Gambler kostet dich nur ^BBUTTON_COD_POINT_ICON^10."
+
+REFERENCE           REWARD_50
+LANG_ENGLISH        "50-mal"
+
+REFERENCE           REWARD_LINE5
+LANG_ENGLISH        "Jede Bankabhebung gibt dir ^BBUTTON_COD_POINT_ICON^100 zurück."
+
+REFERENCE           REWARD_LINE6
+LANG_ENGLISH        "Gambler kann zweimal pro Runde genutzt werden."
+
+REFERENCE           REWARD_LINE7
+LANG_ENGLISH        "Die verlorenen Punkte des Gamblers wirken sich nicht auf dich aus."
+
+REFERENCE           REWARD_LINE8
+LANG_ENGLISH        "Jeder Carpenter gibt zusätzlich ^BBUTTON_COD_POINT_ICON^200."
+
+REFERENCE           REWARD_LINE9
+LANG_ENGLISH        "Pack-a-Punch Wechselgeld erhöht sich auf ^BBUTTON_COD_POINT_ICON^1000."
+
+REFERENCE           REWARD_LINE10
+LANG_ENGLISH        "Jedes Waffenupgrade gibt 50 Punkte."
+
+REFERENCE           REWARD_LINE11
+LANG_ENGLISH        "Erhalte ^BBUTTON_COD_POINT_ICON^500 für das Trinken eines Perks."
+
+REFERENCE           CLICKHERE
+LANG_ENGLISH        "Hier klicken"
+
 ENDMARKER

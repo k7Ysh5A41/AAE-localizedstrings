@@ -329,4 +329,52 @@ LANG_ENGLISH     "Indutor de fúria desativado por"
 REFERENCE           RELOADING
 LANG_ENGLISH     "Recarregando"
 
+REFERENCE           REWARD_TITLE
+LANG_ENGLISH        "Recompensas por completar o Easter Egg"
+
+REFERENCE           REWARD_15
+LANG_ENGLISH        "15 vezes"
+
+REFERENCE           REWARD_LINE1
+LANG_ENGLISH        "Sem taxa de ^BBUTTON_COD_POINT_ICON^100 para depósitos ou saques no banco."
+
+REFERENCE           REWARD_25
+LANG_ENGLISH        "25 vezes"
+
+REFERENCE           REWARD_LINE2
+LANG_ENGLISH        "Cada rodada permite 30 saques."
+
+REFERENCE           REWARD_LINE3
+LANG_ENGLISH        "O Armário de Armas recarrega totalmente suas armas."
+
+REFERENCE           REWARD_LINE4
+LANG_ENGLISH        "O Gambler custa apenas ^BBUTTON_COD_POINT_ICON^10."
+
+REFERENCE           REWARD_50
+LANG_ENGLISH        "50 vezes"
+
+REFERENCE           REWARD_LINE5
+LANG_ENGLISH        "Cada saque no banco retorna ^BBUTTON_COD_POINT_ICON^100."
+
+REFERENCE           REWARD_LINE6
+LANG_ENGLISH        "O Gambler pode ser usado duas vezes por rodada."
+
+REFERENCE           REWARD_LINE7
+LANG_ENGLISH        "Os pontos perdidos do Gambler não afetam você."
+
+REFERENCE           REWARD_LINE8
+LANG_ENGLISH        "Cada Carpenter concede ^BBUTTON_COD_POINT_ICON^200 extras."
+
+REFERENCE           REWARD_LINE9
+LANG_ENGLISH        "O troco do Pack-a-Punch aumenta para ^BBUTTON_COD_POINT_ICON^1000."
+
+REFERENCE           REWARD_LINE10
+LANG_ENGLISH        "Cada melhoria de arma concede 50 pontos."
+
+REFERENCE           REWARD_LINE11
+LANG_ENGLISH        "Ganhe ^BBUTTON_COD_POINT_ICON^500 ao beber um perk."
+
+REFERENCE           CLICKHERE
+LANG_ENGLISH        "Clique aqui"
+
 ENDMARKER

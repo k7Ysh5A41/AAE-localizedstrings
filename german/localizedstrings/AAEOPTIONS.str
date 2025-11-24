@@ -327,12 +327,15 @@ REFERENCE           BGB_NOULTRA
 LANG_ENGLISH        "Aktiviert, aber kein Ultra-Rar"
 
 REFERENCE           RELOADCANCEL
-LANG_ENGLISH        "Manuelles Nachladen deaktivieren"
+LANG_ENGLISH        "( SpeedCola-Abbruch nicht enthalten ) Sprint-Nachladen aktivieren"
 
 REFERENCE           TRIGGER_MARKER
 LANG_ENGLISH        "Trigger-Marker deaktivieren"
 
 REFERENCE           SHOTGUN_GIB
 LANG_ENGLISH        "Schrotflinten-Gib deaktivieren"
+
+REFERENCE           WEAPON_KIT_PAP
+LANG_ENGLISH        "Das Waffenkit ist nur für verbesserte Waffen"
 
 ENDMARKER
