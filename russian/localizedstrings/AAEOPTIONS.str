@@ -334,5 +334,6 @@ LANG_ENGLISH        "Отключить маркер триггера"
 
 REFERENCE           SHOTGUN_GIB
 LANG_ENGLISH        "Отключить дробление дробовика"
-
+REFERENCE           WEAPON_KIT_PAP
+LANG_ENGLISH     "Комплект оружия предназначен только для улучшения"
 ENDMARKER

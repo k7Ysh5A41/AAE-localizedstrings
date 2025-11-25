@@ -18,7 +18,7 @@ REFERENCE           LOADINGMAP
 LANG_ENGLISH     "Я загружаю карту"
 
 REFERENCE           GOT_PAP
-LANG_ENGLISH     "Я получил Pack-A-Punched"
+LANG_ENGLISH     "Я получил улучшение"
 
 REFERENCE           DROPSOME
 LANG_ENGLISH     "Я здесь сбросил немного очков!"
@@ -69,7 +69,7 @@ REFERENCE           PAYHALF_GAMEPAD
 LANG_ENGLISH     "[{+melee}] Заплатить половину"
 
 REFERENCE           PING
-LANG_ENGLISH     "^7  Marked  "
+LANG_ENGLISH     "^7  отметил  "
 
 REFERENCE           PING_DOOR
 LANG_ENGLISH     "Дверь"
@@ -103,5 +103,15 @@ LANG_ENGLISH     "Перк машина"
 
 REFERENCE           PING_PAP
 LANG_ENGLISH     "Машина улучшайзер"
+REFERENCE           FULL_AMMO
+LANG_ENGLISH     "Максимум патронов"
 
+REFERENCE           CARPENTER
+LANG_ENGLISH     "Плотник"
+
+REFERENCE           ZOMBIE_BLOOD
+LANG_ENGLISH     "Кровь зомби"
+
+REFERENCE           INSTA_KILL
+LANG_ENGLISH     "Мгновенная смерть"
 ENDMARKER
