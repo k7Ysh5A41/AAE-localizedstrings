@@ -45,7 +45,7 @@ REFERENCE           CREATE_INVITE_TOAST_HEAD2
 LANG_ENGLISH     "Невозможно создать ссылку"
 
 REFERENCE           CAREERS
-LANG_ENGLISH     "^3КАРЬЕРЫ AAE"
+LANG_ENGLISH     "^3КАРЬЕРА AAE"
 
 REFERENCE           BANK_BALANCE
 LANG_ENGLISH     "Баланс счета"
@@ -72,7 +72,7 @@ REFERENCE           PLANTED
 LANG_ENGLISH     " Посажено"
 
 REFERENCE           POWER_ON_COUNT
-LANG_ENGLISH     "Количество включений питания"
+LANG_ENGLISH     "Включено питаний"
 
 REFERENCE           USES
 LANG_ENGLISH     " Использований"
@@ -96,7 +96,7 @@ REFERENCE           DIED_REVIVE
 LANG_ENGLISH     "Погиб при спасении игрока"
 
 REFERENCE           WALLBUY_PAP_AMMO
-LANG_ENGLISH     "Покупка патронов PaP у стены"
+LANG_ENGLISH     "Улучшенные патроны у стены"
 
 REFERENCE           AAT
 LANG_ENGLISH     "Количество активаций AAT"
@@ -105,13 +105,13 @@ REFERENCE           DOWN_REVIVE
 LANG_ENGLISH     "Повален при спасении игрока"
 
 REFERENCE           WALLBUY_AMMO
-LANG_ENGLISH     "Покупка патронов у стены"
+LANG_ENGLISH     "Патроны у стены"
 
 REFERENCE           BGB
 LANG_ENGLISH     " Прожевано"
 
 REFERENCE           SAVE
-LANG_ENGLISH     "Ваши карьерные данные сохраняются"
+LANG_ENGLISH     "Сохранение карьеры"
 
 REFERENCE           GAMBLER_DESC
 LANG_ENGLISH     "После покупки начинается обратный отсчет 10 секунд, затем происходят случайные события: некоторые хорошие, некоторые плохие, некоторые интересные, множество возможностей."
@@ -135,19 +135,19 @@ REFERENCE           OUT_OF_BOUNDS
 LANG_ENGLISH     "^1ЗА ПРЕДЕЛАМИ"
 
 REFERENCE           PAP_BUSY
-LANG_ENGLISH     "Pack-a-Punch занят"
+LANG_ENGLISH     "Улучшайзер занят"
 
 REFERENCE           PAP_OCTOBOMB
-LANG_ENGLISH     "Нажмите ^3[{+melee}]^7, чтобы переключить Pack-a-Punch в режим Только маленький Арни"
+LANG_ENGLISH     "Нажмите ^3[{+melee}]^7, чтобы переключить улучшайзер в режим Только маленький Арни"
 
 REFERENCE           PAP_MONKEY
-LANG_ENGLISH     "Нажмите ^3[{+melee}]^7, чтобы переключить Pack-a-Punch в режим Только Бомба-обезьяна"
+LANG_ENGLISH     "Нажмите ^3[{+melee}]^7, чтобы переключить улучшайзер в режим Только Бомба-обезьяна"
 
 REFERENCE           PAP_ONLY_ACCEPTS
-LANG_ENGLISH     "Pack-a-Punch теперь принимает только "
+LANG_ENGLISH     "Улучшайзер теперь принимает только "
 
 REFERENCE           PAP_NOT_ACCEPTS
-LANG_ENGLISH     "Pack-a-Punch не принимает "
+LANG_ENGLISH     "Улучшайзер не принимает "
 
 REFERENCE           AFK
 LANG_ENGLISH     "AFK"
@@ -156,10 +156,10 @@ REFERENCE           AFK_DESC
 LANG_ENGLISH     "Вас в данный момент игнорируют зомби, и другие игроки могут вас толкать."
 
 REFERENCE           PAP_OR_NORMAL
-LANG_ENGLISH     "PaP или обычный"
+LANG_ENGLISH     "Улучшайзер или обычный"
 
 REFERENCE           PAP_AND_NORMAL
-LANG_ENGLISH     "PaP и обычный"
+LANG_ENGLISH     "Улучшайзер и обычный"
 
 REFERENCE           THROW_CANCLE
 LANG_ENGLISH     " / Отменить бросок"
@@ -263,7 +263,6 @@ LANG_ENGLISH     "Держите ^3[{+activate}]^7, чтобы выстрели�
 REFERENCE           NEED_UPDATE
 LANG_ENGLISH     "Найдено новое обновление AAE!\nВам нужно заново подписаться на AAE, чтобы получать обновления и играть онлайн с другими игроками"
 
-ENDMARKER
 REFERENCE           QUIT
 LANG_ENGLISH        "Выйти на рабочий стол"
 
@@ -329,5 +328,65 @@ LANG_ENGLISH     "Индюсер ярости деактивирован"
 
 REFERENCE           RELOADING
 LANG_ENGLISH     "Перезарядка"
+
+REFERENCE           REWARD_TITLE
+LANG_ENGLISH     "Награды за выполнение пасхальных яиц"
+
+REFERENCE           REWARD_15
+LANG_ENGLISH     "15 раз"
+
+REFERENCE           REWARD_LINE1
+LANG_ENGLISH     "Отсутствие ^BBUTTON_COD_POINT_ICON^100 комиссии за пополнение или снятие средств в банке."
+
+REFERENCE           REWARD_25
+LANG_ENGLISH     "25 раз"
+
+REFERENCE           REWARD_LINE2
+LANG_ENGLISH     "Каждый раунд можно будет снять средства 30 раз."
+
+REFERENCE           REWARD_LINE3
+LANG_ENGLISH     "Оружейный шкафчик полностью перезарядит ваше оружие.."
+
+REFERENCE           REWARD_LINE4
+LANG_ENGLISH     "Гэмблер обойдется вам всего в ^BBUTTON_COD_POINT_ICON^10."
+
+REFERENCE           REWARD_50
+LANG_ENGLISH     "50 раз"
+
+REFERENCE           REWARD_LINE5
+LANG_ENGLISH     "Каждый вывод средств из банка возвращается ^BBUTTON_COD_POINT_ICON^100."
+
+REFERENCE           REWARD_LINE6
+LANG_ENGLISH     "Гэмблер можно использовать два раза за раунд"
+
+REFERENCE           REWARD_LINE7
+LANG_ENGLISH     "Потерянные очки из-за гэмблера не действуют на вас."
+
+REFERENCE           REWARD_LINE8
+LANG_ENGLISH     "Каждый плотник предоставляет дополнительные ^BBUTTON_COD_POINT_ICON^200."
+
+REFERENCE           REWARD_LINE9
+LANG_ENGLISH     "Количество мелочи за улучшайзер увеличено до ^BBUTTON_COD_POINT_ICON^1000."
+
+REFERENCE           REWARD_LINE10
+LANG_ENGLISH     "Каждое улучшение оружия дает ^BBUTTON_COD_POINT_ICON^50."
+
+REFERENCE           REWARD_LINE11
+LANG_ENGLISH     "Получайте ^BBUTTON_COD_POINT_ICON^500 за каждый выпитый перк."
+
+REFERENCE           REWARD_90
+LANG_ENGLISH     "90 раз"
+
+REFERENCE           REWARD_LINE12
+LANG_ENGLISH     "Если у вас нет щита, игра автоматически выдаст вам его."
+
+REFERENCE           REWARD_LINE13
+LANG_ENGLISH     "Оборудование для вашего правого Dpad будет постоянно пополняться."
+
+REFERENCE           REWARD_LINE14
+LANG_ENGLISH     "Если у вас сейчас ровно 5 очков, вы получите 50000."
+
+REFERENCE           CLICKHERE
+LANG_ENGLISH     "Кликните сюда"
 
 ENDMARKER
