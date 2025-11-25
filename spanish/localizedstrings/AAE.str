@@ -330,31 +330,31 @@ REFERENCE           RELOADING
 LANG_ENGLISH     "Recargando"
 
 REFERENCE           REWARD_TITLE
-LANG_ENGLISH        "Recompensas por completar los Easter Eggs"
+LANG_ENGLISH        "RECOMPENSAS POR COMPLETAR LOS EASTER EGGS"
 
 REFERENCE           REWARD_15
-LANG_ENGLISH        "15 ee completados"
+LANG_ENGLISH        "15 EE COMPLETADOS"
 
 REFERENCE           REWARD_LINE1
-LANG_ENGLISH        "No se te cobrara ^BBUTTON_COD_POINT_ICON^100 puntos para hacer depósitos o retiros en el banco."
+LANG_ENGLISH        "No se te cobrara ^BBUTTON_COD_POINT_ICON^ 100 puntos para hacer depósitos o retiros en el banco."
 
 REFERENCE           REWARD_25
-LANG_ENGLISH        "25 ee completados"
+LANG_ENGLISH        "25 EE COMPLETADOS"
 
 REFERENCE           REWARD_LINE2
 LANG_ENGLISH        "Podras sacar dinero del banco hasta 30 veces cada ronda."
 
 REFERENCE           REWARD_LINE3
-LANG_ENGLISH        "El Casillero recargará de munición completamente tus armas siempre."
+LANG_ENGLISH        "El casillero siempre recargará la munición de tus armas."
 
 REFERENCE           REWARD_LINE4
-LANG_ENGLISH        "La tragaperras solo te costara ^BBUTTON_COD_POINT_ICON^10 puntos."
+LANG_ENGLISH        "La tragaperras solo te costara ^BBUTTON_COD_POINT_ICON^ 10 puntos."
 
 REFERENCE           REWARD_50
-LANG_ENGLISH        "50 ee completados"
+LANG_ENGLISH        "50 EE COMPLETADOS"
 
 REFERENCE           REWARD_LINE5
-LANG_ENGLISH        "Cada vez que retires dinero del banco te devolvera ^BBUTTON_COD_POINT_ICON^100 puntos."
+LANG_ENGLISH        "Cada vez que retires dinero del banco te devolvera ^BBUTTON_COD_POINT_ICON^ 100 puntos."
 
 REFERENCE           REWARD_LINE6
 LANG_ENGLISH        "Podras usar la tragaperras 2 veces por ronda."
@@ -363,18 +363,30 @@ REFERENCE           REWARD_LINE7
 LANG_ENGLISH        "El efecto de la tragaperras de perder dinero no te afectara."
 
 REFERENCE           REWARD_LINE8
-LANG_ENGLISH        "Cada carpintero te dara ^BBUTTON_COD_POINT_ICON^200 puntos adicionales."
+LANG_ENGLISH        "Cada carpintero te dara ^BBUTTON_COD_POINT_ICON^ 200 puntos adicionales."
 
 REFERENCE           REWARD_LINE9
-LANG_ENGLISH        "Al hacer mas de un Pack-a-Punch se te dara ^BBUTTON_COD_POINT_ICON^1000 puntos."
+LANG_ENGLISH        "Al hacer mas de un Pack-a-Punch se te dara ^BBUTTON_COD_POINT_ICON^ 1,000 puntos."
 
 REFERENCE           REWARD_LINE10
 LANG_ENGLISH        "Cada arma mejorada te dara 50 puntos."
 
 REFERENCE           REWARD_LINE11
-LANG_ENGLISH        "Recibiras ^BBUTTON_COD_POINT_ICON^500 puntos cada vez que te tomes una ventaja."
+LANG_ENGLISH        "Recibiras ^BBUTTON_COD_POINT_ICON^ 500 puntos cada vez que te tomes una ventaja."
 
 REFERENCE           CLICKHERE
-LANG_ENGLISH        "Haz Clic Aquí"
+LANG_ENGLISH        "RECOMPENSAS"
+
+REFERENCE           REWARD_90
+LANG_ENGLISH        "90 EE COMPLETADOS"
+
+REFERENCE           REWARD_LINE12
+LANG_ENGLISH        "Si no tienes un escudo, el juego te dará uno automáticamente."
+
+REFERENCE           REWARD_LINE13
+LANG_ENGLISH        "Tu equipo tactico derecho (Minas trampa etc.) será restaurara continuamente."
+
+REFERENCE           REWARD_LINE14
+LANG_ENGLISH        "Si tus puntos son exactamente 5 puntos, recibirás 50,000."
 
 ENDMARKER

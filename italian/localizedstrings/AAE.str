@@ -377,4 +377,16 @@ LANG_ENGLISH        "Ottieni ^BBUTTON_COD_POINT_ICON^500 per bere un perk."
 REFERENCE           CLICKHERE
 LANG_ENGLISH        "Clicca qui"
 
+REFERENCE           REWARD_90
+LANG_ENGLISH        "90 volte"
+
+REFERENCE           REWARD_LINE12
+LANG_ENGLISH        "Se non hai uno scudo, il gioco te ne darà automaticamente uno."
+
+REFERENCE           REWARD_LINE13
+LANG_ENGLISH        "L'equipaggiamento sul D-pad destro verrà rifornito continuamente."
+
+REFERENCE           REWARD_LINE14
+LANG_ENGLISH        "Se i tuoi punti attuali sono esattamente 5, riceverai 50000."
+
 ENDMARKER

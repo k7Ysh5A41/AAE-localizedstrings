@@ -327,7 +327,7 @@ REFERENCE           BGB_NOULTRA
 LANG_ENGLISH        "Activada, pero sin Mega Raros"
 
 REFERENCE           RELOADCANCEL
-LANG_ENGLISH        "Deshab. la cancel. auto. de recarga (Cola Rápida no incluido)"
+LANG_ENGLISH        "Deshab. la cancel. auto. de recarga (No incluye Cola rápida)"
 
 REFERENCE           TRIGGER_MARKER
 LANG_ENGLISH        "Deshabilitar el marcador visual circular de los activadores"
