@@ -200,9 +200,6 @@ LANG_ENGLISH     "Join / Create Lobby"
 REFERENCE           INVITEDISCORD
 LANG_ENGLISH     "Invite via Discord"
 
-REFERENCE           RESTARTHINT
-LANG_ENGLISH     "Press &&1 ^1&&2^7 Times To Restart The Map"
-
 REFERENCE           RESTARTING
 LANG_ENGLISH     "Restarting......"
 
@@ -388,5 +385,11 @@ LANG_ENGLISH     "If your current points exactly 5, you will receive 50000."
 
 REFERENCE           CLICKHERE
 LANG_ENGLISH     "Click Here"
+
+REFERENCE           RESTARTHINT
+LANG_ENGLISH     "(Don't use fast_restart or map_restart) Press &&1 ^2&&2^7 Times To Restart The Map"
+
+REFERENCE           RESTARTHINT_BACK
+LANG_ENGLISH     "(Don't use fast_restart or map_restart) Press &&1 &&2 Times To Restart The Map"
 
 ENDMARKER
