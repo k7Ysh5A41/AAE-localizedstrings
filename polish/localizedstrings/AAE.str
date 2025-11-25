@@ -389,4 +389,10 @@ LANG_ENGLISH        "Twój ekwipunek na prawej stronie D-pada będzie stale uzup
 REFERENCE           REWARD_LINE14
 LANG_ENGLISH        "Jeśli twoje obecne punkty wynoszą dokładnie 5, otrzymasz 50000."
 
+REFERENCE           RESTARTHINT
+LANG_ENGLISH        "(Nie używaj fast_restart ani map_restart) Naciśnij &&1 ^2&&2^7 razy, aby zrestartować mapę"
+
+REFERENCE           RESTARTHINT_BACK
+LANG_ENGLISH        "(Nie używaj fast_restart ani map_restart) Naciśnij &&1 &&2 razy, aby zrestartować mapę"
+
 ENDMARKER
