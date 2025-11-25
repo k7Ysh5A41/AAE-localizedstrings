@@ -389,4 +389,10 @@ LANG_ENGLISH        "Votre équipement sur la croix directionnelle droite sera r
 REFERENCE           REWARD_LINE14
 LANG_ENGLISH        "Si vos points actuels sont exactement 5, vous recevrez 50000."
 
+REFERENCE           RESTARTHINT
+LANG_ENGLISH        "(N'utilisez pas fast_restart ou map_restart) Appuyez &&1 ^2&&2^7 fois pour redémarrer la carte"
+
+REFERENCE           RESTARTHINT_BACK
+LANG_ENGLISH        "(N'utilisez pas fast_restart ou map_restart) Appuyez &&1 &&2 fois pour redémarrer la carte"
+
 ENDMARKER

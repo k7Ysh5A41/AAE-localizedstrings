@@ -389,4 +389,10 @@ LANG_ENGLISH        "L'equipaggiamento sul D-pad destro verrà rifornito continu
 REFERENCE           REWARD_LINE14
 LANG_ENGLISH        "Se i tuoi punti attuali sono esattamente 5, riceverai 50000."
 
+REFERENCE           RESTARTHINT
+LANG_ENGLISH        "(Non usare fast_restart o map_restart) Premi &&1 ^2&&2^7 volte per riavviare la mappa"
+
+REFERENCE           RESTARTHINT_BACK
+LANG_ENGLISH        "(Non usare fast_restart o map_restart) Premi &&1 &&2 volte per riavviare la mappa"
+
 ENDMARKER

@@ -389,4 +389,10 @@ LANG_ENGLISH        "Deine Ausrüstung auf dem rechten Steuerkreuz wird ständig
 REFERENCE           REWARD_LINE14
 LANG_ENGLISH        "Wenn deine aktuellen Punkte genau 5 betragen, erhältst du 50000."
 
+REFERENCE           RESTARTHINT
+LANG_ENGLISH        "(Benutze fast_restart oder map_restart nicht) Drücke &&1 ^2&&2^7 Mal, um die Map neu zu starten"
+
+REFERENCE           RESTARTHINT_BACK
+LANG_ENGLISH        "(Benutze fast_restart oder map_restart nicht) Drücke &&1 &&2 Mal, um die Map neu zu starten"
+
 ENDMARKER

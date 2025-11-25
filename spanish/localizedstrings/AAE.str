@@ -389,4 +389,10 @@ LANG_ENGLISH        "Tu equipo tactico derecho (Minas trampa etc.) será restaur
 REFERENCE           REWARD_LINE14
 LANG_ENGLISH        "Si tus puntos son exactamente 5 puntos, recibirás 50,000."
 
+REFERENCE           RESTARTHINT
+LANG_ENGLISH        "(No uses fast_restart ni map_restart) Presiona &&1 ^2&&2^7 veces para reiniciar el mapa"
+
+REFERENCE           RESTARTHINT_BACK
+LANG_ENGLISH        "(No uses fast_restart ni map_restart) Presiona &&1 &&2 veces para reiniciar el mapa"
+
 ENDMARKER
