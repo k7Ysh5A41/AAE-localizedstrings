@@ -377,4 +377,16 @@ LANG_ENGLISH        "Ganhe ^BBUTTON_COD_POINT_ICON^500 ao beber um perk."
 REFERENCE           CLICKHERE
 LANG_ENGLISH        "Clique aqui"
 
+REFERENCE           REWARD_90
+LANG_ENGLISH        "90 vezes"
+
+REFERENCE           REWARD_LINE12
+LANG_ENGLISH        "Se você não tiver um escudo, o jogo lhe dará um automaticamente."
+
+REFERENCE           REWARD_LINE13
+LANG_ENGLISH        "Seu equipamento do D-pad direito será reabastecido continuamente."
+
+REFERENCE           REWARD_LINE14
+LANG_ENGLISH        "Se seus pontos atuais forem exatamente 5, você receberá 50000."
+
 ENDMARKER
