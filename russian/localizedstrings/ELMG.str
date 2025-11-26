@@ -84,7 +84,7 @@ REFERENCE           ZM_PERK
 LANG_ENGLISH     "Лимит перков: ^5"
 
 REFERENCE           ZM_POWER
-LANG_ENGLISH     "Состояние энергии: ^5"
+LANG_ENGLISH     "Состояние питания: ^5"
 
 REFERENCE           CHEAT_ON
 LANG_ENGLISH     "Чит-команды включены"
@@ -195,7 +195,7 @@ REFERENCE           KATANA_HINT_GAMEPAD
 LANG_ENGLISH     "^3[{+attack}]^7 Беспощадный рывок\n^3[{+breath_sprint}] ^7+ ^3[{+reload}]^7 Невидимость & Бесконечные патроны (один раз за раунд)\n^3[{+melee}]^7 Восстановление здоровья"
 
 REFERENCE           MOD_DESC
-LANG_ENGLISH     "Добро пожаловать в мод All-Around Enhancement! Этот мод добавляет множество улучшений качества жизни и исправляет ошибки в режиме зомби Black Ops III, обеспечивая окончательный опыт игры с зомби."
+LANG_ENGLISH     "Добро пожаловать в мод All-Around Enhancement! Этот мод добавляет множество улучшений качества жизни и исправляет ошибки в режиме зомби Black Ops III, обеспечивая окончательный опыт игры в режим зомби."
 
 REFERENCE           CHAT_BANK_SAVE1
 LANG_ENGLISH     " ^7Внёс^3 "
