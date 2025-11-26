@@ -200,9 +200,6 @@ LANG_ENGLISH     "Join / Create Lobby"
 REFERENCE           INVITEDISCORD
 LANG_ENGLISH     "Invite via Discord"
 
-REFERENCE           RESTARTHINT
-LANG_ENGLISH     "Press &&1 ^1&&2^7 Times To Restart The Map"
-
 REFERENCE           RESTARTING
 LANG_ENGLISH     "Restarting......"
 
@@ -388,5 +385,80 @@ LANG_ENGLISH     "If your current points exactly 5, you will receive 50000."
 
 REFERENCE           CLICKHERE
 LANG_ENGLISH     "Click Here"
+
+REFERENCE           RESTARTHINT
+LANG_ENGLISH     "(Don't use fast_restart or map_restart) Press &&1 ^2&&2^7 Times To Restart The Map"
+
+REFERENCE           RESTARTHINT_BACK
+LANG_ENGLISH     "(Don't use fast_restart or map_restart) Press &&1 &&2 Times To Restart The Map"
+
+REFERENCE           TOTAL_PLAYTIME
+LANG_ENGLISH     "Total Play Time"
+
+REFERENCE           MINE_PLANTED
+LANG_ENGLISH     "Trip Mine Planted"
+
+REFERENCE           POWERUP_COLLECTED
+LANG_ENGLISH     "Powerups Picked up"
+
+REFERENCE           POINTS_EARNED
+LANG_ENGLISH     "Total Points Earned"
+
+REFERENCE           PARASITE_KILLED
+LANG_ENGLISH     "Total Parasite Killed"
+
+REFERENCE           LONGEST_PLAYTIME
+LANG_ENGLISH     "Longest Play Time"
+
+REFERENCE           MINE_PICKUP
+LANG_ENGLISH     "Trip Mine Picked up"
+
+REFERENCE           DOUBLEPOINTS_PICKUP
+LANG_ENGLISH     "Double Points Picked up"
+
+REFERENCE           HELLHOUND_KILLED
+LANG_ENGLISH     "Hellhound Killed"
+
+REFERENCE           BOX_USE
+LANG_ENGLISH     "Mystery Box Used"
+
+REFERENCE           PAP_USE
+LANG_ENGLISH     "Pack-a-Punch Used"
+
+REFERENCE           INSTAKILL_PICKUP
+LANG_ENGLISH     "Instakill Picked up"
+
+REFERENCE           SHOTS_FIRED
+LANG_ENGLISH     "Total Shots Fired"
+
+REFERENCE           MEATBALLS_KILLED
+LANG_ENGLISH     "Meatballs Killed"
+
+REFERENCE           PERK_RANDOM_USE
+LANG_ENGLISH     "Wunderfizz Used"
+
+REFERENCE           BOX_GRAB
+LANG_ENGLISH     "Mystery Box Grabed"
+
+REFERENCE           PAP_GRAB2
+LANG_ENGLISH     "Pack-a-Punch Weapon Sacrificed"
+
+REFERENCE           PAP_GRAB
+LANG_ENGLISH     "Pack-a-Punch Grabed"
+
+REFERENCE           CARPENTER_PICKUP
+LANG_ENGLISH     "Carpenter Picked up"
+
+REFERENCE           PERK_RANDOM_PICKUP
+LANG_ENGLISH     "Wunderfizz Grabed"
+
+REFERENCE           FIRESALE_PICK
+LANG_ENGLISH     "Firesale Picked up"
+
+REFERENCE           BGB_EAT
+LANG_ENGLISH     "GobbleGum Chewed"
+
+REFERENCE           NUKE_PICK
+LANG_ENGLISH     "Nuke Picked up"
 
 ENDMARKER
