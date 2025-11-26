@@ -30,16 +30,16 @@ REFERENCE           FREEGUM_CONTENT
 LANG_ENGLISH     "Вы можете получить один губль-гам “Я помогу!” здесь."
 
 REFERENCE           AA_AMMO_CHANCE_TITLE
-LANG_ENGLISH     "Увеличить шанс появления патронов для зенитной установки"
+LANG_ENGLISH     "Увеличить шанс появления снаряда для зенитной установки"
 
 REFERENCE           AA_AMMO_CHANCE_CONTENT
-LANG_ENGLISH     "Губль-гам "Счастливый Крит" увеличит вероятность появления патронов для зенитной установки на 100%"
+LANG_ENGLISH     "Губль-гам "Счастливый Крит" увеличит вероятность появления снаряда для зенитной установки на 100%"
 
 REFERENCE           GIANT_PERK_EE_TITLE
-LANG_ENGLISH     "EE 5-й Машины Перков"
+LANG_ENGLISH     "Пятая машина с перком"
 
 REFERENCE           GIANT_PERK_EE_CONTENT
-LANG_ENGLISH     "Бросьте обезьянью бомбу в каждый телепорт и активируйте их, чтобы включить этот переключатель"
+LANG_ENGLISH     "Бросьте обезьянью бомбу в каждый телепорт и активируйте телепорт, чтобы включить этот переключатель"
 
 REFERENCE           GENESIS_SHIELD_TITLE
 LANG_ENGLISH     "Улучшение Драконьего Щита"
@@ -51,7 +51,7 @@ REFERENCE           TEMPLE_KEY_COMBO_EE_TITLE
 LANG_ENGLISH     "EE Взрывающаяся Обезьяна"
 
 REFERENCE           TEMPLE_KEY_COMBO_EE_CONTENT
-LANG_ENGLISH     "Встаньте сюда и нажмите следующие кнопки, чтобы взорвать обезьянью бомбу:\n^3[{+actionslot 1}] [{+actionslot 1}] [{+actionslot 2}] [{+gostand}]"
+LANG_ENGLISH     "Встаньте сюда и нажмите следующие кнопки, чтобы взорвать обезьянку:\n^3[{+actionslot 1}] [{+actionslot 1}] [{+actionslot 2}] [{+gostand}]"
 
 REFERENCE           MOON_SUPER_PES_TITLE
 LANG_ENGLISH     "Супер скафандр"

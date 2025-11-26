@@ -99,10 +99,10 @@ REFERENCE           WALLBUY_PAP_AMMO
 LANG_ENGLISH     "Улучшенные патроны у стены"
 
 REFERENCE           AAT
-LANG_ENGLISH     "Количество активаций AAT"
+LANG_ENGLISH     "Выстрелов AAT"
 
 REFERENCE           DOWN_REVIVE
-LANG_ENGLISH     "Повален при спасении игрока"
+LANG_ENGLISH     "Сбит при спасении игрока"
 
 REFERENCE           WALLBUY_AMMO
 LANG_ENGLISH     "Патроны у стены"
@@ -200,9 +200,6 @@ LANG_ENGLISH     "Присоединиться / Создать лобби"
 REFERENCE           INVITEDISCORD
 LANG_ENGLISH     "Пригласить через Discord"
 
-REFERENCE           RESTARTHINT
-LANG_ENGLISH     "Нажмите &&1 ^1&&2^7 раз, чтобы перезапустить карту"
-
 REFERENCE           RESTARTING
 LANG_ENGLISH     "Перезапуск......"
 
@@ -210,7 +207,7 @@ REFERENCE           NORAMPAGE
 LANG_ENGLISH     "Выключить Индикатор ярости"
 
 REFERENCE           RANDOM_MAP
-LANG_ENGLISH     "СЛУЧАЙНАЯ СМЕНА КАРТЫ"
+LANG_ENGLISH     "СЛУЧАЙНАЯ КАРТА"
 
 REFERENCE           COPYLOBBYID
 LANG_ENGLISH     "Скопировать ID лобби в буфер обмена"
@@ -267,13 +264,13 @@ REFERENCE           QUIT
 LANG_ENGLISH        "Выйти на рабочий стол"
 
 REFERENCE           BOOKMARKER
-LANG_ENGLISH        "Закладка"
+LANG_ENGLISH        "Избранное"
 
 REFERENCE           ADDBOOKMARKER
-LANG_ENGLISH        "Добавлено в закладки"
+LANG_ENGLISH        "Добавлено в избранное"
 
 REFERENCE           REMOVEBOOKMARKER
-LANG_ENGLISH        "Закладка удалена"
+LANG_ENGLISH        "Удалено из избранного"
 
 REFERENCE           BOOKMARKER_ONLYUSERMAPS
 LANG_ENGLISH        "Только пользовательские карты"
@@ -288,7 +285,7 @@ REFERENCE           OPENINSTEAMCURRENTMAP
 LANG_ENGLISH        "Открыть текущую карту в ^BBUTTON_CYCLE_RIGHT^"
 
 REFERENCE           ISLAND_RAINBOW_WATER
-LANG_ENGLISH        "УДЕРЖИВАЙ ^3[{+activate}]^7, чтобы поднять Радужную Воду 115"
+LANG_ENGLISH        "УДЕРЖИВАЙТЕ ^3[{+activate}]^7, чтобы поднять Радужную Воду 115"
 
 REFERENCE           ISLAND_RAINBOW_WATER_TITLE
 LANG_ENGLISH        "Радужная Вода 115"
@@ -321,10 +318,10 @@ REFERENCE           DOWNLOAD_MAP_FROM_CLIPBOARD_ERROR_DESC2
 LANG_ENGLISH        "ID карты не найден"
 
 REFERENCE           SWITCH_SINGLE_WIELD
-LANG_ENGLISH     "Нажмите ^3[{+actionslot 3}]^7, чтобы переключиться на одноручное оружие"
+LANG_ENGLISH     "Нажмите ^3[{+actionslot 3}]^7, чтобы переключиться на одиночное оружие"
 
 REFERENCE           RAMPAGE_TOAST
-LANG_ENGLISH     "Индюсер ярости деактивирован"
+LANG_ENGLISH     "Индикатор ярости деактивирован"
 
 REFERENCE           RELOADING
 LANG_ENGLISH     "Перезарядка"
@@ -342,7 +339,7 @@ REFERENCE           REWARD_25
 LANG_ENGLISH     "25 раз"
 
 REFERENCE           REWARD_LINE2
-LANG_ENGLISH     "Каждый раунд можно будет снять средства 30 раз."
+LANG_ENGLISH     "Каждый раунд можно будет снять средства 30 раз (30000 очков)."
 
 REFERENCE           REWARD_LINE3
 LANG_ENGLISH     "Оружейный шкафчик полностью перезарядит ваше оружие.."
@@ -360,13 +357,13 @@ REFERENCE           REWARD_LINE6
 LANG_ENGLISH     "Гэмблер можно использовать два раза за раунд"
 
 REFERENCE           REWARD_LINE7
-LANG_ENGLISH     "Потерянные очки из-за гэмблера не действуют на вас."
+LANG_ENGLISH     "Эффекты отнимания очков из-за гэмблера не действуют на вас."
 
 REFERENCE           REWARD_LINE8
-LANG_ENGLISH     "Каждый плотник предоставляет дополнительные ^BBUTTON_COD_POINT_ICON^200."
+LANG_ENGLISH     "Каждый плотник даёт дополнительные ^BBUTTON_COD_POINT_ICON^200."
 
 REFERENCE           REWARD_LINE9
-LANG_ENGLISH     "Количество мелочи за улучшайзер увеличено до ^BBUTTON_COD_POINT_ICON^1000."
+LANG_ENGLISH     "Количество подобранной мелочи за улучшайзер увеличено до ^BBUTTON_COD_POINT_ICON^1000."
 
 REFERENCE           REWARD_LINE10
 LANG_ENGLISH     "Каждое улучшение оружия дает ^BBUTTON_COD_POINT_ICON^50."
@@ -388,5 +385,80 @@ LANG_ENGLISH     "Если у вас сейчас ровно 5 очков, вы 
 
 REFERENCE           CLICKHERE
 LANG_ENGLISH     "Кликните сюда"
+
+REFERENCE           RESTARTHINT
+LANG_ENGLISH     "(Не исользуйте fast_restart или map_restart) нажмите &&1 ^2&&2^7 раз для рестарта"
+
+REFERENCE           RESTARTHINT_BACK
+LANG_ENGLISH     "(Не исользуйте fast_restart или map_restart) нажмите &&1 &&2 раз для рестарта"
+
+REFERENCE           TOTAL_PLAYTIME
+LANG_ENGLISH     "Общее время игры"
+
+REFERENCE           MINE_PLANTED
+LANG_ENGLISH     "Установлено мин"
+
+REFERENCE           POWERUP_COLLECTED
+LANG_ENGLISH     "Бонусов подобрано"
+
+REFERENCE           POINTS_EARNED
+LANG_ENGLISH     "Заработано очков"
+
+REFERENCE           PARASITE_KILLED
+LANG_ENGLISH     "Паразитов убито"
+
+REFERENCE           LONGEST_PLAYTIME
+LANG_ENGLISH     "Продолжительный матч"
+
+REFERENCE           MINE_PICKUP
+LANG_ENGLISH     "Подобрано мин"
+
+REFERENCE           DOUBLEPOINTS_PICKUP
+LANG_ENGLISH     "Удвоение очков"
+
+REFERENCE           HELLHOUND_KILLED
+LANG_ENGLISH     "Убито адских псов"
+
+REFERENCE           BOX_USE
+LANG_ENGLISH     "Использован ящик"
+
+REFERENCE           PAP_USE
+LANG_ENGLISH     "Использован улучайзер"
+
+REFERENCE           INSTAKILL_PICKUP
+LANG_ENGLISH     "Мгновенная смерть"
+
+REFERENCE           SHOTS_FIRED
+LANG_ENGLISH     "Выстрелов"
+
+REFERENCE           MEATBALLS_KILLED
+LANG_ENGLISH     "Убито фрикаделек"
+
+REFERENCE           PERK_RANDOM_USE
+LANG_ENGLISH     "Вундершипучек"
+
+REFERENCE           BOX_GRAB
+LANG_ENGLISH     "Взято из ящика"
+
+REFERENCE           PAP_GRAB2
+LANG_ENGLISH     "Потерял оружие в улучшайзере"
+
+REFERENCE           PAP_GRAB
+LANG_ENGLISH     "Улучшайзер взято"
+
+REFERENCE           CARPENTER_PICKUP
+LANG_ENGLISH     "Плотников"
+
+REFERENCE           PERK_RANDOM_PICKUP
+LANG_ENGLISH     "Взято из Вундершипучки"
+
+REFERENCE           FIRESALE_PICK
+LANG_ENGLISH     "Распродаж"
+
+REFERENCE           BGB_EAT
+LANG_ENGLISH     "Прожевано губльгам"
+
+REFERENCE           NUKE_PICK
+LANG_ENGLISH     "Ядерок подобрано"
 
 ENDMARKER

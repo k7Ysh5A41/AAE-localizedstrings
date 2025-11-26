@@ -42,7 +42,7 @@ REFERENCE           ADS
 LANG_ENGLISH     "Без увеличения прицеливания"
 
 REFERENCE           T6PAP
-LANG_ENGLISH     "BO2 Pack-a-Punch"
+LANG_ENGLISH     "BO2 улучшайзер"
 
 REFERENCE           GRENADE_BAR
 LANG_ENGLISH     "Отключить обратный отсчет гранат"
@@ -54,7 +54,7 @@ REFERENCE           FSF
 LANG_ENGLISH     "Отключить вспышку на весь экран"
 
 REFERENCE           FSFB
-LANG_ENGLISH     "Инвертировать цвета вспышки на черный"
+LANG_ENGLISH     "Инвертировать цвет вспышки на черный"
 
 REFERENCE           RESTART_HINT
 LANG_ENGLISH     "Теперь можно открыть паузу для перезапуска"
@@ -174,13 +174,13 @@ REFERENCE           LOADING
 LANG_ENGLISH     "Отключить интро в соло"
 
 REFERENCE           LOWAMMO
-LANG_ENGLISH     "Отключить звук низкого боезапаса"
+LANG_ENGLISH     "Отключить звук осечки"
 
 REFERENCE           HINTICON
 LANG_ENGLISH     "Отключить иконку подсказки"
 
 REFERENCE           PERKSLOT
-LANG_ENGLISH     "Выпадение бонуса перк слотов"
+LANG_ENGLISH     "Выпадение бонуса для перк слотов"
 
 REFERENCE           RELOADPROMPT
 LANG_ENGLISH     "Отключить подсказку перезарядки"
@@ -198,7 +198,7 @@ REFERENCE           LASTZOMBIE
 LANG_ENGLISH     "Отключить ключевую линию последнего зомби"
 
 REFERENCE           TOMBNAME
-LANG_ENGLISH     "Отключить имена гигантского робота в Origins"
+LANG_ENGLISH     "Отключить имена гигантских роботов в Origins"
 
 REFERENCE           ZA
 LANG_ENGLISH     "Отключить объявление зоны (ваша текущая зона)"
@@ -210,7 +210,7 @@ REFERENCE           LAUNCHER_LOCK
 LANG_ENGLISH     "Отключить блокировку ракетницы"
 
 REFERENCE           POINTS_COLOR
-LANG_ENGLISH     "Заменить цвета очков на цвета интерфейса (требуется перезапуск)"
+LANG_ENGLISH     "Заменить цвет очков на цвет интерфейса (требуется перезапуск)"
 
 REFERENCE           HIGHROUND_TIMER
 LANG_ENGLISH     "Таймер в игре"
@@ -225,16 +225,16 @@ REFERENCE           HITM_STAY_M
 LANG_ENGLISH     "Меньший хитмаркер"
 
 REFERENCE           ZCPERK
-LANG_ENGLISH     "Отключить дополнительные машины Perk и PAP на картах ZC (требуется перезапуск)"
+LANG_ENGLISH     "Отключить доп. перк машины и PAP на картах ZC (требуется перезапуск)"
 
 REFERENCE           NOPES
 LANG_ENGLISH     "Невозможно взаимодействовать с скафандром на Луне"
 
 REFERENCE           PAPBOX
-LANG_ENGLISH     "Улучшение таинственного ящика (Требуется AF & 50 EE)"
+LANG_ENGLISH     "Улучшенное оружие с ящика (Требуется AF & 50 EE)"
 
 REFERENCE           MOTIONUI
-LANG_ENGLISH     "Интерфейс движения"
+LANG_ENGLISH     "Движение интерфейса"
 
 REFERENCE           MOTIONUI_1
 LANG_ENGLISH     "Перевернуть / Двигать"
@@ -249,7 +249,7 @@ REFERENCE           MOTIONUI_4
 LANG_ENGLISH     "Перевернуть"
 
 REFERENCE           MOTIONUI_INTENSITY
-LANG_ENGLISH     "Интенсивность интерфейса движения"
+LANG_ENGLISH     "Интенсивность движения интерфейса"
 
 REFERENCE           NO_SUPPORT_LINE1
 LANG_ENGLISH     "^1Обнаружена неподдерживаемая версия\n^3Проверьте следующее^7:"
@@ -334,6 +334,8 @@ LANG_ENGLISH        "Отключить маркер триггера"
 
 REFERENCE           SHOTGUN_GIB
 LANG_ENGLISH        "Отключить дробление дробовика"
+
 REFERENCE           WEAPON_KIT_PAP
 LANG_ENGLISH     "Комплект оружия предназначен только для улучшения"
+
 ENDMARKER
