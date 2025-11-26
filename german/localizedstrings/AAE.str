@@ -377,4 +377,22 @@ LANG_ENGLISH        "Erhalte ^BBUTTON_COD_POINT_ICON^500 für das Trinken eines 
 REFERENCE           CLICKHERE
 LANG_ENGLISH        "Hier klicken"
 
+REFERENCE           REWARD_90
+LANG_ENGLISH        "90-mal"
+
+REFERENCE           REWARD_LINE12
+LANG_ENGLISH        "Wenn du keinen Schild hast, gibt dir das Spiel automatisch einen."
+
+REFERENCE           REWARD_LINE13
+LANG_ENGLISH        "Deine Ausrüstung auf dem rechten Steuerkreuz wird ständig wieder aufgefüllt."
+
+REFERENCE           REWARD_LINE14
+LANG_ENGLISH        "Wenn deine aktuellen Punkte genau 5 betragen, erhältst du 50000."
+
+REFERENCE           RESTARTHINT
+LANG_ENGLISH        "(Benutze fast_restart oder map_restart nicht) Drücke &&1 ^2&&2^7 Mal, um die Map neu zu starten"
+
+REFERENCE           RESTARTHINT_BACK
+LANG_ENGLISH        "(Benutze fast_restart oder map_restart nicht) Drücke &&1 &&2 Mal, um die Map neu zu starten"
+
 ENDMARKER

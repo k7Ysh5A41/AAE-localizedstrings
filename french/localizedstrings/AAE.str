@@ -377,4 +377,22 @@ LANG_ENGLISH        "Recevez ^BBUTTON_COD_POINT_ICON^500 en buvant un atout."
 REFERENCE           CLICKHERE
 LANG_ENGLISH        "Cliquez ici"
 
+REFERENCE           REWARD_90
+LANG_ENGLISH        "90 fois"
+
+REFERENCE           REWARD_LINE12
+LANG_ENGLISH        "Si vous n'avez pas de bouclier, le jeu vous en donnera un automatiquement."
+
+REFERENCE           REWARD_LINE13
+LANG_ENGLISH        "Votre équipement sur la croix directionnelle droite sera réapprovisionné en continu."
+
+REFERENCE           REWARD_LINE14
+LANG_ENGLISH        "Si vos points actuels sont exactement 5, vous recevrez 50000."
+
+REFERENCE           RESTARTHINT
+LANG_ENGLISH        "(N'utilisez pas fast_restart ou map_restart) Appuyez &&1 ^2&&2^7 fois pour redémarrer la carte"
+
+REFERENCE           RESTARTHINT_BACK
+LANG_ENGLISH        "(N'utilisez pas fast_restart ou map_restart) Appuyez &&1 &&2 fois pour redémarrer la carte"
+
 ENDMARKER

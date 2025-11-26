@@ -377,4 +377,22 @@ LANG_ENGLISH        "Otrzymujesz ^BBUTTON_COD_POINT_ICON^500 za wypicie perka."
 REFERENCE           CLICKHERE
 LANG_ENGLISH        "Kliknij tutaj"
 
+REFERENCE           REWARD_90
+LANG_ENGLISH        "90 razy"
+
+REFERENCE           REWARD_LINE12
+LANG_ENGLISH        "Jeśli nie masz tarczy, gra automatycznie ci ją da."
+
+REFERENCE           REWARD_LINE13
+LANG_ENGLISH        "Twój ekwipunek na prawej stronie D-pada będzie stale uzupełniany."
+
+REFERENCE           REWARD_LINE14
+LANG_ENGLISH        "Jeśli twoje obecne punkty wynoszą dokładnie 5, otrzymasz 50000."
+
+REFERENCE           RESTARTHINT
+LANG_ENGLISH        "(Nie używaj fast_restart ani map_restart) Naciśnij &&1 ^2&&2^7 razy, aby zrestartować mapę"
+
+REFERENCE           RESTARTHINT_BACK
+LANG_ENGLISH        "(Nie używaj fast_restart ani map_restart) Naciśnij &&1 &&2 razy, aby zrestartować mapę"
+
 ENDMARKER

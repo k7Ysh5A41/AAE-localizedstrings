@@ -377,4 +377,22 @@ LANG_ENGLISH        "パークを飲むと ^BBUTTON_COD_POINT_ICON^500 を獲得
 REFERENCE           CLICKHERE
 LANG_ENGLISH        "ここをクリック"
 
+REFERENCE           REWARD_90
+LANG_ENGLISH        "90回"
+
+REFERENCE           REWARD_LINE12
+LANG_ENGLISH        "盾を持っていない場合、ゲームが自動的に支給します。"
+
+REFERENCE           REWARD_LINE13
+LANG_ENGLISH        "右方向キーの装備が継続的に補給されます。"
+
+REFERENCE           REWARD_LINE14
+LANG_ENGLISH        "現在のポイントがちょうど5の場合、50000を受け取ります。"
+
+REFERENCE           RESTARTHINT
+LANG_ENGLISH        "（fast_restart または map_restart を使用しないでください）マップを再起動するには &&1 ^2&&2^7 回押してください"
+
+REFERENCE           RESTARTHINT_BACK
+LANG_ENGLISH        "（fast_restart または map_restart を使用しないでください）マップを再起動するには &&1 &&2 回押してください"
+
 ENDMARKER
