@@ -461,4 +461,7 @@ LANG_ENGLISH     "GobbleGum Chewed"
 REFERENCE           NUKE_PICK
 LANG_ENGLISH     "Nuke Picked up"
 
+REFERENCE           POWERSWITCH
+LANG_ENGLISH     "Power Switch"
+
 ENDMARKER
