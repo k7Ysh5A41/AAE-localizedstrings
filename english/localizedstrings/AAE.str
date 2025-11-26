@@ -443,7 +443,7 @@ LANG_ENGLISH     "Mystery Box Grabed"
 REFERENCE           PAP_GRAB2
 LANG_ENGLISH     "Pack-a-Punch Weapon Sacrificed"
 
-REFERENCE           PAP_GRAB2
+REFERENCE           PAP_GRAB
 LANG_ENGLISH     "Pack-a-Punch Grabed"
 
 REFERENCE           CARPENTER_PICKUP
@@ -457,5 +457,8 @@ LANG_ENGLISH     "Firesale Picked up"
 
 REFERENCE           BGB_EAT
 LANG_ENGLISH     "GobbleGum Chewed"
+
+REFERENCE           NUKE_PICK
+LANG_ENGLISH     "Nuke Picked up"
 
 ENDMARKER
