@@ -461,4 +461,7 @@ LANG_ENGLISH     "Прожевано губльгам"
 REFERENCE           NUKE_PICK
 LANG_ENGLISH     "Ядерок подобрано"
 
+REFERENCE           POWERSWITCH
+LANG_ENGLISH     "Включатель электричества"
+
 ENDMARKER
