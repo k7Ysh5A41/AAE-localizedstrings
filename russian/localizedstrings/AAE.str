@@ -391,6 +391,7 @@ LANG_ENGLISH     "(Не исользуйте fast_restart или map_restart) н
 
 REFERENCE           RESTARTHINT_BACK
 LANG_ENGLISH     "(Не исользуйте fast_restart или map_restart) нажмите &&1 &&2 раз для рестарта"
+
 REFERENCE           TOTAL_PLAYTIME
 LANG_ENGLISH     "Общее время игры"
 
@@ -459,4 +460,5 @@ LANG_ENGLISH     "Прожевано губльгам"
 
 REFERENCE           NUKE_PICK
 LANG_ENGLISH     "Ядерок подобрано"
+
 ENDMARKER
