@@ -395,4 +395,76 @@ LANG_ENGLISH        "(N'utilisez pas fast_restart ou map_restart) Appuyez &&1 ^2
 REFERENCE           RESTARTHINT_BACK
 LANG_ENGLISH        "(N'utilisez pas fast_restart ou map_restart) Appuyez &&1 &&2 fois pour redémarrer la carte"
 
+REFERENCE           TOTAL_PLAYTIME
+LANG_ENGLISH     "Temps de jeu total"
+
+REFERENCE           MINE_PLANTED
+LANG_ENGLISH     "Mine posée"
+
+REFERENCE           POWERUP_COLLECTED
+LANG_ENGLISH     "Powerups ramassés"
+
+REFERENCE           POINTS_EARNED
+LANG_ENGLISH     "Total de points gagnés"
+
+REFERENCE           PARASITE_KILLED
+LANG_ENGLISH     "Parasites éliminés"
+
+REFERENCE           LONGEST_PLAYTIME
+LANG_ENGLISH     "Plus longue session de jeu"
+
+REFERENCE           MINE_PICKUP
+LANG_ENGLISH     "Mine ramassée"
+
+REFERENCE           DOUBLEPOINTS_PICKUP
+LANG_ENGLISH     "Double Points ramassés"
+
+REFERENCE           HELLHOUND_KILLED
+LANG_ENGLISH     "Cerbères éliminés"
+
+REFERENCE           BOX_USE
+LANG_ENGLISH     "Boîte Mystère utilisée"
+
+REFERENCE           PAP_USE
+LANG_ENGLISH     "Pack-a-Punch utilisé"
+
+REFERENCE           INSTAKILL_PICKUP
+LANG_ENGLISH     "Mort instantanée ramassée"
+
+REFERENCE           SHOTS_FIRED
+LANG_ENGLISH     "Total de tirs effectués"
+
+REFERENCE           MEATBALLS_KILLED
+LANG_ENGLISH     "Boules de viande éliminées"
+
+REFERENCE           PERK_RANDOM_USE
+LANG_ENGLISH     "Wunderfizz utilisé"
+
+REFERENCE           BOX_GRAB
+LANG_ENGLISH     "Objet de la Boîte Mystère récupéré"
+
+REFERENCE           PAP_GRAB2
+LANG_ENGLISH     "Arme sacrifiée au Pack-a-Punch"
+
+REFERENCE           PAP_GRAB
+LANG_ENGLISH     "Objet du Pack-a-Punch récupéré"
+
+REFERENCE           CARPENTER_PICKUP
+LANG_ENGLISH     "Charpentier ramassé"
+
+REFERENCE           PERK_RANDOM_PICKUP
+LANG_ENGLISH     "Wunderfizz récupéré"
+
+REFERENCE           FIRESALE_PICK
+LANG_ENGLISH     "Liquidation ramassée"
+
+REFERENCE           BGB_EAT
+LANG_ENGLISH     "GobbleGum mâché"
+
+REFERENCE           NUKE_PICK
+LANG_ENGLISH     "Nuke ramassé"
+
+REFERENCE           POWERSWITCH
+LANG_ENGLISH     "Interrupteur principal"
+
 ENDMARKER
