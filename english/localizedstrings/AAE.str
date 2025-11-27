@@ -464,4 +464,10 @@ LANG_ENGLISH     "Nuke Picked up"
 REFERENCE           POWERSWITCH
 LANG_ENGLISH     "Power Switch"
 
+REFERENCE           REWARD_30
+LANG_ENGLISH     "30 Times"
+
+REFERENCE           REWARD_LINE15
+LANG_ENGLISH     "Stay bleeding out much longer."
+
 ENDMARKER
