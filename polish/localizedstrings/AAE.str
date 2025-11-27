@@ -395,4 +395,76 @@ LANG_ENGLISH        "(Nie używaj fast_restart ani map_restart) Naciśnij &&1 ^2
 REFERENCE           RESTARTHINT_BACK
 LANG_ENGLISH        "(Nie używaj fast_restart ani map_restart) Naciśnij &&1 &&2 razy, aby zrestartować mapę"
 
+REFERENCE           TOTAL_PLAYTIME
+LANG_ENGLISH     "Całkowity czas gry"
+
+REFERENCE           MINE_PLANTED
+LANG_ENGLISH     "Mina ustawiona"
+
+REFERENCE           POWERUP_COLLECTED
+LANG_ENGLISH     "Zebrano power-upy"
+
+REFERENCE           POINTS_EARNED
+LANG_ENGLISH     "Łączna liczba zdobytych punktów"
+
+REFERENCE           PARASITE_KILLED
+LANG_ENGLISH     "Pasożyty zabite"
+
+REFERENCE           LONGEST_PLAYTIME
+LANG_ENGLISH     "Najdłuższy czas gry"
+
+REFERENCE           MINE_PICKUP
+LANG_ENGLISH     "Mina podniesiona"
+
+REFERENCE           DOUBLEPOINTS_PICKUP
+LANG_ENGLISH     "Podwójne punkty zebrane"
+
+REFERENCE           HELLHOUND_KILLED
+LANG_ENGLISH     "Piekielne psy zabite"
+
+REFERENCE           BOX_USE
+LANG_ENGLISH     "Skrzynia Tajemnic użyta"
+
+REFERENCE           PAP_USE
+LANG_ENGLISH     "Pack-a-Punch użyty"
+
+REFERENCE           INSTAKILL_PICKUP
+LANG_ENGLISH     "Natychmiastowe zabójstwo zebrane"
+
+REFERENCE           SHOTS_FIRED
+LANG_ENGLISH     "Łączna liczba oddanych strzałów"
+
+REFERENCE           MEATBALLS_KILLED
+LANG_ENGLISH     "Mięsnobomby zabite"
+
+REFERENCE           PERK_RANDOM_USE
+LANG_ENGLISH     "Wunderfizz użyty"
+
+REFERENCE           BOX_GRAB
+LANG_ENGLISH     "Przedmiot ze Skrzyni Tajemnic zabrany"
+
+REFERENCE           PAP_GRAB2
+LANG_ENGLISH     "Broń poświęcona w Pack-a-Punch"
+
+REFERENCE           PAP_GRAB
+LANG_ENGLISH     "Przedmiot z Pack-a-Punch zabrany"
+
+REFERENCE           CARPENTER_PICKUP
+LANG_ENGLISH     "Cieśla zebrany"
+
+REFERENCE           PERK_RANDOM_PICKUP
+LANG_ENGLISH     "Wunderfizz zabrany"
+
+REFERENCE           FIRESALE_PICK
+LANG_ENGLISH     "Wyprzedaż zebrana"
+
+REFERENCE           BGB_EAT
+LANG_ENGLISH     "GobbleGum żuty"
+
+REFERENCE           NUKE_PICK
+LANG_ENGLISH     "Nuke zebrany"
+
+REFERENCE           POWERSWITCH
+LANG_ENGLISH     "Włącznik zasilania"
+
 ENDMARKER

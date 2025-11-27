@@ -395,4 +395,76 @@ LANG_ENGLISH        "(Não use fast_restart ou map_restart) Pressione &&1 ^2&&2^
 REFERENCE           RESTARTHINT_BACK
 LANG_ENGLISH        "(Não use fast_restart ou map_restart) Pressione &&1 &&2 vezes para reiniciar o mapa"
 
+REFERENCE           TOTAL_PLAYTIME
+LANG_ENGLISH     "Tempo total de jogo"
+
+REFERENCE           MINE_PLANTED
+LANG_ENGLISH     "Mina instalada"
+
+REFERENCE           POWERUP_COLLECTED
+LANG_ENGLISH     "Powerups coletados"
+
+REFERENCE           POINTS_EARNED
+LANG_ENGLISH     "Total de pontos ganhos"
+
+REFERENCE           PARASITE_KILLED
+LANG_ENGLISH     "Parasitas eliminados"
+
+REFERENCE           LONGEST_PLAYTIME
+LANG_ENGLISH     "Maior tempo de jogo"
+
+REFERENCE           MINE_PICKUP
+LANG_ENGLISH     "Mina coletada"
+
+REFERENCE           DOUBLEPOINTS_PICKUP
+LANG_ENGLISH     "Pontos Duplos coletados"
+
+REFERENCE           HELLHOUND_KILLED
+LANG_ENGLISH     "Cães do Inferno eliminados"
+
+REFERENCE           BOX_USE
+LANG_ENGLISH     "Caixa Misteriosa usada"
+
+REFERENCE           PAP_USE
+LANG_ENGLISH     "Pack-a-Punch usado"
+
+REFERENCE           INSTAKILL_PICKUP
+LANG_ENGLISH     "Instakill coletado"
+
+REFERENCE           SHOTS_FIRED
+LANG_ENGLISH     "Total de tiros disparados"
+
+REFERENCE           MEATBALLS_KILLED
+LANG_ENGLISH     "Meatballs eliminados"
+
+REFERENCE           PERK_RANDOM_USE
+LANG_ENGLISH     "Wunderfizz usado"
+
+REFERENCE           BOX_GRAB
+LANG_ENGLISH     "Item da Caixa Misteriosa coletado"
+
+REFERENCE           PAP_GRAB2
+LANG_ENGLISH     "Arma sacrificada no Pack-a-Punch"
+
+REFERENCE           PAP_GRAB
+LANG_ENGLISH     "Item do Pack-a-Punch coletado"
+
+REFERENCE           CARPENTER_PICKUP
+LANG_ENGLISH     "Carpinteiro coletado"
+
+REFERENCE           PERK_RANDOM_PICKUP
+LANG_ENGLISH     "Wunderfizz coletado"
+
+REFERENCE           FIRESALE_PICK
+LANG_ENGLISH     "Liquidação coletada"
+
+REFERENCE           BGB_EAT
+LANG_ENGLISH     "GobbleGum mastigado"
+
+REFERENCE           NUKE_PICK
+LANG_ENGLISH     "Nuke coletado"
+
+REFERENCE           POWERSWITCH
+LANG_ENGLISH     "Interruptor de energia"
+
 ENDMARKER

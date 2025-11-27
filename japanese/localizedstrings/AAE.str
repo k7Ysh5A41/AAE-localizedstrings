@@ -395,4 +395,76 @@ LANG_ENGLISH        "（fast_restart または map_restart を使用しないで
 REFERENCE           RESTARTHINT_BACK
 LANG_ENGLISH        "（fast_restart または map_restart を使用しないでください）マップを再起動するには &&1 &&2 回押してください"
 
+REFERENCE           TOTAL_PLAYTIME
+LANG_ENGLISH     "総プレイ時間"
+
+REFERENCE           MINE_PLANTED
+LANG_ENGLISH     "トリップマイン設置"
+
+REFERENCE           POWERUP_COLLECTED
+LANG_ENGLISH     "パワーアップ取得"
+
+REFERENCE           POINTS_EARNED
+LANG_ENGLISH     "獲得ポイント総数"
+
+REFERENCE           PARASITE_KILLED
+LANG_ENGLISH     "パラサイト撃破"
+
+REFERENCE           LONGEST_PLAYTIME
+LANG_ENGLISH     "最長プレイ時間"
+
+REFERENCE           MINE_PICKUP
+LANG_ENGLISH     "トリップマイン取得"
+
+REFERENCE           DOUBLEPOINTS_PICKUP
+LANG_ENGLISH     "ダブルポイント取得"
+
+REFERENCE           HELLHOUND_KILLED
+LANG_ENGLISH     "ヘルハウンド撃破"
+
+REFERENCE           BOX_USE
+LANG_ENGLISH     "ミステリーボックス使用"
+
+REFERENCE           PAP_USE
+LANG_ENGLISH     "パック・ア・パンチ使用"
+
+REFERENCE           INSTAKILL_PICKUP
+LANG_ENGLISH     "インスタキル取得"
+
+REFERENCE           SHOTS_FIRED
+LANG_ENGLISH     "総射撃数"
+
+REFERENCE           MEATBALLS_KILLED
+LANG_ENGLISH     "ミートボール撃破"
+
+REFERENCE           PERK_RANDOM_USE
+LANG_ENGLISH     "ワンダーフィズ使用"
+
+REFERENCE           BOX_GRAB
+LANG_ENGLISH     "ミステリーボックス取得"
+
+REFERENCE           PAP_GRAB2
+LANG_ENGLISH     "パック・ア・パンチに武器を捧げた"
+
+REFERENCE           PAP_GRAB
+LANG_ENGLISH     "パック・ア・パンチ取得"
+
+REFERENCE           CARPENTER_PICKUP
+LANG_ENGLISH     "カーペンター取得"
+
+REFERENCE           PERK_RANDOM_PICKUP
+LANG_ENGLISH     "ワンダーフィズ取得"
+
+REFERENCE           FIRESALE_PICK
+LANG_ENGLISH     "ファイアセール取得"
+
+REFERENCE           BGB_EAT
+LANG_ENGLISH     "ガムを噛んだ"
+
+REFERENCE           NUKE_PICK
+LANG_ENGLISH     "ニューク取得"
+
+REFERENCE           POWERSWITCH
+LANG_ENGLISH     "電源スイッチ"
+
 ENDMARKER

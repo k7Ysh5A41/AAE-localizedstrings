@@ -395,4 +395,76 @@ LANG_ENGLISH        "(Benutze fast_restart oder map_restart nicht) Drücke &&1 ^
 REFERENCE           RESTARTHINT_BACK
 LANG_ENGLISH        "(Benutze fast_restart oder map_restart nicht) Drücke &&1 &&2 Mal, um die Map neu zu starten"
 
+REFERENCE           TOTAL_PLAYTIME
+LANG_ENGLISH     "Gesamtspielzeit"
+
+REFERENCE           MINE_PLANTED
+LANG_ENGLISH     "Miene platziert"
+
+REFERENCE           POWERUP_COLLECTED
+LANG_ENGLISH     "Powerups eingesammelt"
+
+REFERENCE           POINTS_EARNED
+LANG_ENGLISH     "Gesamtpunkte erzielt"
+
+REFERENCE           PARASITE_KILLED
+LANG_ENGLISH     "Parasiten getötet"
+
+REFERENCE           LONGEST_PLAYTIME
+LANG_ENGLISH     "Längste Spielzeit"
+
+REFERENCE           MINE_PICKUP
+LANG_ENGLISH     "Miene aufgehoben"
+
+REFERENCE           DOUBLEPOINTS_PICKUP
+LANG_ENGLISH     "Doppelte Punkte eingesammelt"
+
+REFERENCE           HELLHOUND_KILLED
+LANG_ENGLISH     "Höllenhunde getötet"
+
+REFERENCE           BOX_USE
+LANG_ENGLISH     "Mystery Box benutzt"
+
+REFERENCE           PAP_USE
+LANG_ENGLISH     "Pack-a-Punch benutzt"
+
+REFERENCE           INSTAKILL_PICKUP
+LANG_ENGLISH     "Instant-Kill eingesammelt"
+
+REFERENCE           SHOTS_FIRED
+LANG_ENGLISH     "Gesamtzahl abgefeuerter Schüsse"
+
+REFERENCE           MEATBALLS_KILLED
+LANG_ENGLISH     "Fleischkugeln getötet"
+
+REFERENCE           PERK_RANDOM_USE
+LANG_ENGLISH     "Wunderfizz benutzt"
+
+REFERENCE           BOX_GRAB
+LANG_ENGLISH     "Gegenstand aus der Mystery Box genommen"
+
+REFERENCE           PAP_GRAB2
+LANG_ENGLISH     "Waffe im Pack-a-Punch geopfert"
+
+REFERENCE           PAP_GRAB
+LANG_ENGLISH     "Gegenstand aus dem Pack-a-Punch genommen"
+
+REFERENCE           CARPENTER_PICKUP
+LANG_ENGLISH     "Zimmermann eingesammelt"
+
+REFERENCE           PERK_RANDOM_PICKUP
+LANG_ENGLISH     "Wunderfizz genommen"
+
+REFERENCE           FIRESALE_PICK
+LANG_ENGLISH     "Ausverkauf eingesammelt"
+
+REFERENCE           BGB_EAT
+LANG_ENGLISH     "GobbleGum gekaut"
+
+REFERENCE           NUKE_PICK
+LANG_ENGLISH     "Nuke eingesammelt"
+
+REFERENCE           POWERSWITCH
+LANG_ENGLISH     "Hauptschalter"
+
 ENDMARKER

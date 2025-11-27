@@ -395,4 +395,76 @@ LANG_ENGLISH        "(Non usare fast_restart o map_restart) Premi &&1 ^2&&2^7 vo
 REFERENCE           RESTARTHINT_BACK
 LANG_ENGLISH        "(Non usare fast_restart o map_restart) Premi &&1 &&2 volte per riavviare la mappa"
 
+REFERENCE           TOTAL_PLAYTIME
+LANG_ENGLISH     "Tempo di gioco totale"
+
+REFERENCE           MINE_PLANTED
+LANG_ENGLISH     "Mina piazzata"
+
+REFERENCE           POWERUP_COLLECTED
+LANG_ENGLISH     "Powerup raccolti"
+
+REFERENCE           POINTS_EARNED
+LANG_ENGLISH     "Punti totali ottenuti"
+
+REFERENCE           PARASITE_KILLED
+LANG_ENGLISH     "Parassiti uccisi"
+
+REFERENCE           LONGEST_PLAYTIME
+LANG_ENGLISH     "Sessione di gioco più lunga"
+
+REFERENCE           MINE_PICKUP
+LANG_ENGLISH     "Mina raccolta"
+
+REFERENCE           DOUBLEPOINTS_PICKUP
+LANG_ENGLISH     "Doppio Punti raccolti"
+
+REFERENCE           HELLHOUND_KILLED
+LANG_ENGLISH     "Segugi infernali uccisi"
+
+REFERENCE           BOX_USE
+LANG_ENGLISH     "Cassa Misteriosa usata"
+
+REFERENCE           PAP_USE
+LANG_ENGLISH     "Pack-a-Punch usato"
+
+REFERENCE           INSTAKILL_PICKUP
+LANG_ENGLISH     "Uccisione Istantanea raccolta"
+
+REFERENCE           SHOTS_FIRED
+LANG_ENGLISH     "Totale colpi sparati"
+
+REFERENCE           MEATBALLS_KILLED
+LANG_ENGLISH     "Polpette uccise"
+
+REFERENCE           PERK_RANDOM_USE
+LANG_ENGLISH     "Wunderfizz usato"
+
+REFERENCE           BOX_GRAB
+LANG_ENGLISH     "Oggetto dalla Cassa Misteriosa preso"
+
+REFERENCE           PAP_GRAB2
+LANG_ENGLISH     "Arma sacrificata nel Pack-a-Punch"
+
+REFERENCE           PAP_GRAB
+LANG_ENGLISH     "Oggetto preso dal Pack-a-Punch"
+
+REFERENCE           CARPENTER_PICKUP
+LANG_ENGLISH     "Carpentiere raccolto"
+
+REFERENCE           PERK_RANDOM_PICKUP
+LANG_ENGLISH     "Wunderfizz preso"
+
+REFERENCE           FIRESALE_PICK
+LANG_ENGLISH     "Svendita raccolta"
+
+REFERENCE           BGB_EAT
+LANG_ENGLISH     "GobbleGum masticato"
+
+REFERENCE           NUKE_PICK
+LANG_ENGLISH     "Nuke raccolto"
+
+REFERENCE           POWERSWITCH
+LANG_ENGLISH     "Interruttore principale"
+
 ENDMARKER
