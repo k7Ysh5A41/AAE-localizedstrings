@@ -464,4 +464,10 @@ LANG_ENGLISH     "Ядерок подобрано"
 REFERENCE           POWERSWITCH
 LANG_ENGLISH     "Включатель электричества"
 
+REFERENCE           REWARD_30
+LANG_ENGLISH     "30 раз"
+
+REFERENCE           REWARD_LINE15
+LANG_ENGLISH     "Вы истекаете кровью дольше."
+
 ENDMARKER
