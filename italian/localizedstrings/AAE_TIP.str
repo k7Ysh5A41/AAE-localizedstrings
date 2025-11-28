@@ -110,4 +110,10 @@ LANG_ENGLISH        "Free Lander"
 REFERENCE           FREE_LANDER
 LANG_ENGLISH        "Ignora il prezzo indicato di 250 — è in realtà gratuito."
 
+REFERENCE           PHD_UPGRADE_TITLE
+LANG_ENGLISH     "Passi dell’upgrade di PhD Flopper"
+
+REFERENCE           PHD_UPGRADE
+LANG_ENGLISH     "PhD Flopper può essere ottenuto usando qualsiasi gobblegum o lasciando punti qui per attivare l’acquisto\n^2[^7richiede 2000 punti aggiuntivi^2]\n^5Fornisce immunità ai danni da esplosione e caduta, e agli effetti esplosivi causati da salti molto alti\n\n^3Missione di upgrade di PhD\n^11. ^7Un giocatore deve ottenere la ricompensa massima di riparazione delle tavole in ogni round prima del round 4\n^2[^7carpentiere e hacker non contano^2]\n^12. ^7Un giocatore deve completare 115 uccisioni con granate\n\n^3Dopo il completamento, verranno aggiunti i seguenti effetti aggiuntivi^7:\n^11. ^7Dopo aver lanciato una granata, appariranno 10 granate Slaughter Slide aggiuntive\n^12. ^7Velocità di scivolata aumentata al 150%\n^2[^7Ogni scivolata di 15 metri attiva un’esplosione^2]\n^13. ^7Due esplosioni da scivolata attivano il super slide\n^2[^7Tieni premuto il pulsante prima di scivolare per attivare il super slide — tastiera F, controller Y^2]\n^14. ^7Ogni 2 super slide attivano bombardamento d’area\n^2[^7Spara con l’arma durante un super slide per attivarlo^2]"
+
 ENDMARKER

@@ -467,4 +467,10 @@ LANG_ENGLISH     "ニューク取得"
 REFERENCE           POWERSWITCH
 LANG_ENGLISH     "電源スイッチ"
 
+REFERENCE           REWARD_30
+LANG_ENGLISH     "30回"
+
+REFERENCE           REWARD_LINE15
+LANG_ENGLISH     "瀕死状態のまま、もっと長く留まれる。"
+
 ENDMARKER

@@ -110,4 +110,10 @@ LANG_ENGLISH        "Free Lander"
 REFERENCE           FREE_LANDER
 LANG_ENGLISH        "Ignoriere die Angabe von 250 — es ist tatsächlich kostenlos."
 
+REFERENCE           PHD_UPGRADE_TITLE
+LANG_ENGLISH     "PhD Flopper Upgrade-Schritte"
+
+REFERENCE           PHD_UPGRADE
+LANG_ENGLISH     "PhD Flopper kann durch jedes Gobblegum oder durch das Ablegen von Punkten hier gekauft werden\n^2[^7erfordert zusätzlich 2000 Punkte^2]\n^5Gewährt Immunität gegen Explosions- und Fallschaden sowie Explosionseffekte bei extrem hohen Sprüngen\n\n^3PhD-Upgrade-Quest\n^11. ^7Ein Spieler muss vor Runde 4 in jeder Runde die maximale Brettreparatur-Belohnung erhalten\n^2[^7Zimmermann und Hacker zählen nicht^2]\n^12. ^7Ein Spieler muss 115 Granaten-Kills erzielen\n\n^3Nach Abschluss werden folgende zusätzliche Effekte hinzugefügt^7:\n^11. ^7Nach dem Werfen einer Granate erscheinen 10 zusätzliche Slaughter Slide-Granaten\n^12. ^7Rutschgeschwindigkeit auf 150% erhöht\n^2[^7Alle 15 Meter Rutschen löst eine Explosion aus^2]\n^13. ^7Zwei Rutsch-Explosionen aktivieren den Super Slide\n^2[^7Halte die Taste vor dem Rutschen gedrückt, um den Super Slide zu aktivieren — Tastatur F, Controller Y^2]\n^14. ^7Alle 2 Super Slides aktivieren Bombardierung\n^2[^7Feuere deine Waffe während eines Super Slides ab, um sie zu aktivieren^2]"
+
 ENDMARKER
