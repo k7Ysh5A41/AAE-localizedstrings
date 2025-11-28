@@ -467,4 +467,10 @@ LANG_ENGLISH     "Nuke eingesammelt"
 REFERENCE           POWERSWITCH
 LANG_ENGLISH     "Hauptschalter"
 
+REFERENCE           REWARD_30
+LANG_ENGLISH     "30 Mal"
+
+REFERENCE           REWARD_LINE15
+LANG_ENGLISH     "Bleibt viel länger im Down-Zustand."
+
 ENDMARKER

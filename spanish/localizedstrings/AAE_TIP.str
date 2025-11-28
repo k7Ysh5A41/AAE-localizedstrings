@@ -110,4 +110,10 @@ LANG_ENGLISH       "Módulo Lunar Gratis"
 REFERENCE           FREE_LANDER
 LANG_ENGLISH       "Te dice paga ¿250? Ja, ¡mentira!, ¡este módulo lunar es gratis!"
 
+REFERENCE           PHD_UPGRADE_TITLE
+LANG_ENGLISH     "Mejora del PhD Flopper"
+
+REFERENCE           PHD_UPGRADE
+LANG_ENGLISH     "El PhD Flopper puede obtenerse usando cualquier GobbleGum o dejando puntos aquí para activar su compra\n^2[^7requieres 2000 puntos adicionales^2]\n^5Proporciona inmunidad a explosiones, daño por caída y efectos explosivos al saltar desde alturas extremadamente altas\n\n^3Misión de mejora de PhD\n^11. ^7Cualquier jugador debe obtener la recompensa máxima por reparar tablas en cada ronda antes de la ronda 4\n^2[^7Carpintero y Hacker no cuentan^2]\n^12. ^7Cualquier jugador debe completar 115 bajas con granada\n\n^3Tras completarla, se añadirán los siguientes efectos adicionales^7:\n^11. ^7Después de lanzar una granada, aparecerán 10 granadas de cuando te deslizas adicionales\n^12. ^7La velocidad de deslizamiento aumenta al 150%\n^2[^7Cada vez que te deslizas 15 metros, se activa una explosión^2]\n^13. ^72 explosiones de deslizamiento pueden activar el super deslizamiento\n^2[^7Mantén presionado el botón antes de deslizarte para activar el super deslizamiento; en teclado es F y en control es Y^2]\n^14. ^7Cada 2 super deslizamiento activana muchas granadas en el área\n^2[^7Dispara tu arma mientras realizas un super deslizamiento para activarlo^2]"
+
 ENDMARKER

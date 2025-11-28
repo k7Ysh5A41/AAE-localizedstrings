@@ -110,4 +110,10 @@ LANG_ENGLISH        "Free Lander"
 REFERENCE           FREE_LANDER
 LANG_ENGLISH        "Ignoruj informację o 250 — w rzeczywistości jest darmowe."
 
+REFERENCE           PHD_UPGRADE_TITLE
+LANG_ENGLISH     "Kroki ulepszenia PhD Flopper"
+
+REFERENCE           PHD_UPGRADE
+LANG_ENGLISH     "PhD Flopper można zdobyć używając dowolnego gobbleguma lub upuszczając punkty tutaj, aby uruchomić zakup\n^2[^7wymaga dodatkowych 2000 punktów^2]\n^5Zapewnia odporność na obrażenia od wybuchów i upadków oraz efekty wybuchowe przy bardzo wysokich skokach\n\n^3Misja ulepszenia PhD\n^11. ^7Dowolny gracz musi otrzymać maksymalną nagrodę za naprawę desek w każdej rundzie przed rundą 4\n^2[^7cieśla i hacker się nie liczą^2]\n^12. ^7Dowolny gracz musi wykonać 115 zabójstw granatami\n\n^3Po ukończeniu dodane zostaną następujące efekty dodatkowe^7:\n^11. ^7Po rzuceniu granatu pojawi się dodatkowe 10 granatów Slaughter Slide\n^12. ^7Prędkość ślizgu zwiększona do 150%\n^2[^7Co 15 metrów ślizgu wywoływana jest eksplozja^2]\n^13. ^72 eksplozje ślizgu aktywują super slide\n^2[^7Przytrzymaj przycisk przed ślizgiem, aby aktywować super slide — klawiatura F, kontroler Y^2]\n^14. ^7Co 2 super slide uruchamiane jest bombardowanie obszarowe\n^2[^7Oddaj strzał podczas super slide, aby aktywować^2]"
+
 ENDMARKER

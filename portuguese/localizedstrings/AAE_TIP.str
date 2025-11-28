@@ -110,4 +110,10 @@ LANG_ENGLISH        "Free Lander"
 REFERENCE           FREE_LANDER
 LANG_ENGLISH        "Ignore que diz 250 — na verdade é grátis."
 
+REFERENCE           PHD_UPGRADE_TITLE
+LANG_ENGLISH     "Etapas do upgrade do PhD Flopper"
+
+REFERENCE           PHD_UPGRADE
+LANG_ENGLISH     "PhD Flopper pode ser obtido usando qualquer gobblegum ou soltando pontos aqui para ativar a compra\n^2[^7requer 2000 pontos adicionais^2]\n^5Fornece imunidade a dano explosivo e de queda, além dos efeitos explosivos causados por saltos muito altos\n\n^3Missão de upgrade do PhD\n^11. ^7Qualquer jogador deve receber a recompensa máxima de reparo de tábuas em cada rodada antes da rodada 4\n^2[^7carpinteiro e hacker não contam^2]\n^12. ^7Qualquer jogador deve completar 115 mortes com granada\n\n^3Após completar, os seguintes efeitos adicionais serão aplicados^7:\n^11. ^7Após jogar uma granada, surgem mais 10 granadas Slaughter Slide\n^12. ^7Velocidade de deslize aumentada para 150%\n^2[^7A cada 15 metros de deslize uma explosão é ativada^2]\n^13. ^72 explosões de deslize ativam o super slide\n^2[^7Segure o botão antes de deslizar para ativar o super slide — teclado F, controle Y^2]\n^14. ^7Cada 2 super slides ativam bombardeio de área\n^2[^7Atire sua arma durante o super slide para ativar^2]"
+
 ENDMARKER

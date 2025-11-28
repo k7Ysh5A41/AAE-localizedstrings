@@ -110,4 +110,10 @@ LANG_ENGLISH        "Free Lander"
 REFERENCE           FREE_LANDER
 LANG_ENGLISH        "Ignorez le fait qu’il indique 250 — c’est en réalité gratuit."
 
+REFERENCE           PHD_UPGRADE_TITLE
+LANG_ENGLISH     "Étapes d’amélioration de PhD Flopper"
+
+REFERENCE           PHD_UPGRADE
+LANG_ENGLISH     "PhD Flopper peut être obtenu en utilisant n’importe quel gobblegum ou en déposant des points ici pour déclencher l’achat\n^2[^7nécessite 2000 points supplémentaires^2]\n^5Fournit une immunité aux dégâts d’explosion et de chute, ainsi qu’aux effets d’explosion causés par des sauts très élevés\n\n^3Quête d’amélioration de PhD\n^11. ^7N’importe quel joueur doit obtenir la récompense maximale de réparation de planches à chaque manche avant la manche 4\n^2[^7carpenter et hacker ne comptent pas^2]\n^12. ^7N’importe quel joueur doit réaliser 115 éliminations à la grenade\n\n^3Après avoir terminé, les effets supplémentaires suivants seront ajoutés^7:\n^11. ^7Après avoir lancé une grenade, 10 grenades Slaughter Slide supplémentaires apparaîtront\n^12. ^7La vitesse de glissade augmente à 150%\n^2[^7Chaque glissade de 15 mètres déclenche une explosion^2]\n^13. ^7Deux explosions de glissade peuvent activer le super slide\n^2[^7Maintenez le bouton avant de glisser pour activer le super slide, clavier F et manette Y^2]\n^14. ^7Toutes les 2 super slides, un bombardement de zone est activé\n^2[^7Tirez votre arme pendant un super slide pour l’activer^2]"
+
 ENDMARKER

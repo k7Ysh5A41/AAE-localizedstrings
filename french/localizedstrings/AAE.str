@@ -467,4 +467,10 @@ LANG_ENGLISH     "Nuke ramassé"
 REFERENCE           POWERSWITCH
 LANG_ENGLISH     "Interrupteur principal"
 
+REFERENCE           REWARD_30
+LANG_ENGLISH     "30 fois"
+
+REFERENCE           REWARD_LINE15
+LANG_ENGLISH     "Restez en hémorragie beaucoup plus longtemps."
+
 ENDMARKER

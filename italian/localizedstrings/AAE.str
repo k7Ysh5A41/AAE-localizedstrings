@@ -467,4 +467,10 @@ LANG_ENGLISH     "Nuke raccolto"
 REFERENCE           POWERSWITCH
 LANG_ENGLISH     "Interruttore principale"
 
+REFERENCE           REWARD_30
+LANG_ENGLISH     "30 volte"
+
+REFERENCE           REWARD_LINE15
+LANG_ENGLISH     "Rimani a terra in fin di vita per molto più tempo."
+
 ENDMARKER

@@ -467,4 +467,10 @@ LANG_ENGLISH     "Nuke zebrany"
 REFERENCE           POWERSWITCH
 LANG_ENGLISH     "Włącznik zasilania"
 
+REFERENCE           REWARD_30
+LANG_ENGLISH     "30 razy"
+
+REFERENCE           REWARD_LINE15
+LANG_ENGLISH     "Pozostań w stanie wykrwawiania się o wiele dłużej."
+
 ENDMARKER
