@@ -21,13 +21,13 @@ REFERENCE           SMOKE
 LANG_ENGLISH     "Отключить дым из дула"
 
 REFERENCE           KICK
-LANG_ENGLISH     "Отключить дополнительный отдачу новых оружий CoD"
+LANG_ENGLISH     "Отключить дополнительную отдачу новых оружий CoD"
 
 REFERENCE           DISABLE_AFK
 LANG_ENGLISH     "Отключить AFK"
 
 REFERENCE           BGB_DROP
-LANG_ENGLISH     "Выпадение улучшений губль-гам"
+LANG_ENGLISH     "Выпадение бонусов губль-гам"
 
 REFERENCE           FPS
 LANG_ENGLISH     "Графика низкого качества"
@@ -312,7 +312,7 @@ REFERENCE           HUDMOVEMENT
 LANG_ENGLISH        "Отключить тряску интерфейса (HUD)"
 
 REFERENCE           BATTLECHAT
-LANG_ENGLISH        "Отключить субтитры разговоров игроков"
+LANG_ENGLISH        "Отключить субтитры взаимодействия игроков"
 
 REFERENCE           IE_OVERLAY
 LANG_ENGLISH        "Отключить фильтр пустого места"
