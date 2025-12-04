@@ -30,7 +30,7 @@ REFERENCE            C_DRONE_EXPLOSIVE_KILL
 LANG_ENGLISH         "^3Взрывное убийство дрона Валькирия"
 
 REFERENCE            C_DRONE_MELEE_KILL
-LANG_ENGLISH         "^3Ближний бой с дроном Валькирия"
+LANG_ENGLISH         "^3Убийство дрона Валькирия в ближнем бою"
 
 REFERENCE            C_DRONE_HEADSHOT_KILL
 LANG_ENGLISH         "^3Убийство дрона Валькирия выстрелом в голову"
