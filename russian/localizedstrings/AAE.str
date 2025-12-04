@@ -423,7 +423,7 @@ REFERENCE           BOX_USE
 LANG_ENGLISH     "Использован ящик"
 
 REFERENCE           PAP_USE
-LANG_ENGLISH     "Использован улучайзер"
+LANG_ENGLISH     "Использован улучшайзер"
 
 REFERENCE           INSTAKILL_PICKUP
 LANG_ENGLISH     "Мгновенная смерть"
@@ -432,7 +432,7 @@ REFERENCE           SHOTS_FIRED
 LANG_ENGLISH     "Выстрелов"
 
 REFERENCE           MEATBALLS_KILLED
-LANG_ENGLISH     "Убито фрикаделек"
+LANG_ENGLISH     "Фрикаделек"
 
 REFERENCE           PERK_RANDOM_USE
 LANG_ENGLISH     "Вундершипучек"
@@ -441,10 +441,10 @@ REFERENCE           BOX_GRAB
 LANG_ENGLISH     "Взято из ящика"
 
 REFERENCE           PAP_GRAB2
-LANG_ENGLISH     "Потерял оружие в улучшайзере"
+LANG_ENGLISH     "Забыл улучшенное оружие"
 
 REFERENCE           PAP_GRAB
-LANG_ENGLISH     "Улучшайзер взято"
+LANG_ENGLISH     "Улучшенное оружие взято"
 
 REFERENCE           CARPENTER_PICKUP
 LANG_ENGLISH     "Плотников"
