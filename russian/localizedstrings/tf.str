@@ -318,7 +318,7 @@ REFERENCE            MYSTERYBOX_TITLE
 LANG_ENGLISH         "ФИЛЬТР ТАИНСТВЕННОГО ЯЩИКА"
 
 REFERENCE            PERKLIMIT
-LANG_ENGLISH         "Снять ограничение на перки"
+LANG_ENGLISH         "Количество перк слотов"
 
 REFERENCE            QUADKICK
 LANG_ENGLISH         "Большой пинок мула"
