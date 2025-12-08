@@ -470,4 +470,7 @@ LANG_ENGLISH     "30 Times"
 REFERENCE           REWARD_LINE15
 LANG_ENGLISH     "Stay bleeding out much longer."
 
+REFERENCE           REWARD_LINE16
+LANG_ENGLISH     "PaP'd guns are immediately at their max damage"
+
 ENDMARKER
