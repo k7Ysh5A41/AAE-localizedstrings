@@ -470,4 +470,7 @@ LANG_ENGLISH     "30 раз"
 REFERENCE           REWARD_LINE15
 LANG_ENGLISH     "Вы истекаете кровью дольше."
 
+REFERENCE           REWARD_LINE16
+LANG_ENGLISH     "Улучшенное оружие сразу наносит максимальный урон (Epic)"
+
 ENDMARKER
