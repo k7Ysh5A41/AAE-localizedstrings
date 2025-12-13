@@ -473,4 +473,19 @@ LANG_ENGLISH     "Stay bleeding out much longer."
 REFERENCE           REWARD_LINE16
 LANG_ENGLISH     "PaP'd guns are immediately at their max damage"
 
+REFERENCE           MAP_NOT_SUPPORT_TITLE
+LANG_ENGLISH     "MAP IS NOT COMPATIBLE"
+
+REFERENCE           MAP_NOT_SUPPORT_TITLE2
+LANG_ENGLISH     "Switch to AAE Lite Version"
+
+REFERENCE           MAP_NOT_SUPPORT_DESC
+LANG_ENGLISH     "The map you have currently selected is incompatible with All-around Enhancement and will cause the game to crash."
+
+REFERENCE           MAP_NOT_SUPPORT_DESC2
+LANG_ENGLISH     "The map you have currently selected only supports the All-around Enhancement Lite version. Please switch to the Lite version before trying again."
+
+REFERENCE           MAP_NOT_SUPPORT_BUTTON
+LANG_ENGLISH     "Continue Anyway"
+
 ENDMARKER
