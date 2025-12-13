@@ -473,4 +473,19 @@ LANG_ENGLISH     "Вы истекаете кровью дольше."
 REFERENCE           REWARD_LINE16
 LANG_ENGLISH     "Улучшенное оружие сразу наносит максимальный урон (Epic)"
 
+REFERENCE           MAP_NOT_SUPPORT_TITLE
+LANG_ENGLISH     "КАРТА НЕ СОВМЕСТИМА"
+
+REFERENCE           MAP_NOT_SUPPORT_TITLE2
+LANG_ENGLISH     "Переключиться на облегченную версию AAE"
+
+REFERENCE           MAP_NOT_SUPPORT_DESC
+LANG_ENGLISH     "Выбранная вами карта несовместима с All-around Enhancement и приведет к сбою игры."
+
+REFERENCE           MAP_NOT_SUPPORT_DESC2
+LANG_ENGLISH     "Выбранная вами карта поддерживает только облегченную версию All-around Enhancement. Пожалуйста, переключитесь на облегченную версию, прежде чем повторить попытку."
+
+REFERENCE           MAP_NOT_SUPPORT_BUTTON
+LANG_ENGLISH     "Продолжить в любом случае"
+
 ENDMARKER
