@@ -338,4 +338,16 @@ LANG_ENGLISH     "Disable Shotgun Gib"
 REFERENCE           WEAPON_KIT_PAP
 LANG_ENGLISH     "Weapon Kit is only for paped"
 
+REFERENCE           GRENADE_PREDICATION
+LANG_ENGLISH     "Grenade Prediction"
+
+REFERENCE           GRENADE_PREDICATION_OPTION1
+LANG_ENGLISH     "Predicting and Fuse Bar"
+
+REFERENCE           GRENADE_PREDICATION_OPTION2
+LANG_ENGLISH     "Fuse Timing Bar"
+
+REFERENCE           GRENADE_PREDICATION_OPTION3
+LANG_ENGLISH     "Predicting the trajectory"
+
 ENDMARKER
