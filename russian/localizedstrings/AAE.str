@@ -390,7 +390,7 @@ REFERENCE           RESTARTHINT
 LANG_ENGLISH     "(Не исользуйте fast_restart или map_restart) нажмите &&1 ^2&&2^7 раз для рестарта"
 
 REFERENCE           RESTARTHINT_BACK
-LANG_ENGLISH     "(Не исользуйте fast_restart или map_restart) нажмите &&1 &&2 раз для рестарта"
+LANG_ENGLISH     "(Не исользуйте fast_restart или map_restart) нажмите &&1 &&2 раза для рестарта"
 
 REFERENCE           TOTAL_PLAYTIME
 LANG_ENGLISH     "Общее время игры"
