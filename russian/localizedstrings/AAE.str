@@ -321,7 +321,7 @@ REFERENCE           SWITCH_SINGLE_WIELD
 LANG_ENGLISH     "Нажмите ^3[{+actionslot 3}]^7, чтобы переключиться на одиночное оружие"
 
 REFERENCE           RAMPAGE_TOAST
-LANG_ENGLISH     "Индукто бешенства деактивирован"
+LANG_ENGLISH     "Индуктор бешенства деактивирован"
 
 REFERENCE           RELOADING
 LANG_ENGLISH     "Перезарядка"
