@@ -168,7 +168,7 @@ REFERENCE           IMMUNE
 LANG_ENGLISH     "Невосприимчивый"
 
 REFERENCE           RAMPAGE
-LANG_ENGLISH     "Индикатор ярости"
+LANG_ENGLISH     "Индуктор бешенства"
 
 REFERENCE           VOID
 LANG_ENGLISH     "Врата Демонов"
@@ -204,7 +204,7 @@ REFERENCE           RESTARTING
 LANG_ENGLISH     "Перезапуск......"
 
 REFERENCE           NORAMPAGE
-LANG_ENGLISH     "Выключить Индикатор ярости"
+LANG_ENGLISH     "Выключить индуктор бешенства"
 
 REFERENCE           RANDOM_MAP
 LANG_ENGLISH     "СЛУЧАЙНАЯ КАРТА"
@@ -321,7 +321,7 @@ REFERENCE           SWITCH_SINGLE_WIELD
 LANG_ENGLISH     "Нажмите ^3[{+actionslot 3}]^7, чтобы переключиться на одиночное оружие"
 
 REFERENCE           RAMPAGE_TOAST
-LANG_ENGLISH     "Индикатор ярости деактивирован"
+LANG_ENGLISH     "Индуктор бешенства деактивирован"
 
 REFERENCE           RELOADING
 LANG_ENGLISH     "Перезарядка"
@@ -390,7 +390,7 @@ REFERENCE           RESTARTHINT
 LANG_ENGLISH     "(Не исользуйте fast_restart или map_restart) нажмите &&1 ^2&&2^7 раз для рестарта"
 
 REFERENCE           RESTARTHINT_BACK
-LANG_ENGLISH     "(Не исользуйте fast_restart или map_restart) нажмите &&1 &&2 раз для рестарта"
+LANG_ENGLISH     "(Не исользуйте fast_restart или map_restart) нажмите &&1 &&2 раза для рестарта"
 
 REFERENCE           TOTAL_PLAYTIME
 LANG_ENGLISH     "Общее время игры"

@@ -338,4 +338,17 @@ LANG_ENGLISH        "Отключить дробление дробовика"
 REFERENCE           WEAPON_KIT_PAP
 LANG_ENGLISH     "Комплект оружия предназначен только для улучшения"
 
+REFERENCE           GRENADE_PREDICATION
+LANG_ENGLISH     "Прогнозирование гранаты"
+
+REFERENCE           GRENADE_PREDICATION_OPTION1
+LANG_ENGLISH     "Прогнозирование и предохранитель"
+
+REFERENCE           GRENADE_PREDICATION_OPTION2
+LANG_ENGLISH     "Период действия предохранителя"
+
+REFERENCE           GRENADE_PREDICATION_OPTION3
+LANG_ENGLISH     "Прогнозирование траектории"
+
+
 ENDMARKER
