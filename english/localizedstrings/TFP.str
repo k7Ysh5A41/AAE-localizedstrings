@@ -36,7 +36,7 @@ REFERENCE           PERKPLUS
 LANG_ENGLISH     "Disable Perk Enhancements"
 
 REFERENCE           PERKPLUS_DESC
-LANG_ENGLISH     "Disables all bonus effects added by AAE. Note: Deadshot Daiquari's bonus is only available while carrying 4 or more perks."
+LANG_ENGLISH     "Disables all bonus effects added by AAE.\n\n^1Notice:^7 Deadshot Daiquiri's bonus is only active while carrying 4 or more perks."
 
 REFERENCE           NOSLIDE
 LANG_ENGLISH     "No Slide"
@@ -72,10 +72,10 @@ REFERENCE           LOADOUTSAVE2_DESC
 LANG_ENGLISH     "Clear your saved weapons after bleedout so that you will respawn only with the pistol like normal. You can use this with the “Weapon Restore & Mule Kick Weapon Restore” option enabled so that Mule Kick will still save your mule kick weapon if you lose the perk or bleedout."
 
 REFERENCE           RIPPER
-LANG_ENGLISH     "Disable Bowie Knife Replaced by Ripper"
+LANG_ENGLISH     "Disable Bowie Knife To Ripper Upgrade"
 
 REFERENCE           RIPPER_DESC
-LANG_ENGLISH     "When holding the Bowie Knife while also having Widow's Wine, it will be upgraded to the Ripper blade from multiplayer, which does more damage and has a homing attack. This option disables it."
+LANG_ENGLISH     "Having the Bowie Knife and Widow's Wine will upgrade it to the Ripper from multiplayer. This does more damage and has a homing attack. This option disables it."
 
 REFERENCE           DW
 LANG_ENGLISH     "Disable Dualwield PAP'd Wonderweapons"
@@ -90,12 +90,12 @@ REFERENCE           JUKE
 LANG_ENGLISH     "Zombie Juke"
 
 REFERENCE           JUKE_DESC
-LANG_ENGLISH     "Zombies will randomly juke left and right instead of coming at you in a straight line, similar to Black Ops 1"
+LANG_ENGLISH     "Similar to Ascension in Black Ops 1, zombies will randomly juke left and right instead of coming at you in a straight line."
 
 REFERENCE           AUTORUN
-LANG_ENGLISH     "Disable all zombies as super sprinters after round 40"
+LANG_ENGLISH     "Disable Super Sprinters after round 40"
 
 REFERENCE           AUTORUN_DESC
-LANG_ENGLISH     "All zombies become super sprinters at around 40 with the all around enhancement mod, meaning they run as fast as you sprint without stamin-up. This option disables that, so that only a handful of zombies become super sprinters each round after round 40."
+LANG_ENGLISH     "All zombies become super sprinters at around 40 with the all around enhancement mod, meaning they run as fast as you sprint without stamin-up. This option disables that, so that only a handful of zombies become super sprinters."
 
 ENDMARKER

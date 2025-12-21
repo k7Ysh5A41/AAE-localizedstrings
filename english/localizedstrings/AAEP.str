@@ -105,31 +105,31 @@ REFERENCE          VE_MAP
 LANG_ENGLISH       "ONE WINDOW MAPS"
 
 REFERENCE          VE_MAP_DESC
-LANG_ENGLISH       "Maps where there is only one window, located in a small or medium-sized room."
+LANG_ENGLISH       "Small-scale maps with only one window and one goal. Survive."
 
 REFERENCE          MIN_MAP
 LANG_ENGLISH       "MINECRAFT MAPS"
 
 REFERENCE          MIN_MAP_DESC
-LANG_ENGLISH       "Maps from the popular game Minecraft filled with fun challenges and lots of zombies."
+LANG_ENGLISH       "Maps from the popular game Minecraft, filled with fun challenges and lots of zombies."
 
 REFERENCE          TOR_MAP
 LANG_ENGLISH       "TOWER MAPS"
 
 REFERENCE          TOR_MAP_DESC
-LANG_ENGLISH       "Tower maps where your objective is to climb or descend the tower, purchase its final buyable ending, or complete challenges."
+LANG_ENGLISH       "Your objective: Climb or descend the tower. Purchase the buyable ending."
 
 REFERENCE          IN_MAP
 LANG_ENGLISH       "INSPIRED MAPS"
 
 REFERENCE          IN_MAP_DESC
-LANG_ENGLISH       "Inspired maps taking design cues from Treyarch."
+LANG_ENGLISH       "Maps that take inspiration and design cues from Treyarch."
 
 REFERENCE          MP_MAP
 LANG_ENGLISH       "MULTIPLAYER MAPS"
 
 REFERENCE          MP_MAP_DESC
-LANG_ENGLISH       "Multiplayer maps created and modified to have a new theme with zombies."
+LANG_ENGLISH       "Multiplayer maps modified for a new zombies twist."
 
 REFERENCE          FC_MAP
 LANG_ENGLISH       "FULL CIRCLE MAPS"
@@ -147,7 +147,7 @@ REFERENCE          WW_MAP
 LANG_ENGLISH       "COD WAW MAPS"
 
 REFERENCE          WW_MAP_DESC
-LANG_ENGLISH       "Action-packed maps reminiscent of the original World at War era."
+LANG_ENGLISH       "Action-packed maps reminiscent of the World at War era."
 
 REFERENCE          B1_MAP
 LANG_ENGLISH       "COD BO1 MAPS"
@@ -165,7 +165,7 @@ REFERENCE          MW_MAP
 LANG_ENGLISH       "COD MW MAPS"
 
 REFERENCE          MW_MAP_DESC
-LANG_ENGLISH       "Legendary multiplayer maps now bathed in blood and zombies."
+LANG_ENGLISH       "Legendary multiplayer maps from the Modern Warfare series, bathed in blood and zombies."
 
 REFERENCE            QU_MAP
 LANG_ENGLISH         "QUIET SERIES MAPS"
@@ -183,7 +183,7 @@ REFERENCE            RTT_MAP
 LANG_ENGLISH         "RETURN TO TRANZIT"
 
 REFERENCE            RTT_MAP_DESC
-LANG_ENGLISH         "Relive Tranzit playing as the victis crew just hours before the rockets hit earth!"
+LANG_ENGLISH         "Relive Tranzit! Play as the Victis crew just hours before the rockets hit earth!"
 
 REFERENCE            ICE_MAP
 LANG_ENGLISH         "ICEGRENADE MAPS"
@@ -237,7 +237,7 @@ REFERENCE            UNSU_MAP
 LANG_ENGLISH         "^1UNSUPPORTED MAPS^7"
 
 REFERENCE            UNSU_MAP_DESC
-LANG_ENGLISH         "Here the maps that are not compatible with the All Around Enhancement mod will be shown in this tab."
+LANG_ENGLISH         "Maps not compatible with All Around Enhancement."
 
 REFERENCE            WHIMSICAL
 LANG_ENGLISH         "Whimsical"
@@ -246,6 +246,6 @@ REFERENCE            ZC_MAP
 LANG_ENGLISH         "ZOMBIES CHRONICLES II"
 
 REFERENCE            ZC_MAP_DESC
-LANG_ENGLISH         "Epic remakes made by the community, serving as a fun and unique way to play these classic experiences!"
+LANG_ENGLISH         "Unofficial Treyarch remakes made by the best in the zombies community, delivering the ultimate Zombies experience."
 
 ENDMARKER

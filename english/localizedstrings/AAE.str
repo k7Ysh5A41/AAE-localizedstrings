@@ -9,7 +9,7 @@ REFERENCE           DISCORD_INVITE
 LANG_ENGLISH     "Create a Game Invite"
 
 REFERENCE           DISCORD_INVITE_DESC
-LANG_ENGLISH     "Please select from the following options and the process will start immediately after selection"
+LANG_ENGLISH     "Please select from the following options. The process will start immediately after selection."
 
 REFERENCE           DISCORD_INVITE_OPTION1
 LANG_ENGLISH     "Generate a invite link and send it to the AAE Discord server"
@@ -114,7 +114,7 @@ REFERENCE           SAVE
 LANG_ENGLISH     "Your career data is being saved"
 
 REFERENCE           GAMBLER_DESC
-LANG_ENGLISH     "There's a 10-second countdown after purchase and then random things happen, some good, some bad, some interesting, lots of possibilities."
+LANG_ENGLISH     "After a 10-second countdown a random thing will happen. Some things are good, some are bad, and some are weird. Lots of possibilities!"
 
 REFERENCE           DISCORD_INVITE_OPTION0
 LANG_ENGLISH     "Update and add the Join Game button to your Discord profile"
@@ -225,7 +225,7 @@ REFERENCE           DISCORDRUN
 LANG_ENGLISH     "Discord App needs to run in the background"
 
 REFERENCE           DOWNLOAD_MAP_FROM_CLIPBOARD
-LANG_ENGLISH     "Download Map From Clipboard"
+LANG_ENGLISH     "DOWNLOAD MAP IN CLIPBOARD"
 
 REFERENCE           DOWNLOAD_MAP_FROM_CLIPBOARD_TITLE
 LANG_ENGLISH     "Check Your Steam Download List"
@@ -297,7 +297,7 @@ REFERENCE           LITE_ONLY
 LANG_ENGLISH     "^4Only compatible with AAE Lite"
 
 REFERENCE           LOBBY_SIZE
-LANG_ENGLISH     "Change Lobby Size"
+LANG_ENGLISH     "Manage Party Settings"
 
 REFERENCE           DOWNLOAD_MAP_FROM_CLIPBOARD_INSTALLING_TITLE
 LANG_ENGLISH     "This Map is Installing"
@@ -480,10 +480,10 @@ REFERENCE           MAP_NOT_SUPPORT_TITLE2
 LANG_ENGLISH     "Switch to AAE Lite"
 
 REFERENCE           MAP_NOT_SUPPORT_DESC
-LANG_ENGLISH     "The map you have currently selected is incompatible with All-around Enhancement and will cause the game to crash."
+LANG_ENGLISH     "The map you have currently selected is incompatible with All-around Enhancement. This will cause the game to crash."
 
 REFERENCE           MAP_NOT_SUPPORT_DESC2
-LANG_ENGLISH     "The map you have currently selected only supports the All-around Enhancement Lite version. Please switch before trying again."
+LANG_ENGLISH     "The map you have currently selected only supports the Lite version of All-around Enhancement. Please switch before trying again."
 
 REFERENCE           MAP_NOT_SUPPORT_BUTTON
 LANG_ENGLISH     "Continue Anyway"

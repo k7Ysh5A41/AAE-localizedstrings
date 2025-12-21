@@ -30,10 +30,10 @@ REFERENCE           ROAMER_LABEL_TIMER
 LANG_ENGLISH     "Press ^3ADS^7 + ^3[{+melee}]^7 To Start Next Round\nTime Remaining: ^5"
 
 REFERENCE           PURIFIER_HINT
-LANG_ENGLISH     "Shoot flames at teammates to revive them"
+LANG_ENGLISH     "Shoot flames at teammates to revive them!"
 
 REFERENCE           OUTRIDER_HINT
-LANG_ENGLISH     "Shoot teammates with direct hits to revive them"
+LANG_ENGLISH     "Shoot teammates with direct hits to revive them!"
 
 REFERENCE           GB_PW
 LANG_ENGLISH     "^8Pixel World"
@@ -75,7 +75,7 @@ REFERENCE           LOBBY_PASSWORD
 LANG_ENGLISH     "Lobby password"
 
 REFERENCE           LOBBY_PASSWORD_DESC
-LANG_ENGLISH     "Add a password to the lobby"
+LANG_ENGLISH     "Add a password to the lobby."
 
 REFERENCE           WINER
 LANG_ENGLISH     "^5Winner^7: "

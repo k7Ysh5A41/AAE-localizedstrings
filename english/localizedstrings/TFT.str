@@ -42,7 +42,7 @@ REFERENCE           ZOMBIE_H
 LANG_ENGLISH     "Limit Zombie Health"
 
 REFERENCE           ZOMBIE_H_DESC
-LANG_ENGLISH     "The zombie's health will stop increasing when reaches this round."
+LANG_ENGLISH     "Zombie health pool will stop increasing when reaching this round."
 
 REFERENCE           CRAZYZOMBIE_DESC
 LANG_ENGLISH     "Zombie speed is doubled for all actions."
@@ -54,19 +54,19 @@ REFERENCE           DAMAGE_NUMBER_DESC
 LANG_ENGLISH     "Choose whether to show or hide the amount of damage dealt to the enemy."
 
 REFERENCE           CENTERCROSS
-LANG_ENGLISH     "Disable the Dot in the Center of the Screen"
+LANG_ENGLISH     "Disable the dot in the center of the crosshair."
 
 REFERENCE           ITEM_DUPE_RENDER
 LANG_ENGLISH     "Highlighted Craftable Parts"
 
 REFERENCE           ITEM_DUPE_RENDER_DESC
-LANG_ENGLISH     "Craftable parts that can be picked up on the map can be seen through the walls."
+LANG_ENGLISH     "Determine how some craftable parts stand out from the environment."
 
 REFERENCE           ITEM_DUPE_RENDER_OPTION
-LANG_ENGLISH     "Can see through the wall"
+LANG_ENGLISH     "Highlighted Through Walls"
 
 REFERENCE           ITEM_DUPE_RENDER_OPTIONS
-LANG_ENGLISH     "Can see from the viewpoint"
+LANG_ENGLISH     "Hightlighted"
 
 REFERENCE           MODGAMES
 LANG_ENGLISH     "MOD GAMES"
@@ -90,13 +90,13 @@ REFERENCE           DUCK_DESC
 LANG_ENGLISH     "All Players Wear Duck Float"
 
 REFERENCE           ALERT
-LANG_ENGLISH     "\n\n^BBUTTON_CYCLE_LEFT^ Changing This Option Disables AAE Career, Bank, Weapon Locker"
+LANG_ENGLISH     "\n\n^BBUTTON_CYCLE_LEFT^ Changing this option disables AAE Career tracking, Bank, and Weapon Locker."
 
 REFERENCE           RAMPAGE
-LANG_ENGLISH     "Swapping the Gambler with the Rampage Inducer"
+LANG_ENGLISH     "Swap Gambler with Rampage Inducer"
 
 REFERENCE           RAMPAGE_DESC
-LANG_ENGLISH     "Swap the location of Gambler and Rampage Inducer to support custom maps.\n\nRampage Inducer:\nActivate to make zombies rapidly appear and move faster."
+LANG_ENGLISH     "Swaps the location of Gambler and Rampage Inducer to support custom maps.\n\nRampage Inducer:\nActivate to make zombies rapidly appear and move faster."
 
 REFERENCE           THEGIANT_WEAPON
 LANG_ENGLISH     "Force Custom Maps to Load Default BO3 Weapons into the Box"
