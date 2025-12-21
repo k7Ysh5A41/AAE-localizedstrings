@@ -15,7 +15,7 @@ REFERENCE           BACK
 LANG_ENGLISH     "back"
 
 REFERENCE           LOADINGMAP
-LANG_ENGLISH     "I'm loading a map"
+LANG_ENGLISH     "I'm loading the map"
 
 REFERENCE           GOT_PAP
 LANG_ENGLISH     "I got a Pack-A-Punched"

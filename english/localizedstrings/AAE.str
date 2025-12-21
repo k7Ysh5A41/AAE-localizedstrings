@@ -21,7 +21,7 @@ REFERENCE           SEND_INVITE_TOAST_HEAD1
 LANG_ENGLISH     "Please try again later"
 
 REFERENCE           SEND_INVITE_TOAST_HEAD2
-LANG_ENGLISH     "Other players will see your Invite later!"
+LANG_ENGLISH     "Other players will see your invite later!"
 
 REFERENCE           SEND_INVITE_TOAST_HEAD3
 LANG_ENGLISH     "Invitation function is being initialized"
@@ -207,7 +207,7 @@ REFERENCE           NORAMPAGE
 LANG_ENGLISH     "Disable Rampage Inducer"
 
 REFERENCE           RANDOM_MAP
-LANG_ENGLISH     "RANDOM MAP CHANGE"
+LANG_ENGLISH     "SELECT RANDOM MAP"
 
 REFERENCE           COPYLOBBYID
 LANG_ENGLISH     "Copy Lobby ID to Clipboard"
@@ -282,7 +282,7 @@ REFERENCE           OPENINSTEAM
 LANG_ENGLISH     "Open in  ^BBUTTON_CYCLE_RIGHT^"
 
 REFERENCE           OPENINSTEAMCURRENTMAP
-LANG_ENGLISH     "Open the Map in  ^BBUTTON_CYCLE_RIGHT^"
+LANG_ENGLISH     "Open Map in  ^BBUTTON_CYCLE_RIGHT^"
 
 REFERENCE           ISLAND_RAINBOW_WATER
 LANG_ENGLISH     "HOLD ^3[{+activate}]^7 to Pick up the Rainbow 115 Water"
@@ -294,10 +294,10 @@ REFERENCE           UPDATE_ASPECT_RATIO
 LANG_ENGLISH     "Update the Aspect Ratio"
 
 REFERENCE           LITE_ONLY
-LANG_ENGLISH     "^4Compatible only with AAE Lite version"
+LANG_ENGLISH     "^4Only compatible with AAE Lite"
 
 REFERENCE           LOBBY_SIZE
-LANG_ENGLISH     "Click to Change Lobby Size"
+LANG_ENGLISH     "Change Lobby Size"
 
 REFERENCE           DOWNLOAD_MAP_FROM_CLIPBOARD_INSTALLING_TITLE
 LANG_ENGLISH     "This Map is Installing"
@@ -477,13 +477,13 @@ REFERENCE           MAP_NOT_SUPPORT_TITLE
 LANG_ENGLISH     "MAP IS NOT COMPATIBLE"
 
 REFERENCE           MAP_NOT_SUPPORT_TITLE2
-LANG_ENGLISH     "Switch to AAE Lite Version"
+LANG_ENGLISH     "Switch to AAE Lite"
 
 REFERENCE           MAP_NOT_SUPPORT_DESC
 LANG_ENGLISH     "The map you have currently selected is incompatible with All-around Enhancement and will cause the game to crash."
 
 REFERENCE           MAP_NOT_SUPPORT_DESC2
-LANG_ENGLISH     "The map you have currently selected only supports the All-around Enhancement Lite version. Please switch to the Lite version before trying again."
+LANG_ENGLISH     "The map you have currently selected only supports the All-around Enhancement Lite version. Please switch before trying again."
 
 REFERENCE           MAP_NOT_SUPPORT_BUTTON
 LANG_ENGLISH     "Continue Anyway"
