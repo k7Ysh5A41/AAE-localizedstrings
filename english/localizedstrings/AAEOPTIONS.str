@@ -327,7 +327,7 @@ REFERENCE           BGB_NOULTRA
 LANG_ENGLISH     "Enabled, but no Ultra-Rare"
 
 REFERENCE           RELOADCANCEL
-LANG_ENGLISH     "( SpeedCola Cancel not included ) Enable Sprint Reload"
+LANG_ENGLISH     "( Speed Cola Cancel not included ) Enable Sprint Reload"
 
 REFERENCE           TRIGGER_MARKER
 LANG_ENGLISH     "Disable Trigger Marker"

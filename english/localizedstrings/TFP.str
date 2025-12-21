@@ -27,7 +27,7 @@ REFERENCE           TRADE_DESC
 LANG_ENGLISH     "Trade weapons with another player. Walk up to the player you want to trade with and look at their gun. Both players must then hold the prompt on-screen until the bar is full for each player, then the weapons will be traded."
 
 REFERENCE           GAMBLER_DESC
-LANG_ENGLISH     "Spawns a floating Lucky 8 ball at the player spawn location which can be interacted with for 1000 points to have a random effect happen. Some are good, some are bad, some are in-between, it’s a gamble! Can only be bought once per round."
+LANG_ENGLISH     "Spawns a floating Lucky 8 ball at the player spawn location. This can be interacted with for 1000 points to have a random effect happen. Some are good, some are bad, some are weird. It’s a gamble! Can only be bought once per round."
 
 REFERENCE           SOLOREVIVE
 LANG_ENGLISH     "Unlimited Use of Quick Revive in Solo"
@@ -36,7 +36,7 @@ REFERENCE           PERKPLUS
 LANG_ENGLISH     "Disable Perk Enhancements"
 
 REFERENCE           PERKPLUS_DESC
-LANG_ENGLISH     "Disables the following perk effects added by the mod:\n\n^5Quick Revive^7: Reduces health regain delay by 40%.\n^2Speed Cola^7: Speeds up the use of perks and GobbleGums, ADS, weapon switching, and melee attacks. Removes the “first raise” animation. If player is sprinting and reload animation persists after mag is loaded, animation will be canceled.\n^3Stamin-Up^7: Unlimited stamina, fire and throw grenades while running, walk faster while aiming and raise your weapon faster after sprinting.\n^9Double Tap Root Beer^7: Special Weapon charges faster.\n^1Widow’s Wine^7: Gives explosive resistance (only if there is no other similar effect perk on the map).\n^6Deadshot Daiquiri^7: While carrying 4 or more perks, five consecutive headshot kills will grant a ×1.25 headshot damage bonus, maximized hip-fire accuracy, and the ability to see enemies through walls. An icon next to the weapon’s ammo shows when it's active. The effect resets after a non-headshot kill."
+LANG_ENGLISH     "Disables all bonus effects added by AAE. Note: Deadshot Daiquari's bonus is only available while carrying 4 or more perks."
 
 REFERENCE           NOSLIDE
 LANG_ENGLISH     "No Slide"

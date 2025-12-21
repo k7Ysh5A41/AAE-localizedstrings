@@ -6,7 +6,7 @@ CONFIG              "C:\projects\cod\t7\bin\StringEd.cfg"
 FILENOTES           ""
 
 REFERENCE            TITLE
-LANG_ENGLISH         "^6TF'S ZOMBIE OPTION PRO"
+LANG_ENGLISH         "TF'S ZOMBIE OPTION PRO"
 
 REFERENCE            SWITCH
 LANG_ENGLISH         "Enable TF Zombie Option / Reset to Default"

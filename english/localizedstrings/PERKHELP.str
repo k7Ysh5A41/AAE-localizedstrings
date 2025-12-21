@@ -6,30 +6,30 @@ CONFIG              "C:\projects\cod\t7\bin\StringEd.cfg"
 FILENOTES           ""
 
 REFERENCE           DEADSHOT
-LANG_ENGLISH     "Improves weapon hip-fire accuracy and will auto aim towards a zombies head when aiming down the sights\n^5AAE Bonus^7: After 5 consecutive headshots, hip-fire accuracy is maximized and has 1.5x headshot damage and can see zombies through walls"
+LANG_ENGLISH     "Improves hip-fire accuracy. Stronger headshot aim assist.\n^5Bonus^7: Land 5 consecutive headshots for amplified perk effects and headshot damage. See zombies through walls."
 
 REFERENCE           DOUBLETAP
-LANG_ENGLISH     "Increases the fire rate of the weapons and doubles each bullet being fired\n^5AAE Bonus^7: Special weapons recharge faster"
+LANG_ENGLISH     "Increased fire rate and damage.\n^5Bonus^7: Recharge special weapons and equipment faster."
 
 REFERENCE           JUGGER
-LANG_ENGLISH     "Double your health, allowing players to go down after 5 hits instead of 3"
+LANG_ENGLISH     "Doubles player health."
 
 REFERENCE           MULEKICK
-LANG_ENGLISH     "Allows you to carry 3 weapons instead of 2\n^5AAE Bonus^7: After losing Mulekick, the next time you get Mulekick you will regain the lost weapon"
+LANG_ENGLISH     "Carry an additional weapon.\n^5Bonus^7: Stores extra weapon if Mule Kick is lost. Regain extra weapon if Mule Kick is reacquired."
 
 REFERENCE           REVIVE_SOLO
-LANG_ENGLISH     "Revive yourself when downed\n^5AAE Bonus^7: Reduces health regain delay by 40%"
+LANG_ENGLISH     "Auto-revive when downed.\n^5Bonus^7: Reduced health regen delay."
 
 REFERENCE           REVIVE
-LANG_ENGLISH     "Revive a downed teammate quicker\n^5AAE Bonus^7: Reduces health regain delay by 40%\nRevive teammates will not be able to take damage from zombies, and if the revive is halted, it will prolong the bleeding out time of the downed player"
+LANG_ENGLISH     "Revive downed teammates faster.\n^5Bonus^7: Reduces health regen delay. Revived teammates are temporarily invincible. Extends bleed-out timer if revive is interrupted."
 
 REFERENCE           FASTRELOAD
-LANG_ENGLISH     "Increases reload speed\n^5AAE Bonus^7: Switching weapons faster, faster ADS, throwing equipment faster, Drinking perk faster, chew gobblegum faster, Climb ladders faster, no first raise animation when getting a new weapon, Climbing up the tank faster"
+LANG_ENGLISH     "Reloads weapons faster.\n^5Bonus^7: Speeds up all animations. Auto-cancels excess reload animation while sprinting."
 
 REFERENCE           STAMINUP
-LANG_ENGLISH     "Allows you to run for longer periods of time\n^5AAE Bonus^7: Fire while sprinting, raise gun faster at end of sprinting, can throw equipment while sprinting, ADS moves quicker, infinite sprint"
+LANG_ENGLISH     "Increases stamina.\n^5Bonus^7: Infinite sprint. Do more actions while sprinting. Move quicker while aiming."
 
 REFERENCE           WINE
-LANG_ENGLISH     "You'll get the Widow's Wine Knife to increase your Melee damage. Replaces grenades with Widow's Wine grenades that incases zombies in spider webs. A spider power up will drop that replenishes grenades. When zombies attacks you it will cause a small explosion that will wrap the zombie up in webs.\n^5AAE Bonus^7: Explosion immunity "
+LANG_ENGLISH     "Increased melee damage. Grenades slow zombies, and auto-detonate when player is hit. Slowed zombies drop additional grenades. \n^5Bonus^7: Immune to explosive damage."
 
 ENDMARKER
