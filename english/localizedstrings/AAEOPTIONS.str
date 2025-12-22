@@ -291,7 +291,7 @@ REFERENCE           GUNPOS_ENABLE
 LANG_ENGLISH     "Enable Custom First Person Arm Model Position"
 
 REFERENCE           T7HUD
-LANG_ENGLISH     "HUD Layout (Restart Required)"
+LANG_ENGLISH     "HUD Format (Restart Required)"
 
 REFERENCE           TIPHINT
 LANG_ENGLISH     "Disable Tip Hint and Soul Counter"
@@ -300,10 +300,10 @@ REFERENCE           BARSPIN
 LANG_ENGLISH     "Flat UI (Restart Required)"
 
 REFERENCE           T7
-LANG_ENGLISH     "Vanilla"
+LANG_ENGLISH     "Black Ops 3 (Vanilla)"
 
 REFERENCE           T10
-LANG_ENGLISH     "Perks In The Center"
+LANG_ENGLISH     "AAE - Center Perks"
 
 REFERENCE           NOATTACHMENT
 LANG_ENGLISH     "No Attachment"
@@ -327,7 +327,7 @@ REFERENCE           BGB_NOULTRA
 LANG_ENGLISH     "Enabled, No Ultra-Rare"
 
 REFERENCE           RELOADCANCEL
-LANG_ENGLISH     "(Speed Cola Bonus Not Included) Enable Sprint Reload"
+LANG_ENGLISH     "Enable Sprint Reload (Speed Cola Bonus Not Included)"
 
 REFERENCE           TRIGGER_MARKER
 LANG_ENGLISH     "Disable Trigger Marker"

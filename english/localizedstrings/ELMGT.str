@@ -72,10 +72,10 @@ REFERENCE           BOTS
 LANG_ENGLISH     "Bots"
 
 REFERENCE           LOBBY_PASSWORD
-LANG_ENGLISH     "Lobby password"
+LANG_ENGLISH     "Lobby Password"
 
 REFERENCE           LOBBY_PASSWORD_DESC
-LANG_ENGLISH     "Add a password to the lobby."
+LANG_ENGLISH     "In order for players to join your lobby, they need to enter this password."
 
 REFERENCE           WINER
 LANG_ENGLISH     "^5Winner^7: "

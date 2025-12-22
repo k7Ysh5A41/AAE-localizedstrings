@@ -90,7 +90,7 @@ REFERENCE            CASTLE_EE_TIMER
 LANG_ENGLISH         "Time Travel Countdown: "
 
 REFERENCE            GUM_DISABLE
-LANG_ENGLISH         " GobbleGum is disabled due to lobby size"
+LANG_ENGLISH         " GobbleGums are disabled due to lobby size"
 
 REFERENCE            MONKEY_PAP
 LANG_ENGLISH         "Press ^3[{+melee}]^7 Pack-a-Punch Monkey Bomb [Cost: 5000]"
