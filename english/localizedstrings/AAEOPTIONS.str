@@ -225,7 +225,7 @@ REFERENCE           HITM_STAY_M
 LANG_ENGLISH     "Smaller-Scaled Hitmarkers"
 
 REFERENCE           ZCPERK
-LANG_ENGLISH     "Disable Extra Perk Machines And PAP In ZC Maps (Restart Required)"
+LANG_ENGLISH     "Disable AAE-Added Machines In ZC Maps (Restart Required)"
 
 REFERENCE           NOPES
 LANG_ENGLISH     "Disable Interactable P.E.S. On Moon"
