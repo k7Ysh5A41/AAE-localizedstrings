@@ -9,7 +9,7 @@ REFERENCE           HINT
 LANG_ENGLISH     "^3[{+activate}]^7 Gambler (^BBUTTON_COD_POINT_ICON^&&1)"
 
 REFERENCE           RUN
-LANG_ENGLISH     "Gambler Running......"
+LANG_ENGLISH     "Gambler Running..."
 
 REFERENCE           WIN
 LANG_ENGLISH     "^1You did not win anything."

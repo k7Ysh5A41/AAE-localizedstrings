@@ -9,7 +9,7 @@ REFERENCE            FOV_SCALE
 LANG_ENGLISH         "FoV Scale"
 
 REFERENCE            SHORTCUT_KEY
-LANG_ENGLISH         "^5All Shortcut Keys\n\n^7Flashlight\nMarker\nDrop Points\nDNI Nightvision\nThirdperson\nFull map view\nHide Heads Up Display\nSprays\nThrowable Cancel\nSet Mulekick Weapon\nCamo change\nReticle change"
+LANG_ENGLISH         "^5All Shortcut Keys\n\n^7Flashlight\nMarker\nDrop 1000 Points\nDNI Nightvision\nThird Person\nFull Map View\nHide Heads Up Display\nSpray Emblem\nCancel Throwable\nSet Mulekick Weapon\nChange Camo\nChange Reticle"
 
 REFERENCE            DRONE_KILL
 LANG_ENGLISH         "Valkyrie Drone Elimination"
@@ -84,7 +84,7 @@ REFERENCE            MANGLER
 LANG_ENGLISH         "Mangler"
  
 REFERENCE            BUY_DRINK
-LANG_ENGLISH         "You can buy your friend a drink by pressing ^3[{+actionslot 3}] ^7at the perk machine"
+LANG_ENGLISH         "Buy an ally a drink by pressing ^3[{+actionslot 3}] ^7at a perk machine"
 
 REFERENCE            CASTLE_EE_TIMER
 LANG_ENGLISH         "Time Travel Countdown: "
@@ -105,31 +105,31 @@ REFERENCE          VE_MAP
 LANG_ENGLISH       "ONE WINDOW MAPS"
 
 REFERENCE          VE_MAP_DESC
-LANG_ENGLISH       "Maps where there is only one window, located in a small or medium-sized room."
+LANG_ENGLISH       "Small-scale maps with only one window and one goal. Survive."
 
 REFERENCE          MIN_MAP
 LANG_ENGLISH       "MINECRAFT MAPS"
 
 REFERENCE          MIN_MAP_DESC
-LANG_ENGLISH       "Maps from the popular game Minecraft filled with fun challenges and lots of zombies."
+LANG_ENGLISH       "Maps from the popular game Minecraft, filled with fun challenges and lots of zombies."
 
 REFERENCE          TOR_MAP
 LANG_ENGLISH       "TOWER MAPS"
 
 REFERENCE          TOR_MAP_DESC
-LANG_ENGLISH       "Tower maps where your objective is to climb or descend the tower, purchase its final buyable ending, or complete challenges."
+LANG_ENGLISH       "Your objective: Climb or descend the tower. Purchase the buyable ending."
 
 REFERENCE          IN_MAP
 LANG_ENGLISH       "INSPIRED MAPS"
 
 REFERENCE          IN_MAP_DESC
-LANG_ENGLISH       "Inspired maps taking design cues from Treyarch."
+LANG_ENGLISH       "Maps that take inspiration and design cues from Treyarch."
 
 REFERENCE          MP_MAP
 LANG_ENGLISH       "MULTIPLAYER MAPS"
 
 REFERENCE          MP_MAP_DESC
-LANG_ENGLISH       "Multiplayer maps created and modified to have a new theme with zombies."
+LANG_ENGLISH       "Multiplayer maps modified for a new zombies twist."
 
 REFERENCE          FC_MAP
 LANG_ENGLISH       "FULL CIRCLE MAPS"
@@ -138,76 +138,76 @@ REFERENCE          FC_MAP_DESC
 LANG_ENGLISH       "Amazing maps from the popular map creator AlfaTheseus."
 
 REFERENCE          DS_MAP
-LANG_ENGLISH       "COD DS MAPS"
+LANG_ENGLISH       "BLACK OPS DS MAPS"
 
 REFERENCE          DS_MAP_DESC
-LANG_ENGLISH       "Exclusive and entertaining maps from the Black Ops version for the Nintendo DS."
+LANG_ENGLISH       "Entertaining remakes from the Nintendo DS release of Black Ops 1."
 
 REFERENCE          WW_MAP
-LANG_ENGLISH       "COD WAW MAPS"
+LANG_ENGLISH       "WORLD AT WAR MAPS"
 
 REFERENCE          WW_MAP_DESC
-LANG_ENGLISH       "Action-packed maps reminiscent of the original World at War era."
+LANG_ENGLISH       "Gritty maps reminiscent of the World at War era."
 
 REFERENCE          B1_MAP
-LANG_ENGLISH       "COD BO1 MAPS"
+LANG_ENGLISH       "BLACK OPS 1 MAPS"
 
 REFERENCE          B1_MAP_DESC
-LANG_ENGLISH       "Mythical maps from the intense era of Black Ops 1."
+LANG_ENGLISH       "Action-packed maps based on the intense Black Ops 1 era."
 
 REFERENCE          B2_MAP
-LANG_ENGLISH       "COD BO2 MAPS"
+LANG_ENGLISH       "BLACK OPS 2 MAPS"
 
 REFERENCE          B2_MAP_DESC
-LANG_ENGLISH       "Mysterious and cool maps based on the game Black Ops 2."
+LANG_ENGLISH       "Mythical maps inspired by the Black Ops 2 era."
 
 REFERENCE          MW_MAP
-LANG_ENGLISH       "COD MW MAPS"
+LANG_ENGLISH       "MODERN WARFARE MAPS"
 
 REFERENCE          MW_MAP_DESC
-LANG_ENGLISH       "Legendary multiplayer maps now bathed in blood and zombies."
+LANG_ENGLISH       "Legendary multiplayer maps from the Modern Warfare series, bathed in blood and zombies."
 
 REFERENCE            QU_MAP
 LANG_ENGLISH         "QUIET SERIES MAPS"
 
 REFERENCE            QU_MAP_DESC
-LANG_ENGLISH         "Amazing maps from the popular map creator Markus Darius, NOTE: these maps will only work in the lite version of this mod."
+LANG_ENGLISH         "Amazing maps from the popular map creator Markus Darius. Some maps will only work with the lite version of this mod."
 
 REFERENCE            KO_MAP
 LANG_ENGLISH         "VERK0 MAPS"
 
 REFERENCE            KO_MAP_DESC
-LANG_ENGLISH         "Amazing maps from the popular map creator: Verk0, some maps will only work in the lite version of this mod."
+LANG_ENGLISH         "Amazing maps from the popular map creator Verk0. Some maps will only work with the lite version of this mod."
 
 REFERENCE            RTT_MAP
 LANG_ENGLISH         "RETURN TO TRANZIT"
 
 REFERENCE            RTT_MAP_DESC
-LANG_ENGLISH         "Relive Tranzit playing as the victis crew just hours before the rockets hit earth!"
+LANG_ENGLISH         "Relive Tranzit! Play as the Victis crew just hours before the rockets hit earth."
 
 REFERENCE            ICE_MAP
 LANG_ENGLISH         "ICEGRENADE MAPS"
 
 REFERENCE            ICE_MAP_DESC
-LANG_ENGLISH         "Amazing maps from the popular map creator: IceGrenade, some maps will only work in the lite version of this mod."
+LANG_ENGLISH         "Amazing maps from the popular map creator IceGrenade. Some maps will only work with the lite version of this mod."
 
 REFERENCE            WEE_MAP
 LANG_ENGLISH         "LOGICAL MAPS"
 
 REFERENCE            WEE_MAP_DESC
-LANG_ENGLISH         "Amazing maps from the popular map creator: Logical, some maps will only work in the lite version of this mod."
+LANG_ENGLISH         "Amazing maps from the popular map creator Logical. Some maps will only work with the lite version of this mod."
 
 REFERENCE            CH_MAP
 LANG_ENGLISH         "CHALLENGE MAPS"
 
 REFERENCE            CH_MAP_DESC
-LANG_ENGLISH         "Maps filled with challenges, some more extreme than others, that will test your skills and abilities."
+LANG_ENGLISH         "Maps filled with challenges that will test your skills and abilities!"
 
 REFERENCE            NO_MAP
 LANG_ENGLISH         "HORROR MAPS"
 
 REFERENCE            NO_MAP_DESC
-LANG_ENGLISH         "Horror maps where intensity screams, and despair will run through your body, challenging your limits every second."
+LANG_ENGLISH         "Horror maps where intensity screams and despair will run through your body."
 
 REFERENCE            NOM_MAP
 LANG_ENGLISH         "MOVIE MAPS"
@@ -219,13 +219,13 @@ REFERENCE            SEA_MAP
 LANG_ENGLISH         "SEATOWN MAPS"
 
 REFERENCE            SEA_MAP_DESC
-LANG_ENGLISH         "Maps with the essence of SEATOWN, where your skills will be tested in intense battles."
+LANG_ENGLISH         "Maps inspired by the map SEATOWN. Your skills will be tested in intense battles."
 
 REFERENCE            SAW_MAP
 LANG_ENGLISH         "SAW MAPS"
 
 REFERENCE            SAW_MAP_DESC
-LANG_ENGLISH         "Terror maps on par with Saw, where you will be tested in disturbing environments full of macabre twists."
+LANG_ENGLISH         "Terror maps inspired by Saw. You will be tested in disturbing environments full of macabre twists."
 
 REFERENCE            XMA_MAP
 LANG_ENGLISH         "CHRISTMAS MAPS"
@@ -237,7 +237,7 @@ REFERENCE            UNSU_MAP
 LANG_ENGLISH         "^1UNSUPPORTED MAPS^7"
 
 REFERENCE            UNSU_MAP_DESC
-LANG_ENGLISH         "Here the maps that are not compatible with the All Around Enhancement mod will be shown in this tab."
+LANG_ENGLISH         "Maps not compatible with All Around Enhancement."
 
 REFERENCE            WHIMSICAL
 LANG_ENGLISH         "Whimsical"
@@ -246,6 +246,6 @@ REFERENCE            ZC_MAP
 LANG_ENGLISH         "ZOMBIES CHRONICLES II"
 
 REFERENCE            ZC_MAP_DESC
-LANG_ENGLISH         "Epic remakes made by the community, serving as a fun and unique way to play these classic experiences!"
+LANG_ENGLISH         "Unofficial Treyarch remakes made by the best in the zombies community, delivering the ultimate Zombies experience."
 
 ENDMARKER

@@ -9,7 +9,7 @@ REFERENCE           PLAYERMONITOR
 LANG_ENGLISH     "Other players' POV"
 
 REFERENCE           PLAYERMONITOR_DOA
-LANG_ENGLISH     "Other players' POV(Top-down view)"
+LANG_ENGLISH     "Other players' POV (Top-down view)"
 
 REFERENCE           WALLBUY
 LANG_ENGLISH     "Disable Wall Buy Hints"
@@ -21,7 +21,7 @@ REFERENCE           SMOKE
 LANG_ENGLISH     "Disable Muzzle Smoke Trails"
 
 REFERENCE           KICK
-LANG_ENGLISH     "Disable Extra Weapon Kickback For New CoD Weapons"
+LANG_ENGLISH     "Disable Extra Kickback For New COD Weapons"
 
 REFERENCE           DISABLE_AFK
 LANG_ENGLISH     "Disable AFK"
@@ -33,7 +33,7 @@ REFERENCE           FPS
 LANG_ENGLISH     "Potato Graphics"
 
 REFERENCE           SM
-LANG_ENGLISH     "Display movement speed"
+LANG_ENGLISH     "Display Movement Speed Statistics"
 
 REFERENCE           AAT
 LANG_ENGLISH     "Disable AAT"
@@ -54,13 +54,13 @@ REFERENCE           FSF
 LANG_ENGLISH     "Disable Full Screen Flash"
 
 REFERENCE           FSFB
-LANG_ENGLISH     "Full Screen Flash Swap from White to Black"
+LANG_ENGLISH     "Swap Full Screen Flash from White to Black"
 
 REFERENCE           RESTART_HINT
-LANG_ENGLISH     "You can now open the pause menu to restart"
+LANG_ENGLISH     "You can now open the pause menu to restart."
 
 REFERENCE           BACKHEAD
-LANG_ENGLISH     "Back-of-head view"      
+LANG_ENGLISH     "Back-Of-Head view"      
 
 REFERENCE           UICOLOR
 LANG_ENGLISH     "UI Color"      
@@ -159,10 +159,10 @@ REFERENCE           ORANGERED
 LANG_ENGLISH     "Orange Red"
  
 REFERENCE           FLOD
-LANG_ENGLISH     "Force high LOD rendering"
+LANG_ENGLISH     "Force High LOD Rendering (Performance Intensive)"
  
 REFERENCE           BB
-LANG_ENGLISH     "Disable Black Bars"
+LANG_ENGLISH     "Disable Black Bars At Game Start"
  
 REFERENCE           STARTINTRO
 LANG_ENGLISH     "Disable Start Intro"
@@ -186,10 +186,10 @@ REFERENCE           RELOADPROMPT
 LANG_ENGLISH     "Disable Reload Prompt"
  
 REFERENCE           PERKSLOT_SELF
-LANG_ENGLISH     "Only add to self"
+LANG_ENGLISH     "Only Add To Self"
  
 REFERENCE           PERKSLOT_ALL
-LANG_ENGLISH     "Add to all"
+LANG_ENGLISH     "Add To All"
  
 REFERENCE           SEEWALL
 LANG_ENGLISH     "Disable Seeing Player Names Through Walls"
@@ -207,10 +207,10 @@ REFERENCE           SELFHP
 LANG_ENGLISH     "Disable Self Health Bar"
  
 REFERENCE           LAUNCHER_LOCK
-LANG_ENGLISH     "Disable Rocket Launcher LockOn"
+LANG_ENGLISH     "Disable Rocket Launcher Lock-On"
  
 REFERENCE           POINTS_COLOR
-LANG_ENGLISH     "Override Score Colors With UI Colors(Restart Required)"
+LANG_ENGLISH     "Override Team Score Colors With UI Color (Restart Required)"
  
 REFERENCE           HIGHROUND_TIMER
 LANG_ENGLISH     "In-Game Timer"
@@ -225,13 +225,13 @@ REFERENCE           HITM_STAY_M
 LANG_ENGLISH     "Smaller Hitmarker"
 
 REFERENCE           ZCPERK
-LANG_ENGLISH     "Disable Extra Perk Machine and PAP in ZC Maps(restart required)"
+LANG_ENGLISH     "Disable Extra Perk Machines and PAP in ZC Maps (Restart Required)"
 
 REFERENCE           NOPES
-LANG_ENGLISH     "Unable to interact with P.E.S. in Moon"
+LANG_ENGLISH     "Disable Interactable P.E.S. On Moon"
 
 REFERENCE           PAPBOX
-LANG_ENGLISH     "Pap'd Mystery Box(Requires AF & 50 EE)"
+LANG_ENGLISH     "PAP'd Mystery Box (Requires AF & 50 EE)"
 
 REFERENCE           MOTIONUI
 LANG_ENGLISH     "UI Mouse Motion"
@@ -255,7 +255,7 @@ REFERENCE           NO_SUPPORT_LINE1
 LANG_ENGLISH     "^1Unsupported Version Detected\n^3Please Check The Following^7:"
 
 REFERENCE           NO_SUPPORT_LINE2
-LANG_ENGLISH     "\n\n\n^21^7. Are You Launching Black Ops III Using ^BBUTTON_CYCLE_RIGHT^ Steam Client? ( Non-Steam Game Options Don't Count )"
+LANG_ENGLISH     "\n\n\n^21^7. Are You Launching Black Ops III Using ^BBUTTON_CYCLE_RIGHT^ Steam Client? (Non-Steam Game Options Don't Count)"
 
 REFERENCE           NO_SUPPORT_LINE3
 LANG_ENGLISH     "\n\n\n\n^22^7. Have You Purchased and Own Black Ops III On Your Current ^BBUTTON_CYCLE_RIGHT^ Steam Account ?"
@@ -264,7 +264,7 @@ REFERENCE           NO_SUPPORT_LINE4
 LANG_ENGLISH     "\n\n\n\n\n^23^7. Are You Currently Using a Device or Operating System That is ^5Windows 10 ^7/ ^5Windows 11 ^7/ ^5Steam Deck ^7/ ^5Linux ^7?"
 
 REFERENCE           MWZCOLOR
-LANG_ENGLISH     "BO6 Teammate Color(restart required)"
+LANG_ENGLISH     "BO6 Teammate Colors (Restart Required)"
 
 REFERENCE           AMMOBAG
 LANG_ENGLISH     "Disable Spawning Ammo Bag"
@@ -282,7 +282,7 @@ REFERENCE           BGB_START
 LANG_ENGLISH     "Gobblegum Start Round"
 
 REFERENCE           C4ENDING
-LANG_ENGLISH     "C4 Buyable Ending(150K+Round 35)"
+LANG_ENGLISH     "C4 Buyable Ending (150k Points + Round 35 Required)"
 
 REFERENCE           GUNPOS
 LANG_ENGLISH     "First Person Arm Model Position"
@@ -291,13 +291,13 @@ REFERENCE           GUNPOS_ENABLE
 LANG_ENGLISH     "Enable Custom First Person Arm Model Position"
 
 REFERENCE           T7HUD
-LANG_ENGLISH     "HUD Layout(Restart Required)"
+LANG_ENGLISH     "HUD Layout (Restart Required)"
 
 REFERENCE           TIPHINT
 LANG_ENGLISH     "Disable Tip Hint and Soul Counter"
 
 REFERENCE           BARSPIN
-LANG_ENGLISH     "Flat UI(Restart Required)"
+LANG_ENGLISH     "Flat UI (Restart Required)"
 
 REFERENCE           T7
 LANG_ENGLISH     "Vanilla"
@@ -309,7 +309,7 @@ REFERENCE           NOATTACHMENT
 LANG_ENGLISH     "No Attachment"
 
 REFERENCE           HUDMOVEMENT
-LANG_ENGLISH     "Disable HUD shaking"
+LANG_ENGLISH     "Disable HUD Movement"
 
 REFERENCE           BATTLECHAT
 LANG_ENGLISH     "Disable Player Chatter Subtitles"
@@ -318,16 +318,16 @@ REFERENCE           IE_OVERLAY
 LANG_ENGLISH     "Disable Idle Eyes Filter"
 
 REFERENCE           HPBAR_RANDOM_NAMES
-LANG_ENGLISH     "Enable and Use Random Names"
+LANG_ENGLISH     "Enabled, Use Random Names"
 
 REFERENCE           PLAYER_HEALTHBAR
 LANG_ENGLISH     "Player Overhead Health Bar"
 
 REFERENCE           BGB_NOULTRA
-LANG_ENGLISH     "Enabled, but no Ultra-Rare"
+LANG_ENGLISH     "Enabled, No Ultra-Rare"
 
 REFERENCE           RELOADCANCEL
-LANG_ENGLISH     "( Speed Cola Cancel not included ) Enable Sprint Reload"
+LANG_ENGLISH     "(Speed Cola Bonus Not Included) Enable Sprint Reload"
 
 REFERENCE           TRIGGER_MARKER
 LANG_ENGLISH     "Disable Trigger Marker"
@@ -336,18 +336,18 @@ REFERENCE           SHOTGUN_GIB
 LANG_ENGLISH     "Disable Shotgun Gib"
 
 REFERENCE           WEAPON_KIT_PAP
-LANG_ENGLISH     "Weapon Kit is only for paped"
+LANG_ENGLISH     "Weapon Kit Only For PAP'd"
 
 REFERENCE           GRENADE_PREDICATION
 LANG_ENGLISH     "Grenade Prediction"
 
 REFERENCE           GRENADE_PREDICATION_OPTION1
-LANG_ENGLISH     "Predicting and Fuse Bar"
+LANG_ENGLISH     "Prediction Line and Timer"
 
 REFERENCE           GRENADE_PREDICATION_OPTION2
-LANG_ENGLISH     "Fuse Timing Bar"
+LANG_ENGLISH     "Fuse Timer Only"
 
 REFERENCE           GRENADE_PREDICATION_OPTION3
-LANG_ENGLISH     "Predicting the trajectory"
+LANG_ENGLISH     "Prediction Line Only"
 
 ENDMARKER

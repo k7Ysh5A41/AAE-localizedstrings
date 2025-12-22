@@ -9,7 +9,7 @@ REFERENCE           DEADSHOT
 LANG_ENGLISH     "Improves hip-fire accuracy. Stronger headshot aim assist.\n^5Bonus^7: Land 5 consecutive headshots for amplified perk effects and headshot damage. See zombies through walls."
 
 REFERENCE           DOUBLETAP
-LANG_ENGLISH     "Increased fire rate and damage.\n^5Bonus^7: Recharge special weapons and equipment faster."
+LANG_ENGLISH     "Increases fire rate and damage.\n^5Bonus^7: Recharges special weapons and equipment faster."
 
 REFERENCE           JUGGER
 LANG_ENGLISH     "Doubles player health."
@@ -18,10 +18,10 @@ REFERENCE           MULEKICK
 LANG_ENGLISH     "Carry an additional weapon.\n^5Bonus^7: Stores extra weapon if Mule Kick is lost. Regain extra weapon if Mule Kick is reacquired."
 
 REFERENCE           REVIVE_SOLO
-LANG_ENGLISH     "Auto-revive when downed.\n^5Bonus^7: Reduced health regen delay."
+LANG_ENGLISH     "Auto-revives when downed.\n^5Bonus^7: Reduces health regen delay."
 
 REFERENCE           REVIVE
-LANG_ENGLISH     "Revive downed teammates faster.\n^5Bonus^7: Reduces health regen delay. Revived teammates are temporarily invincible. Extends bleed-out timer if revive is interrupted."
+LANG_ENGLISH     "Revive downed allies faster.\n^5Bonus^7: Reduces health regen delay. Revived teammates are temporarily invincible. Extends bleed-out timer if revive is interrupted."
 
 REFERENCE           FASTRELOAD
 LANG_ENGLISH     "Reloads weapons faster.\n^5Bonus^7: Speeds up all animations. Auto-cancels excess reload animation while sprinting."
@@ -30,6 +30,6 @@ REFERENCE           STAMINUP
 LANG_ENGLISH     "Increases stamina.\n^5Bonus^7: Infinite sprint. Do more actions while sprinting. Move quicker while aiming."
 
 REFERENCE           WINE
-LANG_ENGLISH     "Increased melee damage. Grenades slow zombies, and auto-detonate when player is hit. Slowed zombies drop additional grenades. \n^5Bonus^7: Immune to explosive damage."
+LANG_ENGLISH     "Increases melee damage. Grenades slow zombies, and auto-detonate when player is hit. Slowed zombies drop additional grenades. \n^5Bonus^7: Explosive damage immunity."
 
 ENDMARKER

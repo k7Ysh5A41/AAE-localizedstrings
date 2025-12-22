@@ -30,7 +30,7 @@ REFERENCE            WEAPON_DESC
 LANG_ENGLISH         "Open the weapon options menu."
 
 REFERENCE            MYSTERYBOX_DESC
-LANG_ENGLISH         "These filters allow you to change the Mystery Box weapon pool behavior. By enabling them, you can prevent certain weapons from appearing. For example, you can disable custom maps from using their own custom weapons in their Mystery Box, or force them to load the default BO3 base game weapons. \nNotice: it is NOT possible to use these settings to add exclusive wonder weapons and custom weapons from one map into the Mystery Box of a different map."
+LANG_ENGLISH         "These filters allow you to change the Mystery Box weapon pool.\n\n^1Notice:^7 It's NOT possible to add exclusive and custom weapons from one map into the Mystery Box of a different map."
 
 REFERENCE            POWERUP_DESC
 LANG_ENGLISH         "Open the powerup options menu."
@@ -243,13 +243,13 @@ REFERENCE            ZC_DESC
 LANG_ENGLISH         "Adds a zombie counter at the top left of the screen to show you how many zombies are left in the wave."
 
 REFERENCE            DELAY_DESC
-LANG_ENGLISH         "Removes the delay between rounds. Obviously pointless if you have roamer enabled."
+LANG_ENGLISH         "Removes the delay between rounds. Doesn't work if Roamer is enabled."
 
 REFERENCE            HITMARKER_DESC
 LANG_ENGLISH         "Show hitmarkers when damaging zombies."
 
 REFERENCE            SE_DESC
-LANG_ENGLISH         "Just like the Cold War Zombies, it will show how you got the score next to the crosshair."
+LANG_ENGLISH         "Similar to Black Ops: Cold War, score events will appear next to the crosshair."
 
 REFERENCE            TIMEPLAY_DESC
 LANG_ENGLISH         "Enables timed gameplay mode. When active, zombies don't stop spawning and the goal is to last as long as possible. Not compatible with roamer or the zombie counter."
@@ -276,7 +276,7 @@ REFERENCE            GAME_TITLE
 LANG_ENGLISH         "GAME OPTIONS"
 
 REFERENCE            BOX_FILTER_DESC
-LANG_ENGLISH         "These filters allow you to change the Mystery Box weapon pool behavior. By enabling them, you can prevent certain weapons from appearing. For example, you can disable custom maps from using their own custom weapons in their Mystery Box, or force them to load the default BO3 base game weapons. \nNotice: it is NOT possible to use these settings to add exclusive wonder weapons and custom weapons from one map into the Mystery Box of a different map."
+LANG_ENGLISH         "These filters allow you to change the Mystery Box weapon pool.\n\n^1Notice:^7 It's NOT possible to add exclusive wonder weapons and custom weapons from one map into the Mystery Box of a different map."
 
 REFERENCE            T4
 LANG_ENGLISH         "Disable WAW Weapons"
@@ -318,7 +318,7 @@ REFERENCE            T9
 LANG_ENGLISH         "Disable BOCW Weapons"
 
 REFERENCE            ELMG_WEAPON
-LANG_ENGLISH         "Disable Weapons of this mod"
+LANG_ENGLISH         "Disable Weapons from this mod"
 
 REFERENCE            MYSTERYBOX_TITLE
 LANG_ENGLISH         "MYSTERY BOX FILTER"
@@ -327,7 +327,7 @@ REFERENCE            PERKLIMIT
 LANG_ENGLISH         "Adjust the Perk Limit"
 
 REFERENCE            QUADKICK
-LANG_ENGLISH         "Bigger Mulekick"
+LANG_ENGLISH         "Bigger Mule Kick"
 
 REFERENCE            PERKAHOLIC
 LANG_ENGLISH         "Spawn With Perkaholic"
@@ -348,13 +348,13 @@ REFERENCE            T8PERK
 LANG_ENGLISH         "Time-based Perk Loss"
 
 REFERENCE            QUADKICK_DESC
-LANG_ENGLISH         "Mulekick now lets you carry 4 weapons.\n\n^1Notice^7: \nWeapon Restore & Mule Kick Weapon Restore and Time-based perk loss will stop working."
+LANG_ENGLISH         "Mule Kick lets you carry 4 weapons instead of 3.\n\n^1Notice:^7 Weapon Restore, Mule Kick Weapon Restore, and Time-Based Perk Loss are incompatible when this option."
 
 REFERENCE            PERKAHOLIC_DESC
 LANG_ENGLISH         "Choose whether to start with perkaholic."
 
 REFERENCE            T8PERK_DESC
-LANG_ENGLISH         "Perks will not all be lost when entering the laststand as before, but gradually lost one by one. When you hold too many perks, your loss speed will increase, and when you hold too few perks, the loss speed will slow down."
+LANG_ENGLISH         "Perks are gradually lost over time when downed. The more perks a player has, the faster they are removed."
 
 REFERENCE            REVIVE_DESC
 LANG_ENGLISH         "Choose whether to start with quick revive."
