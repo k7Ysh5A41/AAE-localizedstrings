@@ -9,7 +9,7 @@ REFERENCE           DEADSHOT
 LANG_ENGLISH     "Improves hip-fire accuracy. Headshot aim assist.\n^5Bonus:^7 Land consecutive headshot kills for stronger perk effects and headshot damage. See zombies through walls."
 
 REFERENCE           DOUBLETAP
-LANG_ENGLISH     "Increases fire rate and damage.\n^5Bonus:^7 Recharges special weapons and equipment faster."
+LANG_ENGLISH     "Increases fire rate. Doubles the number of bullets fired per shot.\n^5Bonus:^7 Recharges special weapons and equipment faster."
 
 REFERENCE           JUGGER
 LANG_ENGLISH     "Doubles player health."
