@@ -9,7 +9,7 @@ REFERENCE           SILENCER
 LANG_ENGLISH     "^2Power-ups Booster"
 
 REFERENCE           SILENCER_DESC
-LANG_ENGLISH     "^2Increases the chance for powerups to drop."
+LANG_ENGLISH     "^2Increases the chance for power-ups to drop."
 
 REFERENCE           FMJ_DESC
 LANG_ENGLISH     "^2Deals 200% damage against non-zombie enemies."
@@ -87,6 +87,6 @@ REFERENCE           GG_DOWN
 LANG_ENGLISH     "^1Humiliated"
 
 REFERENCE           DPAP_DESC
-LANG_ENGLISH     "The re-PAP system from BO4. Your first PAP will give the normal amount of damage PAP always gave in BO3. After that, you can re-PAP up to 4 more times to get a total of another 80% increase to the normal BO3 PAP damage. You will see an indicator in the bottom right of the screen below the weapon telling you it's PAP level, with the highest being EPIC (Yellow Text)."
+LANG_ENGLISH     "The first PAP will give the normal amount of damage PAP always gave in BO3. After that, you can re-PAP up to 4 more times to get a total of another 80% increase to the normal BO3 PAP damage. You will see an indicator in the bottom right of the screen below the weapon telling you it's PAP level, with the highest being EPIC (Yellow Text)."
 
 ENDMARKER

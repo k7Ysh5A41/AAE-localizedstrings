@@ -90,57 +90,57 @@ REFERENCE            SHARE
 LANG_ENGLISH         "Press ^3[{+melee}] ^7to share this GobbleGum"
 
 REFERENCE            ANYWHERE_BUT_HERE_DESC
-LANG_ENGLISH         "Activated (5x Activations)\nInstantly teleport to a random location. A concussive blast knocks away any nearby zombies, keeping you safe."
+LANG_ENGLISH         "Activated (5x Activations)\nTeleport to a random location. A concussive blast will knock away any nearby zombies upon teleporting."
 
 REFERENCE            COAGULANT_DESC
-LANG_ENGLISH         "Activates Immediately (Lasts 2 Hours)\n2 Hours bleedout time."
+LANG_ENGLISH         "Activates Immediately (Lasts 2 Hours)\n2 hour bleedout timer."
 
 REFERENCE            COAGULANT_HINT
-LANG_ENGLISH         "Active for 2 Hours\n2 Hours bleedout time"
+LANG_ENGLISH         "Active for 2 Hours\n2 hour bleedout timer."
 
 REFERENCE            IN_PLAIN_SIGHT_DESC
 LANG_ENGLISH         "Activated (5x Activations, 10 seconds each)\nYou are ignored by zombies for 10 seconds."
 
 REFERENCE            CACHE_BACK_DESC
-LANG_ENGLISH         "^3RARE MEGA\n^7Activated (5x Activation)\nSpawns a max ammo power up."
+LANG_ENGLISH         "^3RARE MEGA\n^7Activated (5x Activation)\nSpawns a Max Ammo power-up."
 
 REFERENCE            IM_FEELIN_LUCKY_DESC
-LANG_ENGLISH         "^2MEGA\n^7Activated (5x Activations)\nSpawn a random power up."
+LANG_ENGLISH         "^2MEGA\n^7Activated (5x Activations)\nSpawn a random power-up."
 
 REFERENCE            KILL_JOY_DESC
-LANG_ENGLISH         "^3RARE MEGA\n^7Activated (5x Activations)\nSpawns an Instakill power up."
+LANG_ENGLISH         "^3RARE MEGA\n^7Activated (5x Activations)\nSpawns an Insta-Kill power-up."
 
 REFERENCE            KILLING_TIME_DESC
-LANG_ENGLISH         "^6ULTRA-RARE MEGA\n^7Activated (5x Activation)\nAll zombies freeze in place for 20 seconds. If they are shot, they will be annihilated when the time is up."
+LANG_ENGLISH         "^6ULTRA-RARE MEGA\n^7Activated (5x Activation)\nAll zombies freeze in place for 20 seconds. If they are shot, they'll die when time is up."
 
 REFERENCE            LICENSED_CONTRACTOR_DESC
-LANG_ENGLISH         "^2MEGA\n^7Activated (5x Activations)\nSpawns a Carpenter power up."
+LANG_ENGLISH         "^2MEGA\n^7Activated (5x Activations)\nSpawns a Carpenter power-up."
 
 REFERENCE            PHOENIX_UP_DESC
-LANG_ENGLISH         "^2MEGA\n^7Activated (5x Activation)\nRevives everyone(including yourself). everyone keep all of their perks."
+LANG_ENGLISH         "^2MEGA\n^7Activated (5x Activation)\nRevives everyone (including yourself). Everyone keeps their perks."
 
 REFERENCE            RESPIN_CYCLE_DESC
 LANG_ENGLISH         "^2MEGA\n^7Activated (5x Activations)\nRe-spins the weapons in a magic box after it has been activated."
 
 REFERENCE            WHOS_KEEPING_SCORE_DESC
-LANG_ENGLISH         "^2MEGA\n^7Activated (3x Activations)\nSpawns a double points power up."
+LANG_ENGLISH         "^2MEGA\n^7Activated (3x Activations)\nSpawns a Double Points power-up."
 
 REFERENCE            FATAL_CONTRAPTION_DESC
-LANG_ENGLISH         "^2MEGA\n^7Activated (5x Activations)\nSpawn a Death Machine power up."
+LANG_ENGLISH         "^2MEGA\n^7Activated (5x Activations)\nSpawn a Death Machine power-up."
 
 REFERENCE            HEAD_DRAMA_DESC
-LANG_ENGLISH         "^6ULTRA-RARE MEGA\n^7Activates Immediately (Active for 3 full rounds)\nAny bullet which hits a zombie will damage its head."
+LANG_ENGLISH         "^6ULTRA-RARE MEGA\n^7Activates Immediately (Active for 3 full rounds)\nAny bullet that hits a zombie will damage its head."
 
 REFERENCE            TEMPORAL_GIFT_DESC
-LANG_ENGLISH         "^3RARE MEGA\n^7Activates Immediately (Active for 5 full rounds)\nPower ups last longer."
+LANG_ENGLISH         "^3RARE MEGA\n^7Activates Immediately (Active for 5 full rounds)\nPower-ups last longer."
 
 REFERENCE            DANGER_CLOSEST_DESC
-LANG_ENGLISH         "Activates Immediately (Lasts 20 full rounds)\nZero explosive damage."
+LANG_ENGLISH         "Activates Immediately (Lasts 20 full rounds)\nImmunity to explosive damage."
 
 REFERENCE            BURNED_OUT_DESC
-LANG_ENGLISH         "Activates Immediately (Lasts 6 hits)\nBefore you take lethal damage from enemies, become immune to that damage and deal damage to zombies in a large area."
+LANG_ENGLISH         "Activates Immediately (Lasts 6 hits)\nBefore you take lethal damage from an enemy, become immune and deal damage to zombies in a large area."
 
 REFERENCE            BURNED_OUT_HINT
-LANG_ENGLISH         "Auto-activates Before you take lethal damage from enemies and immune to that damage\nDeal damage to zombies in a large area"
+LANG_ENGLISH         "Auto-activates Before you take lethal damage from an enemy. Become immune to that damage.\nDeal damage to zombies in a large area"
 
 ENDMARKER

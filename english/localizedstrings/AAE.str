@@ -111,7 +111,7 @@ REFERENCE           BGB
 LANG_ENGLISH     " Chewed"
 
 REFERENCE           SAVE
-LANG_ENGLISH     "Your career data is being saved"
+LANG_ENGLISH     "Your career data is being saved..."
 
 REFERENCE           GAMBLER_DESC
 LANG_ENGLISH     "After a 10-second countdown a random thing will happen. Some things are good, some are bad, and some are weird. Lots of possibilities!"
@@ -201,7 +201,7 @@ REFERENCE           INVITEDISCORD
 LANG_ENGLISH     "Invite via Discord"
 
 REFERENCE           RESTARTING
-LANG_ENGLISH     "Restarting......"
+LANG_ENGLISH     "Restarting..."
 
 REFERENCE           NORAMPAGE
 LANG_ENGLISH     "Disable Rampage Inducer"
@@ -225,13 +225,13 @@ REFERENCE           DISCORDRUN
 LANG_ENGLISH     "Discord App needs to run in the background"
 
 REFERENCE           DOWNLOAD_MAP_FROM_CLIPBOARD
-LANG_ENGLISH     "DOWNLOAD MAP IN CLIPBOARD"
+LANG_ENGLISH     "DOWNLOAD MAP FROM CLIPBOARD"
 
 REFERENCE           DOWNLOAD_MAP_FROM_CLIPBOARD_TITLE
 LANG_ENGLISH     "Check Your Steam Download List"
 
 REFERENCE           DOWNLOAD_MAP_FROM_CLIPBOARD_DESC
-LANG_ENGLISH     "Requesting New Maps......"
+LANG_ENGLISH     "Requesting New Maps..."
 
 REFERENCE           DOWNLOAD_MAP_FROM_CLIPBOARD_ERROR_TITLE
 LANG_ENGLISH     "Paste The Correct Map ID"
@@ -240,7 +240,7 @@ REFERENCE           DOWNLOAD_MAP_FROM_CLIPBOARD_ERROR_DESC
 LANG_ENGLISH     "Incorrect Map ID"
 
 REFERENCE           DOWNLOAD_MAP_FROM_CLIPBOARD_INSTALLED_TITLE
-LANG_ENGLISH     "This Map Has Now Been Installed"
+LANG_ENGLISH     "The Map Has Been Installed"
 
 REFERENCE           VIDEOPLAYER
 LANG_ENGLISH     "MAP CINEMATICS"
@@ -264,7 +264,7 @@ REFERENCE           QUIT
 LANG_ENGLISH     "Quit to Desktop"
 
 REFERENCE           BOOKMARKER
-LANG_ENGLISH     "Bookmarker"
+LANG_ENGLISH     "Bookmark"
 
 REFERENCE           ADDBOOKMARKER
 LANG_ENGLISH     "Added to Bookmarks"
@@ -294,7 +294,7 @@ REFERENCE           UPDATE_ASPECT_RATIO
 LANG_ENGLISH     "Update the Aspect Ratio"
 
 REFERENCE           LITE_ONLY
-LANG_ENGLISH     "^4Only compatible with AAE Lite"
+LANG_ENGLISH     "^1Only compatible with AAE Lite^2"
 
 REFERENCE           LOBBY_SIZE
 LANG_ENGLISH     "Manage Party Settings"
@@ -327,13 +327,13 @@ REFERENCE           RELOADING
 LANG_ENGLISH     "Reloading"
 
 REFERENCE           REWARD_TITLE
-LANG_ENGLISH     "Easter Egg completion rewards"
+LANG_ENGLISH     "Easter Egg Completion Rewards"
 
 REFERENCE           REWARD_15
 LANG_ENGLISH     "15 Times"
 
 REFERENCE           REWARD_LINE1
-LANG_ENGLISH     "No ^BBUTTON_COD_POINT_ICON^100 fee for deposits or withdrawals at the bank."
+LANG_ENGLISH     "No ^BBUTTON_COD_POINT_ICON^100 fee for bank deposits or withdrawals."
 
 REFERENCE           REWARD_25
 LANG_ENGLISH     "25 Times"
@@ -345,7 +345,7 @@ REFERENCE           REWARD_LINE3
 LANG_ENGLISH     "Weapon Locker will fully reload your weapons."
 
 REFERENCE           REWARD_LINE4
-LANG_ENGLISH     "Gambler costs you only ^BBUTTON_COD_POINT_ICON^10."
+LANG_ENGLISH     "Gambler costs only ^BBUTTON_COD_POINT_ICON^10."
 
 REFERENCE           REWARD_50
 LANG_ENGLISH     "50 Times"
@@ -357,7 +357,7 @@ REFERENCE           REWARD_LINE6
 LANG_ENGLISH     "Gambler can be used twice per round."
 
 REFERENCE           REWARD_LINE7
-LANG_ENGLISH     "The gambler's lost points have no effect on you."
+LANG_ENGLISH     "Gambler's lost points have no effect on you."
 
 REFERENCE           REWARD_LINE8
 LANG_ENGLISH     "Each Carpenter grants an additional ^BBUTTON_COD_POINT_ICON^200."
@@ -369,22 +369,22 @@ REFERENCE           REWARD_LINE10
 LANG_ENGLISH     "Each weapon upgrade grants ^BBUTTON_COD_POINT_ICON^50."
 
 REFERENCE           REWARD_LINE11
-LANG_ENGLISH     "Get ^BBUTTON_COD_POINT_ICON^500 for drinking a perk."
+LANG_ENGLISH     "Grants ^BBUTTON_COD_POINT_ICON^500 for drinking a perk."
 
 REFERENCE           REWARD_90
 LANG_ENGLISH     "90 Times"
 
 REFERENCE           REWARD_LINE12
-LANG_ENGLISH     "If you don't have a shield, the game will automatically give you one."
+LANG_ENGLISH     "Automatically gain a Zombie Shield."
 
 REFERENCE           REWARD_LINE13
-LANG_ENGLISH     "Your Right Dpad equipment will be continuously resupplied."
+LANG_ENGLISH     "Right-Dpad equipment will be continuously resupplied."
 
 REFERENCE           REWARD_LINE14
-LANG_ENGLISH     "If your current points exactly 5, you will receive 50000."
+LANG_ENGLISH     "If your points equal exactly 5, you will receive 50000 additional points."
 
 REFERENCE           CLICKHERE
-LANG_ENGLISH     "Click Here"
+LANG_ENGLISH     "See Details"
 
 REFERENCE           RESTARTHINT
 LANG_ENGLISH     "(Don't use fast_restart or map_restart) Press &&1 ^2&&2^7 Times To Restart The Map"
@@ -441,7 +441,7 @@ REFERENCE           BOX_GRAB
 LANG_ENGLISH     "Mystery Box Grabed"
 
 REFERENCE           PAP_GRAB2
-LANG_ENGLISH     "Pack-a-Punch Weapon Sacrificed"
+LANG_ENGLISH     "Pack-a-Punch Sacrificed"
 
 REFERENCE           PAP_GRAB
 LANG_ENGLISH     "Pack-a-Punch Grabed"
@@ -468,7 +468,7 @@ REFERENCE           REWARD_30
 LANG_ENGLISH     "30 Times"
 
 REFERENCE           REWARD_LINE15
-LANG_ENGLISH     "Stay bleeding out much longer."
+LANG_ENGLISH     "Much longer bleed-out timer."
 
 REFERENCE           REWARD_LINE16
 LANG_ENGLISH     "PaP'd guns are immediately at their max damage"

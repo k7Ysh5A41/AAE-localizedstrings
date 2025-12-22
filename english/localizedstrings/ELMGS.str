@@ -30,7 +30,7 @@ REFERENCE           EXITLEVEL_DESC
 LANG_ENGLISH     "All players in the lobby instantly exit the map"
 
 REFERENCE           DISCORD
-LANG_ENGLISH     "^2JOIN DISCORD"
+LANG_ENGLISH     "JOIN DISCORD"
 
 REFERENCE           INFO
 LANG_ENGLISH     "MOD INFO"

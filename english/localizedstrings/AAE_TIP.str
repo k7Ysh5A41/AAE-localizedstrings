@@ -108,7 +108,7 @@ REFERENCE           FREE_LANDER_TITLE
 LANG_ENGLISH     "Free Lander"
 
 REFERENCE           FREE_LANDER
-LANG_ENGLISH     "Ignore it saying it costs 250 —it's actually free."
+LANG_ENGLISH     "Ignore Lander saying it costs 250. It's actually free."
 
 REFERENCE           PHD_UPGRADE_TITLE
 LANG_ENGLISH     "PhD Flopper Upgrade Steps"
