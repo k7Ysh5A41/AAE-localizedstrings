@@ -51,10 +51,10 @@ REFERENCE           LH_GES
 LANG_ENGLISH     "Disable Left Hand Gesture"
 
 REFERENCE           FSF
-LANG_ENGLISH     "Disable Full Screen Flash"
+LANG_ENGLISH     "Disable Fullscreen Flash"
 
 REFERENCE           FSFB
-LANG_ENGLISH     "Swap Full Screen Flash from White to Black"
+LANG_ENGLISH     "Swap Fullscreen Flash From White To Black"
 
 REFERENCE           RESTART_HINT
 LANG_ENGLISH     "You can now open the pause menu to restart."
@@ -210,7 +210,7 @@ REFERENCE           LAUNCHER_LOCK
 LANG_ENGLISH     "Disable Rocket Launcher Lock-On"
  
 REFERENCE           POINTS_COLOR
-LANG_ENGLISH     "Override Team Score Colors With UI Color (Restart Required)"
+LANG_ENGLISH     "Use UI Color For Score Counter (Restart Required)"
  
 REFERENCE           HIGHROUND_TIMER
 LANG_ENGLISH     "In-Game Timer"
