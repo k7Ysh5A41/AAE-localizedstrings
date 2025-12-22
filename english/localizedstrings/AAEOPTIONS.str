@@ -222,10 +222,10 @@ REFERENCE           LAST
 LANG_ENGLISH     "LAST"
 
 REFERENCE           HITM_STAY_M
-LANG_ENGLISH     "Smaller Hitmarker"
+LANG_ENGLISH     "Smaller-Scaled Hitmarkers"
 
 REFERENCE           ZCPERK
-LANG_ENGLISH     "Disable Extra Perk Machines and PAP in ZC Maps (Restart Required)"
+LANG_ENGLISH     "Disable Extra Perk Machines And PAP In ZC Maps (Restart Required)"
 
 REFERENCE           NOPES
 LANG_ENGLISH     "Disable Interactable P.E.S. On Moon"
@@ -267,10 +267,10 @@ REFERENCE           MWZCOLOR
 LANG_ENGLISH     "BO6 Teammate Colors (Restart Required)"
 
 REFERENCE           AMMOBAG
-LANG_ENGLISH     "Disable Spawning Ammo Bag"
+LANG_ENGLISH     "Disable Ammo Bag (Spawns On Player Every 10 Rounds)"
 
 REFERENCE           SLOTHUD
-LANG_ENGLISH     "Disable Perk Slot HUD (Restart Required)"
+LANG_ENGLISH     "Disable Empty Perk Slots (Restart Required)"
 
 REFERENCE           STABAR
 LANG_ENGLISH     "Disable Stamina Bar"
@@ -294,7 +294,7 @@ REFERENCE           T7HUD
 LANG_ENGLISH     "HUD Format (Restart Required)"
 
 REFERENCE           TIPHINT
-LANG_ENGLISH     "Disable Tip Hint and Soul Counter"
+LANG_ENGLISH     "Disable Tip Hint And Soul Counter"
 
 REFERENCE           BARSPIN
 LANG_ENGLISH     "Flat UI (Restart Required)"
@@ -303,7 +303,7 @@ REFERENCE           T7
 LANG_ENGLISH     "Black Ops 3 (Vanilla)"
 
 REFERENCE           T10
-LANG_ENGLISH     "AAE - Center Perks"
+LANG_ENGLISH     "AAE - Centered Perks"
 
 REFERENCE           NOATTACHMENT
 LANG_ENGLISH     "No Attachment"
@@ -342,7 +342,7 @@ REFERENCE           GRENADE_PREDICATION
 LANG_ENGLISH     "Grenade Prediction"
 
 REFERENCE           GRENADE_PREDICATION_OPTION1
-LANG_ENGLISH     "Prediction Line and Timer"
+LANG_ENGLISH     "Prediction Line And Timer"
 
 REFERENCE           GRENADE_PREDICATION_OPTION2
 LANG_ENGLISH     "Fuse Timer Only"
