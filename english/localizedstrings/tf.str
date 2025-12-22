@@ -387,7 +387,7 @@ REFERENCE            EXO_DESC
 LANG_ENGLISH         "Enable EXO movement. (Probably won't work on any maps that use EXO movement, such as SoE or Der Eisendrache)"
 
 REFERENCE            FIRENDLYFIRE_DESC
-LANG_ENGLISH         "Reflect: Damage done to a teammate is applied back to you.\n\nShared: Damage done to a teammate is split between you and that teammate.\n\nKnock Back: You will not cause damage to a teammate, but will knock the teammate back."
+LANG_ENGLISH         "Reflect: Damage done to an ally is applied back to you.\n\nShared: Damage done to a ally is split between you and that ally.\n\nKnock Back: You can't damage an ally, but you will knock them back."
 
 REFERENCE            PLAYER_TITLE
 LANG_ENGLISH         "PLAYER OPTIONS"
@@ -501,7 +501,7 @@ REFERENCE            PAPCAMO_DESC
 LANG_ENGLISH         "Choose the Pack-a-Punch camo you want to use. Won't work for certain weapons if you have the “Use Your Own Camo” setting enabled."
 
 REFERENCE            BOXSHARE_DESC
-LANG_ENGLISH         "Use melee on the Mystery Box to share weapons with teammates."
+LANG_ENGLISH         "Use melee on a Mystery Box weapon to share it with an ally."
 
 REFERENCE            LOADOUTSAVE_DESC
 LANG_ENGLISH         "When you are disconnected from the current host, the current host will store your weapons, perks and points. After reconnecting, you will regain what you lost (also applies to the next round of respawn after death)."
