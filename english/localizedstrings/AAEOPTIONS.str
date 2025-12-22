@@ -270,7 +270,7 @@ REFERENCE           AMMOBAG
 LANG_ENGLISH     "Disable Spawning Ammo Bag"
 
 REFERENCE           SLOTHUD
-LANG_ENGLISH     "Disable Perk Slot HUD"
+LANG_ENGLISH     "Disable Perk Slot HUD (Restart Required)"
 
 REFERENCE           STABAR
 LANG_ENGLISH     "Disable Stamina Bar"
