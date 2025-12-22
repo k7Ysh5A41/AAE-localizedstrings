@@ -222,7 +222,7 @@ REFERENCE           LAST
 LANG_ENGLISH     "LAST"
 
 REFERENCE           HITM_STAY_M
-LANG_ENGLISH     "Smaller-Scaled Hitmarkers"
+LANG_ENGLISH     "Smaller-Scale Hitmarkers"
 
 REFERENCE           ZCPERK
 LANG_ENGLISH     "Disable AAE-Added Machines In ZC Maps (Restart Required)"
