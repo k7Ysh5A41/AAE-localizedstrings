@@ -60,7 +60,7 @@ REFERENCE           PAYHALF_DOOR
 LANG_ENGLISH     "I paid half the price towards this door, it still needs "
 
 REFERENCE           PAYHALF_DEBRIS
-LANG_ENGLISH     "I paid half the price towards this debris, it still needs "
+LANG_ENGLISH     "I paid half the price towards this barrier, it still needs "
 
 REFERENCE           PAYHALF
 LANG_ENGLISH     "^3K ^7Pay Half"

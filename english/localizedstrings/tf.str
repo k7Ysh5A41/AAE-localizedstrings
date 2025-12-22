@@ -18,7 +18,7 @@ REFERENCE            MYSTERYBOX
 LANG_ENGLISH         "Mystery Box Filter"
 
 REFERENCE            POWERUP
-LANG_ENGLISH         "Powerup Options"
+LANG_ENGLISH         "Power-Up Options"
 
 REFERENCE            PERK
 LANG_ENGLISH         "Perk Options"
@@ -33,7 +33,7 @@ REFERENCE            MYSTERYBOX_DESC
 LANG_ENGLISH         "These filters allow you to change the Mystery Box weapon pool.\n\n^1Notice:^7 It's NOT possible to add exclusive and custom weapons from one map into the Mystery Box of a different map."
 
 REFERENCE            POWERUP_DESC
-LANG_ENGLISH         "Open the powerup options menu."
+LANG_ENGLISH         "Open the power-up options menu."
 
 REFERENCE            PERK_DESC
 LANG_ENGLISH         "Open the perk options menu."
@@ -216,7 +216,7 @@ REFERENCE            DOOR
 LANG_ENGLISH         "Start With All Doors Open"
 
 REFERENCE            BOX_ALL
-LANG_ENGLISH         "Mystery Box in All Locations"
+LANG_ENGLISH         "Mystery Box In All Locations"
 
 REFERENCE            POWER
 LANG_ENGLISH         "Start With Power Enabled"
@@ -228,7 +228,7 @@ REFERENCE            SS
 LANG_ENGLISH         "Spectator Spawn"
 
 REFERENCE            LOCKER
-LANG_ENGLISH         "Disable WeaponLocker & Bank"
+LANG_ENGLISH         "Disable Weapon Locker & Bank"
 
 REFERENCE            POWER
 LANG_ENGLISH         "Start With Power Enabled"
@@ -240,7 +240,7 @@ REFERENCE            ROUND_DESC
 LANG_ENGLISH         "Choose which round to start on."
 
 REFERENCE            ZC_DESC
-LANG_ENGLISH         "Adds a zombie counter at the top left of the screen to show you how many zombies are left in the wave."
+LANG_ENGLISH         "Adds an enemy counter to the HUD. This shows the number of enemies remaining per wave."
 
 REFERENCE            DELAY_DESC
 LANG_ENGLISH         "Removes the delay between rounds. Doesn't work if Roamer is enabled."
@@ -387,13 +387,13 @@ REFERENCE            EXO_DESC
 LANG_ENGLISH         "Enable EXO movement. (Probably won't work on any maps that use EXO movement, such as SoE or Der Eisendrache)"
 
 REFERENCE            FIRENDLYFIRE_DESC
-LANG_ENGLISH         "Reflect: Damage done to a teammate is applied back to you.\n\nShared: Damage done to a teammate is split between you and that teammate.\n\nKnock Back: You will not cause damage to a teammate, but will knock the teammate back."
+LANG_ENGLISH         "Reflect: Damage done to an ally is applied back to you.\n\nShared: Damage done to a ally is split between you and that ally.\n\nKnock Back: You can't damage an ally, but you will knock them back."
 
 REFERENCE            PLAYER_TITLE
 LANG_ENGLISH         "PLAYER OPTIONS"
 
 REFERENCE            POWERUP_SPAWN
-LANG_ENGLISH         "Powerup Spawn Amount"
+LANG_ENGLISH         "Power-Up Spawn Frequency"
 
 REFERENCE            NUKE
 LANG_ENGLISH         "Improved Nuke"
@@ -405,10 +405,10 @@ REFERENCE            CARPENTER
 LANG_ENGLISH         "BO4 Carpenter"
 
 REFERENCE            FREEPERK
-LANG_ENGLISH         "Enable Free Perk Powerup"
+LANG_ENGLISH         "Enable Perk Bottle Power-Up"
 
 REFERENCE            POWERUP_SPAWN_DESC
-LANG_ENGLISH         "Choose how many powerups spawn per round."
+LANG_ENGLISH         "Choose how frequently power-ups spawn from dead zombies."
 
 REFERENCE            NUKE_DESC
 LANG_ENGLISH         "Nukes now give a set amount of points per zombie killed (Minimum of 400)."
@@ -417,19 +417,19 @@ REFERENCE            NUKE_SCORE_DESC
 LANG_ENGLISH         "Choose how many points per zombie you get."
 
 REFERENCE            CARPENTER_DESC
-LANG_ENGLISH         "Carpenters repair your shield."
+LANG_ENGLISH         "Carpenter power-ups repair windows and shields."
 
 REFERENCE            FREEPERK_DESC
-LANG_ENGLISH         "Allows zombies to drop the free perk bottle as a normal power up"
+LANG_ENGLISH         "Allows zombies to drop Perk Bottle power-ups"
 
 REFERENCE            POWERUP_TITLE
-LANG_ENGLISH         "POWERUP OPTIONS"
+LANG_ENGLISH         "POWER-UP OPTIONS"
 
 REFERENCE            MAXAMMO
-LANG_ENGLISH         "BO4 Maxammo"
+LANG_ENGLISH         "BO4 Max Ammo"
 
 REFERENCE            MAXAMMO_DESC
-LANG_ENGLISH         "Max Ammos refill your clip as well."
+LANG_ENGLISH         "Max Ammo power-ups refill magazines and reserves."
 
 REFERENCE            MAXAMMO
 LANG_ENGLISH         "BO4 Maxammo"
@@ -483,10 +483,10 @@ REFERENCE            T7_DESC
 LANG_ENGLISH         "Force adds all BO3 weapons to the Mystery Box."
 
 REFERENCE            STARTAMMO_DESC
-LANG_ENGLISH         "Choose whether you start the game with max ammo in your pistol."
+LANG_ENGLISH         "Choose whether you start the game with max reserve ammo."
 
 REFERENCE            RK5_DESC
-LANG_ENGLISH         "Changes the starting pistol to the RK5, as if the player has completed the super ee."
+LANG_ENGLISH         "Adds the RK5 to the starting loadout. Normally exclusive to players who have completed the Super Easter Egg."
 
 REFERENCE            BOWIE_DESC
 LANG_ENGLISH         "Gives every player the bowie knife."
@@ -501,13 +501,13 @@ REFERENCE            PAPCAMO_DESC
 LANG_ENGLISH         "Choose the Pack-a-Punch camo you want to use. Won't work for certain weapons if you have the “Use Your Own Camo” setting enabled."
 
 REFERENCE            BOXSHARE_DESC
-LANG_ENGLISH         "Use melee on the MysteryBox to share weapons with teammates."
+LANG_ENGLISH         "Use melee on a Mystery Box weapon to share it with an ally."
 
 REFERENCE            LOADOUTSAVE_DESC
 LANG_ENGLISH         "When you are disconnected from the current host, the current host will store your weapons, perks and points. After reconnecting, you will regain what you lost (also applies to the next round of respawn after death)."
 
 REFERENCE            C4_DESC
-LANG_ENGLISH         "After 35 waves, having 150,000 points and detonating C4 can end the game. Turn off this effect when selected."
+LANG_ENGLISH         "After 35 waves, having 150,000 points and detonating C4 will end the game. Turn off this effect when selected."
 
 REFERENCE            WEAPON_TITLE
 LANG_ENGLISH         "WEAPON OPTIONS"
@@ -543,7 +543,7 @@ REFERENCE            HEADSHOTKILL_DESC
 LANG_ENGLISH         "Get extra points for killing zombies by headshots."
 
 REFERENCE            MAXZM_DESC
-LANG_ENGLISH         "Maximum number of zombies that can be spawned at any time. 24 is the default. Higher numbers can cause issues with lag. Highest value I've tested is 40."
+LANG_ENGLISH         "Maximum number of zombies that can be spawned at any time. 24 is the default. Higher numbers can cause lag and instability on certain maps."
 
 REFERENCE            SLOWZM_DESC
 LANG_ENGLISH         "Zombie's strength increases slower."
@@ -552,7 +552,7 @@ REFERENCE            ZMSPEED_DESC
 LANG_ENGLISH         "All zombies will force this movement speed."
 
 REFERENCE            SPAWNDELAY_DESC
-LANG_ENGLISH         "Sets the zombie spawn delay to 0. With this, zombies spawn instantly."
+LANG_ENGLISH         "Sets the zombie spawn delay to 0. Zombies will spawn instantly."
 
 REFERENCE            ZOMBIE_TITLE
 LANG_ENGLISH         "ZOMBIE OPTIONS"
@@ -564,7 +564,7 @@ REFERENCE            CW
 LANG_ENGLISH         "Cold War"
 
 REFERENCE            BO4
-LANG_ENGLISH         "Black Ops 4"
+LANG_ENGLISH         "Black Ops 3 and 4"
 
 REFERENCE            HITMARKER_SOUND
 LANG_ENGLISH         "Hitmarker Sound"
@@ -573,18 +573,18 @@ REFERENCE            DAMAGE
 LANG_ENGLISH         "Damage Analysis"
 
 REFERENCE            CRAZYZOMBIE
-LANG_ENGLISH         "Horror Zombie"
+LANG_ENGLISH         "Horrific Zombies"
 
 REFERENCE            HUD
-LANG_ENGLISH         "no HUD"
+LANG_ENGLISH         "No HUD"
 
 REFERENCE            LIMIT
-LANG_ENGLISH         "Allow copies of wonderweapon in box"
+LANG_ENGLISH         "Multiple Wonder Weapons In Mystery Box"
 
 REFERENCE            HPBAR
 LANG_ENGLISH         "Player Health Bar"
 
 REFERENCE            HPBAR_DESC
-LANG_ENGLISH         "Displays player health in bottom left corner."
+LANG_ENGLISH         "Displays player health status."
 
 ENDMARKER
