@@ -18,7 +18,7 @@ REFERENCE            MYSTERYBOX
 LANG_ENGLISH         "Mystery Box Filter"
 
 REFERENCE            POWERUP
-LANG_ENGLISH         "Power-up Options"
+LANG_ENGLISH         "Power-Up Options"
 
 REFERENCE            PERK
 LANG_ENGLISH         "Perk Options"
@@ -393,7 +393,7 @@ REFERENCE            PLAYER_TITLE
 LANG_ENGLISH         "PLAYER OPTIONS"
 
 REFERENCE            POWERUP_SPAWN
-LANG_ENGLISH         "Power-Up Spawn Amount"
+LANG_ENGLISH         "Power-Up Spawn Frequency"
 
 REFERENCE            NUKE
 LANG_ENGLISH         "Improved Nuke"
@@ -408,7 +408,7 @@ REFERENCE            FREEPERK
 LANG_ENGLISH         "Enable Free Perk Bottle Power-Up"
 
 REFERENCE            POWERUP_SPAWN_DESC
-LANG_ENGLISH         "Choose how frequently power-up spawn from dead zombies."
+LANG_ENGLISH         "Choose how frequently power-ups spawn from dead zombies."
 
 REFERENCE            NUKE_DESC
 LANG_ENGLISH         "Nukes now give a set amount of points per zombie killed (Minimum of 400)."
@@ -417,7 +417,7 @@ REFERENCE            NUKE_SCORE_DESC
 LANG_ENGLISH         "Choose how many points per zombie you get."
 
 REFERENCE            CARPENTER_DESC
-LANG_ENGLISH         "Carpenter power-up repairs your shield."
+LANG_ENGLISH         "Carpenter power-ups repair windows and shields."
 
 REFERENCE            FREEPERK_DESC
 LANG_ENGLISH         "Allows zombies to drop Perk Bottle power-ups"
@@ -429,7 +429,7 @@ REFERENCE            MAXAMMO
 LANG_ENGLISH         "BO4 Max Ammo"
 
 REFERENCE            MAXAMMO_DESC
-LANG_ENGLISH         "Max Ammo power-ups refill both magazine and reserves."
+LANG_ENGLISH         "Max Ammo power-ups refill magazines and reserves."
 
 REFERENCE            MAXAMMO
 LANG_ENGLISH         "BO4 Maxammo"
@@ -579,7 +579,7 @@ REFERENCE            HUD
 LANG_ENGLISH         "No HUD"
 
 REFERENCE            LIMIT
-LANG_ENGLISH         "Allow Multiple Wonderweapons In Mystery Box"
+LANG_ENGLISH         "Allow Multiple Wonder Weapons In Mystery Box"
 
 REFERENCE            HPBAR
 LANG_ENGLISH         "Player Health Bar"
