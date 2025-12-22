@@ -270,7 +270,7 @@ REFERENCE           AMMOBAG
 LANG_ENGLISH     "Disable Ammo Bag (Spawns On Player Every 10 Rounds)"
 
 REFERENCE           SLOTHUD
-LANG_ENGLISH     "Disable Empty Perk Slots (Restart Required)"
+LANG_ENGLISH     "Disable Empty Perk Slots (Gain/Lose Perk To Update)"
 
 REFERENCE           STABAR
 LANG_ENGLISH     "Disable Stamina Bar"
@@ -282,7 +282,7 @@ REFERENCE           BGB_START
 LANG_ENGLISH     "Gobblegum Start Round"
 
 REFERENCE           C4ENDING
-LANG_ENGLISH     "C4 Buyable Ending (150k Points + Round 35 Required)"
+LANG_ENGLISH     "C4 Buyable Ending (150k Points + Wave 35 Required)"
 
 REFERENCE           GUNPOS
 LANG_ENGLISH     "First Person Arm Model Position"
