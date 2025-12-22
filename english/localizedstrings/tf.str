@@ -216,7 +216,7 @@ REFERENCE            DOOR
 LANG_ENGLISH         "Start With All Doors Open"
 
 REFERENCE            BOX_ALL
-LANG_ENGLISH         "Mystery Box in All Locations"
+LANG_ENGLISH         "Mystery Box In All Locations"
 
 REFERENCE            POWER
 LANG_ENGLISH         "Start With Power Enabled"
@@ -228,7 +228,7 @@ REFERENCE            SS
 LANG_ENGLISH         "Spectator Spawn"
 
 REFERENCE            LOCKER
-LANG_ENGLISH         "Disable WeaponLocker & Bank"
+LANG_ENGLISH         "Disable Weapon Locker & Bank"
 
 REFERENCE            POWER
 LANG_ENGLISH         "Start With Power Enabled"
@@ -240,7 +240,7 @@ REFERENCE            ROUND_DESC
 LANG_ENGLISH         "Choose which round to start on."
 
 REFERENCE            ZC_DESC
-LANG_ENGLISH         "Adds a zombie counter at the top left of the screen to show you how many zombies are left in the wave."
+LANG_ENGLISH         "Adds an enemy counter to the HUD. This shows the number of enemies remaining per wave."
 
 REFERENCE            DELAY_DESC
 LANG_ENGLISH         "Removes the delay between rounds. Doesn't work if Roamer is enabled."
@@ -405,7 +405,7 @@ REFERENCE            CARPENTER
 LANG_ENGLISH         "BO4 Carpenter"
 
 REFERENCE            FREEPERK
-LANG_ENGLISH         "Enable Free Perk Bottle Power-Up"
+LANG_ENGLISH         "Enable Perk Bottle Power-Up"
 
 REFERENCE            POWERUP_SPAWN_DESC
 LANG_ENGLISH         "Choose how frequently power-ups spawn from dead zombies."
@@ -564,7 +564,7 @@ REFERENCE            CW
 LANG_ENGLISH         "Cold War"
 
 REFERENCE            BO4
-LANG_ENGLISH         "Black Ops 3 and 4 (Vanilla)"
+LANG_ENGLISH         "Black Ops 3 and 4"
 
 REFERENCE            HITMARKER_SOUND
 LANG_ENGLISH         "Hitmarker Sound"
@@ -579,12 +579,12 @@ REFERENCE            HUD
 LANG_ENGLISH         "No HUD"
 
 REFERENCE            LIMIT
-LANG_ENGLISH         "Allow Multiple Wonder Weapons In Mystery Box"
+LANG_ENGLISH         "Multiple Wonder Weapons In Mystery Box"
 
 REFERENCE            HPBAR
 LANG_ENGLISH         "Player Health Bar"
 
 REFERENCE            HPBAR_DESC
-LANG_ENGLISH         "Displays player health status in bottom left corner."
+LANG_ENGLISH         "Displays player health status."
 
 ENDMARKER
