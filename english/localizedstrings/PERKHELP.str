@@ -21,7 +21,7 @@ REFERENCE           REVIVE_SOLO
 LANG_ENGLISH     "Auto-revives when downed.\n^5Bonus:^7 Reduces health regen delay."
 
 REFERENCE           REVIVE
-LANG_ENGLISH     "Solo: Auto-revives. Co-op: Revives allies faster.\n^5Bonus:^7 Reduces health regen delay. Revived allies are protected. Extends ally bleed-out timer when interrupted."
+LANG_ENGLISH     "Solo: Auto-revives. Co-op: Revive allies faster.\n^5Bonus:^7 Reduces health regen delay. Revived allies are temporarily invincible. Extends ally bleed-out timer when interrupted."
 
 REFERENCE           FASTRELOAD
 LANG_ENGLISH     "Reloads weapons faster.\n^5Bonus:^7 Speeds up all animations. Auto-cancels excess reload animation while sprinting."
