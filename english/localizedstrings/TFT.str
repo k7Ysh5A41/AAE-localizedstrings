@@ -6,7 +6,7 @@ CONFIG              "C:\projects\cod\t7\bin\StringEd.cfg"
 FILENOTES           ""
 
 REFERENCE           RANDOM_ATTACHMENTS
-LANG_ENGLISH     "Completely Random Attachments and Camos"
+LANG_ENGLISH     "Random Attachments and Camos"
 
 REFERENCE           RANDOM_ATTACHMENTS_DESC
 LANG_ENGLISH     "Each new weapon you get will have randomized attachments and reticle and camo"
@@ -54,7 +54,7 @@ REFERENCE           DAMAGE_NUMBER_DESC
 LANG_ENGLISH     "Choose whether to show or hide the amount of damage dealt to the enemy."
 
 REFERENCE           CENTERCROSS
-LANG_ENGLISH     "Disable the dot in the center of the crosshair."
+LANG_ENGLISH     "Disable Center Crosshair Dot"
 
 REFERENCE           ITEM_DUPE_RENDER
 LANG_ENGLISH     "Highlighted Craftable Parts"

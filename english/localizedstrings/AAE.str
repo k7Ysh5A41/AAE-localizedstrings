@@ -438,19 +438,19 @@ REFERENCE           PERK_RANDOM_USE
 LANG_ENGLISH     "Wunderfizz Used"
 
 REFERENCE           BOX_GRAB
-LANG_ENGLISH     "Mystery Box Grabed"
+LANG_ENGLISH     "Mystery Box Grabbed"
 
 REFERENCE           PAP_GRAB2
 LANG_ENGLISH     "Pack-a-Punch Sacrificed"
 
 REFERENCE           PAP_GRAB
-LANG_ENGLISH     "Pack-a-Punch Grabed"
+LANG_ENGLISH     "Pack-a-Punch Grabbed"
 
 REFERENCE           CARPENTER_PICKUP
 LANG_ENGLISH     "Carpenter Picked up"
 
 REFERENCE           PERK_RANDOM_PICKUP
-LANG_ENGLISH     "Wunderfizz Grabed"
+LANG_ENGLISH     "Wunderfizz Grabbed"
 
 REFERENCE           FIRESALE_PICK
 LANG_ENGLISH     "Firesale Picked up"
@@ -471,7 +471,7 @@ REFERENCE           REWARD_LINE15
 LANG_ENGLISH     "Much longer bleed-out timer."
 
 REFERENCE           REWARD_LINE16
-LANG_ENGLISH     "PaP'd guns are immediately at their max damage"
+LANG_ENGLISH     "PAP'd weapons are immediately at max damage."
 
 REFERENCE           MAP_NOT_SUPPORT_TITLE
 LANG_ENGLISH     "MAP IS NOT COMPATIBLE"

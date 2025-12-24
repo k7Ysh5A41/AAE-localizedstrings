@@ -6,10 +6,10 @@ CONFIG              "C:\projects\cod\t7\bin\StringEd.cfg"
 FILENOTES           ""
 
 REFERENCE           PLAYERMONITOR
-LANG_ENGLISH     "Other players' POV"
+LANG_ENGLISH     "Other Players' POV"
 
 REFERENCE           PLAYERMONITOR_DOA
-LANG_ENGLISH     "Other players' POV (Top-down view)"
+LANG_ENGLISH     "Other Players' POV - Top-Down View"
 
 REFERENCE           WALLBUY
 LANG_ENGLISH     "Disable Wall Buy Hints"
@@ -165,7 +165,7 @@ REFERENCE           BB
 LANG_ENGLISH     "Disable Black Bars At Game Start"
  
 REFERENCE           STARTINTRO
-LANG_ENGLISH     "Disable Start Intro"
+LANG_ENGLISH     "Disable Fly-In Start Intro"
  
 REFERENCE           STARTHINT
 LANG_ENGLISH     "Disable Start Hint"
@@ -180,7 +180,7 @@ REFERENCE           HINTICON
 LANG_ENGLISH     "Disable Hintstring Icon"
  
 REFERENCE           PERKSLOT
-LANG_ENGLISH     "Perk Slot Powerup Drops"
+LANG_ENGLISH     "Enable Perk Slot Power-Ups"
  
 REFERENCE           RELOADPROMPT
 LANG_ENGLISH     "Disable Reload Prompt"
@@ -267,10 +267,10 @@ REFERENCE           MWZCOLOR
 LANG_ENGLISH     "BO6 Teammate Colors (Restart Required)"
 
 REFERENCE           AMMOBAG
-LANG_ENGLISH     "Disable Ammo Bag (Spawns On Player Every 10 Rounds)"
+LANG_ENGLISH     "Disable Ammo Bag (Spawns On Player Every 10 Waves)"
 
 REFERENCE           SLOTHUD
-LANG_ENGLISH     "Disable Empty Perk Slots (Gain/Lose Perk To Update)"
+LANG_ENGLISH     "Disable Empty Perk Slots (Restart Required)"
 
 REFERENCE           STABAR
 LANG_ENGLISH     "Disable Stamina Bar"
@@ -282,7 +282,7 @@ REFERENCE           BGB_START
 LANG_ENGLISH     "Gobblegum Start Round"
 
 REFERENCE           C4ENDING
-LANG_ENGLISH     "C4 Buyable Ending (150k Points + Wave 35 Required)"
+LANG_ENGLISH     "C4 Buyable Ending (150k Points / Wave 35 Required)"
 
 REFERENCE           GUNPOS
 LANG_ENGLISH     "First Person Arm Model Position"
@@ -336,7 +336,7 @@ REFERENCE           SHOTGUN_GIB
 LANG_ENGLISH     "Disable Shotgun Gib"
 
 REFERENCE           WEAPON_KIT_PAP
-LANG_ENGLISH     "Weapon Kit Only For PAP'd"
+LANG_ENGLISH     "Apply Weapon Kit Upon PAP"
 
 REFERENCE           GRENADE_PREDICATION
 LANG_ENGLISH     "Grenade Prediction"
