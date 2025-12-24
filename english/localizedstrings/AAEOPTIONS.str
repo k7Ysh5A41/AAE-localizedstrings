@@ -318,13 +318,13 @@ REFERENCE           IE_OVERLAY
 LANG_ENGLISH     "Disable Idle Eyes Filter"
 
 REFERENCE           HPBAR_RANDOM_NAMES
-LANG_ENGLISH     "Enabled, Use Random Names"
+LANG_ENGLISH     "Enabled - Use Random Names"
 
 REFERENCE           PLAYER_HEALTHBAR
 LANG_ENGLISH     "Player Overhead Health Bar"
 
 REFERENCE           BGB_NOULTRA
-LANG_ENGLISH     "Enabled, No Ultra-Rare"
+LANG_ENGLISH     "Enabled - No Ultra-Rares"
 
 REFERENCE           RELOADCANCEL
 LANG_ENGLISH     "Enable Sprint Reload (Speed Cola Bonus Not Included)"
