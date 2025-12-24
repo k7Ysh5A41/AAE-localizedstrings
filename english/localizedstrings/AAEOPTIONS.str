@@ -162,7 +162,7 @@ REFERENCE           FLOD
 LANG_ENGLISH     "Force High LOD Rendering (Performance Intensive)"
  
 REFERENCE           BB
-LANG_ENGLISH     "Disable Black Bars At Game Start"
+LANG_ENGLISH     "Disable Cinematic Letterboxing (Black Bars)"
  
 REFERENCE           STARTINTRO
 LANG_ENGLISH     "Disable Fly-In Start Intro"
