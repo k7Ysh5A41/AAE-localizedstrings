@@ -165,7 +165,7 @@ REFERENCE          MW_MAP
 LANG_ENGLISH       "MODERN WARFARE MAPS"
 
 REFERENCE          MW_MAP_DESC
-LANG_ENGLISH       "Legendary multiplayer maps from the Modern Warfare series, bathed in blood and zombies."
+LANG_ENGLISH       "Legendary maps from the Modern Warfare series, bathed in blood and zombies."
 
 REFERENCE            QU_MAP
 LANG_ENGLISH         "QUIET SERIES MAPS"
@@ -246,6 +246,6 @@ REFERENCE            ZC_MAP
 LANG_ENGLISH         "ZOMBIES CHRONICLES II"
 
 REFERENCE            ZC_MAP_DESC
-LANG_ENGLISH         "Unofficial Treyarch remakes made by the best in the zombies community, delivering the ultimate Zombies experience."
+LANG_ENGLISH         "Treyarch maps remade by the best in the zombies community, delivering the ultimate Zombies experience."
 
 ENDMARKER

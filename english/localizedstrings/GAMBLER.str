@@ -66,10 +66,10 @@ REFERENCE           ALL_DIE
 LANG_ENGLISH     "^0After 5 seconds everyone dies or the idiot dies."
 
 REFERENCE           SB_DIE
-LANG_ENGLISH     "^1Idiot died"
+LANG_ENGLISH     "^1Idiot died."
 
 REFERENCE           SB_LIVE
-LANG_ENGLISH     "^1Booooom! Everyone gets killed by the idiots! idiots survives! , idiots have a free Perkaholic!"
+LANG_ENGLISH     "^1Booooom! Everyone gets killed by the idiots! Idiots survives! Idiots gain a free Perkaholic!"
 
 REFERENCE           RICH
 LANG_ENGLISH     "^3Become rich!"
@@ -84,10 +84,10 @@ REFERENCE           UNLIMIT
 LANG_ENGLISH     "Unlimited equipment for 1 minute."
 
 REFERENCE           ONCE
-LANG_ENGLISH     "Gambler is only allowed once per round"
+LANG_ENGLISH     "Gambler is only allowed once per wave."
 
 REFERENCE           UNLIMIT2
-LANG_ENGLISH     "Unlimited equipment is now over"
+LANG_ENGLISH     "Unlimited equipment is over."
 
 REFERENCE           GAMBLERD
 LANG_ENGLISH     "^7 gambled - ^7"

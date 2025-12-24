@@ -111,7 +111,7 @@ REFERENCE            PERK_A_LOT
 LANG_ENGLISH         "Perk A Lot"
  
 REFERENCE            GOT_A_WEAPON
-LANG_ENGLISH         "Got a Weapon"
+LANG_ENGLISH         "Got A Weapon"
  
 REFERENCE            TRADE_WEAPON
 LANG_ENGLISH         "Trade Weapon"
@@ -126,7 +126,7 @@ REFERENCE            SHIELD_REPAIRED
 LANG_ENGLISH         "Shield Repaired"
  
 REFERENCE            BRO_NEXT_ROUND
-LANG_ENGLISH         "Bro, Next round"
+LANG_ENGLISH         "Bro, Next Wave"
  
 REFERENCE            HIT
 LANG_ENGLISH         "Hit"
@@ -213,7 +213,7 @@ REFERENCE            C_PARASITE_HEADSHOT_KILL
 LANG_ENGLISH         "^3Parasite Headshot Kill"
  
 REFERENCE            CLEAN_DEBRIS
-LANG_ENGLISH         "Clean Debris"
+LANG_ENGLISH         "Clear Debris"
  
 REFERENCE            ZOMBIE_KILL
 LANG_ENGLISH         "Zombie Elimination"

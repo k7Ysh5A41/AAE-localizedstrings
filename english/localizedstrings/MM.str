@@ -21,7 +21,7 @@ REFERENCE           TOGGLEHIDECROSSHAIR
 LANG_ENGLISH     "Toggle Hide Crosshair"
 
 REFERENCE           TOGGLESHOOTPOWERUPS
-LANG_ENGLISH     "Toggle Shoot Powerups"
+LANG_ENGLISH     "Toggle Shoot Power-Ups"
 
 REFERENCE           TOGGLELEFTSIDEWEAPON
 LANG_ENGLISH     "Toggle Left Side Weapon"
@@ -489,6 +489,6 @@ REFERENCE           DELETECURRENTCLONE
 LANG_ENGLISH     "Delete Current Player Clone"
 
 REFERENCE           POWERUPSMENU
-LANG_ENGLISH     "Powerups Menu"
+LANG_ENGLISH     "Power-Up Menu"
 
 ENDMARKER

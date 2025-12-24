@@ -30,7 +30,7 @@ REFERENCE            WEAPON_DESC
 LANG_ENGLISH         "Open the weapon options menu."
 
 REFERENCE            MYSTERYBOX_DESC
-LANG_ENGLISH         "These filters allow you to change the Mystery Box weapon pool.\n\n^1Notice:^7 It's NOT possible to add exclusive and custom weapons from one map into the Mystery Box of a different map."
+LANG_ENGLISH         "These filters allow you to change the Mystery Box weapon pool.\n\n^1Notice:^7 It's NOT possible to add exclusive weapons from one map into the Mystery Box of a different map."
 
 REFERENCE            POWERUP_DESC
 LANG_ENGLISH         "Open the power-up options menu."
@@ -198,7 +198,7 @@ REFERENCE            BGB_TITLE
 LANG_ENGLISH         "GOBBLEGUM OPTIONS"
 
 REFERENCE            ROUND
-LANG_ENGLISH         "Starting Round"
+LANG_ENGLISH         "Starting Wave"
 
 REFERENCE            ZC
 LANG_ENGLISH         "Zombie Counter Enabled"
@@ -213,10 +213,10 @@ REFERENCE            TIMEPLAY
 LANG_ENGLISH         "Timed Gameplay"
 
 REFERENCE            DOOR
-LANG_ENGLISH         "Start With All Doors Open"
+LANG_ENGLISH         "Start With All Doors Opened"
 
 REFERENCE            BOX_ALL
-LANG_ENGLISH         "Mystery Box In All Locations"
+LANG_ENGLISH         "Mystery Box Active At All Locations"
 
 REFERENCE            POWER
 LANG_ENGLISH         "Start With Power Enabled"
@@ -234,16 +234,16 @@ REFERENCE            POWER
 LANG_ENGLISH         "Start With Power Enabled"
 
 REFERENCE            DELAY
-LANG_ENGLISH         "No Round Delay"
+LANG_ENGLISH         "No Wave Delay"
 
 REFERENCE            ROUND_DESC
-LANG_ENGLISH         "Choose which round to start on."
+LANG_ENGLISH         "Choose which wave to start on."
 
 REFERENCE            ZC_DESC
 LANG_ENGLISH         "Adds an enemy counter to the HUD. This shows the number of enemies remaining per wave."
 
 REFERENCE            DELAY_DESC
-LANG_ENGLISH         "Removes the delay between rounds. Doesn't work if Roamer is enabled."
+LANG_ENGLISH         "Removes the delay between waves. Doesn't work if Roamer is enabled."
 
 REFERENCE            HITMARKER_DESC
 LANG_ENGLISH         "Show hitmarkers when damaging zombies."
@@ -258,13 +258,13 @@ REFERENCE            DOOR_DESC
 LANG_ENGLISH         "Opens all doors on the map."
 
 REFERENCE            BOX_ALL_DESC
-LANG_ENGLISH         "Spawns the mystery box in every possible location at once. Prevents teddies."
+LANG_ENGLISH         "Activates the Mystery Box in every possible location. No teddy bears."
 
 REFERENCE            POWER_DESC
-LANG_ENGLISH         "Turn on the power when the game starts."
+LANG_ENGLISH         "Power is automatically enabled when the game starts."
 
 REFERENCE            ROUNDREVIVE_DESC
-LANG_ENGLISH         "Revive all players at the end of the round and gain full health."
+LANG_ENGLISH         "Revives all players and refills all health at the end of a wave."
 
 REFERENCE            TRADE_DESC
 LANG_ENGLISH         "Trade Weapons with another player."
@@ -276,7 +276,7 @@ REFERENCE            GAME_TITLE
 LANG_ENGLISH         "GAME OPTIONS"
 
 REFERENCE            BOX_FILTER_DESC
-LANG_ENGLISH         "These filters allow you to change the Mystery Box weapon pool.\n\n^1Notice:^7 It's NOT possible to add exclusive wonder weapons and custom weapons from one map into the Mystery Box of a different map."
+LANG_ENGLISH         "These filters allow you to change the Mystery Box weapon pool.\n\n^1Notice:^7 It's NOT possible to add exclusive weapons from one map into the Mystery Box of a different map."
 
 REFERENCE            T4
 LANG_ENGLISH         "Disable WAW Weapons"
@@ -438,13 +438,13 @@ REFERENCE            ROAMER
 LANG_ENGLISH         "Roamer Option"
 
 REFERENCE            ROAMERTIME
-LANG_ENGLISH         "Roamer Time Between Rounds"
+LANG_ENGLISH         "Roamer Time Between Waves"
 
 REFERENCE            ROMAER_DESC
-LANG_ENGLISH         "Roamer allows you to wait at the end of every round, before the next round starts. No more crawlers! To start the next round, press ADS + Melee"
+LANG_ENGLISH         "Roamer adds an intermission between every wave. No more crawlers! To start the next round immediately, press ADS + Melee."
 
 REFERENCE            ROAMERTIME_DESC
-LANG_ENGLISH         "Choose how long you have between rounds."
+LANG_ENGLISH         "Choose the maximum amount of time you have between waves."
 
 REFERENCE            ROAMER_TITLE
 LANG_ENGLISH         "ROAMER OPTIONS"
@@ -474,7 +474,7 @@ REFERENCE            BOXSHARE
 LANG_ENGLISH         "Mystery Box Share"
 
 REFERENCE            LOADOUTSAVE
-LANG_ENGLISH         "Weapon Restore & Mule Kick Weapon Restore"
+LANG_ENGLISH         "Weapon Restore"
 
 REFERENCE            C4
 LANG_ENGLISH         "Disable C4 Buyable Ending"
@@ -504,7 +504,7 @@ REFERENCE            BOXSHARE_DESC
 LANG_ENGLISH         "Use melee on a Mystery Box weapon to share it with an ally."
 
 REFERENCE            LOADOUTSAVE_DESC
-LANG_ENGLISH         "When you are disconnected from the current host, the current host will store your weapons, perks and points. After reconnecting, you will regain what you lost (also applies to the next round of respawn after death)."
+LANG_ENGLISH         "When you are disconnected from a game, the current host will store your weapons, perks and points. After reconnecting, you will automatically reaquire everything. \n\n^1Notice:^7 This also applies to the Mule Kick Bonus effect and respawning."
 
 REFERENCE            C4_DESC
 LANG_ENGLISH         "After 35 waves, having 150,000 points and detonating C4 will end the game. Turn off this effect when selected."
