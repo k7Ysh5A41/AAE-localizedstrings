@@ -339,7 +339,7 @@ REFERENCE           WEAPON_KIT_PAP
 LANG_ENGLISH     "Apply Weapon Kit Upon PAP"
 
 REFERENCE           GRENADE_PREDICATION
-LANG_ENGLISH     "Grenade HUD Assist"
+LANG_ENGLISH     "Grenade Assist"
 
 REFERENCE           GRENADE_PREDICATION_OPTION1
 LANG_ENGLISH     "Prediction Line And Fuse Timer"
