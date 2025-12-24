@@ -294,7 +294,7 @@ REFERENCE           UPDATE_ASPECT_RATIO
 LANG_ENGLISH        "Обновить соотношение сторон"
 
 REFERENCE           LITE_ONLY
-LANG_ENGLISH     "^4Совместимо только с версией AAE Lite"
+LANG_ENGLISH     "Совместимо только с версией AAE Lite"
 
 REFERENCE           LOBBY_SIZE
 LANG_ENGLISH        "Нажмите, чтобы изменить размер лобби"
