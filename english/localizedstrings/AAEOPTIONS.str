@@ -267,7 +267,7 @@ REFERENCE           MWZCOLOR
 LANG_ENGLISH     "BO6 Teammate Colors (Restart Required)"
 
 REFERENCE           AMMOBAG
-LANG_ENGLISH     "Disable Ammo Bag (Spawns On Player Every 10 Waves)"
+LANG_ENGLISH     "Disable Ammo Bag (Spawns On Player Every 10 Rounds)"
 
 REFERENCE           SLOTHUD
 LANG_ENGLISH     "Disable Empty Perk Slots (Restart Required)"
