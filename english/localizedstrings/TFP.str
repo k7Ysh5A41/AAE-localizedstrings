@@ -12,22 +12,22 @@ REFERENCE           EXTPLAYER_DESC
 LANG_ENGLISH     "Increased max player count to 10 (^1highly unstable^7), and gobblegum machines will be disabled due to ^3game engine limitations^7.\n\nMap support details:\n\nZombies Chronicles all maps\n(^2Stable, Main EE Compatible^7)\n\nSoE/DE/GK\n(^3Less stable, Main EE Compatible^7)\n\nOther 3arc maps (^3Less stable^7)\nCustom Map (Unknown)"
 
 REFERENCE           FFFIVE
-LANG_ENGLISH     "Friendly Fire But Can't Kill"
+LANG_ENGLISH     "Enabled - Can't Kill"
 
 REFERENCE           ROUNDLIMIT
-LANG_ENGLISH     "Finish Match On This Round"
+LANG_ENGLISH     "Finish Match On Wave"
 
 REFERENCE           ROUNDTIME
 LANG_ENGLISH     "End Game Challenge"
 
 REFERENCE           ROUNDTIME_DESC
-LANG_ENGLISH     "You're In The End Game Now. After finishing the round specified in the 'Finish Match On This Round' option, put your skills and gear to the test by surviving an endless wave of instantly spawning zombies for the time limit specified to finish the match. Face the additional horror of new Super Sprinter and Tranzit Sprinter zombies if launching the End game Challenge below Round 40. The penalty for failing the End Game Challenge is knowing you let the horde best you."
+LANG_ENGLISH     "After finishing the wave specified in the 'Finish Match On Wave' option, survive an endless wave of instantly spawning zombies for the time limit specified. Face the horrors of Super Sprinter and Tranzit Sprinter zombies below wave 40."
 
 REFERENCE           TRADE_DESC
-LANG_ENGLISH     "Trade weapons with another player. Walk up to the player you want to trade with and look at their gun. Both players must then hold the prompt on-screen until the bar is full for each player, then the weapons will be traded."
+LANG_ENGLISH     "Trade weapons with another player. Walk up to the player you want to trade with and look at their gun. Both players must then hold the prompt on-screen until the bar is full for each player."
 
 REFERENCE           GAMBLER_DESC
-LANG_ENGLISH     "Spawns a floating Lucky 8 ball at the player spawn location. This can be interacted with for 1000 points to have a random effect happen. Some are good, some are bad, some are weird. It’s a gamble! Can only be bought once per round."
+LANG_ENGLISH     "Spawns a floating Lucky 8 ball at the player spawn location. Interact with it for random effects! Some are good, some are bad, some are weird. It’s a gamble!"
 
 REFERENCE           SOLOREVIVE
 LANG_ENGLISH     "Unlimited Use of Quick Revive in Solo"
@@ -93,9 +93,9 @@ REFERENCE           JUKE_DESC
 LANG_ENGLISH     "Similar to Ascension in Black Ops 1, zombies will randomly juke left and right instead of coming at you in a straight line."
 
 REFERENCE           AUTORUN
-LANG_ENGLISH     "Disable Super Sprinters after round 40"
+LANG_ENGLISH     "Disable Super Sprinters After Wave 40"
 
 REFERENCE           AUTORUN_DESC
-LANG_ENGLISH     "All zombies become super sprinters at around 40 with the all around enhancement mod, meaning they run as fast as you sprint without stamin-up. This option disables that, so that only a handful of zombies become super sprinters."
+LANG_ENGLISH     "All zombies become super sprinters at wave 40 with the All Around Enhancement mod. They run as fast as you sprint. This option disables that, so that only a handful of zombies become super sprinters."
 
 ENDMARKER

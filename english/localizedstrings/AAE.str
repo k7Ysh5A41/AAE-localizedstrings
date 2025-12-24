@@ -63,7 +63,7 @@ REFERENCE           BOARD_COUNT
 LANG_ENGLISH     "Board Count"
 
 REFERENCE           PICKUP
-LANG_ENGLISH     " Pickup"
+LANG_ENGLISH     " Picked Up"
 
 REFERENCE           BUILDABLES_COUNT
 LANG_ENGLISH     "Buildables Count"
@@ -399,7 +399,7 @@ REFERENCE           MINE_PLANTED
 LANG_ENGLISH     "Trip Mine Planted"
 
 REFERENCE           POWERUP_COLLECTED
-LANG_ENGLISH     "Powerups Picked up"
+LANG_ENGLISH     "Power-Ups Picked Up"
 
 REFERENCE           POINTS_EARNED
 LANG_ENGLISH     "Total Points Earned"
@@ -411,10 +411,10 @@ REFERENCE           LONGEST_PLAYTIME
 LANG_ENGLISH     "Longest Play Time"
 
 REFERENCE           MINE_PICKUP
-LANG_ENGLISH     "Trip Mine Picked up"
+LANG_ENGLISH     "Trip Mine Picked Up"
 
 REFERENCE           DOUBLEPOINTS_PICKUP
-LANG_ENGLISH     "Double Points Picked up"
+LANG_ENGLISH     "Double Points Picked Up"
 
 REFERENCE           HELLHOUND_KILLED
 LANG_ENGLISH     "Hellhound Killed"
@@ -426,7 +426,7 @@ REFERENCE           PAP_USE
 LANG_ENGLISH     "Pack-a-Punch Used"
 
 REFERENCE           INSTAKILL_PICKUP
-LANG_ENGLISH     "Instakill Picked up"
+LANG_ENGLISH     "Instakill Picked Up"
 
 REFERENCE           SHOTS_FIRED
 LANG_ENGLISH     "Total Shots Fired"
@@ -447,13 +447,13 @@ REFERENCE           PAP_GRAB
 LANG_ENGLISH     "Pack-a-Punch Grabbed"
 
 REFERENCE           CARPENTER_PICKUP
-LANG_ENGLISH     "Carpenter Picked up"
+LANG_ENGLISH     "Carpenter Picked Up"
 
 REFERENCE           PERK_RANDOM_PICKUP
 LANG_ENGLISH     "Wunderfizz Grabbed"
 
 REFERENCE           FIRESALE_PICK
-LANG_ENGLISH     "Firesale Picked up"
+LANG_ENGLISH     "Firesale Picked Up"
 
 REFERENCE           BGB_EAT
 LANG_ENGLISH     "GobbleGum Chewed"
@@ -468,7 +468,7 @@ REFERENCE           REWARD_30
 LANG_ENGLISH     "30 Times"
 
 REFERENCE           REWARD_LINE15
-LANG_ENGLISH     "Much longer bleed-out timer."
+LANG_ENGLISH     "Longer bleed-out timer."
 
 REFERENCE           REWARD_LINE16
 LANG_ENGLISH     "PAP'd weapons are immediately at max damage."
