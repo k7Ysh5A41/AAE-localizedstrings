@@ -30,6 +30,6 @@ REFERENCE           STAMINUP
 LANG_ENGLISH     "Increases stamina.\n^5Bonus:^7 Infinite sprint. Do more actions while sprinting. Move quicker while aiming."
 
 REFERENCE           WINE
-LANG_ENGLISH     "Increases melee damage. Grenades slow zombies, and auto-detonate when player is hit. Slowed zombies drop additional grenades. \n^5Bonus:^7 Explosive damage immunity."
+LANG_ENGLISH     "Increases melee damage. Grenades slow zombies, and auto-detonate when player is hit. Slowed zombies may drop additional grenades. \n^5Bonus:^7 Explosive damage immunity."
 
 ENDMARKER
