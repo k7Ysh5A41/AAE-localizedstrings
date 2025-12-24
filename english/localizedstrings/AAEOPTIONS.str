@@ -27,7 +27,7 @@ REFERENCE           DISABLE_AFK
 LANG_ENGLISH     "Disable AFK"
 
 REFERENCE           BGB_DROP
-LANG_ENGLISH     "Gobblegum Powerup Drops"
+LANG_ENGLISH     "Gobblegum Power-Up Behavior"
 
 REFERENCE           FPS
 LANG_ENGLISH     "Potato Graphics"
@@ -339,7 +339,7 @@ REFERENCE           WEAPON_KIT_PAP
 LANG_ENGLISH     "Apply Weapon Kit Upon PAP"
 
 REFERENCE           GRENADE_PREDICATION
-LANG_ENGLISH     "Grenade Assist"
+LANG_ENGLISH     "Grenade HUD Assist"
 
 REFERENCE           GRENADE_PREDICATION_OPTION1
 LANG_ENGLISH     "Prediction Line And Fuse Timer"
