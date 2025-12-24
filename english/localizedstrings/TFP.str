@@ -15,13 +15,13 @@ REFERENCE           FFFIVE
 LANG_ENGLISH     "Enabled - Can't Kill"
 
 REFERENCE           ROUNDLIMIT
-LANG_ENGLISH     "Finish Match On Wave"
+LANG_ENGLISH     "Finish Match On Round"
 
 REFERENCE           ROUNDTIME
 LANG_ENGLISH     "End Game Challenge"
 
 REFERENCE           ROUNDTIME_DESC
-LANG_ENGLISH     "After finishing the wave specified in the 'Finish Match On Wave' option, survive an endless wave of instantly spawning zombies for the time limit specified. Face the horrors of Super Sprinter and Tranzit Sprinter zombies below wave 40."
+LANG_ENGLISH     "After finishing the round specified in the 'Finish Match On Round' option, survive an endless round of instantly spawning zombies for the time limit specified. Face the horrors of Super Sprinter and Tranzit Sprinter zombies below round 40."
 
 REFERENCE           TRADE_DESC
 LANG_ENGLISH     "Trade weapons with another player. Walk up to the player you want to trade with and look at their gun. Both players must then hold the prompt on-screen until the bar is full for each player."
@@ -36,7 +36,7 @@ REFERENCE           PERKPLUS
 LANG_ENGLISH     "Disable Perk Enhancements"
 
 REFERENCE           PERKPLUS_DESC
-LANG_ENGLISH     "Disables all bonus effects added by AAE.\n\n^1Notice:^7 Deadshot Daiquiri's bonus is only active while carrying 4 or more perks."
+LANG_ENGLISH     "Disables all bonus effects added by AAE.\n\n^1Notice:^7 Deadshot Daiquiri's bonus only applies when carrying 4 or more perks."
 
 REFERENCE           NOSLIDE
 LANG_ENGLISH     "No Slide"
@@ -93,9 +93,9 @@ REFERENCE           JUKE_DESC
 LANG_ENGLISH     "Similar to Ascension in Black Ops 1, zombies will randomly juke left and right instead of coming at you in a straight line."
 
 REFERENCE           AUTORUN
-LANG_ENGLISH     "Disable Super Sprinters After Wave 40"
+LANG_ENGLISH     "Disable Super Sprinters After Round 40"
 
 REFERENCE           AUTORUN_DESC
-LANG_ENGLISH     "All zombies become super sprinters at wave 40 with the All Around Enhancement mod. They run as fast as you sprint. This option disables that, so that only a handful of zombies become super sprinters."
+LANG_ENGLISH     "All zombies become super sprinters at round 40 with the All Around Enhancement mod. They run as fast as you sprint. This option disables that, so that only a handful of zombies become super sprinters."
 
 ENDMARKER

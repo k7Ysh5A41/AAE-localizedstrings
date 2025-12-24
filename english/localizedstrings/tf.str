@@ -198,7 +198,7 @@ REFERENCE            BGB_TITLE
 LANG_ENGLISH         "GOBBLEGUM OPTIONS"
 
 REFERENCE            ROUND
-LANG_ENGLISH         "Starting Wave"
+LANG_ENGLISH         "Starting Round"
 
 REFERENCE            ZC
 LANG_ENGLISH         "Zombie Counter Enabled"
@@ -234,16 +234,16 @@ REFERENCE            POWER
 LANG_ENGLISH         "Start With Power Enabled"
 
 REFERENCE            DELAY
-LANG_ENGLISH         "No Wave Delay"
+LANG_ENGLISH         "No Round Delay"
 
 REFERENCE            ROUND_DESC
-LANG_ENGLISH         "Choose which wave to start on."
+LANG_ENGLISH         "Choose which round to start on."
 
 REFERENCE            ZC_DESC
-LANG_ENGLISH         "Adds an enemy counter to the HUD. This shows the number of enemies remaining per wave."
+LANG_ENGLISH         "Adds an enemy counter to the HUD. This shows the number of enemies remaining per round."
 
 REFERENCE            DELAY_DESC
-LANG_ENGLISH         "Removes the delay between waves. Doesn't work if Roamer is enabled."
+LANG_ENGLISH         "Removes the delay between rounds. Incompatible with Roamer."
 
 REFERENCE            HITMARKER_DESC
 LANG_ENGLISH         "Show hitmarkers when damaging zombies."
@@ -264,7 +264,7 @@ REFERENCE            POWER_DESC
 LANG_ENGLISH         "Power is automatically enabled when the game starts."
 
 REFERENCE            ROUNDREVIVE_DESC
-LANG_ENGLISH         "Revives all players and refills all health at the end of a wave."
+LANG_ENGLISH         "Revives all players and refills all health at the end of a round."
 
 REFERENCE            TRADE_DESC
 LANG_ENGLISH         "Trade Weapons with another player."
@@ -438,13 +438,13 @@ REFERENCE            ROAMER
 LANG_ENGLISH         "Roamer Option"
 
 REFERENCE            ROAMERTIME
-LANG_ENGLISH         "Roamer Time Between Waves"
+LANG_ENGLISH         "Max Roamer Time"
 
 REFERENCE            ROMAER_DESC
-LANG_ENGLISH         "Roamer adds an intermission between every wave. No more crawlers! To start the next round immediately, press ADS + Melee."
+LANG_ENGLISH         "Roamer adds an intermission between every rounds. No more crawlers! To start the next round immediately, press ADS + Melee."
 
 REFERENCE            ROAMERTIME_DESC
-LANG_ENGLISH         "Choose the maximum amount of time you have between waves."
+LANG_ENGLISH         "Choose the maximum amount of time you have between rounds."
 
 REFERENCE            ROAMER_TITLE
 LANG_ENGLISH         "ROAMER OPTIONS"
@@ -507,7 +507,7 @@ REFERENCE            LOADOUTSAVE_DESC
 LANG_ENGLISH         "When you are disconnected from a game, the current host will store your weapons, perks and points. After reconnecting, you will automatically reaquire everything. \n\n^1Notice:^7 This also applies to the Mule Kick Bonus effect and respawning."
 
 REFERENCE            C4_DESC
-LANG_ENGLISH         "After 35 waves, having 150,000 points and detonating C4 will end the game. Turn off this effect when selected."
+LANG_ENGLISH         "After 35 rounds, having 150k points and detonating C4 will end the game. This setting disables that."
 
 REFERENCE            WEAPON_TITLE
 LANG_ENGLISH         "WEAPON OPTIONS"

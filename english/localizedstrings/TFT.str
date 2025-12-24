@@ -42,7 +42,7 @@ REFERENCE           ZOMBIE_H
 LANG_ENGLISH     "Limit Zombie Health"
 
 REFERENCE           ZOMBIE_H_DESC
-LANG_ENGLISH     "Zombie health pool will stop increasing when reaching this wave."
+LANG_ENGLISH     "Zombie health pool will stop increasing when reaching this round."
 
 REFERENCE           CRAZYZOMBIE_DESC
 LANG_ENGLISH     "Zombie speed is doubled for all actions."
@@ -81,7 +81,7 @@ REFERENCE           SNAIL
 LANG_ENGLISH     "Immortal Snail"
 
 REFERENCE           SNAIL_DESC
-LANG_ENGLISH     "One hit down, Rounds get higher, The Faster he will go"
+LANG_ENGLISH     "Adds a slow, immortal boss. One hit down. As the rounds get higher, they'll go faster."
 
 REFERENCE           DUCK
 LANG_ENGLISH     "Player Quacknarok"

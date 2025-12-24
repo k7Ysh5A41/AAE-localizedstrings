@@ -84,7 +84,7 @@ REFERENCE           UNLIMIT
 LANG_ENGLISH     "Unlimited equipment for 1 minute."
 
 REFERENCE           ONCE
-LANG_ENGLISH     "Gambler is only allowed once per wave."
+LANG_ENGLISH     "Gambler is only allowed once per round."
 
 REFERENCE           UNLIMIT2
 LANG_ENGLISH     "Unlimited equipment is over."
