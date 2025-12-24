@@ -15,10 +15,10 @@ REFERENCE           GAMBLER
 LANG_ENGLISH     "Disable Gambler"
 
 REFERENCE           DOG
-LANG_ENGLISH     "Disable Special Waves"
+LANG_ENGLISH     "Disable Special Rounds"
 
 REFERENCE           DOG_DESC
-LANG_ENGLISH     "Skip waves featuring special enemies."
+LANG_ENGLISH     "Skip rounds featuring special enemies."
 
 REFERENCE           RAINBOW
 LANG_ENGLISH     "Zombie Rainbow Eyes"

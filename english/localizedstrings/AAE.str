@@ -339,7 +339,7 @@ REFERENCE           REWARD_25
 LANG_ENGLISH     "25 Times"
 
 REFERENCE           REWARD_LINE2
-LANG_ENGLISH     "Every wave allows 30 withdrawals."
+LANG_ENGLISH     "Every round allows 30 withdrawals."
 
 REFERENCE           REWARD_LINE3
 LANG_ENGLISH     "Weapon Locker will fully reload your weapons."
@@ -354,7 +354,7 @@ REFERENCE           REWARD_LINE5
 LANG_ENGLISH     "Each bank withdrawal returns ^BBUTTON_COD_POINT_ICON^100."
 
 REFERENCE           REWARD_LINE6
-LANG_ENGLISH     "Gambler can be used twice per wave."
+LANG_ENGLISH     "Gambler can be used twice per round."
 
 REFERENCE           REWARD_LINE7
 LANG_ENGLISH     "Gambler's lost points have no effect on you."

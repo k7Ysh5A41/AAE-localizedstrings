@@ -24,10 +24,10 @@ REFERENCE           EE_COMPLETED_END
 LANG_ENGLISH     " Easter egg in total"
 
 REFERENCE           ROAMER_LABEL
-LANG_ENGLISH     "Press ^3ADS^7 + ^3[{+melee}]^7 To Start The Next Wave"
+LANG_ENGLISH     "Press ^3ADS^7 + ^3[{+melee}]^7 To Start The Next Round"
 
 REFERENCE           ROAMER_LABEL_TIMER
-LANG_ENGLISH     "Press ^3ADS^7 + ^3[{+melee}]^7 To Start The Next Wave\nTime Remaining: ^5"
+LANG_ENGLISH     "Press ^3ADS^7 + ^3[{+melee}]^7 To Start The Next Round\nTime Remaining: ^5"
 
 REFERENCE           PURIFIER_HINT
 LANG_ENGLISH     "Shoot flames at teammates to revive them!"

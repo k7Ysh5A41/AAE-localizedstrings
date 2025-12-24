@@ -279,10 +279,10 @@ REFERENCE           AUTOLEAN
 LANG_ENGLISH     "Disable Auto Leaning"
 
 REFERENCE           BGB_START
-LANG_ENGLISH     "Gobblegum Machine Activation Wave"
+LANG_ENGLISH     "Gobblegum Machine Activation Round"
 
 REFERENCE           C4ENDING
-LANG_ENGLISH     "C4 Buyable Ending (150k Points and Wave 35 Required)"
+LANG_ENGLISH     "C4 Buyable Ending (150k Points and Round 35 Required)"
 
 REFERENCE           GUNPOS
 LANG_ENGLISH     "First Person Arm Model Position"
