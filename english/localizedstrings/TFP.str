@@ -6,10 +6,10 @@ CONFIG              "C:\projects\cod\t7\bin\StringEd.cfg"
 FILENOTES           ""
 
 REFERENCE           EXTPLAYER
-LANG_ENGLISH     "More Player Count Support"
+LANG_ENGLISH     "Manage Party Settings"
 
 REFERENCE           EXTPLAYER_DESC
-LANG_ENGLISH     "Increased max player count to 10 (^1highly unstable^7), and gobblegum machines will be disabled due to ^3game engine limitations^7.\n\nMap support details:\n\nZombies Chronicles all maps\n(^2Stable, Main EE Compatible^7)\n\nSoE/DE/GK\n(^3Less stable, Main EE Compatible^7)\n\nOther 3arc maps (^3Less stable^7)\nCustom Map (Unknown)"
+LANG_ENGLISH     "Change Player Limit and Party Privacy. \n\n^1Notice:^7 Increasing the Player Limit beyond 4 can be unstable, and Gobblegum Machines will be disabled.\n\nMap support details:\nZombies Chronicles\n^2Stable / Main EE Compatible^7\n\nSOE/DE/GK\n^3Less Stable / Main EE Compatible^7\n\nOther Treyarch Maps\n^3Less Stable^7\nCustom Maps: Unknown"
 
 REFERENCE           FFFIVE
 LANG_ENGLISH     "Enabled - Can't Kill"

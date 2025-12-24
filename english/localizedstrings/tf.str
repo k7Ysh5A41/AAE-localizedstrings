@@ -30,7 +30,7 @@ REFERENCE            WEAPON_DESC
 LANG_ENGLISH         "Open the weapon options menu."
 
 REFERENCE            MYSTERYBOX_DESC
-LANG_ENGLISH         "These filters allow you to change the Mystery Box weapon pool.\n\n^1Notice:^7 It's NOT possible to add exclusive and custom weapons from one map into the Mystery Box of a different map."
+LANG_ENGLISH         "These filters allow you to change the Mystery Box weapon pool.\n\n^1Notice:^7 It's NOT possible to add exclusive weapons from one map into the Mystery Box of a different map."
 
 REFERENCE            POWERUP_DESC
 LANG_ENGLISH         "Open the power-up options menu."
@@ -276,7 +276,7 @@ REFERENCE            GAME_TITLE
 LANG_ENGLISH         "GAME OPTIONS"
 
 REFERENCE            BOX_FILTER_DESC
-LANG_ENGLISH         "These filters allow you to change the Mystery Box weapon pool.\n\n^1Notice:^7 It's NOT possible to add exclusive wonder weapons and custom weapons from one map into the Mystery Box of a different map."
+LANG_ENGLISH         "These filters allow you to change the Mystery Box weapon pool.\n\n^1Notice:^7 It's NOT possible to add exclusive weapons from one map into the Mystery Box of a different map."
 
 REFERENCE            T4
 LANG_ENGLISH         "Disable WAW Weapons"
@@ -474,7 +474,7 @@ REFERENCE            BOXSHARE
 LANG_ENGLISH         "Mystery Box Share"
 
 REFERENCE            LOADOUTSAVE
-LANG_ENGLISH         "Weapon Restore & Mule Kick Weapon Restore"
+LANG_ENGLISH         "Weapon Restore"
 
 REFERENCE            C4
 LANG_ENGLISH         "Disable C4 Buyable Ending"
@@ -504,7 +504,7 @@ REFERENCE            BOXSHARE_DESC
 LANG_ENGLISH         "Use melee on a Mystery Box weapon to share it with an ally."
 
 REFERENCE            LOADOUTSAVE_DESC
-LANG_ENGLISH         "When you are disconnected from a game, the current host will store your weapons, perks and points. After reconnecting, you will automatically reaquire everything (also applies to the next wave after death)."
+LANG_ENGLISH         "When you are disconnected from a game, the current host will store your weapons, perks and points. After reconnecting, you will automatically reaquire everything. \n\n^1Notice:^7 This also applies to the Mule Kick Bonus effect and respawning."
 
 REFERENCE            C4_DESC
 LANG_ENGLISH         "After 35 waves, having 150,000 points and detonating C4 will end the game. Turn off this effect when selected."

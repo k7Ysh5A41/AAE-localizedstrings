@@ -180,7 +180,7 @@ REFERENCE           HINTICON
 LANG_ENGLISH     "Disable Hintstring Icon"
  
 REFERENCE           PERKSLOT
-LANG_ENGLISH     "Enable Perk Slot Power-Ups"
+LANG_ENGLISH     "Perk Slot Power-Up Behavior"
  
 REFERENCE           RELOADPROMPT
 LANG_ENGLISH     "Disable Reload Prompt"
