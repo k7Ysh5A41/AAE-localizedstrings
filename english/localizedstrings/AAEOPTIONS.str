@@ -36,7 +36,7 @@ REFERENCE           SM
 LANG_ENGLISH     "Display Movement Speed Statistics"
 
 REFERENCE           AAT
-LANG_ENGLISH     "Disable AAT"
+LANG_ENGLISH     "Disable Alternate Ammo Types (AATs)"
 
 REFERENCE           ADS
 LANG_ENGLISH     "Disable ADS Zoom"
@@ -48,10 +48,10 @@ REFERENCE           GRENADE_BAR
 LANG_ENGLISH     "Disable Grenade Countdown"
 
 REFERENCE           LH_GES
-LANG_ENGLISH     "Disable Left Hand Gesture"
+LANG_ENGLISH     "Disable Left Hand Gestures"
 
 REFERENCE           FSF
-LANG_ENGLISH     "Disable Fullscreen Flash"
+LANG_ENGLISH     "Disable Fullscreen Flashes"
 
 REFERENCE           FSFB
 LANG_ENGLISH     "Swap Fullscreen Flash From White To Black"
@@ -339,10 +339,10 @@ REFERENCE           WEAPON_KIT_PAP
 LANG_ENGLISH     "Apply Weapon Kit Upon PAP"
 
 REFERENCE           GRENADE_PREDICATION
-LANG_ENGLISH     "Grenade Prediction"
+LANG_ENGLISH     "Grenade Assist"
 
 REFERENCE           GRENADE_PREDICATION_OPTION1
-LANG_ENGLISH     "Prediction Line And Timer"
+LANG_ENGLISH     "Prediction Line And Fuse Timer"
 
 REFERENCE           GRENADE_PREDICATION_OPTION2
 LANG_ENGLISH     "Fuse Timer Only"
