@@ -270,7 +270,7 @@ REFERENCE           AMMOBAG
 LANG_ENGLISH     "Отключить появление сумки с боеприпасами каждые 2 раунда"
 
 REFERENCE           SLOTHUD
-LANG_ENGLISH     "Отключить HUD перк слота"
+LANG_ENGLISH     "Отключить HUD перк слота (необходим перезапуск)"
 
 REFERENCE           STABAR
 LANG_ENGLISH     "Отключить индикатор выносливости"
