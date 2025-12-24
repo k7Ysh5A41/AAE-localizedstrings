@@ -186,10 +186,10 @@ REFERENCE           RELOADPROMPT
 LANG_ENGLISH     "Disable Reload Prompt"
  
 REFERENCE           PERKSLOT_SELF
-LANG_ENGLISH     "Only Add To Self"
+LANG_ENGLISH     "Enabled - Add To Self"
  
 REFERENCE           PERKSLOT_ALL
-LANG_ENGLISH     "Add To All"
+LANG_ENGLISH     "Enabled - Add To All"
  
 REFERENCE           SEEWALL
 LANG_ENGLISH     "Disable Seeing Player Names Through Walls"

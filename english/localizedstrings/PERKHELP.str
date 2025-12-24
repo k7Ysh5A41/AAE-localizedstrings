@@ -21,15 +21,15 @@ REFERENCE           REVIVE_SOLO
 LANG_ENGLISH     "Auto-revives when downed.\n^5Bonus:^7 Reduces health regen delay."
 
 REFERENCE           REVIVE
-LANG_ENGLISH     "^5Solo:^7 Auto-revives. ^5Co-op:^7 Faster ally revives.\n^5Bonus:^7 Reduces health regen delay. Protects revived allies. Extends ally bleed-out timer when interrupted."
+LANG_ENGLISH     "^5Solo:^7 Auto-revives. ^5Co-op:^7 Faster ally revives.\n^5Bonus:^7 Reduces health regen delay. Extends ally bleed-out timer when interrupted."
 
 REFERENCE           FASTRELOAD
-LANG_ENGLISH     "Reloads weapons faster.\n^5Bonus:^7 Speeds up all animations. Auto-cancels excess reload animation while sprinting."
+LANG_ENGLISH     "Reloads weapons faster.\n^5Bonus:^7 Increases animation speed. Auto-cancels excess reload animation when sprinting."
 
 REFERENCE           STAMINUP
-LANG_ENGLISH     "Increases stamina.\n^5Bonus:^7 Infinite sprint. Do more actions while sprinting. Move quicker while aiming."
+LANG_ENGLISH     "Increases stamina.\n^5Bonus:^7 Infinite stamina. Do actions while sprinting. Move quicker while aiming."
 
 REFERENCE           WINE
-LANG_ENGLISH     "Increases melee damage. Grenades slow zombies, and auto-detonate when player is hit. Slowed zombies may drop additional grenades. \n^5Bonus:^7 Explosive damage immunity."
+LANG_ENGLISH     "Increases melee damage. Grenades slow zombies and auto-detonate when hit. Slowed zombies may drop grenades when killed."
 
 ENDMARKER
