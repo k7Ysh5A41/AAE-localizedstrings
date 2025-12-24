@@ -33,7 +33,7 @@ REFERENCE           LOSTMONEY
 LANG_ENGLISH     "^1You lost all your money!"
 
 REFERENCE           SHIELD_FIX
-LANG_ENGLISH     "^2You win the the Zombie Shield Fix!"
+LANG_ENGLISH     "^2You win the Zombie Shield Fix!"
 
 REFERENCE           WIN_SHIELD
 LANG_ENGLISH     "^2You win a Zombie Shield!"
@@ -69,25 +69,25 @@ REFERENCE           SB_DIE
 LANG_ENGLISH     "^1Idiot died!"
 
 REFERENCE           SB_LIVE
-LANG_ENGLISH     "^1Booooom! Everyone gets killed by the idiot! Idiot survives! Idiot wins a free Perkaholic!"
+LANG_ENGLISH     "^1Booooom! Everyone gets killed by the idiot! Idiot wins a free Perkaholic!"
 
 REFERENCE           RICH
-LANG_ENGLISH     "^3Become rich!"
+LANG_ENGLISH     "^3You're rich!"
 
 REFERENCE           AIRSTRIKE_ZM
 LANG_ENGLISH     "^2Precision Airstrike incoming!"
 
 REFERENCE           LOST_WP
-LANG_ENGLISH     "^1You lose your weapons."
+LANG_ENGLISH     "^1You lose your weapons!"
 
 REFERENCE           UNLIMIT
-LANG_ENGLISH     "Unlimited equipment for 1 minute!"
+LANG_ENGLISH     "Infinite equipment for 1 minute!"
 
 REFERENCE           ONCE
 LANG_ENGLISH     "Gambler is only allowed once per round."
 
 REFERENCE           UNLIMIT2
-LANG_ENGLISH     "Unlimited equipment is over."
+LANG_ENGLISH     "Infinite equipment over."
 
 REFERENCE           GAMBLERD
 LANG_ENGLISH     "^7 gambled - ^7"
