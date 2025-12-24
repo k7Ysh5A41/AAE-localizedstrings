@@ -270,7 +270,7 @@ REFERENCE           AMMOBAG
 LANG_ENGLISH     "Disable Ammo Bag (Spawns On Player Every 10 Rounds)"
 
 REFERENCE           SLOTHUD
-LANG_ENGLISH     "Disable Empty Perk Slots (Gain/Lose Perk To Update)"
+LANG_ENGLISH     "Disable Empty Perk Slots (Restart Required)"
 
 REFERENCE           STABAR
 LANG_ENGLISH     "Disable Stamina Bar"
