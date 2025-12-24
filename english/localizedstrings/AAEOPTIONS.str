@@ -282,7 +282,7 @@ REFERENCE           BGB_START
 LANG_ENGLISH     "Gobblegum Machine Activation Wave"
 
 REFERENCE           C4ENDING
-LANG_ENGLISH     "C4 Buyable Ending (150k Points / Wave 35 Required)"
+LANG_ENGLISH     "C4 Buyable Ending (150k Points and Wave 35 Required)"
 
 REFERENCE           GUNPOS
 LANG_ENGLISH     "First Person Arm Model Position"
