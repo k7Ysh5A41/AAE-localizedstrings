@@ -441,7 +441,7 @@ REFERENCE            ROAMERTIME
 LANG_ENGLISH         "Max Roamer Time"
 
 REFERENCE            ROMAER_DESC
-LANG_ENGLISH         "Roamer adds an intermission between every rounds. No more crawlers! To start the next round immediately, press ADS + Melee."
+LANG_ENGLISH         "Roamer adds an intermission between every round. No more crawlers! To start the next round immediately, press ADS + Melee."
 
 REFERENCE            ROAMERTIME_DESC
 LANG_ENGLISH         "Choose the maximum amount of time you have between rounds."
