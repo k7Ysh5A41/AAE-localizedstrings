@@ -27,7 +27,7 @@ REFERENCE           DISABLE_AFK
 LANG_ENGLISH     "Disable AFK"
 
 REFERENCE           BGB_DROP
-LANG_ENGLISH     "Gobblegum Powerup Drops"
+LANG_ENGLISH     "Gobblegum Power-Up Behavior"
 
 REFERENCE           FPS
 LANG_ENGLISH     "Potato Graphics"
@@ -36,7 +36,7 @@ REFERENCE           SM
 LANG_ENGLISH     "Display Movement Speed Statistics"
 
 REFERENCE           AAT
-LANG_ENGLISH     "Disable AAT"
+LANG_ENGLISH     "Disable Alternate Ammo Types (AATs)"
 
 REFERENCE           ADS
 LANG_ENGLISH     "Disable ADS Zoom"
@@ -48,10 +48,10 @@ REFERENCE           GRENADE_BAR
 LANG_ENGLISH     "Disable Grenade Countdown"
 
 REFERENCE           LH_GES
-LANG_ENGLISH     "Disable Left Hand Gesture"
+LANG_ENGLISH     "Disable Left Hand Gestures"
 
 REFERENCE           FSF
-LANG_ENGLISH     "Disable Fullscreen Flash"
+LANG_ENGLISH     "Disable Fullscreen Flashes"
 
 REFERENCE           FSFB
 LANG_ENGLISH     "Swap Fullscreen Flash From White To Black"
@@ -162,7 +162,7 @@ REFERENCE           FLOD
 LANG_ENGLISH     "Force High LOD Rendering (Performance Intensive)"
  
 REFERENCE           BB
-LANG_ENGLISH     "Disable Cinematic Letterboxing (Black Bars)"
+LANG_ENGLISH     "Disable Letterboxing (Black Bars)"
  
 REFERENCE           STARTINTRO
 LANG_ENGLISH     "Disable Fly-In Start Intro"
@@ -318,13 +318,13 @@ REFERENCE           IE_OVERLAY
 LANG_ENGLISH     "Disable Idle Eyes Filter"
 
 REFERENCE           HPBAR_RANDOM_NAMES
-LANG_ENGLISH     "Enabled, Use Random Names"
+LANG_ENGLISH     "Enabled - Use Random Names"
 
 REFERENCE           PLAYER_HEALTHBAR
 LANG_ENGLISH     "Player Overhead Health Bar"
 
 REFERENCE           BGB_NOULTRA
-LANG_ENGLISH     "Enabled, No Ultra-Rare"
+LANG_ENGLISH     "Enabled - No Ultra-Rares"
 
 REFERENCE           RELOADCANCEL
 LANG_ENGLISH     "Enable Sprint Reload (Speed Cola Bonus Not Included)"
@@ -339,10 +339,10 @@ REFERENCE           WEAPON_KIT_PAP
 LANG_ENGLISH     "Apply Weapon Kit Upon PAP"
 
 REFERENCE           GRENADE_PREDICATION
-LANG_ENGLISH     "Grenade Prediction"
+LANG_ENGLISH     "Grenade Projection"
 
 REFERENCE           GRENADE_PREDICATION_OPTION1
-LANG_ENGLISH     "Prediction Line And Timer"
+LANG_ENGLISH     "Prediction Line And Fuse Timer"
 
 REFERENCE           GRENADE_PREDICATION_OPTION2
 LANG_ENGLISH     "Fuse Timer Only"

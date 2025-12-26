@@ -33,22 +33,22 @@ REFERENCE           LOSTMONEY
 LANG_ENGLISH     "^1You lost all your money!"
 
 REFERENCE           SHIELD_FIX
-LANG_ENGLISH     "^2you got the riotshield fix!"
+LANG_ENGLISH     "^2You win the Zombie Shield Fix!"
 
 REFERENCE           WIN_SHIELD
-LANG_ENGLISH     "^2You win a riotshield on your back!"
+LANG_ENGLISH     "^2You win a Zombie Shield!"
 
 REFERENCE           NO_SHIELD
-LANG_ENGLISH     "^2You won a riotshield, but we can't give it to you."
+LANG_ENGLISH     "^2You won a Zombie Shield, but we can't give it to you."
 
 REFERENCE           AIRSTRIKE_CL
-LANG_ENGLISH     "^1Airstrike at your location."
+LANG_ENGLISH     "^1Airstrike at your location!"
 
 REFERENCE           W20000
 LANG_ENGLISH     "^2You win ^BBUTTON_COD_POINT_ICON^20000."
 
 REFERENCE           LIVE_DIE
-LANG_ENGLISH     "^1You live or die in 5 seconds."
+LANG_ENGLISH     "^1You either live or die in 5 seconds!"
 
 REFERENCE           LIVE
 LANG_ENGLISH     "^2You live!"
@@ -60,34 +60,34 @@ REFERENCE           HEIST
 LANG_ENGLISH     "^3Heist!"
 
 REFERENCE           RESTART
-LANG_ENGLISH     "^1Gambler restart."
+LANG_ENGLISH     "^1Gambler ready."
 
 REFERENCE           ALL_DIE
-LANG_ENGLISH     "^0After 5 seconds everyone dies or the idiot dies."
+LANG_ENGLISH     "^0After 5 seconds either the idiot or everyone else dies."
 
 REFERENCE           SB_DIE
-LANG_ENGLISH     "^1Idiot died."
+LANG_ENGLISH     "^1Idiot died!"
 
 REFERENCE           SB_LIVE
-LANG_ENGLISH     "^1Booooom! Everyone gets killed by the idiots! Idiots survives! Idiots gain a free Perkaholic!"
+LANG_ENGLISH     "^1Booooom! Everyone gets killed by the idiot! Idiot wins a free Perkaholic!"
 
 REFERENCE           RICH
-LANG_ENGLISH     "^3Become rich!"
+LANG_ENGLISH     "^3You're rich!"
 
 REFERENCE           AIRSTRIKE_ZM
 LANG_ENGLISH     "^2Precision Airstrike incoming!"
 
 REFERENCE           LOST_WP
-LANG_ENGLISH     "^1You lose all your weapons."
+LANG_ENGLISH     "^1You lose your weapons!"
 
 REFERENCE           UNLIMIT
-LANG_ENGLISH     "Unlimited equipment for 1 minute."
+LANG_ENGLISH     "Infinite equipment for 1 minute!"
 
 REFERENCE           ONCE
 LANG_ENGLISH     "Gambler is only allowed once per round."
 
 REFERENCE           UNLIMIT2
-LANG_ENGLISH     "Unlimited equipment is over."
+LANG_ENGLISH     "Infinite equipment over."
 
 REFERENCE           GAMBLERD
 LANG_ENGLISH     "^7 gambled - ^7"
