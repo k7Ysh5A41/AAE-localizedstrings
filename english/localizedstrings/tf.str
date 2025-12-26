@@ -252,7 +252,7 @@ REFERENCE            SE_DESC
 LANG_ENGLISH         "Similar to Black Ops: Cold War, score events will appear next to the crosshair."
 
 REFERENCE            TIMEPLAY_DESC
-LANG_ENGLISH         "Enables timed gameplay mode. When active, zombies don't stop spawning and the goal is to last as long as possible. Not compatible with roamer or the zombie counter."
+LANG_ENGLISH         "Zombies won't stop spawning, and grow stronger over time. Last as long as possible!\n\n^1Notice:^7Not compatible with Roamer or the Zombie Counter."
 
 REFERENCE            DOOR_DESC
 LANG_ENGLISH         "Opens all doors on the map."
@@ -276,7 +276,7 @@ REFERENCE            GAME_TITLE
 LANG_ENGLISH         "GAME OPTIONS"
 
 REFERENCE            BOX_FILTER_DESC
-LANG_ENGLISH         "These filters allow you to change the Mystery Box weapon pool.\n\n^1Notice:^7 It's NOT possible to add exclusive weapons from one map into the Mystery Box of a different map."
+LANG_ENGLISH         "Modify the Mystery Box weapon pool.\n\n^1Notice:^7 It's NOT possible to add exclusive weapons from one map into the Mystery Box of a different map."
 
 REFERENCE            T4
 LANG_ENGLISH         "Disable WAW Weapons"
@@ -432,7 +432,7 @@ REFERENCE            MAXAMMO_DESC
 LANG_ENGLISH         "Max Ammo power-ups refill magazines and reserves."
 
 REFERENCE            MAXAMMO
-LANG_ENGLISH         "BO4 Maxammo"
+LANG_ENGLISH         "BO4 Max Ammo"
 
 REFERENCE            ROAMER
 LANG_ENGLISH         "Roamer Option"

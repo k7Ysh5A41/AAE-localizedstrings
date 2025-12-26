@@ -60,7 +60,7 @@ REFERENCE           RESTART_HINT
 LANG_ENGLISH     "You can now open the pause menu to restart."
 
 REFERENCE           BACKHEAD
-LANG_ENGLISH     "Back-Of-Head view"      
+LANG_ENGLISH     "Back-Of-Head View"      
 
 REFERENCE           UICOLOR
 LANG_ENGLISH     "UI Color"      

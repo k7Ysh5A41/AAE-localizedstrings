@@ -294,7 +294,7 @@ REFERENCE           UPDATE_ASPECT_RATIO
 LANG_ENGLISH     "Update the Aspect Ratio"
 
 REFERENCE           LITE_ONLY
-LANG_ENGLISH     "Only compatible with AAE Lite"
+LANG_ENGLISH     "AAE Lite Required"
 
 REFERENCE           LOBBY_SIZE
 LANG_ENGLISH     "Manage Party Settings"
