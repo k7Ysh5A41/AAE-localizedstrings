@@ -45,7 +45,7 @@ REFERENCE           THE_ZM
 LANG_ENGLISH     " ^7Zombies!"
 
 REFERENCE           GIVE_GUM
-LANG_ENGLISH     "Gobblegum ^5"
+LANG_ENGLISH     "GobbleGum ^5"
 
 REFERENCE           GIVE_AAT
 LANG_ENGLISH     "AAT ^5"
