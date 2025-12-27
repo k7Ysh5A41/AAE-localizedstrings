@@ -60,7 +60,7 @@ REFERENCE           HEIST
 LANG_ENGLISH     "^3Heist!"
 
 REFERENCE           RESTART
-LANG_ENGLISH     "^1Gambler ready."
+LANG_ENGLISH     "^1Gambler restart."
 
 REFERENCE           ALL_DIE
 LANG_ENGLISH     "^0After 5 seconds either the idiot or everyone else dies."
