@@ -258,7 +258,7 @@ REFERENCE           NO_SUPPORT_LINE2
 LANG_ENGLISH     "\n\n\n^21^7. Are You Launching Black Ops III Using ^BBUTTON_CYCLE_RIGHT^ Steam Client? (Non-Steam Game Options Don't Count)"
 
 REFERENCE           NO_SUPPORT_LINE3
-LANG_ENGLISH     "\n\n\n\n^22^7. Have You Purchased and Own Black Ops III On Your Current ^BBUTTON_CYCLE_RIGHT^ Steam Account ?"
+LANG_ENGLISH     "\n\n\n\n^22^7. Do You Own Black Ops III On Your Current ^BBUTTON_CYCLE_RIGHT^ Steam Account?"
 
 REFERENCE           NO_SUPPORT_LINE4
 LANG_ENGLISH     "\n\n\n\n\n^23^7. Are You Currently Using a Device or Operating System That is ^5Windows 10 ^7/ ^5Windows 11 ^7/ ^5Steam Deck ^7/ ^5Linux ^7?"
@@ -279,7 +279,7 @@ REFERENCE           AUTOLEAN
 LANG_ENGLISH     "Disable Auto Leaning"
 
 REFERENCE           BGB_START
-LANG_ENGLISH     "Gobblegum Machine Activation Round"
+LANG_ENGLISH     "First Gobblegum Machine Round"
 
 REFERENCE           C4ENDING
 LANG_ENGLISH     "C4 Buyable Ending (150k Points and Round 35 Required)"
