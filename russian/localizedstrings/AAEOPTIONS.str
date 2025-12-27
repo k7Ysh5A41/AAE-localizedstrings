@@ -180,7 +180,7 @@ REFERENCE           HINTICON
 LANG_ENGLISH     "Отключить иконку подсказки"
 
 REFERENCE           PERKSLOT
-LANG_ENGLISH     "Выпадение бонуса для перк слотов"
+LANG_ENGLISH     "Бонус перк слотов"
 
 REFERENCE           RELOADPROMPT
 LANG_ENGLISH     "Отключить подсказку перезарядки"
@@ -315,7 +315,7 @@ REFERENCE           BATTLECHAT
 LANG_ENGLISH        "Отключить субтитры взаимодействия игроков"
 
 REFERENCE           IE_OVERLAY
-LANG_ENGLISH        "Отключить фильтр пустого места"
+LANG_ENGLISH        "Отключить фильтр губльгама пустого места"
 
 REFERENCE           HPBAR_RANDOM_NAMES
 LANG_ENGLISH        "Включить и использовать случайные имена"
@@ -342,13 +342,13 @@ REFERENCE           GRENADE_PREDICATION
 LANG_ENGLISH     "Прогнозирование гранаты"
 
 REFERENCE           GRENADE_PREDICATION_OPTION1
-LANG_ENGLISH     "Прогнозирование и предохранитель"
+LANG_ENGLISH     "Прогноз. и предохранитель"
 
 REFERENCE           GRENADE_PREDICATION_OPTION2
-LANG_ENGLISH     "Период действия предохранителя"
+LANG_ENGLISH     "Время предохранителя"
 
 REFERENCE           GRENADE_PREDICATION_OPTION3
-LANG_ENGLISH     "Прогнозирование траектории"
+LANG_ENGLISH     "Прогноз. траектории"
 
 
 ENDMARKER
