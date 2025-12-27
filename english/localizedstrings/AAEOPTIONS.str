@@ -27,7 +27,7 @@ REFERENCE           DISABLE_AFK
 LANG_ENGLISH     "Disable AFK"
 
 REFERENCE           BGB_DROP
-LANG_ENGLISH     "Gobblegum Power-Up Behavior"
+LANG_ENGLISH     "GobbleGum Power-Up Behavior"
 
 REFERENCE           FPS
 LANG_ENGLISH     "Potato Graphics"
@@ -279,7 +279,7 @@ REFERENCE           AUTOLEAN
 LANG_ENGLISH     "Disable Auto Leaning"
 
 REFERENCE           BGB_START
-LANG_ENGLISH     "First Gobblegum Machine Round"
+LANG_ENGLISH     "First GobbleGum Machine Round"
 
 REFERENCE           C4ENDING
 LANG_ENGLISH     "C4 Buyable Ending (150k Points and Round 35 Required)"
