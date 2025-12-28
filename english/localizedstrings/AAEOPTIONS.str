@@ -27,7 +27,7 @@ REFERENCE           DISABLE_AFK
 LANG_ENGLISH     "Disable AFK"
 
 REFERENCE           BGB_DROP
-LANG_ENGLISH     "Gobblegum Power-Up Behavior"
+LANG_ENGLISH     "GobbleGum Power-Up Behavior"
 
 REFERENCE           FPS
 LANG_ENGLISH     "Potato Graphics"
@@ -189,7 +189,7 @@ REFERENCE           PERKSLOT_SELF
 LANG_ENGLISH     "Enabled - Add To Self"
  
 REFERENCE           PERKSLOT_ALL
-LANG_ENGLISH     "Enabled - Add To All"
+LANG_ENGLISH     "Enabled - Add To Everyone"
  
 REFERENCE           SEEWALL
 LANG_ENGLISH     "Disable Seeing Player Names Through Walls"
@@ -201,7 +201,7 @@ REFERENCE           TOMBNAME
 LANG_ENGLISH     "Disable Origins Giant Robot Names"
  
 REFERENCE           ZA
-LANG_ENGLISH     "Disable Zone Announcer"
+LANG_ENGLISH     "Disable Zone Announcer Text"
  
 REFERENCE           SELFHP
 LANG_ENGLISH     "Disable Self Health Bar"
@@ -258,13 +258,13 @@ REFERENCE           NO_SUPPORT_LINE2
 LANG_ENGLISH     "\n\n\n^21^7. Are You Launching Black Ops III Using ^BBUTTON_CYCLE_RIGHT^ Steam Client? (Non-Steam Game Options Don't Count)"
 
 REFERENCE           NO_SUPPORT_LINE3
-LANG_ENGLISH     "\n\n\n\n^22^7. Have You Purchased and Own Black Ops III On Your Current ^BBUTTON_CYCLE_RIGHT^ Steam Account ?"
+LANG_ENGLISH     "\n\n\n\n^22^7. Do You Own Black Ops III On Your Current ^BBUTTON_CYCLE_RIGHT^ Steam Account?"
 
 REFERENCE           NO_SUPPORT_LINE4
 LANG_ENGLISH     "\n\n\n\n\n^23^7. Are You Currently Using a Device or Operating System That is ^5Windows 10 ^7/ ^5Windows 11 ^7/ ^5Steam Deck ^7/ ^5Linux ^7?"
 
 REFERENCE           MWZCOLOR
-LANG_ENGLISH     "BO6 Teammate Colors (Restart Required)"
+LANG_ENGLISH     "Black Ops 6 Team Colors (Restart Required)"
 
 REFERENCE           AMMOBAG
 LANG_ENGLISH     "Disable Ammo Bag (Spawns On Player Every 10 Rounds)"
@@ -279,7 +279,7 @@ REFERENCE           AUTOLEAN
 LANG_ENGLISH     "Disable Auto Leaning"
 
 REFERENCE           BGB_START
-LANG_ENGLISH     "Gobblegum Machine Activation Round"
+LANG_ENGLISH     "First GobbleGum Machine Round"
 
 REFERENCE           C4ENDING
 LANG_ENGLISH     "C4 Buyable Ending (150k Points and Round 35 Required)"

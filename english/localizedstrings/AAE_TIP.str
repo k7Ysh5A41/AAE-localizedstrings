@@ -27,13 +27,13 @@ REFERENCE           FREEGUM_TITLE
 LANG_ENGLISH     "Free Anywhere But Here!"
 
 REFERENCE           FREEGUM_CONTENT
-LANG_ENGLISH     "You can get one “Anywhere But Here” gobblegum from here."
+LANG_ENGLISH     "You can get one “Anywhere But Here” GobbleGum from here."
 
 REFERENCE           AA_AMMO_CHANCE_TITLE
 LANG_ENGLISH     "Increase the probability of the AA Ammo"
 
 REFERENCE           AA_AMMO_CHANCE_CONTENT
-LANG_ENGLISH     "Lucky Crit Gobblegum will increase the probability of AA gun ammo spawning to 100%"
+LANG_ENGLISH     "Lucky Crit GobbleGum will increase the probability of AA gun ammo spawning to 100%"
 
 REFERENCE           GIANT_PERK_EE_TITLE
 LANG_ENGLISH     "5th Perk Machine EE"
@@ -63,7 +63,7 @@ REFERENCE           MOON_DIGGER_HACKING_TITLE
 LANG_ENGLISH     "Excavator controls are now hackable"
 
 REFERENCE           MOON_DIGGER_HACKING_CONTENT
-LANG_ENGLISH     "Hacking cost for Omicron and Epsilon panels is 1000\nPi panel hacking cost is 5000 if the Gobblegum Machine is disabled or random Gobblegums are enabled\nIf not, Pi panel hacking will be disabled until round 10 and cost is changed to 50000\nIf Tunnel 6 is destroyed before hacking, the Pi panel cost is changed to 1000"
+LANG_ENGLISH     "Hacking cost for Omicron and Epsilon panels is 1000\nPi panel hacking cost is 5000 if the GobbleGum Machine is disabled or random GobbleGums are enabled\nIf not, Pi panel hacking will be disabled until round 10 and cost is changed to 50000\nIf Tunnel 6 is destroyed before hacking, the Pi panel cost is changed to 1000"
 
 REFERENCE           MOON_EE_ITEM_TITLE
 LANG_ENGLISH     "Geting EE items from the Jump Pad"
@@ -111,9 +111,9 @@ REFERENCE           FREE_LANDER
 LANG_ENGLISH     "Ignore Lander saying it costs 250. It's actually free."
 
 REFERENCE           PHD_UPGRADE_TITLE
-LANG_ENGLISH     "PhD Flopper Upgrade Steps"
+LANG_ENGLISH     "PhD Flopper Information"
 
 REFERENCE           PHD_UPGRADE
-LANG_ENGLISH     "PhD Flopper can be be aquired by using any Gobblegum or dropping points here to trigger the purchase\n^2[^7requires an additional 2000 points^2]\n^5Provides immunity to explosion and fall damage and explosion effects with excessively high jump heights\n\n^3PhD upgrade quest\n^11. ^7Any player get maximum board repair reward in each wave before round 4\n^2[^7carpenter and hacker don't count^2]\n^12. ^7Any player complete 115 grenade kills\n\n^3After completion, the following additional effects will be added^7:\n^11. ^7After throwing a grenade, it will spawn an additional 10 slaughter slide grenades\n^12. ^7Sliding speed increased to 150%\n^2[^7Each time you slide 15 meters, an explosion is triggered^2]\n^13. ^72 sliding explosions can activate the super slide\n^2[^7Hold down the button before sliding to activate the super slide, keyboard is F and the controller is Y^2]\n^14. ^7Every 2 Super Slides activate area bombing\n^2[^7Fire your weapon while performing a super slide to activate^2]"
+LANG_ENGLISH     "PhD Flopper can be purchased for^3 2000 points ^7next to Widow's Wine by using a GobbleGum or dropping points.\n^5Effects:^7 Explosive and fall damage immunity. Triggers explosion when landing from a fall.\n\n^3Upgrade Steps^7\n1. One player must get max window repair points every round until round 4. \n2. One player must get 115 grenade kills.\n\n^3Upgraded Effects^7\n1. Grenades fracture into 10 Slaughter Slide grenades.\n2. Sliding speed increased. Sliding 15 meters triggers an explosion.\n3. Triggers Super Slide every 2 sliding explosions. Hold F on keyboard or Y on controller to activate.\n4. Triggers Area Bombardment every 2 Super Slides. Fire weapon during Super Slide to activate."
 
 ENDMARKER
