@@ -21,7 +21,7 @@ REFERENCE           PREPATCH_BGB
 LANG_ENGLISH     "Pre-Patch GobbleGum Machine"
 
 REFERENCE           PREPATCH_BGB_DESC
-LANG_ENGLISH     "The GobbleGum Machine will be reverted to how it worked prior to being changed. This will change the following:\n  - Can only be used once per round.\n  - Gobblegum machines will have a chance to be closed and open in other locations.\n  - The default price is 500."
+LANG_ENGLISH     "GobbleGum Machines will be reverted to how they worked prior to being patched. This will change the following:\n  - Can only be used once per round.\n  - Only some GobbleGum Machines will be open each round.\n  - The default price is 500 points."
 
 REFERENCE           ZOMBIE_COUNT
 LANG_ENGLISH     "Zombie Round Amount Algorithm"

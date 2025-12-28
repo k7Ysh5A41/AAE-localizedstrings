@@ -21,7 +21,7 @@ REFERENCE           TOMB
 LANG_ENGLISH     "Stable up to 8 players."
 
 REFERENCE           STALINGRAD
-LANG_ENGLISH     "^31.^7Only the host can get the challenge reward, and the UI for all challenges has been disabled\n^32.^7 Only 3 players can ride the dragon. If there are 4 players riding the dragon, the rest of the players will glitch.\n^33.^7 After the EE is completed, additional players will not be teleported to the spawn location\n^34.^7 All EEs can be successfully completed when the total number of players is 8."
+LANG_ENGLISH     "^31.^7 Only the host can get the challenge reward, and the UI for all challenges has been disabled\n^32.^7 Only 3 players can ride the dragon. If there are 4 players riding the dragon, the rest of the players will glitch.\n^33.^7 After the EE is completed, additional players will not be teleported to the spawn location\n^34.^7 All EEs can be successfully completed when the total number of players is 8."
 
 REFERENCE           DESC
 LANG_ENGLISH     "^3Details of the 'Connection Interrupted' problem that occurs mid-game^7:\nWhen some maps exceed the specified player limit, some features of this mod will stop loading to ensure maximum game stability. To further improve game stability, please do not use wonder and explosive weapons. For some unknown reason, the game will still show 'Connection Interrupted' randomly. There is no perfect solution to this situation, because the game engine can't provide the computing power to deal with so much player data."

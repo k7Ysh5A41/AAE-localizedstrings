@@ -27,7 +27,7 @@ REFERENCE           TRADE_DESC
 LANG_ENGLISH     "Trade weapons with another player. Walk up to the player you want to trade with and look at their gun. Both players must then hold the prompt on-screen until the bar is full for each player."
 
 REFERENCE           GAMBLER_DESC
-LANG_ENGLISH     "Spawns a floating Lucky 8 ball at the player spawn location. Interact with it for random effects! Some are good, some are bad, some are weird. It’s a gamble!"
+LANG_ENGLISH     "Spawns a floating Lucky 8 ball at the player's spawn location. Interact with it for random effects! Some are good, some are bad, some are weird. It’s a gamble!"
 
 REFERENCE           SOLOREVIVE
 LANG_ENGLISH     "Unlimited Use of Quick Revive in Solo"
