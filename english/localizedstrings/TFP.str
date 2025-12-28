@@ -9,7 +9,7 @@ REFERENCE           EXTPLAYER
 LANG_ENGLISH     "Manage Party Settings"
 
 REFERENCE           EXTPLAYER_DESC
-LANG_ENGLISH     "Change Player Limit and Party Privacy. \n\n^1Notice:^7 Increasing the Player Limit beyond 4 can be unstable. Increasing it beyond 5 will disable GobbleGum Machines.\n\nMap support details:\nZombies Chronicles\n^2Stable / Main EE Compatible^7\n\nSOE/DE/GK\n^3Less Stable / Main EE Compatible^7\n\nOther Treyarch Maps\n^3Less Stable^7\nCustom Maps: Unknown"
+LANG_ENGLISH     "Change Player Limit and Party Privacy. \n\n^1Notice:^7 Increasing the Player Limit beyond 4 can be unstable. Increasing it beyond 5 will disable GobbleGum Machines.\n\nMap support details:\nZombies Chronicles\n^2Stable / Easter Egg Compatible^7\n\nSOE / The Giant / DE / GK\n^3Less Stable / Easter Egg Compatible^7\n\nZNS / Revelations\n^3Less Stable^7\nCustom Maps: Unknown"
 
 REFERENCE           FFFIVE
 LANG_ENGLISH     "Enabled - Can't Kill"

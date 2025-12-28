@@ -111,9 +111,9 @@ REFERENCE           FREE_LANDER
 LANG_ENGLISH     "Ignore Lander saying it costs 250. It's actually free."
 
 REFERENCE           PHD_UPGRADE_TITLE
-LANG_ENGLISH     "PhD Flopper Upgrade Steps"
+LANG_ENGLISH     "PhD Flopper Information"
 
 REFERENCE           PHD_UPGRADE
-LANG_ENGLISH     "PhD Flopper can be be aquired by using any GobbleGum or dropping points here to trigger the purchase\n^2[^7requires an additional 2000 points^2]\n^5Provides immunity to explosion and fall damage and explosion effects with excessively high jump heights\n\n^3PhD upgrade quest\n^11. ^7Any player get maximum board repair reward in each wave before round 4\n^2[^7carpenter and hacker don't count^2]\n^12. ^7Any player complete 115 grenade kills\n\n^3After completion, the following additional effects will be added^7:\n^11. ^7After throwing a grenade, it will spawn an additional 10 slaughter slide grenades\n^12. ^7Sliding speed increased to 150%\n^2[^7Each time you slide 15 meters, an explosion is triggered^2]\n^13. ^72 sliding explosions can activate the super slide\n^2[^7Hold down the button before sliding to activate the super slide, keyboard is F and the controller is Y^2]\n^14. ^7Every 2 Super Slides activate area bombing\n^2[^7Fire your weapon while performing a super slide to activate^2]"
+LANG_ENGLISH     "PhD Flopper can be purchased for^3 2000 points ^7next to Widow's Wine by using a GobbleGum or dropping points.\n^5Effects:^7 Explosive and fall damage immunity. Triggers explosion when landing from a fall.\n\n^3Upgrade Steps^7\n1. One player must get maximum board repair points in every round until round 4. Carpenter and Hacker don't count.\n2. One player must get 115 grenade kills.\n\n^3Upgraded Effects^7\n1. Grenades fracture into 10 Slaughter Slide grenades.\n2. Sliding speed increased. Sliding 15 meters triggers an explosion.\n3. After 2 sliding explosions, triggers Super Slide. Hold F on keyboard or Y on controller to activate.\n4. Every 2 Super Slides triggers Area Bombardment. Fire weapon during Super Slide to activate."
 
 ENDMARKER

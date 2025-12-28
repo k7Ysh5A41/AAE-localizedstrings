@@ -6,25 +6,25 @@ CONFIG              "C:\projects\cod\t7\bin\StringEd.cfg"
 FILENOTES           ""
 
 REFERENCE           ZOD
-LANG_ENGLISH     "^31.^7To upgrade the sword, extra players cannot take the egg. If an extra player's character is the same as a non-extra player, the extra player can kill and recharge the egg together with the non-extra player.\n^32.^7When the Keeper's sword is taken, do not continue to allow players to join the lobby, otherwise the boss fight will not work\n^33.^7Only 5 Margwa helmets will be spawned.\n^34.^7All EEs can be successfully completed when the total number of players is 8."
+LANG_ENGLISH     "^31.^7 To upgrade the sword, extra players cannot take the egg. If an extra player's character is the same as a non-extra player, the extra player can kill and recharge the egg together with the non-extra player.\n^32.^7 When the Keeper's sword is taken, do not allow players to join the lobby, otherwise the boss fight will not work.\n^33.^7 Only 5 Margwa helmets will be spawned.\n^34.^7 All EEs can be successfully completed when the total number of players is 8."
 
 REFERENCE           CASTLE
-LANG_ENGLISH     "^31.^7Additional players will need to plant the Ragnarok DG-4 in an area near the MPD. There will be an additional Ragnarok DG-4 model in the location where it needs to be planted)\n^32.^7Bow duplication has been disabled\n^33.^7All EEs can be successfully completed when the total number of players is 8."
+LANG_ENGLISH     "^31.^7 Extra players need to plant the Ragnarok DG-4 in an area near the MPD. There will be an additional Ragnarok DG-4 model in the location where it needs to be planted.\n^32.^7 Bow duplication has been disabled.\n^33.^7 All EEs can be successfully completed when the total number of players is 8."
 
 REFERENCE           ISLAND
-LANG_ENGLISH     "Stable work only in 4 players"
+LANG_ENGLISH     "Stable up to 4 players."
 
 REFERENCE           GENESIS
-LANG_ENGLISH     "Stable work only in 4 players"
+LANG_ENGLISH     "Stable up to 4 players."
 
 REFERENCE           TOMB
-LANG_ENGLISH     "Stable work only in 8 players"
+LANG_ENGLISH     "Stable up to 4 players."
 
 REFERENCE           STALINGRAD
-LANG_ENGLISH     "^31.^7Only the host can get the challenge reward and the UI for all challenges has been disabled\n^32.^7Only 3 players can ride the dragon, if there are 4 players riding the dragon, the rest of the players will glitch\n^33.^7After the EE is completed, additional players will not be teleported to the spawn location\n^34.^7All EEs can be successfully completed when the total number of players is 8."
+LANG_ENGLISH     "^31.^7Only the host can get the challenge reward, and the UI for all challenges has been disabled\n^32.^7 Only 3 players can ride the dragon. If there are 4 players riding the dragon, the rest of the players will glitch.\n^33.^7 After the EE is completed, additional players will not be teleported to the spawn location\n^34.^7 All EEs can be successfully completed when the total number of players is 8."
 
 REFERENCE           DESC
-LANG_ENGLISH     "^3Details of the 'Connection Interrupted' problem that occurs mid-game^7:\nWhen some maps exceed the specified player limit, some features of this mod will stop loading to ensure maximum game stability, to further improve game stability, please do not use wonder weapons and explosive weapons. As well as some unknown reasons may cause the game will still appear 'Connection Interrupted' problem, there is no perfect solution to this situation, because the game engine can provide the computing power to deal with so much player data is limited."
+LANG_ENGLISH     "^3Details of the 'Connection Interrupted' problem that occurs mid-game^7:\nWhen some maps exceed the specified player limit, some features of this mod will stop loading to ensure maximum game stability. To further improve game stability, please do not use wonder and explosive weapons. For some unknown reason, the game will still show 'Connection Interrupted' randomly. There is no perfect solution to this situation, because the game engine can't provide the computing power to deal with so much player data."
 
 REFERENCE           HELP
 LANG_ENGLISH         "^2Supported chat commands^7:\n\n^5Transfer all points to the specified player\n^7/transfer/{player num}\n^5Deposit all points into the bank\n^7/dep\n^5Check Balance\n^7/bal\n^5Knocked down immediately\n^7/s\n^5Chat Duration\n^7/ct/{second}\n^5Player Emotes\n^7/a/{1-14}\n^5Gambler\n^7/g\n^5Reload current weapon\n^7/r\n^5EE Counter(It takes some time to load the data, so it will be a bit slow)\n^7/ee\n^5Teleport to other players (requires AF enabled or a player limit of more than 4)\n^7/tp/{player num}\n^5Manually update bank to career\n^7/save\n^5Respawn Ammo Bag\n^7/ammo"
