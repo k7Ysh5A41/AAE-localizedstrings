@@ -96,7 +96,7 @@ REFERENCE            OCTOBOMB_PAP
 LANG_ENGLISH         "Нажмите ^3[{+melee}]^7 чтобы улучшить маленького Арни [Стоимость: 5000]"
 
 REFERENCE            ZOMBIE_BASE_HEALTH
-LANG_ENGLISH         "Множитель базового здоровья зомби"
+LANG_ENGLISH         "Базовое здоровье зомби"
 
 REFERENCE          VE_MAP
 LANG_ENGLISH       "КАРТЫ С ОДНИМ ОКНОМ"
