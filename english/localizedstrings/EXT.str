@@ -18,7 +18,7 @@ REFERENCE           GENESIS
 LANG_ENGLISH     "Stable up to 4 players."
 
 REFERENCE           TOMB
-LANG_ENGLISH     "Stable up to 4 players."
+LANG_ENGLISH     "Stable up to 8 players."
 
 REFERENCE           STALINGRAD
 LANG_ENGLISH     "^31.^7Only the host can get the challenge reward, and the UI for all challenges has been disabled\n^32.^7 Only 3 players can ride the dragon. If there are 4 players riding the dragon, the rest of the players will glitch.\n^33.^7 After the EE is completed, additional players will not be teleported to the spawn location\n^34.^7 All EEs can be successfully completed when the total number of players is 8."
