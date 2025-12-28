@@ -189,7 +189,7 @@ REFERENCE           PERKSLOT_SELF
 LANG_ENGLISH     "Enabled - Add To Self"
  
 REFERENCE           PERKSLOT_ALL
-LANG_ENGLISH     "Enabled - Add To All"
+LANG_ENGLISH     "Enabled - Add To Everyone"
  
 REFERENCE           SEEWALL
 LANG_ENGLISH     "Disable Seeing Player Names Through Walls"
@@ -201,7 +201,7 @@ REFERENCE           TOMBNAME
 LANG_ENGLISH     "Disable Origins Giant Robot Names"
  
 REFERENCE           ZA
-LANG_ENGLISH     "Disable Zone Announcer"
+LANG_ENGLISH     "Disable Zone Announcer Text"
  
 REFERENCE           SELFHP
 LANG_ENGLISH     "Disable Self Health Bar"
@@ -264,7 +264,7 @@ REFERENCE           NO_SUPPORT_LINE4
 LANG_ENGLISH     "\n\n\n\n\n^23^7. Are You Currently Using a Device or Operating System That is ^5Windows 10 ^7/ ^5Windows 11 ^7/ ^5Steam Deck ^7/ ^5Linux ^7?"
 
 REFERENCE           MWZCOLOR
-LANG_ENGLISH     "BO6 Teammate Colors (Restart Required)"
+LANG_ENGLISH     "Black Ops 6 Team Colors (Restart Required)"
 
 REFERENCE           AMMOBAG
 LANG_ENGLISH     "Disable Ammo Bag (Spawns On Player Every 10 Rounds)"
