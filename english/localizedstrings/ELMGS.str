@@ -56,6 +56,12 @@ LANG_ENGLISH     "Krasnoyarsk Krai"
 REFERENCE           COAST_LINE3
 LANG_ENGLISH     "CALL OF THE DEAD"
 
+REFERENCE           COAST_TITLE
+LANG_ENGLISH     "Call of The Dead"
+
+REFERENCE           COAST_DESC
+LANG_ENGLISH     "A shipwrecked crew of fearless explorers is hopelessly stranded in an abandoned Siberian outpost. Their dream of discovering the true origins of Element 115 unravels into a hellish nightmare."
+
 REFERENCE           TEMPLE_LINE1
 LANG_ENGLISH     "Time Travel Will Tell"
 
@@ -73,6 +79,12 @@ LANG_ENGLISH     "Alcatraz Island"
 
 REFERENCE           MOB_LINE2
 LANG_ENGLISH     "San Francisco Bay, USA"
+
+REFERENCE           MOB_TITLE
+LANG_ENGLISH     "Mob of The Dead"
+
+REFERENCE           MOB_DESC
+LANG_ENGLISH     "Battle the undead as you attempt to break free from the physical and metaphorical incarceration of Alcatraz Prison."
 
 REFERENCE           LEV_LINE1
 LANG_ENGLISH     "Leviathan"
