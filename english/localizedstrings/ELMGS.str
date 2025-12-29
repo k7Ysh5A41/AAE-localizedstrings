@@ -54,6 +54,9 @@ REFERENCE           COAST_LINE2
 LANG_ENGLISH     "Krasnoyarsk Krai"
 
 REFERENCE           COAST_LINE3
+LANG_ENGLISH     "CALL OF THE DEAD"
+
+REFERENCE           COAST_TITLE
 LANG_ENGLISH     "Call of The Dead"
 
 REFERENCE           COAST_DESC
@@ -77,7 +80,7 @@ LANG_ENGLISH     "Alcatraz Island"
 REFERENCE           MOB_LINE2
 LANG_ENGLISH     "San Francisco Bay, USA"
 
-REFERENCE           MOB_LINE3
+REFERENCE           MOB_TITLE
 LANG_ENGLISH     "Mob of The Dead"
 
 REFERENCE           MOB_DESC
