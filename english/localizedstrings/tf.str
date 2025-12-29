@@ -30,7 +30,7 @@ REFERENCE            WEAPON_DESC
 LANG_ENGLISH         "Open the weapon options menu."
 
 REFERENCE            MYSTERYBOX_DESC
-LANG_ENGLISH         "These filters allow you to change the Mystery Box weapon pool.\n\n^1Notice:^7 It's NOT possible to add exclusive weapons from one map into the Mystery Box of a different map."
+LANG_ENGLISH         "These filters allow you to change the Mystery Box weapon pool.\n\n^1Notice:^7 It's NOT possible to add exclusive weapons from one map into the Mystery Box of another map."
 
 REFERENCE            POWERUP_DESC
 LANG_ENGLISH         "Open the power-up options menu."
@@ -252,7 +252,7 @@ REFERENCE            SE_DESC
 LANG_ENGLISH         "Similar to Black Ops: Cold War, score events will appear next to the crosshair."
 
 REFERENCE            TIMEPLAY_DESC
-LANG_ENGLISH         "Zombies won't stop spawning, and grow stronger over time. Last as long as possible!\n\n^1Notice:^7Not compatible with Roamer or the Zombie Counter."
+LANG_ENGLISH         "Zombies won't stop spawning, and grow stronger over time. Last as long as possible!\n\n^1Notice:^7 Not compatible with Roamer and Zombie Counter."
 
 REFERENCE            DOOR_DESC
 LANG_ENGLISH         "Opens all doors on the map."
@@ -384,7 +384,7 @@ REFERENCE            HEALTH_DESC
 LANG_ENGLISH         "Choose how many health set to player.\nDefault Health = 100, Normal Zombie hits=45"
 
 REFERENCE            EXO_DESC
-LANG_ENGLISH         "Enable EXO movement. (Probably won't work on any maps that use EXO movement, such as SoE or Der Eisendrache)"
+LANG_ENGLISH         "Enable EXO movement.\n\n^1Notice:^7 Will cause issues with maps that use EXO movement like Shadows of Evil and Der Eisendrache."
 
 REFERENCE            FIRENDLYFIRE_DESC
 LANG_ENGLISH         "Reflect: Damage done to an ally is applied back to you.\n\nShared: Damage done to a ally is split between you and that ally.\n\nKnock Back: You can't damage an ally, but you will knock them back."
