@@ -497,4 +497,10 @@ LANG_ENGLISH         "^1Dempsey^7: WAIT! If someone's gotta take him out to save
 REFERENCE            CASTLE_OUTRO_14
 LANG_ENGLISH         "^1Dempsey^7: Good to see you, Tank."
 
+REFERENCE            ZOD_OUTRO_1
+LANG_ENGLISH         "^1Richtofen^7: I'm so sorry‚ I really don't have time to explain. I have a universe to set right."
+
+REFERENCE            ZOD_OUTRO_2
+LANG_ENGLISH         "^1Richtofen^7: Thank you und goodbye."
+
 ENDMARKER
