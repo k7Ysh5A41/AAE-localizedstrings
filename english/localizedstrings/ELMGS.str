@@ -80,6 +80,9 @@ LANG_ENGLISH     "Alcatraz Island"
 REFERENCE           MOB_LINE2
 LANG_ENGLISH     "San Francisco Bay, USA"
 
+REFERENCE           MOB_LINE3
+LANG_ENGLISH     "MOB OF THE DEAD"
+
 REFERENCE           MOB_TITLE
 LANG_ENGLISH     "Mob of The Dead"
 
