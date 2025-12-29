@@ -103,6 +103,7 @@ LANG_ENGLISH     "Перк машина"
 
 REFERENCE           PING_PAP
 LANG_ENGLISH     "Машина улучшайзер"
+
 REFERENCE           FULL_AMMO
 LANG_ENGLISH     "Максимум патронов"
 

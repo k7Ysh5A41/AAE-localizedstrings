@@ -60,7 +60,7 @@ REFERENCE           EE_COUNT
 LANG_ENGLISH     "Количество Пасхальных Яиц"
 
 REFERENCE           BOARD_COUNT
-LANG_ENGLISH     "Количество досок"
+LANG_ENGLISH     "Восстановлено досок"
 
 REFERENCE           PICKUP
 LANG_ENGLISH     " Подобрано"
@@ -342,7 +342,7 @@ REFERENCE           REWARD_LINE2
 LANG_ENGLISH     "Каждый раунд можно будет снять средства 30 раз (30000 очков)."
 
 REFERENCE           REWARD_LINE3
-LANG_ENGLISH     "Оружейный шкафчик полностью перезарядит ваше оружие.."
+LANG_ENGLISH     "Оружейный шкафчик полностью перезарядит ваше оружие."
 
 REFERENCE           REWARD_LINE4
 LANG_ENGLISH     "Гэмблер обойдется вам всего в ^BBUTTON_COD_POINT_ICON^10."
@@ -390,7 +390,7 @@ REFERENCE           RESTARTHINT
 LANG_ENGLISH     "(Не исользуйте fast_restart или map_restart) нажмите &&1 ^2&&2^7 раз для рестарта"
 
 REFERENCE           RESTARTHINT_BACK
-LANG_ENGLISH     "(Не исользуйте fast_restart или map_restart) нажмите &&1 &&2 раза для рестарта"
+LANG_ENGLISH     "(Не исользуйте fast_restart или map_restart) нажмите &&1 &&2 раз для рестарта"
 
 REFERENCE           TOTAL_PLAYTIME
 LANG_ENGLISH     "Общее время игры"
