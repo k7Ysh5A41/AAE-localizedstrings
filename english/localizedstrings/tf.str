@@ -189,10 +189,10 @@ REFERENCE            BGB_COST_DESC
 LANG_ENGLISH         "Base Cost of GobbleGum Machines."
 
 REFERENCE            BGB_FIX_DESC
-LANG_ENGLISH         "The cost to use a GobbleGum Machine scales with each time it's used per round, and as more rounds are completed. This option makes the Base Cost permanent."
+LANG_ENGLISH         "Normally, the cost to use a GobbleGum Machine scales each time it's used per round, and as more rounds are completed. This option makes the Base Cost permanent."
 
 REFERENCE            BGB_LIMIT_DESC
-LANG_ENGLISH         "Per round purchase limit for GobbleGum Machines."
+LANG_ENGLISH         "Per round purchase limit for GobbleGum Machines. Default is 3."
 
 REFERENCE            BGB_TITLE
 LANG_ENGLISH         "GOBBLEGUM OPTIONS"
