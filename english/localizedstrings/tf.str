@@ -183,16 +183,16 @@ REFERENCE            BGB_OFF_DESC
 LANG_ENGLISH         "Disable all GobbleGum Machines on the map."
 
 REFERENCE            BGB_RDM_DESC
-LANG_ENGLISH         "GobbleGum will no longer use player's loadout, but will be randomly selected from a list of all GobbleGums."
+LANG_ENGLISH         "GobbleGum will no longer use player's loadout, but will be randomly selected from all GobbleGums."
 
 REFERENCE            BGB_COST_DESC
 LANG_ENGLISH         "Base Cost of GobbleGum Machines."
 
 REFERENCE            BGB_FIX_DESC
-LANG_ENGLISH         "Fixed cost of Gobblegum machines."
+LANG_ENGLISH         "The cost to use a GobbleGum Machine scales each time it's used per round, and as the more rounds are completed. This option makes the Base Cost permanent."
 
 REFERENCE            BGB_LIMIT_DESC
-LANG_ENGLISH         "Purchase limit for GobbleGum machines."
+LANG_ENGLISH         "Per round purchase limit for GobbleGum Machines."
 
 REFERENCE            BGB_TITLE
 LANG_ENGLISH         "GOBBLEGUM OPTIONS"
