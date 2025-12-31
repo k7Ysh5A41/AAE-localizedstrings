@@ -9,7 +9,7 @@ REFERENCE           PLAYERMONITOR
 LANG_ENGLISH     "Other Players' POV"
 
 REFERENCE           PLAYERMONITOR_DOA
-LANG_ENGLISH     "Other Players' POV - Top-Down View"
+LANG_ENGLISH     "Other Players' POV: Top-Down View"
 
 REFERENCE           WALLBUY
 LANG_ENGLISH     "Disable Wall Buy Hints"
@@ -165,10 +165,10 @@ REFERENCE           BB
 LANG_ENGLISH     "Disable Letterboxing (Black Bars)"
  
 REFERENCE           STARTINTRO
-LANG_ENGLISH     "Disable Fly-In Start Intro"
+LANG_ENGLISH     "Disable Fly-In Intro"
  
 REFERENCE           STARTHINT
-LANG_ENGLISH     "Disable Start Hint"
+LANG_ENGLISH     "Disable Start Controls Hint"
 
 REFERENCE           LOADING
 LANG_ENGLISH     "Disable Solo Loading Movies"
@@ -231,7 +231,7 @@ REFERENCE           NOPES
 LANG_ENGLISH     "Disable Interactable P.E.S. On Moon"
 
 REFERENCE           PAPBOX
-LANG_ENGLISH     "PAP'd Mystery Box (Requires AF & 50 EE)"
+LANG_ENGLISH     "PAP'd Mystery Box (Advanced Features & 50 EE Required)"
 
 REFERENCE           MOTIONUI
 LANG_ENGLISH     "UI Mouse Motion"
