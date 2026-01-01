@@ -177,7 +177,7 @@ REFERENCE           LOWAMMO
 LANG_ENGLISH     "Disable Low Ammo Sound"
 
 REFERENCE           HINTICON
-LANG_ENGLISH     "Disable Hintstring Icon"
+LANG_ENGLISH     "Disable Weapon Preview Icon"
  
 REFERENCE           PERKSLOT
 LANG_ENGLISH     "Perk Slot Power-Up Behavior"

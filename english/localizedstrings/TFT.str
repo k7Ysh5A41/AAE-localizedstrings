@@ -18,10 +18,10 @@ REFERENCE           WEAPON_LIMIT_OPTIONS_DESC
 LANG_ENGLISH     "Players cannot use the same weapons as each other"
 
 REFERENCE           PREPATCH_BGB
-LANG_ENGLISH     "Pre-Patch GobbleGum Machine"
+LANG_ENGLISH     "Pre-Patch GobbleGum Machines"
 
 REFERENCE           PREPATCH_BGB_DESC
-LANG_ENGLISH     "GobbleGum Machines will be reverted to how they worked prior to being patched. This will change the following:\n  - Can only be used once per round.\n  - Only some GobbleGum Machines will be open each round.\n  - The default price is 500 points."
+LANG_ENGLISH     "GobbleGum Machines will be reverted to how they worked prior to being changed. This will change the following:\n  - Can only be used once per round.\n  - Only some GobbleGum Machines will be open each round.\n  - The default price is 500 points."
 
 REFERENCE           ZOMBIE_COUNT
 LANG_ENGLISH     "Zombie Round Amount Algorithm"
@@ -75,7 +75,7 @@ REFERENCE           ROULETTE
 LANG_ENGLISH     "Weapon Roulette"
 
 REFERENCE           ROULETTE_DESC
-LANG_ENGLISH     "A mod game mode where every round you get a random weapon and you have to survive the round with said weapon.\nBy default there wouldn't be an end goal, and would work nicely with the End Game Challenge mod games setting.\nThis mode would be round based, and on later rounds (20+) there will be a 30 second break to allow you to pack a punch the weapon."
+LANG_ENGLISH     "Use a randomly selected weapon every round.\nWorks nicely with the End Game Challenge setting.\nAfter round 20, there's a 30 second break between rounds to allow you to pack-a-punch the next weapon."
 
 REFERENCE           SNAIL
 LANG_ENGLISH     "Immortal Snail"
