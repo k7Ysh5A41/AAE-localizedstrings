@@ -156,10 +156,10 @@ REFERENCE            UI_1M
 LANG_ENGLISH         "1 Minute"
 
 REFERENCE            BGB_OFF
-LANG_ENGLISH         "Disable GobbleGum Machine"
+LANG_ENGLISH         "Disable GobbleGum Machines"
 
 REFERENCE            BGB_RDM
-LANG_ENGLISH         "Random GobbleGum"
+LANG_ENGLISH         "Random GobbleGums"
 
 REFERENCE            BGB_FIX
 LANG_ENGLISH         "Fixed GobbleGum Cost"
@@ -339,25 +339,25 @@ REFERENCE            ROUNDREVIVE
 LANG_ENGLISH         "Round Revive"
 
 REFERENCE            T8PERK
-LANG_ENGLISH         "Time-based perk loss"
+LANG_ENGLISH         "Time-Based Perk Decay"
 
 REFERENCE            PERKLIMIT_DESC
 LANG_ENGLISH         "Increase or decrease the number of perks that players can buy."
 
 REFERENCE            T8PERK
-LANG_ENGLISH         "Time-based Perk Loss"
+LANG_ENGLISH         "Time-Based Perk Decay"
 
 REFERENCE            QUADKICK_DESC
 LANG_ENGLISH         "Mule Kick lets you carry 4 weapons instead of 3.\n\n^1Notice:^7 Weapon Restore, Mule Kick Weapon Restore, and Time-Based Perk Loss are incompatible when this option."
 
 REFERENCE            PERKAHOLIC_DESC
-LANG_ENGLISH         "Choose whether to start with perkaholic."
+LANG_ENGLISH         "Choose whether to start with Perkaholic."
 
 REFERENCE            T8PERK_DESC
-LANG_ENGLISH         "Perks are gradually lost over time when downed. The more perks a player has, the faster they are removed."
+LANG_ENGLISH         "Perks are gradually lost when downed. The more perks a player has, the faster they decay."
 
 REFERENCE            REVIVE_DESC
-LANG_ENGLISH         "Choose whether to start with quick revive."
+LANG_ENGLISH         "Choose whether to start with Quick Revive."
 
 REFERENCE            PERK_TITLE
 LANG_ENGLISH         "PERK OPTIONS"
