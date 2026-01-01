@@ -294,7 +294,7 @@ REFERENCE           UPDATE_ASPECT_RATIO
 LANG_ENGLISH     "Update the Aspect Ratio"
 
 REFERENCE           LITE_ONLY
-LANG_ENGLISH     "AAE Lite Required"
+LANG_ENGLISH     "AAE LITE REQUIRED"
 
 REFERENCE           LOBBY_SIZE
 LANG_ENGLISH     "Manage Party Settings"
@@ -474,10 +474,10 @@ REFERENCE           REWARD_LINE16
 LANG_ENGLISH     "PAP'd weapons are immediately at max damage."
 
 REFERENCE           MAP_NOT_SUPPORT_TITLE
-LANG_ENGLISH     "MAP IS NOT COMPATIBLE"
+LANG_ENGLISH     "NOT COMPATIBLE WITH AAE"
 
 REFERENCE           MAP_NOT_SUPPORT_TITLE2
-LANG_ENGLISH     "Switch to AAE Lite"
+LANG_ENGLISH     "ONLY COMPATIBLE WITH AAE LITE"
 
 REFERENCE           MAP_NOT_SUPPORT_DESC
 LANG_ENGLISH     "The map you have currently selected is incompatible with All-around Enhancement. This will cause the game to crash."
@@ -489,6 +489,6 @@ REFERENCE           MAP_NOT_SUPPORT_BUTTON
 LANG_ENGLISH     "Continue Anyway"
 
 REFERENCE           LOBBY_NOT_JOINABLE_EXTRA
-LANG_ENGLISH     "^3Try the following solutions:\n\n^51. ^7Ensure you have not attempted to join the lobby by clicking any “JOIN GAME” button within the game.\n^52. ^7Join friends via the Steam friends list at least 20 times or more.\n^53. ^7Ensure that the host you are attempting to join in the lobby has an open NAT type.\n^54. ^7Using Game Booster or VPNs\n^55. ^7If you're trying to join via the server browser, the games you see aren't actual servers. Instead, Steam is gathering lobbies from players worldwide with public IP addresses. Due to various network compatibility issues, these lobbies cannot be joined."
+LANG_ENGLISH     "For best results, try the following:\n\n1. Join Private Matches via the Steam Friends List.\n2. Ensure the host has an OPEN NAT type. Investigate the Options - Network menu to troubleshoot networking issues. \n3. If issues still persist, enable Windows Game Booster or use a reputable VPN.\n^1Notice:^7 The Server Browser menu does not list joinable servers. Steam is gathering lobbies with public IPs worldwide. Due to networking and security issues, these lobbies cannot be joined."
 
 ENDMARKER
