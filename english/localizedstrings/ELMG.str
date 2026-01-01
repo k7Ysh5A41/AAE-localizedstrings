@@ -194,7 +194,7 @@ REFERENCE           KATANA_HINT_GAMEPAD
 LANG_ENGLISH     "^3[{+attack}]^7 Merciless Dash\n^3[{+breath_sprint}] ^7+ ^3[{+reload}]^7 In Plain Sight & Unlimited Ammo(Once per Round)\n^3[{+melee}]^7 Regain Health"
 
 REFERENCE           MOD_DESC
-LANG_ENGLISH     "Welcome to the all-encompassing All-Around Enhancement mod! This mod adds a lot of QoL features and adds several bug fixes for the vanilla BO3 Zombies mode, making this the definitive zombies experience."
+LANG_ENGLISH     "Welcome to the all-encompassing All-Around Enhancement mod! This mod provides many QoL features and bug fixes to the vanilla BO3 Zombies mode, making this the definitive zombies experience!"
 
 REFERENCE           CHAT_BANK_SAVE1
 LANG_ENGLISH     " ^7Has Deposited^3 "
