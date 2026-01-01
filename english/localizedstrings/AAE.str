@@ -488,4 +488,7 @@ LANG_ENGLISH     "The map you have currently selected only supports the Lite ver
 REFERENCE           MAP_NOT_SUPPORT_BUTTON
 LANG_ENGLISH     "Continue Anyway"
 
+REFERENCE           LOBBY_NOT_JOINABLE_EXTRA
+LANG_ENGLISH     "^3Try the following solutions:\n\n^51. ^7Ensure you have not attempted to join the lobby by clicking any “JOIN GAME” button within the game.\n^52. ^7Join friends via the Steam friends list at least 20 times or more.\n^53. ^7Ensure that the host you are attempting to join in the lobby has an open NAT type.\n^54. ^7Using Game Booster or VPNs\n^55. ^7If you're trying to join via the server browser, the games you see aren't actual servers. Instead, Steam is gathering lobbies from players worldwide with public IP addresses. Due to various network compatibility issues, these lobbies cannot be joined."
+
 ENDMARKER
