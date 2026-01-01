@@ -489,6 +489,6 @@ REFERENCE           MAP_NOT_SUPPORT_BUTTON
 LANG_ENGLISH     "Continue Anyway"
 
 REFERENCE           LOBBY_NOT_JOINABLE_EXTRA
-LANG_ENGLISH     "For best results, try the following:\n\n1. Join Private Matches via the Steam Friends List.\n2. Ensure the host has an OPEN NAT type. Investigate the Options - Network menu to troubleshoot networking issues. \n3. If issues still persist, enable Windows Game Booster or use a reputable VPN.\n^1Notice:^7 The Server Browser menu does not list joinable servers. Steam is gathering lobbies with public IPs worldwide. Due to networking and security issues, these lobbies cannot be joined."
+LANG_ENGLISH     "For best results, try the following:\n\n1. Join Private Matches via the Steam Friends List.\n2. Ensure the host has an OPEN NAT type. Investigate the Options - Network menu to troubleshoot networking issues. \n3. If issues still persist, use a reputable VPN.\n^1Notice:^7 The Server Browser menu does not list joinable servers. Steam is gathering lobbies with public IPs worldwide. Due to networking and security issues, these lobbies cannot be joined."
 
 ENDMARKER
