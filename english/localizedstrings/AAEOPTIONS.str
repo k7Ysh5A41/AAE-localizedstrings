@@ -168,7 +168,7 @@ REFERENCE           STARTINTRO
 LANG_ENGLISH     "Disable Fly-In Intro"
  
 REFERENCE           STARTHINT
-LANG_ENGLISH     "Disable Start Controls Hint"
+LANG_ENGLISH     "Disable Control Hint Messages"
 
 REFERENCE           LOADING
 LANG_ENGLISH     "Disable Solo Loading Movies"
