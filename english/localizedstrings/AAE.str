@@ -378,7 +378,7 @@ REFERENCE           REWARD_LINE12
 LANG_ENGLISH     "Automatically gain a Zombie Shield."
 
 REFERENCE           REWARD_LINE13
-LANG_ENGLISH     "Right-Dpad equipment will be continuously resupplied."
+LANG_ENGLISH     "D-pad equipment will be continuously resupplied."
 
 REFERENCE           REWARD_LINE14
 LANG_ENGLISH     "If your points equal exactly 5, you will receive 50000 additional points."
@@ -387,10 +387,10 @@ REFERENCE           CLICKHERE
 LANG_ENGLISH     "See Details"
 
 REFERENCE           RESTARTHINT
-LANG_ENGLISH     "(Don't use fast_restart or map_restart) Press &&1 ^2&&2^7 Times To Restart The Map"
+LANG_ENGLISH     "Only Press &&1 ^2&&2^7 Times To Restart Level"
 
 REFERENCE           RESTARTHINT_BACK
-LANG_ENGLISH     "(Don't use fast_restart or map_restart) Press &&1 &&2 Times To Restart The Map"
+LANG_ENGLISH     "Only Press &&1 &&2 Times To Restart Level"
 
 REFERENCE           TOTAL_PLAYTIME
 LANG_ENGLISH     "Total Play Time"
