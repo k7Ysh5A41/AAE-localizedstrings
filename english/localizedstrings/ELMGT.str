@@ -87,6 +87,6 @@ REFERENCE           GG_DOWN
 LANG_ENGLISH     "^1Humiliated"
 
 REFERENCE           DPAP_DESC
-LANG_ENGLISH     "The first time a weapon is PAP'd, it will give function like Black Ops 3. After that, it can be re-PAP'd up to 4 times for even higher damage. An indicator in the bottom right of the screen below the weapon will tell you it's PAP level, maxing out at Epic."
+LANG_ENGLISH     "The first time a weapon is PAP'd, it will function like Black Ops 3. After that, it can be re-PAP'd up to 4 times for even higher damage. An indicator in the bottom right of the screen below the weapon will tell you it's PAP level, maxing out at Epic."
 
 ENDMARKER

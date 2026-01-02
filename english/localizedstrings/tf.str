@@ -420,7 +420,7 @@ REFERENCE            CARPENTER_DESC
 LANG_ENGLISH         "Carpenter power-ups repair windows and shields."
 
 REFERENCE            FREEPERK_DESC
-LANG_ENGLISH         "Allows zombies to drop Perk Bottle power-ups"
+LANG_ENGLISH         "Allows zombies to drop Perk Bottle power-ups."
 
 REFERENCE            POWERUP_TITLE
 LANG_ENGLISH         "POWER-UP OPTIONS"

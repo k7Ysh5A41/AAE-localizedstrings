@@ -6,28 +6,28 @@ CONFIG              "C:\projects\cod\t7\bin\StringEd.cfg"
 FILENOTES           ""
 
 REFERENCE           DEADSHOT
-LANG_ENGLISH     "Increases hip-fire accuracy. Headshot aim assist.\n^5Bonus:^7 Land consecutive headshot kills for stronger perk effects and headshot damage. See zombies through walls."
+LANG_ENGLISH     "Increases hip-fire accuracy. Headshot aim assist.\n^3Bonus:^7 Land consecutive headshot kills for stronger perk effects and headshot damage. See zombies through walls."
 
 REFERENCE           DOUBLETAP
-LANG_ENGLISH     "Increases fire rate. Duplicates every fired bullet.\n^5Bonus:^7 Recharges special weapons and equipment faster."
+LANG_ENGLISH     "Increases fire rate. Duplicates every fired bullet.\n^3Bonus:^7 Recharges special weapons and equipment faster."
 
 REFERENCE           JUGGER
 LANG_ENGLISH     "Increases health."
 
 REFERENCE           MULEKICK
-LANG_ENGLISH     "Carry an additional weapon.\n^5Bonus:^7 Stores extra weapon if Mule Kick is lost. Regain extra weapon if Mule Kick is reacquired."
+LANG_ENGLISH     "Carry an additional weapon.\n^3Bonus:^7 Stores extra weapon if Mule Kick is lost. Regain extra weapon if Mule Kick is reacquired."
 
 REFERENCE           REVIVE_SOLO
-LANG_ENGLISH     "Auto-revives when downed.\n^5Bonus:^7 Reduces health regen delay."
+LANG_ENGLISH     "Auto-revives when downed.\n^3Bonus:^7 Reduces health regen delay."
 
 REFERENCE           REVIVE
-LANG_ENGLISH     "^5Solo:^7 Auto-revives. ^5Co-op:^7 Faster ally revives.\n^5Bonus:^7 Reduces health regen delay. Extends ally bleed-out timer when interrupted."
+LANG_ENGLISH     "^3Solo:^7 Auto-revives. ^3Co-op:^7 Faster ally revives.\n^3Bonus:^7 Reduces health regen delay. Extends ally bleed-out timer when interrupted."
 
 REFERENCE           FASTRELOAD
-LANG_ENGLISH     "Reloads weapons faster.\n^5Bonus:^7 Increases animation speed. Auto-cancels excess reload animation when sprinting."
+LANG_ENGLISH     "Reloads weapons faster.\n^3Bonus:^7 Increases animation speed. Auto-cancels excess reload animation when sprinting."
 
 REFERENCE           STAMINUP
-LANG_ENGLISH     "Increases stamina.\n^5Bonus:^7 Infinite stamina. Do actions while sprinting. Move quicker while aiming."
+LANG_ENGLISH     "Increases stamina.\n^3Bonus:^7 Infinite stamina. Do actions while sprinting. Move quicker while aiming."
 
 REFERENCE           WINE
 LANG_ENGLISH     "Increases melee damage. Grenades slow zombies and auto-detonate when hit. Slowed zombies may drop grenades when killed."
