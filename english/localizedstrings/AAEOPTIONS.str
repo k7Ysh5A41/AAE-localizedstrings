@@ -350,4 +350,7 @@ LANG_ENGLISH     "Fuse Timer Only"
 REFERENCE           GRENADE_PREDICATION_OPTION3
 LANG_ENGLISH     "Prediction Line Only"
 
+REFERENCE           SYSTIME
+LANG_ENGLISH     "Disable System Time Display"
+
 ENDMARKER
