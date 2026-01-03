@@ -146,7 +146,7 @@ REFERENCE           AF_TITLE
 LANG_ENGLISH     "Advanced Features In-Game"
 
 REFERENCE           AF_DESC
-LANG_ENGLISH     "If advanced features are enabled, the Weapon Locker and Bank will be unuseable.\nEnables a GSC-style mod menu which can be accessed by holding ^3[{+stance}] ^7+ ^3[{+reload}]\n^1<If you don’t understand how to use this feature, PLEASE DO NOT TURN IT ON!>"
+LANG_ENGLISH     "If advanced features are enabled, the Weapon Locker and Bank will be unuseable.\nEnables a GSC-style mod menu which can be accessed by holding ^3[{+stance}] ^7+ ^3[{+reload}]\n^1If you don’t understand how to use this feature, PLEASE DO NOT TURN IT ON!"
 
 REFERENCE           AF
 LANG_ENGLISH     "ADVANCED FEATURES"
