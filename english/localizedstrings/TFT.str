@@ -6,16 +6,16 @@ CONFIG              "C:\projects\cod\t7\bin\StringEd.cfg"
 FILENOTES           ""
 
 REFERENCE           RANDOM_ATTACHMENTS
-LANG_ENGLISH     "Random Attachments and Camos"
+LANG_ENGLISH     "Random Attachments and Camo"
 
 REFERENCE           RANDOM_ATTACHMENTS_DESC
-LANG_ENGLISH     "Each new weapon you get will have randomized attachments and reticle and camo"
+LANG_ENGLISH     "Each new weapon you get will have randomized attachments and camo."
 
 REFERENCE           WEAPON_LIMIT
 LANG_ENGLISH     "Weapon Limit"
 
 REFERENCE           WEAPON_LIMIT_OPTIONS_DESC
-LANG_ENGLISH     "Players cannot use the same weapons as each other"
+LANG_ENGLISH     "Players cannot use the same weapons as each other."
 
 REFERENCE           PREPATCH_BGB
 LANG_ENGLISH     "Pre-Patch GobbleGum Machines"

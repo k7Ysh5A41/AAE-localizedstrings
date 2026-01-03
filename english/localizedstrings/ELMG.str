@@ -143,10 +143,10 @@ REFERENCE           BANK_OVERLOAD
 LANG_ENGLISH     "^1The bank is full!"
 
 REFERENCE           AF_TITLE
-LANG_ENGLISH     "Advanced features in-game"
+LANG_ENGLISH     "Advanced Features In-Game"
 
 REFERENCE           AF_DESC
-LANG_ENGLISH     "If advanced features are enabled, the WeaponLocker and Bank will be unuseable.\nEnables a GSC-style mod menu which can be accessed by holding ^3[{+stance}] ^7+ ^3[{+reload}]\n^1<If you don’t understand how to use this feature, PLEASE DO NOT TURN IT ON!>"
+LANG_ENGLISH     "If advanced features are enabled, the Weapon Locker and Bank will be unuseable.\nEnables a GSC-style mod menu which can be accessed by holding ^3[{+stance}] ^7+ ^3[{+reload}]\n^1If you don’t understand how to use this feature, PLEASE DO NOT TURN IT ON!"
 
 REFERENCE           AF
 LANG_ENGLISH     "ADVANCED FEATURES"
@@ -158,7 +158,7 @@ REFERENCE           PAUSE_DESC
 LANG_ENGLISH     "Press ^3No ^7to unpause."
 
 REFERENCE           LOCKER_BAN
-LANG_ENGLISH     "^1Illegal scores detected, WeaponLocker & Bank are now unuseble."
+LANG_ENGLISH     "^1Illegal scores detected, Weapon Locker & Bank have been disabled."
 
 REFERENCE           PAUSE
 LANG_ENGLISH     "COOP PAUSE GAME"
@@ -167,10 +167,10 @@ REFERENCE           BOXSHARE_TAKE
 LANG_ENGLISH     "^3[{+activate}]^7 Take Weapon."
 
 REFERENCE           SHIELD_HINT
-LANG_ENGLISH     "Hold ^3[{+activate}]^7 for Riot Shield"
+LANG_ENGLISH     "Hold ^3[{+activate}]^7 for the Riot Shield"
 
 REFERENCE           SHIELD_HINT_HOWTO
-LANG_ENGLISH     "Press ^3[{+actionslot 2}]^7 to equip Riot Shield"
+LANG_ENGLISH     "Press ^3[{+actionslot 2}]^7 to equip the Riot Shield"
 
 REFERENCE           SPIKE_HINT
 LANG_ENGLISH     "Double Tap ^3[{+activate}]^7/^3[{+melee}] ^7Detonate Spikes"
@@ -185,7 +185,7 @@ REFERENCE           START_HINT
 LANG_ENGLISH     "^3[{+reload}] ^7Inspect weapons\n^3[{+melee}]^7 + ^3[{+actionslot 3}] ^7Flashlight\n^3[{+breath_sprint}]^7 + ^3[{+actionslot 3}] ^7Drop some points\n^3[{+gostand}]^7 + ^3[{+actionslot 3}] ^7DNI Enhanced Vision"
 
 REFERENCE           REMOVEPERK_HINT
-LANG_ENGLISH     "Press ^3[{+activate}]^7 + ^3[{+melee}] ^7 to remove this perk at the perk machine."
+LANG_ENGLISH     "Press ^3[{+activate}]^7 + ^3[{+melee}] ^7 to remove this perk at its perk machine."
 
 REFERENCE           KATANA_HINT
 LANG_ENGLISH     "^3[{+attack}]^7 Merciless Dash\n^3[{+reload}]^7 In Plain Sight & Unlimited Ammo(Once per Round)\n^3[{+melee}]^7 Regain Health"

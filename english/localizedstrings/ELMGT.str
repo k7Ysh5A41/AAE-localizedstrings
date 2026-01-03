@@ -6,7 +6,7 @@ CONFIG              "C:\projects\cod\t7\bin\StringEd.cfg"
 FILENOTES           ""
 
 REFERENCE           SILENCER
-LANG_ENGLISH     "^2Power-ups Booster"
+LANG_ENGLISH     "^2Power-Ups Booster"
 
 REFERENCE           SILENCER_DESC
 LANG_ENGLISH     "^2Increases the chance for power-ups to drop."
@@ -21,19 +21,19 @@ REFERENCE           EE_COMPLETED_START
 LANG_ENGLISH     "I have completed "
 
 REFERENCE           EE_COMPLETED_END
-LANG_ENGLISH     " Easter egg in total"
+LANG_ENGLISH     " Easter Eggs in total."
 
 REFERENCE           ROAMER_LABEL
-LANG_ENGLISH     "Press ^3ADS^7 + ^3[{+melee}]^7 To Start The Next Round"
+LANG_ENGLISH     "Press ^3ADS^7 + ^3[{+melee}]^7 To Start The Next Round."
 
 REFERENCE           ROAMER_LABEL_TIMER
-LANG_ENGLISH     "Press ^3ADS^7 + ^3[{+melee}]^7 To Start The Next Round\nTime Remaining: ^5"
+LANG_ENGLISH     "Press ^3ADS^7 + ^3[{+melee}]^7 To Start The Next Round.\nTime Remaining: ^5"
 
 REFERENCE           PURIFIER_HINT
-LANG_ENGLISH     "Shoot flames at teammates to revive them!"
+LANG_ENGLISH     "Shoot flames at downed allies to revive them!"
 
 REFERENCE           OUTRIDER_HINT
-LANG_ENGLISH     "Shoot teammates with direct hits to revive them!"
+LANG_ENGLISH     "Shoot downed allies with direct hits to revive them!"
 
 REFERENCE           GB_PW
 LANG_ENGLISH     "^8Pixel World"

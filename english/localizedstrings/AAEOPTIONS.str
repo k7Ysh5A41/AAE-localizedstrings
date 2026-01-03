@@ -306,7 +306,7 @@ REFERENCE           T10
 LANG_ENGLISH     "AAE - Centered Perks"
 
 REFERENCE           NOATTACHMENT
-LANG_ENGLISH     "No Attachment"
+LANG_ENGLISH     "No Attachments"
 
 REFERENCE           HUDMOVEMENT
 LANG_ENGLISH     "Disable HUD Movement"
@@ -351,6 +351,6 @@ REFERENCE           GRENADE_PREDICATION_OPTION3
 LANG_ENGLISH     "Prediction Line Only"
 
 REFERENCE           SYSTIME
-LANG_ENGLISH     "Disable System Time Display"
+LANG_ENGLISH     "Disable System Date/Time Display"
 
 ENDMARKER
