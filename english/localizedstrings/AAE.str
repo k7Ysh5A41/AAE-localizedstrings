@@ -387,10 +387,10 @@ REFERENCE           CLICKHERE
 LANG_ENGLISH     "See Details"
 
 REFERENCE           RESTARTHINT
-LANG_ENGLISH     "Only Press &&1 ^2&&2^7 Times To Restart Level"
+LANG_ENGLISH     "(Don't use fast_restart or map_restart) Press &&1 ^2&&2^7 Times To Restart The Map"
 
 REFERENCE           RESTARTHINT_BACK
-LANG_ENGLISH     "Only Press &&1 &&2 Times To Restart Level"
+LANG_ENGLISH     "(Don't use fast_restart or map_restart) Press &&1 &&2 Times To Restart The Map"
 
 REFERENCE           TOTAL_PLAYTIME
 LANG_ENGLISH     "Total Play Time"
