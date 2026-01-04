@@ -164,7 +164,7 @@ REFERENCE           PAUSE
 LANG_ENGLISH     "COOP PAUSE GAME"
 
 REFERENCE           BOXSHARE_TAKE
-LANG_ENGLISH     "^3[{+activate}]^7 Take Weapon"
+LANG_ENGLISH     "^3[{+activate}]^7 to Take Weapon"
 
 REFERENCE           SHIELD_HINT
 LANG_ENGLISH     "Hold ^3[{+activate}]^7 for the Riot Shield"
