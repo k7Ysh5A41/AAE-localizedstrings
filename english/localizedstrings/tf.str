@@ -489,13 +489,13 @@ REFERENCE            RK5_DESC
 LANG_ENGLISH         "Adds the RK5 to the starting loadout. Normally exclusive to players who have completed the Super Easter Egg."
 
 REFERENCE            BOWIE_DESC
-LANG_ENGLISH         "Gives every player the bowie knife."
+LANG_ENGLISH         "Every player starts with the bowie knife."
 
 REFERENCE            RADM_WEAPON_DESC
-LANG_ENGLISH         "Gives every player a random starting weapon."
+LANG_ENGLISH         "Each player starts with a random weapon."
 
 REFERENCE            OWNCAMO_DESC
-LANG_ENGLISH         "Weapons, once upgraded with Pack-a-Punch, will keep the camo that was assigned in Weapon Kits."
+LANG_ENGLISH         "Black Ops 3 weapons upgraded with Pack-a-Punch will retain their Weapon Kit camo."
 
 REFERENCE            PAPCAMO_DESC
 LANG_ENGLISH         "Choose the Pack-a-Punch camo you want to use. Won't work for certain weapons if you have the “Use Your Own Camo” setting enabled."
