@@ -336,7 +336,7 @@ REFERENCE           SHOTGUN_GIB
 LANG_ENGLISH     "Disable Shotgun Gib"
 
 REFERENCE           WEAPON_KIT_PAP
-LANG_ENGLISH     "Apply Weapon Kit Upon PAP"
+LANG_ENGLISH     "Apply Weapon Kit When PAP'd"
 
 REFERENCE           GRENADE_PREDICATION
 LANG_ENGLISH     "Grenade Projection"

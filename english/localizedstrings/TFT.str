@@ -6,7 +6,7 @@ CONFIG              "C:\projects\cod\t7\bin\StringEd.cfg"
 FILENOTES           ""
 
 REFERENCE           RANDOM_ATTACHMENTS
-LANG_ENGLISH     "Random Attachments and Camo"
+LANG_ENGLISH     "Random Weapon Kit"
 
 REFERENCE           RANDOM_ATTACHMENTS_DESC
 LANG_ENGLISH     "Each new weapon you get will have randomized attachments and camo."
