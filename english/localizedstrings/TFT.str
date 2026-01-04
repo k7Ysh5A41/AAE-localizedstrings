@@ -30,7 +30,7 @@ REFERENCE           ZOMBIE_COUNT_DESC
 LANG_ENGLISH     "Change how the game calculates how many zombies need to be killed for a round to end."
 
 REFERENCE           SPAWNTYPE
-LANG_ENGLISH     "Enemy Spawning Methods"
+LANG_ENGLISH     "Special Enemy Frequency"
 
 REFERENCE           SPAWNTYPE_DESC
 LANG_ENGLISH     "\nMassively increase the number of special enemies in every applicable Treyarch map, e.g. a whole bunch of Margwas and a whole bunch of Panzersoldats.
@@ -69,7 +69,7 @@ REFERENCE           ITEM_DUPE_RENDER_OPTIONS
 LANG_ENGLISH     "Highlighted"
 
 REFERENCE           MODGAMES
-LANG_ENGLISH     "MOD GAMES"
+LANG_ENGLISH     "MISCELLANEOUS"
 
 REFERENCE           ROULETTE
 LANG_ENGLISH     "Weapon Roulette"
