@@ -111,7 +111,7 @@ REFERENCE          MIN_MAP
 LANG_ENGLISH       "MINECRAFT MAPS"
 
 REFERENCE          MIN_MAP_DESC
-LANG_ENGLISH       "Maps from the popular game Minecraft, filled with fun challenges and lots of zombies."
+LANG_ENGLISH       "Maps inspired by the popular game Minecraft. Filled with fun challenges and lots of zombies."
 
 REFERENCE          TOR_MAP
 LANG_ENGLISH       "TOWER MAPS"
@@ -147,7 +147,7 @@ REFERENCE          WW_MAP
 LANG_ENGLISH       "WORLD AT WAR MAPS"
 
 REFERENCE          WW_MAP_DESC
-LANG_ENGLISH       "Gritty maps reminiscent of the World at War era."
+LANG_ENGLISH       "Gritty maps reminiscent of the World at War era. Includes custom World at War maps remade for Black Ops 3."
 
 REFERENCE          B1_MAP
 LANG_ENGLISH       "BLACK OPS 1 MAPS"
@@ -171,13 +171,13 @@ REFERENCE            QU_MAP
 LANG_ENGLISH         "QUIET SERIES MAPS"
 
 REFERENCE            QU_MAP_DESC
-LANG_ENGLISH         "Amazing maps from the popular map creator Markus Darius. Some maps will only work with the lite version of this mod."
+LANG_ENGLISH         "Amazing maps from the popular map creator Markus Darius. Some maps will only work with AAE Lite."
 
 REFERENCE            KO_MAP
 LANG_ENGLISH         "VERK0 MAPS"
 
 REFERENCE            KO_MAP_DESC
-LANG_ENGLISH         "Amazing maps from the popular map creator Verk0. Some maps will only work with the lite version of this mod."
+LANG_ENGLISH         "Amazing maps from the popular map creator Verk0. Some maps will only work with AAE Lite."
 
 REFERENCE            RTT_MAP
 LANG_ENGLISH         "RETURN TO TRANZIT"
@@ -189,49 +189,49 @@ REFERENCE            ICE_MAP
 LANG_ENGLISH         "ICEGRENADE MAPS"
 
 REFERENCE            ICE_MAP_DESC
-LANG_ENGLISH         "Amazing maps from the popular map creator IceGrenade. Some maps will only work with the lite version of this mod."
+LANG_ENGLISH         "Amazing maps from the popular map creator IceGrenade. Some maps will only work with AAE Lite."
 
 REFERENCE            WEE_MAP
 LANG_ENGLISH         "LOGICAL MAPS"
 
 REFERENCE            WEE_MAP_DESC
-LANG_ENGLISH         "Amazing maps from the popular map creator Logical. Some maps will only work with the lite version of this mod."
+LANG_ENGLISH         "Amazing maps from the popular map creator Logical. Some maps will only work with AAE Lite."
 
 REFERENCE            CH_MAP
 LANG_ENGLISH         "CHALLENGE MAPS"
 
 REFERENCE            CH_MAP_DESC
-LANG_ENGLISH         "Maps filled with challenges that will test your skills and abilities!"
+LANG_ENGLISH         "Maps filled with challenges that will test your skills and abilities."
 
 REFERENCE            NO_MAP
 LANG_ENGLISH         "HORROR MAPS"
 
 REFERENCE            NO_MAP_DESC
-LANG_ENGLISH         "Horror maps where intensity screams and despair will run through your body."
+LANG_ENGLISH         "Horrific maps where intensity, screams, and despair will run through your body."
 
 REFERENCE            NOM_MAP
 LANG_ENGLISH         "MOVIE MAPS"
 
 REFERENCE            NOM_MAP_DESC
-LANG_ENGLISH         "Maps inspired by movies that will transport you to cinematic scenarios full of excitement and action."
+LANG_ENGLISH         "Maps inspired by movies. These will transport you to cinematic scenarios full of action and excitement."
 
 REFERENCE            SEA_MAP
 LANG_ENGLISH         "SEATOWN MAPS"
 
 REFERENCE            SEA_MAP_DESC
-LANG_ENGLISH         "Maps inspired by the map SEATOWN. Your skills will be tested in intense battles."
+LANG_ENGLISH         "Maps inspired by the Modern Warfare 3 map Seatown. Your skills will be tested."
 
 REFERENCE            SAW_MAP
 LANG_ENGLISH         "SAW MAPS"
 
 REFERENCE            SAW_MAP_DESC
-LANG_ENGLISH         "Terror maps inspired by Saw. You will be tested in disturbing environments full of macabre twists."
+LANG_ENGLISH         "Terrifying maps inspired by SAW. Beware the disturbing environments full of macabre twists."
 
 REFERENCE            XMA_MAP
 LANG_ENGLISH         "CHRISTMAS MAPS"
 
 REFERENCE            XMA_MAP_DESC
-LANG_ENGLISH         "Christmas maps full of joy, until midnight strikes and the undead seek their gifts."
+LANG_ENGLISH         "Christmas maps full of joy.. ..until midnight strikes and the undead seek their gifts."
 
 REFERENCE            UNSU_MAP
 LANG_ENGLISH         "^1UNSUPPORTED MAPS^7"
@@ -246,6 +246,6 @@ REFERENCE            ZC_MAP
 LANG_ENGLISH         "ZOMBIES CHRONICLES II"
 
 REFERENCE            ZC_MAP_DESC
-LANG_ENGLISH         "Treyarch maps remade by the best in the zombies community, delivering the ultimate Zombies experience."
+LANG_ENGLISH         "A collection of Treyarch maps remade by the best in the zombies community."
 
 ENDMARKER

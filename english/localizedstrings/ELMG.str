@@ -164,7 +164,7 @@ REFERENCE           PAUSE
 LANG_ENGLISH     "COOP PAUSE GAME"
 
 REFERENCE           BOXSHARE_TAKE
-LANG_ENGLISH     "^3[{+activate}]^7 Take Weapon."
+LANG_ENGLISH     "^3[{+activate}]^7 to Take Weapon"
 
 REFERENCE           SHIELD_HINT
 LANG_ENGLISH     "Hold ^3[{+activate}]^7 for the Riot Shield"
@@ -176,7 +176,7 @@ REFERENCE           SPIKE_HINT
 LANG_ENGLISH     "Double Tap ^3[{+activate}]^7/^3[{+melee}] ^7Detonate Spikes"
 
 REFERENCE           BOXSHARE_HINT
-LANG_ENGLISH     "Press ^3[{+melee}]^7 to share this weapon with a teammate."
+LANG_ENGLISH     "Press ^3[{+melee}]^7 to share a weapon with a teammate."
 
 REFERENCE           START_HINT_GAMEPAD
 LANG_ENGLISH     "^3[{+breath_sprint}] ^7+ ^3[{+reload}] ^7Inspect weapons\n^3[{+melee}]^7 + ^3[{+actionslot 3}] ^7Flashlight\n^3[{+breath_sprint}]^7 + ^3[{+actionslot 3}] ^7Drop some points\n^3[{+gostand}]^7 + ^3[{+actionslot 3}] ^7Enhanced Vision"
@@ -185,7 +185,7 @@ REFERENCE           START_HINT
 LANG_ENGLISH     "^3[{+reload}] ^7Inspect weapons\n^3[{+melee}]^7 + ^3[{+actionslot 3}] ^7Flashlight\n^3[{+breath_sprint}]^7 + ^3[{+actionslot 3}] ^7Drop some points\n^3[{+gostand}]^7 + ^3[{+actionslot 3}] ^7DNI Enhanced Vision"
 
 REFERENCE           REMOVEPERK_HINT
-LANG_ENGLISH     "Press ^3[{+activate}]^7 + ^3[{+melee}] ^7 to remove this perk at its perk machine."
+LANG_ENGLISH     "Press ^3[{+activate}]^7 + ^3[{+melee}] ^7 to remove a perk at its perk machine."
 
 REFERENCE           KATANA_HINT
 LANG_ENGLISH     "^3[{+attack}]^7 Merciless Dash\n^3[{+reload}]^7 In Plain Sight & Unlimited Ammo(Once per Round)\n^3[{+melee}]^7 Regain Health"
@@ -209,6 +209,6 @@ REFERENCE           CHAT_TRANSFER2
 LANG_ENGLISH     " ^7To "
 
 REFERENCE           ROAMER_SPECTATING
-LANG_ENGLISH     "Press ^3[{+activate}] ^7to end this Round"
+LANG_ENGLISH     "Press ^3[{+activate}] ^7to end the Round."
 
 ENDMARKER

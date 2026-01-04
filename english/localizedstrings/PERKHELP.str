@@ -6,7 +6,7 @@ CONFIG              "C:\projects\cod\t7\bin\StringEd.cfg"
 FILENOTES           ""
 
 REFERENCE           DEADSHOT
-LANG_ENGLISH     "Increases hip-fire accuracy. Headshot aim assist.\n^3Bonus:^7 Land consecutive headshot kills for stronger perk effects and headshot damage. See zombies through walls."
+LANG_ENGLISH     "Increases hip-fire accuracy. Headshot aim assist.\n^3Bonus:^7 Land consecutive headshot kills for better accuracy and headshot damage. See zombies through walls."
 
 REFERENCE           DOUBLETAP
 LANG_ENGLISH     "Increases fire rate. Duplicates every fired bullet.\n^3Bonus:^7 Recharges special weapons and equipment faster."
@@ -24,7 +24,7 @@ REFERENCE           REVIVE
 LANG_ENGLISH     "^3Solo:^7 Auto-revives. ^3Co-op:^7 Faster ally revives.\n^3Bonus:^7 Reduces health regen delay. Extends ally bleed-out timer when interrupted."
 
 REFERENCE           FASTRELOAD
-LANG_ENGLISH     "Reloads weapons faster.\n^3Bonus:^7 Increases animation speed. Auto-cancels excess reload animation when sprinting."
+LANG_ENGLISH     "Reloads weapons faster.\n^3Bonus:^7 Increases animation speed. Cancels excess reload animation while sprinting."
 
 REFERENCE           STAMINUP
 LANG_ENGLISH     "Increases stamina.\n^3Bonus:^7 Infinite stamina. Do actions while sprinting. Move quicker while aiming."

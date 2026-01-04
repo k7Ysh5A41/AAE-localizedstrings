@@ -21,7 +21,7 @@ REFERENCE           ROUNDTIME
 LANG_ENGLISH     "End Game Challenge"
 
 REFERENCE           ROUNDTIME_DESC
-LANG_ENGLISH     "After finishing the round specified in the 'Finish Match On Round' option, survive an endless round of instantly spawning zombies for the time limit specified. Face the horrors of Super Sprinter and Tranzit Sprinter zombies below round 40."
+LANG_ENGLISH     "After finishing the 'Finish Match On Round' round, survive an endless round of instantly spawning zombies before time runs out! Face the horrors of Super Sprinter and Tranzit Sprinter zombies."
 
 REFERENCE           TRADE_DESC
 LANG_ENGLISH     "Trade weapons with another player. Walk up to the player you want to trade with and look at their gun. Both players must then hold the prompt on-screen until the bar is full for each player."
@@ -30,7 +30,7 @@ REFERENCE           GAMBLER_DESC
 LANG_ENGLISH     "Spawns a floating Lucky 8 ball at the player's spawn location. Interact with it for random effects! Some are good, some are bad, some are weird. It’s a gamble!"
 
 REFERENCE           SOLOREVIVE
-LANG_ENGLISH     "Unlimited Use of Quick Revive in Solo"
+LANG_ENGLISH     "Unlimited Quick Revive Purchases When Solo"
 
 REFERENCE           PERKPLUS
 LANG_ENGLISH     "Disable Perk Enhancements"
@@ -45,13 +45,13 @@ REFERENCE           RJ
 LANG_ENGLISH     "Rocket Jump"
 
 REFERENCE           RJ_DESC
-LANG_ENGLISH     "Your explosives will move you a set distance. Pair with the new explosive resistance from Widow's Wine to achieve a rocket jump!"
+LANG_ENGLISH     "Explosions will move you a set distance. Pair with PHD Flopper to rocket jump!"
 
 REFERENCE           SHOCK
-LANG_ENGLISH     "Grief Mode But Only One Team"
+LANG_ENGLISH     "One-Team Grief Mode"
 
 REFERENCE           SHOCK_DESC
-LANG_ENGLISH     "Actions which would normally be friendly fire instead slow players down and stun their screens."
+LANG_ENGLISH     "Friendly fire slows players and stuns their screens."
 
 REFERENCE           BLOOD
 LANG_ENGLISH     "Disable Blood Splatter"
@@ -60,16 +60,16 @@ REFERENCE           FLAMER
 LANG_ENGLISH     "Disable Purifier"
 
 REFERENCE           ROAMER_DESC
-LANG_ENGLISH     "Allows you to specify a rest period in between each round so you can do anything you need to before the next round starts. The length in-between each round can be customized, and the next round can be manually started before the time is over by following the prompt in-game."
+LANG_ENGLISH     "Adds a rest period in between each round. The maximum length in-between rounds can be customized, and the next round can be started manually before time runs out."
 
 REFERENCE           DPAP
-LANG_ENGLISH     "BO4 Pack-a-Punch Repack"
+LANG_ENGLISH     "BO4 Repack-a-Punch"
 
 REFERENCE           LOADOUTSAVE2
 LANG_ENGLISH     "Clear Saved Loadout After Bleed Out"
 
 REFERENCE           LOADOUTSAVE2_DESC
-LANG_ENGLISH     "Clear your saved weapons after bleedout so that you will respawn only with the pistol like normal. You can use this with the “Weapon Restore & Mule Kick Weapon Restore” option enabled so that Mule Kick will still save your mule kick weapon if you lose the perk or bleedout."
+LANG_ENGLISH     "Clear your saved weapons after bleedout. You will respawn only with the pistol like normal. \n\n^1Notice:^7 Use this with the “Weapon Restore & Mule Kick Weapon Restore” option enabled so Mule Kick will still save your extra weapon if you lose the perk."
 
 REFERENCE           RIPPER
 LANG_ENGLISH     "Disable Bowie Knife To Ripper Upgrade"
@@ -78,10 +78,10 @@ REFERENCE           RIPPER_DESC
 LANG_ENGLISH     "Having the Bowie Knife and Widow's Wine will upgrade it to the Ripper from multiplayer. This does more damage and has a homing attack. This option disables it."
 
 REFERENCE           DW
-LANG_ENGLISH     "Disable Dualwield PAP'd Wonderweapons"
+LANG_ENGLISH     "Disable Dualwielding PAP'd Wonderweapons"
 
 REFERENCE           DW_DESC
-LANG_ENGLISH     "The Ray Gun Mark 1 and Thundergun become dualwield when PAP'd with the all around enhancement mod. This option disables that."
+LANG_ENGLISH     "The Ray Gun and Thundergun gain a dualwield toggle when PAP'd. This option disables that."
 
 REFERENCE           ZMBAR
 LANG_ENGLISH     "Zombie Health Bar"
