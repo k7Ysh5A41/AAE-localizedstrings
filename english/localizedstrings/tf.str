@@ -498,7 +498,7 @@ REFERENCE            OWNCAMO_DESC
 LANG_ENGLISH         "Weapon Kit items upgraded with Pack-a-Punch will retain their camo."
 
 REFERENCE            PAPCAMO_DESC
-LANG_ENGLISH         "Choose the Pack-a-Punch camo you want to use. /n/n^1Notice:^7 'Keep Weapon Kit Camo When PAP'd' will override this option for applicable weapons."
+LANG_ENGLISH         "Choose the Pack-a-Punch camo you want to use. /n/n^1Notice:^7 Weapons affected by 'Keep Weapon Kit Camo When PAP'd' will override this option."
 
 REFERENCE            BOXSHARE_DESC
 LANG_ENGLISH         "Use melee on a Mystery Box weapon to share it with an ally."
