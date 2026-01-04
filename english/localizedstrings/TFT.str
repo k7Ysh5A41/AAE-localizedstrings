@@ -102,10 +102,10 @@ REFERENCE           THEGIANT_WEAPON
 LANG_ENGLISH     "Add Weapon Kit Items To Custom Maps"
 
 REFERENCE           HIDE_CUSTOM_MAP_WEAPON
-LANG_ENGLISH     "Remove Custom Map Exclusive Weapons"
+LANG_ENGLISH     "Hide Custom Map Exclusive Weapons"
 
 REFERENCE           HIDE_AAE_WEAPON
-LANG_ENGLISH     "Remove AAE Exclusive Weapons"
+LANG_ENGLISH     "Hide AAE Exclusive Weapons"
 
 REFERENCE           ALLWALLBUY
 LANG_ENGLISH     "Add Low-Cost Wall Buy Weapons"

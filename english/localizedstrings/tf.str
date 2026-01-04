@@ -465,7 +465,7 @@ REFERENCE            RADM_WEAPON
 LANG_ENGLISH         "Random Starting Weapon"
 
 REFERENCE            OWNCAMO
-LANG_ENGLISH         "Use Your Own Camo"
+LANG_ENGLISH         "Keep Weapon Kit Camo When PAP'd"
 
 REFERENCE            PAPCAMO
 LANG_ENGLISH         "Choose Pack-a-Punch Camo"
@@ -495,10 +495,10 @@ REFERENCE            RADM_WEAPON_DESC
 LANG_ENGLISH         "Each player starts with a random weapon."
 
 REFERENCE            OWNCAMO_DESC
-LANG_ENGLISH         "Black Ops 3 weapons upgraded with Pack-a-Punch will retain their Weapon Kit camo."
+LANG_ENGLISH         "Weapon Kit items upgraded with Pack-a-Punch will retain their camo."
 
 REFERENCE            PAPCAMO_DESC
-LANG_ENGLISH         "Choose the Pack-a-Punch camo you want to use. Won't work for certain weapons if you have the “Use Your Own Camo” setting enabled."
+LANG_ENGLISH         "Choose the Pack-a-Punch camo you want to use. /n/n^1Notice:^7 Weapons affected by 'Keep Weapon Kit Camo When PAP'd' will override this option."
 
 REFERENCE            BOXSHARE_DESC
 LANG_ENGLISH         "Use melee on a Mystery Box weapon to share it with an ally."
