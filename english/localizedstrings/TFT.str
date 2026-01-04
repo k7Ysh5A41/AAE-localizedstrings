@@ -75,7 +75,7 @@ REFERENCE           ROULETTE
 LANG_ENGLISH     "Weapon Roulette"
 
 REFERENCE           ROULETTE_DESC
-LANG_ENGLISH     "Use a randomly selected weapon every round.\nWorks nicely with the End Game Challenge setting.\nAfter round 20, there's a 30 second break between rounds to allow you to pack-a-punch the next weapon."
+LANG_ENGLISH     "Use a randomly selected weapon every round.\nPairs well with the 'End Game Challenge' setting.\nAfter round 20, there's a 30 second break between rounds to allow you to pack-a-punch the next weapon."
 
 REFERENCE           SNAIL
 LANG_ENGLISH     "Immortal Snail"
@@ -93,10 +93,10 @@ REFERENCE           ALERT
 LANG_ENGLISH     "\n\n^BBUTTON_CYCLE_LEFT^ Changing this option disables AAE Career tracking, Bank, and Weapon Locker."
 
 REFERENCE           RAMPAGE
-LANG_ENGLISH     "Swap Gambler with Rampage Inducer"
+LANG_ENGLISH     "Replace Gambler With Rampage Inducer"
 
 REFERENCE           RAMPAGE_DESC
-LANG_ENGLISH     "Swaps the location of Gambler and Rampage Inducer to support custom maps.\n\nRampage Inducer:\nActivate to make zombies rapidly appear and move faster."
+LANG_ENGLISH     "Replaces Gambler with Rampage Inducer, which makes zombies sprint faster and spawn more frequently. \n\n^1Notice:^7 Redundant if map already supports Rampage Inducer."
 
 REFERENCE           THEGIANT_WEAPON
 LANG_ENGLISH     "Force Custom Maps to Load Default BO3 Weapons into the Box"
