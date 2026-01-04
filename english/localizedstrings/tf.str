@@ -15,7 +15,7 @@ REFERENCE            WEAPON
 LANG_ENGLISH         "Weapon Options"
 
 REFERENCE            MYSTERYBOX
-LANG_ENGLISH         "Mystery Box Filter"
+LANG_ENGLISH         "Mystery Box Filters"
 
 REFERENCE            POWERUP
 LANG_ENGLISH         "Power-Up Options"
@@ -321,7 +321,7 @@ REFERENCE            ELMG_WEAPON
 LANG_ENGLISH         "Disable Weapons from this mod"
 
 REFERENCE            MYSTERYBOX_TITLE
-LANG_ENGLISH         "MYSTERY BOX FILTER"
+LANG_ENGLISH         "MYSTERY BOX FILTERS"
 
 REFERENCE            PERKLIMIT
 LANG_ENGLISH         "Adjust the Perk Limit"
