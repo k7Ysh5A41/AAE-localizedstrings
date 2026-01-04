@@ -21,7 +21,7 @@ REFERENCE           ROUNDTIME
 LANG_ENGLISH     "End Game Challenge"
 
 REFERENCE           ROUNDTIME_DESC
-LANG_ENGLISH     "After finishing the 'Finish Match On Round' round, survive an endless round of instantly spawning zombies before time runs out! Face the horrors of Super Sprinter and Tranzit Sprinter zombies below round 40."
+LANG_ENGLISH     "After finishing the 'Finish Match On Round' round, survive an endless round of instantly spawning zombies before time runs out! Face the horrors of Super Sprinter and Tranzit Sprinter zombies."
 
 REFERENCE           TRADE_DESC
 LANG_ENGLISH     "Trade weapons with another player. Walk up to the player you want to trade with and look at their gun. Both players must then hold the prompt on-screen until the bar is full for each player."
