@@ -24,7 +24,7 @@ REFERENCE           REVIVE
 LANG_ENGLISH     "^3Solo:^7 Auto-revives. ^3Co-op:^7 Faster ally revives.\n^3Bonus:^7 Reduces health regen delay. Extends ally bleed-out timer when interrupted."
 
 REFERENCE           FASTRELOAD
-LANG_ENGLISH     "Reloads weapons faster.\n^3Bonus:^7 Increases animation speed. Auto-cancels excess reload animation when sprinting."
+LANG_ENGLISH     "Reloads weapons faster.\n^3Bonus:^7 Increases animation speed. Cancels excess reload animation while sprinting."
 
 REFERENCE           STAMINUP
 LANG_ENGLISH     "Increases stamina.\n^3Bonus:^7 Infinite stamina. Do actions while sprinting. Move quicker while aiming."
