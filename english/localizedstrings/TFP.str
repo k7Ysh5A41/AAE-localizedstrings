@@ -63,7 +63,7 @@ REFERENCE           ROAMER_DESC
 LANG_ENGLISH     "Adds a rest period in between each round. The maximum length in-between rounds can be customized, and the next round can be started manually before time runs out."
 
 REFERENCE           DPAP
-LANG_ENGLISH     "Repack-a-Punch"
+LANG_ENGLISH     "BO4 Repack-a-Punch"
 
 REFERENCE           LOADOUTSAVE2
 LANG_ENGLISH     "Clear Saved Loadout After Bleed Out"
