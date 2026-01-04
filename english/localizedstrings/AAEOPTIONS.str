@@ -195,7 +195,7 @@ REFERENCE           SEEWALL
 LANG_ENGLISH     "Disable Seeing Player Names Through Walls"
  
 REFERENCE           LASTZOMBIE
-LANG_ENGLISH     "Disable Last Zombie Outline"
+LANG_ENGLISH     "Disable Last Zombie And Monkey Outlines"
  
 REFERENCE           TOMBNAME
 LANG_ENGLISH     "Disable Origins Giant Robot Names"
@@ -282,7 +282,7 @@ REFERENCE           BGB_START
 LANG_ENGLISH     "First GobbleGum Machine Round"
 
 REFERENCE           C4ENDING
-LANG_ENGLISH     "C4 Buyable Ending (150k Points and Round 35 Required)"
+LANG_ENGLISH     "C4 Buyable Ending (150K Points And Round 35 Required)"
 
 REFERENCE           GUNPOS
 LANG_ENGLISH     "First Person Arm Model Position"
@@ -327,7 +327,7 @@ REFERENCE           BGB_NOULTRA
 LANG_ENGLISH     "Enabled - No Ultra-Rares"
 
 REFERENCE           RELOADCANCEL
-LANG_ENGLISH     "Enable Sprint Reload (Speed Cola Bonus Not Included)"
+LANG_ENGLISH     "Enable Sprint Reload"
 
 REFERENCE           TRIGGER_MARKER
 LANG_ENGLISH     "Disable Trigger Marker"
