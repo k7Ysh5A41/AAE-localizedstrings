@@ -99,7 +99,7 @@ REFERENCE           RAMPAGE_DESC
 LANG_ENGLISH     "Replaces Gambler with Rampage Inducer, which makes zombies sprint faster and spawn more frequently. \n\n^1Notice:^7 Redundant if map already supports Rampage Inducer."
 
 REFERENCE           THEGIANT_WEAPON
-LANG_ENGLISH     "Force BO3 Weapons In Custom Maps"
+LANG_ENGLISH     "Add BO3 Weapons To Custom Maps"
 
 REFERENCE           HIDE_CUSTOM_MAP_WEAPON
 LANG_ENGLISH     "Remove Custom Map Exclusive Weapons"
