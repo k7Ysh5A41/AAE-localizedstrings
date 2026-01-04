@@ -6,7 +6,7 @@ CONFIG              "C:\projects\cod\t7\bin\StringEd.cfg"
 FILENOTES           ""
 
 REFERENCE           RANDOM_ATTACHMENTS
-LANG_ENGLISH     "Random Attachments and Camo"
+LANG_ENGLISH     "Random Weapon Kit"
 
 REFERENCE           RANDOM_ATTACHMENTS_DESC
 LANG_ENGLISH     "Each new weapon you get will have randomized attachments and camo."
@@ -99,15 +99,15 @@ REFERENCE           RAMPAGE_DESC
 LANG_ENGLISH     "Replaces Gambler with Rampage Inducer, which makes zombies sprint faster and spawn more frequently. \n\n^1Notice:^7 Redundant if map already supports Rampage Inducer."
 
 REFERENCE           THEGIANT_WEAPON
-LANG_ENGLISH     "Force Custom Maps to Load Default BO3 Weapons into the Box"
+LANG_ENGLISH     "Add Weapon Kit Items To Custom Maps"
 
 REFERENCE           HIDE_CUSTOM_MAP_WEAPON
-LANG_ENGLISH     "Hide Weapons from Custom Maps in the Box"
+LANG_ENGLISH     "Remove Custom Map Exclusive Weapons"
 
 REFERENCE           HIDE_AAE_WEAPON
-LANG_ENGLISH     "Hide Weapons from AAE in the Box"
+LANG_ENGLISH     "Remove AAE Exclusive Weapons"
 
 REFERENCE           ALLWALLBUY
-LANG_ENGLISH     "Enable Low-Cost Wall Buy Weapons in the Box"
+LANG_ENGLISH     "Add Low-Cost Wall Buy Weapons"
 
 ENDMARKER
