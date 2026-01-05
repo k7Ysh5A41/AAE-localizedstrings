@@ -161,6 +161,12 @@ LANG_ENGLISH       "BLACK OPS 2 MAPS"
 REFERENCE          B2_MAP_DESC
 LANG_ENGLISH       "Mythical maps inspired by the Black Ops 2 era."
 
+REFERENCE          B4_MAP
+LANG_ENGLISH       "BLACK OPS 4 MAPS"
+
+REFERENCE          B4_MAP_DESC
+LANG_ENGLISH       "Epic maps heabily influenced by the Black Ops 4 era."
+
 REFERENCE          MW_MAP
 LANG_ENGLISH       "MODERN WARFARE MAPS"
 
@@ -226,6 +232,13 @@ LANG_ENGLISH         "SAW MAPS"
 
 REFERENCE            SAW_MAP_DESC
 LANG_ENGLISH         "Terrifying maps inspired by SAW. Beware the disturbing environments full of macabre twists."
+
+REFERENCE            HLW_MAP
+LANG_ENGLISH         "HALLOWEEN MAPS"
+
+REFERENCE            HLW_MAP_DESC
+LANG_ENGLISH         "Pumpkins, cobwebs, and skeletons galore. Beware the one frightful night."
+
 
 REFERENCE            XMA_MAP
 LANG_ENGLISH         "CHRISTMAS MAPS"
