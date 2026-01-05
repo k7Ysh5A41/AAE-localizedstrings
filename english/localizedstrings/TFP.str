@@ -33,7 +33,7 @@ REFERENCE           SOLOREVIVE
 LANG_ENGLISH     "Unlimited Quick Revive Purchases When Solo"
 
 REFERENCE           PERKPLUS
-LANG_ENGLISH     "Disable Perk Enhancements"
+LANG_ENGLISH     "Disable Perk Bonuses"
 
 REFERENCE           PERKPLUS_DESC
 LANG_ENGLISH     "Disables all bonus effects added by AAE.\n\n^1Notice:^7 Deadshot Daiquiri's bonus only applies when carrying 4 or more perks."
