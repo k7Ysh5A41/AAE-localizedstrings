@@ -353,4 +353,10 @@ LANG_ENGLISH     "Prediction Line Only"
 REFERENCE           SYSTIME
 LANG_ENGLISH     "Disable System Date/Time Display"
 
+REFERENCE           WEAPON_OPTIONS3
+LANG_ENGLISH     "Random Camos"
+
+REFERENCE           WEAPON_OPTIONS4
+LANG_ENGLISH     "Random Attachments"
+
 ENDMARKER
