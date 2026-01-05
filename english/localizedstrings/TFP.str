@@ -9,7 +9,7 @@ REFERENCE           EXTPLAYER
 LANG_ENGLISH     "Manage Party Settings"
 
 REFERENCE           EXTPLAYER_DESC
-LANG_ENGLISH     "Change Player Limit and Party Privacy. \n\n^1Notice:^7 Increasing the Player Limit beyond 4 can be unstable. Increasing it beyond 5 will disable GobbleGum Machines.\n\nZombies Chronicles / The Giant: Stable / Easter Egg Compatible \n\nSOE / DE / GK: Less Stable / Easter Egg Compatible \n\nZNS / Revelations: Unstable. Not Recommended. \n\nCustom Maps: Unknown"
+LANG_ENGLISH     "Change Player Limit and Party Privacy. \n\n^1Notice:^7 Increasing the Player Limit beyond 4 can be unstable. Increasing it beyond 5 will disable GobbleGum Machines.\n\nZombies Chronicles / The Giant:\nStable / Easter Egg Compatible\n\nShadows of Evil / DE / Gorod Krovi:\nLess Stable / Easter Egg Compatible\n\nZetsubou No Shima / Revelations:\nUnstable. Not Recommended.\n\nCustom Maps: Unknown"
 
 REFERENCE           FFFIVE
 LANG_ENGLISH     "Enabled - Can't Kill"

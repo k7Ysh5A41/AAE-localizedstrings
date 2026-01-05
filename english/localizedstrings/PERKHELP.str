@@ -6,7 +6,7 @@ CONFIG              "C:\projects\cod\t7\bin\StringEd.cfg"
 FILENOTES           ""
 
 REFERENCE           DEADSHOT
-LANG_ENGLISH     "Increases hip-fire accuracy. Headshot aim assist.\n^3Bonus:^7 Land consecutive headshot kills for better accuracy and headshot damage. See zombies through walls."
+LANG_ENGLISH     "Increases hip-fire accuracy. Headshot aim assist.\n^3Bonus:^7 Consecutive headshot kills grant better accuracy, headshot damage, and enemy visibility."
 
 REFERENCE           DOUBLETAP
 LANG_ENGLISH     "Increases fire rate. Duplicates every fired bullet.\n^3Bonus:^7 Recharges special weapons and equipment faster."
