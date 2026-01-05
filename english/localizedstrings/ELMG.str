@@ -6,7 +6,7 @@ CONFIG              "C:\projects\cod\t7\bin\StringEd.cfg"
 FILENOTES           ""
 
 REFERENCE           SHARE_DROP
-LANG_ENGLISH     "Dropped Some Points ^5"
+LANG_ENGLISH     "Dropped Some Points ^3"
 
 REFERENCE           SHARE_OUT
 LANG_ENGLISH     "^1Insufficient Funds"
@@ -39,19 +39,19 @@ REFERENCE           TRADE_YOU_HAS
 LANG_ENGLISH     "You cannot trade a weapon that the other player currently has."
 
 REFERENCE           ADDED
-LANG_ENGLISH     "Added ^5"
+LANG_ENGLISH     "Added ^3"
 
 REFERENCE           THE_ZM
 LANG_ENGLISH     " ^7Zombies!"
 
 REFERENCE           GIVE_GUM
-LANG_ENGLISH     "GobbleGum ^5"
+LANG_ENGLISH     "GobbleGum ^3"
 
 REFERENCE           GIVE_AAT
-LANG_ENGLISH     "AAT ^5"
+LANG_ENGLISH     "AAT ^3"
 
 REFERENCE           ADD_CAMO
-LANG_ENGLISH     "Camo: ^5"
+LANG_ENGLISH     "Camo: ^3"
 
 REFERENCE           TO_PLAYER
 LANG_ENGLISH     "^7 Given to ^1"
@@ -60,36 +60,36 @@ REFERENCE           ALL_PLAYER
 LANG_ENGLISH     "^7 Given to everyone"
 
 REFERENCE           ROUND
-LANG_ENGLISH     "Round^5 "
+LANG_ENGLISH     "Round^3 "
 
 REFERENCE           IS_END
 LANG_ENGLISH     " ^7is over"
 
 REFERENCE           ZM_SPAWN
-LANG_ENGLISH     "Zombie spawn delay was changed to ^5"
+LANG_ENGLISH     "Zombie spawn delay was changed to ^3"
 
 REFERENCE           SEC
 LANG_ENGLISH     "^7 sec."
 
 REFERENCE           ZM_LIMIT
-LANG_ENGLISH     "Maximum zombie limit has changed to: ^5"
+LANG_ENGLISH     "Maximum zombie limit has changed to: ^3"
 
 REFERENCE           ZM_PLAYER
-LANG_ENGLISH     "The total number of zombies added each time a player enters has been set to: ^5"
+LANG_ENGLISH     "The total number of zombies added each time a player enters has been set to: ^3"
 
 REFERENCE           ZM_SPEED
-LANG_ENGLISH     "Zombie movement speed will be changed next round: ^5%"
+LANG_ENGLISH     "Zombie movement speed will be changed next round: ^3%"
 
 REFERENCE           ZM_PERK
-LANG_ENGLISH     "Perk limit: ^5"
+LANG_ENGLISH     "Perk limit: ^3"
 REFERENCE           ZM_POWER
-LANG_ENGLISH     "Power state: ^5"
+LANG_ENGLISH     "Power state: ^3"
 
 REFERENCE           CHEAT_ON
-LANG_ENGLISH     "Cheat commands are enabled"
+LANG_ENGLISH     "Cheat Commands Enabled"
 
 REFERENCE           CHEAT_OFF
-LANG_ENGLISH     "Cheat commands are disabled"
+LANG_ENGLISH     "Cheat Commands Disabled"
 
 REFERENCE           HITMARKER_ON
 LANG_ENGLISH     "Hitmarker On"
@@ -110,7 +110,7 @@ REFERENCE           SONG_CHANGE
 LANG_ENGLISH     "Switching to a new song......"
 
 REFERENCE           SONG_PLAY
-LANG_ENGLISH     "Now Play: ^5"
+LANG_ENGLISH     "Now Playing: ^3"
 
 REFERENCE           SONG_STOPING
 LANG_ENGLISH     "Music is turning off......"
@@ -119,7 +119,7 @@ REFERENCE           SONG_STOPED
 LANG_ENGLISH     "Music stopped."
 
 REFERENCE           GG
-LANG_ENGLISH     "Weapon: ^5"
+LANG_ENGLISH     "Weapon: ^3"
 
 REFERENCE           WITHDRAW
 LANG_ENGLISH     "^3[{+activate}]^7 Withdrawal ^BBUTTON_COD_POINT_ICON^1000 (^BBUTTON_COD_POINT_ICON^&&1 | ^3[{+melee}]^7 Check Balances)"//"Hold ^3[{+activate}]^7 Withdrawal 1000 [Cost: 100 | Press ^3[{+melee}]^7 to check balances]"

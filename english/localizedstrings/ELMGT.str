@@ -15,7 +15,7 @@ REFERENCE           FMJ_DESC
 LANG_ENGLISH     "^2Deals 200% damage against non-zombie enemies."
 
 REFERENCE           EE_COUNT
-LANG_ENGLISH     "^5Easter eggs completed: ^7"
+LANG_ENGLISH     "^3Easter eggs completed: ^7"
 
 REFERENCE           EE_COMPLETED_START
 LANG_ENGLISH     "I have completed "
@@ -27,7 +27,7 @@ REFERENCE           ROAMER_LABEL
 LANG_ENGLISH     "Press ^3ADS^7 + ^3[{+melee}]^7 To Start The Next Round."
 
 REFERENCE           ROAMER_LABEL_TIMER
-LANG_ENGLISH     "Press ^3ADS^7 + ^3[{+melee}]^7 To Start The Next Round.\nTime Remaining: ^5"
+LANG_ENGLISH     "Press ^3ADS^7 + ^3[{+melee}]^7 To Start The Next Round.\nTime Remaining: ^3"
 
 REFERENCE           PURIFIER_HINT
 LANG_ENGLISH     "Shoot flames at downed allies to revive them!"
@@ -57,7 +57,7 @@ REFERENCE           GB_LEAK
 LANG_ENGLISH     "^1Money Leak"
 
 REFERENCE           GB_LEAKOVER
-LANG_ENGLISH     "^5Money Leak Over"
+LANG_ENGLISH     "^3Money Leak Over"
 
 REFERENCE           GB_INFAMMO
 LANG_ENGLISH     "^2SUPPRESS FIRE!!"
@@ -78,7 +78,7 @@ REFERENCE           LOBBY_PASSWORD_DESC
 LANG_ENGLISH     "In order for players to join your lobby, they need to enter this password."
 
 REFERENCE           WINER
-LANG_ENGLISH     "^5Winner^7: "
+LANG_ENGLISH     "^3Winner^7: "
 
 REFERENCE           GG_UP
 LANG_ENGLISH     "^2Gun Promotion"
