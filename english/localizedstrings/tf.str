@@ -201,7 +201,7 @@ REFERENCE            ROUND
 LANG_ENGLISH         "Starting Round"
 
 REFERENCE            ZC
-LANG_ENGLISH         "Zombie Counter Enabled"
+LANG_ENGLISH         "Zombie Counter"
 
 REFERENCE            HITMARKER
 LANG_ENGLISH         "Zombie Hitmarkers"
@@ -381,7 +381,7 @@ REFERENCE            SPEED_DESC
 LANG_ENGLISH         "Tweak the player speed. 1 is default."
 
 REFERENCE            HEALTH_DESC
-LANG_ENGLISH         "Choose how many health set to player.\nDefault Health = 100, Normal Zombie hits=45"
+LANG_ENGLISH         "Choose how much starting health players have.\nDefault: 100 HP \nZombie Hit: 45 Damage"
 
 REFERENCE            EXO_DESC
 LANG_ENGLISH         "Enable EXO movement.\n\n^1Notice:^7 Will cause issues with maps that use EXO movement like Shadows of Evil and Der Eisendrache."

@@ -42,7 +42,7 @@ REFERENCE           ZOMBIE_H
 LANG_ENGLISH     "Limit Zombie Health"
 
 REFERENCE           ZOMBIE_H_DESC
-LANG_ENGLISH     "Zombie health pool will stop increasing when reaching this round."
+LANG_ENGLISH     "Zombie health will stop increasing when reaching this round."
 
 REFERENCE           CRAZYZOMBIE_DESC
 LANG_ENGLISH     "Zombie speed is doubled for all actions."
@@ -87,7 +87,7 @@ REFERENCE           DUCK
 LANG_ENGLISH     "Player Quacknarok"
 
 REFERENCE           DUCK_DESC
-LANG_ENGLISH     "All Players Wear Duck Float"
+LANG_ENGLISH     "All players wear a duck float."
 
 REFERENCE           ALERT
 LANG_ENGLISH     "\n\n^BBUTTON_CYCLE_LEFT^ Changing this option disables AAE Career tracking, Bank, and Weapon Locker."
@@ -99,7 +99,7 @@ REFERENCE           RAMPAGE_DESC
 LANG_ENGLISH     "Replaces Gambler with Rampage Inducer, which makes zombies sprint faster and spawn more frequently. \n\n^1Notice:^7 Redundant if map already supports Rampage Inducer."
 
 REFERENCE           THEGIANT_WEAPON
-LANG_ENGLISH     "Add Weapon Kit Items To Custom Maps"
+LANG_ENGLISH     "Add Standard BO3 Weapons To Custom Maps"
 
 REFERENCE           HIDE_CUSTOM_MAP_WEAPON
 LANG_ENGLISH     "Hide Custom Map Exclusive Weapons"
