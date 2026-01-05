@@ -381,7 +381,7 @@ REFERENCE           REWARD_LINE13
 LANG_ENGLISH     "D-pad equipment will be continuously resupplied."
 
 REFERENCE           REWARD_LINE14
-LANG_ENGLISH     "If your points equal exactly 5, you will receive 50000 additional points."
+LANG_ENGLISH     "If you have exactly 5 points, you will receive 50000 additional points."
 
 REFERENCE           CLICKHERE
 LANG_ENGLISH     "See Details"
