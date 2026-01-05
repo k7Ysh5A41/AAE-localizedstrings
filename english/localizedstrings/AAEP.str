@@ -219,7 +219,7 @@ REFERENCE            NOM_MAP
 LANG_ENGLISH         "MOVIE MAPS"
 
 REFERENCE            NOM_MAP_DESC
-LANG_ENGLISH         "Maps inspired by movies. These will transport you to cinematic scenarios full of action and excitement."
+LANG_ENGLISH         "Maps inspired by films. Fight in cinematic scenarios full of lights, camera, action."
 
 REFERENCE            SEA_MAP
 LANG_ENGLISH         "SEATOWN MAPS"
@@ -238,7 +238,6 @@ LANG_ENGLISH         "HALLOWEEN MAPS"
 
 REFERENCE            HLW_MAP_DESC
 LANG_ENGLISH         "Pumpkins, cobwebs, and skeletons galore. Beware the one frightful night."
-
 
 REFERENCE            XMA_MAP
 LANG_ENGLISH         "CHRISTMAS MAPS"
