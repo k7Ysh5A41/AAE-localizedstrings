@@ -137,7 +137,7 @@ REFERENCE           WEAPONLOCKER_LOADING
 LANG_ENGLISH     "Processing......"
 
 REFERENCE           BANK_SCORE
-LANG_ENGLISH     "^3Current Balance: ^7"
+LANG_ENGLISH     "Current Balance: ^3"
 
 REFERENCE           BANK_OVERLOAD
 LANG_ENGLISH     "^1The bank is full!"
