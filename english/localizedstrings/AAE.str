@@ -474,16 +474,16 @@ REFERENCE           REWARD_LINE16
 LANG_ENGLISH     "PAP'd weapons are immediately at max damage."
 
 REFERENCE           MAP_NOT_SUPPORT_TITLE
-LANG_ENGLISH     "NOT COMPATIBLE WITH AAE"
+LANG_ENGLISH     "NOT COMPATIBLE"
 
 REFERENCE           MAP_NOT_SUPPORT_TITLE2
-LANG_ENGLISH     "ONLY COMPATIBLE WITH AAE LITE"
+LANG_ENGLISH     "AAE LITE REQUIRED"
 
 REFERENCE           MAP_NOT_SUPPORT_DESC
-LANG_ENGLISH     "The map you have currently selected is incompatible with All-around Enhancement. This will cause the game to crash."
+LANG_ENGLISH     "The map you have selected is incompatible with All-around Enhancement. This will cause the game to crash."
 
 REFERENCE           MAP_NOT_SUPPORT_DESC2
-LANG_ENGLISH     "The map you have currently selected only supports the Lite version of All-around Enhancement. Please switch before trying again."
+LANG_ENGLISH     "The map you have selected only supports the Lite version of All-around Enhancement. Please switch before trying again."
 
 REFERENCE           MAP_NOT_SUPPORT_BUTTON
 LANG_ENGLISH     "Continue Anyway"
