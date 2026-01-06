@@ -146,7 +146,7 @@ REFERENCE           AF_TITLE
 LANG_ENGLISH     "Advanced Features In-Game"
 
 REFERENCE           AF_DESC
-LANG_ENGLISH     "If advanced features are enabled, the Weapon Locker and Bank will be unuseable.\nEnables a GSC-style mod menu which can be accessed by holding ^3[{+stance}] ^7+ ^3[{+reload}]\n^1If you don’t understand how to use this feature, PLEASE DO NOT TURN IT ON!"
+LANG_ENGLISH     "If advanced features are enabled, the Weapon Locker and Bank will be disabled.\nEnables a GSC-style mod menu which can be accessed by holding ^3[{+stance}] ^7+ ^3[{+reload}]\n^1If you don’t understand how to use this feature, PLEASE DO NOT TURN IT ON!"
 
 REFERENCE           AF
 LANG_ENGLISH     "ADVANCED FEATURES"
@@ -158,7 +158,7 @@ REFERENCE           PAUSE_DESC
 LANG_ENGLISH     "Press ^3No ^7to unpause."
 
 REFERENCE           LOCKER_BAN
-LANG_ENGLISH     "^1Illegal scores detected, Weapon Locker & Bank have been disabled."
+LANG_ENGLISH     "^1Illegal Scores Detected - Weapon Locker & Bank Disabled"
 
 REFERENCE           PAUSE
 LANG_ENGLISH     "COOP PAUSE GAME"
