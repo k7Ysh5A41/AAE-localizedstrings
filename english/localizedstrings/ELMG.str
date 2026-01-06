@@ -176,7 +176,7 @@ REFERENCE           SPIKE_HINT
 LANG_ENGLISH     "Double Tap ^3[{+activate}]^7/^3[{+melee}] ^7Detonate Spikes"
 
 REFERENCE           BOXSHARE_HINT
-LANG_ENGLISH     "Press ^3[{+melee}]^7 to share a weapon with a teammate."
+LANG_ENGLISH     "Press ^3[{+melee}]^7 to share a weapon with an ally."
 
 REFERENCE           START_HINT_GAMEPAD
 LANG_ENGLISH     "^3[{+breath_sprint}] ^7+ ^3[{+reload}] ^7Inspect weapons\n^3[{+melee}]^7 + ^3[{+actionslot 3}] ^7Flashlight\n^3[{+breath_sprint}]^7 + ^3[{+actionslot 3}] ^7Drop some points\n^3[{+gostand}]^7 + ^3[{+actionslot 3}] ^7Enhanced Vision"
