@@ -255,7 +255,7 @@ REFERENCE            UNSU_MAP
 LANG_ENGLISH         "^1INCOMPATIBLE MAPS^7"
 
 REFERENCE            UNSU_MAP_DESC
-LANG_ENGLISH         "Maps reported to be incompatible with All Around Enhancement."
+LANG_ENGLISH         "Maps that are not compatible with All Around Enhancement."
 
 REFERENCE            WHIMSICAL
 LANG_ENGLISH         "Whimsical"
