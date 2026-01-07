@@ -503,9 +503,6 @@ LANG_ENGLISH     "GOBBLEGUM DISABLE WARNING"
 REFERENCE           MAP_NOT_SUPPORT_DESC4
 LANG_ENGLISH     "Current party size will reduces game stability. To improve stability slightly, the gobblegum system initialization will be blocked."
 
-REFERENCE           MAP_NOT_SUPPORT_DESC4
-LANG_ENGLISH     "Current party size will reduces game stability. To improve stability slightly, the gobblegum system initialization will be blocked."
-
 REFERENCE           DOWNLOAD_LITE
 LANG_ENGLISH     "Download the AAE Lite version"
 
