@@ -381,16 +381,16 @@ REFERENCE           REWARD_LINE13
 LANG_ENGLISH     "D-pad equipment will be continuously resupplied."
 
 REFERENCE           REWARD_LINE14
-LANG_ENGLISH     "If your points equal exactly 5, you will receive 50000 additional points."
+LANG_ENGLISH     "If you have exactly 5 points, you will receive 50000 additional points."
 
 REFERENCE           CLICKHERE
 LANG_ENGLISH     "See Details"
 
 REFERENCE           RESTARTHINT
-LANG_ENGLISH     "(Don't use fast_restart or map_restart) Press &&1 ^2&&2^7 Times To Restart The Map"
+LANG_ENGLISH     "Don't use console commands! Press &&1 ^2&&2^7 Times To Restart."
 
 REFERENCE           RESTARTHINT_BACK
-LANG_ENGLISH     "(Don't use fast_restart or map_restart) Press &&1 &&2 Times To Restart The Map"
+LANG_ENGLISH     "Don't use console commands! Press &&1 &&2 Times To Restart."
 
 REFERENCE           TOTAL_PLAYTIME
 LANG_ENGLISH     "Total Play Time"
@@ -474,16 +474,16 @@ REFERENCE           REWARD_LINE16
 LANG_ENGLISH     "PAP'd weapons are immediately at max damage."
 
 REFERENCE           MAP_NOT_SUPPORT_TITLE
-LANG_ENGLISH     "NOT COMPATIBLE WITH AAE"
+LANG_ENGLISH     "NOT COMPATIBLE"
 
 REFERENCE           MAP_NOT_SUPPORT_TITLE2
-LANG_ENGLISH     "ONLY COMPATIBLE WITH AAE LITE"
+LANG_ENGLISH     "AAE LITE REQUIRED"
 
 REFERENCE           MAP_NOT_SUPPORT_DESC
-LANG_ENGLISH     "The map you have currently selected is incompatible with All-around Enhancement. This will cause the game to crash."
+LANG_ENGLISH     "The map you have selected is incompatible with All-around Enhancement. This will cause the game to crash."
 
 REFERENCE           MAP_NOT_SUPPORT_DESC2
-LANG_ENGLISH     "The map you have currently selected only supports the Lite version of All-around Enhancement. Please switch before trying again."
+LANG_ENGLISH     "The map you have selected only supports the Lite version of All-around Enhancement. Please switch before trying again."
 
 REFERENCE           MAP_NOT_SUPPORT_BUTTON
 LANG_ENGLISH     "Continue Anyway"

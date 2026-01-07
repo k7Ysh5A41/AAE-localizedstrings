@@ -9,7 +9,7 @@ REFERENCE            FOV_SCALE
 LANG_ENGLISH         "FoV Scale"
 
 REFERENCE            SHORTCUT_KEY
-LANG_ENGLISH         "^3Enhanced Controls\n\n^7Flashlight\nPing\nDrop 1000 Points\nDNI Nightvision\nThird Person\nFull Map View\nHide Heads Up Display\nSpray Paint Emblem\nCancel Throwable\nSet Mulekick Weapon\nChange Camo\nChange Reticle"
+LANG_ENGLISH         "^3Enhanced Controls\n\n^7Flashlight\nPing\nDrop 1000 Points\nDNI Nightvision\nThird Person\nOverhead Map View\nHide Heads Up Display\nSpray Paint Emblem\nCancel Throwable\nSet Mulekick Weapon\nChange Camo\nChange Reticle"
 
 REFERENCE            DRONE_KILL
 LANG_ENGLISH         "Valkyrie Drone Elimination"
@@ -153,25 +153,25 @@ REFERENCE          B1_MAP
 LANG_ENGLISH       "BLACK OPS 1 MAPS"
 
 REFERENCE          B1_MAP_DESC
-LANG_ENGLISH       "Action-packed maps based on the intense Black Ops 1 era."
+LANG_ENGLISH       "Action-packed maps inspired by the intense Black Ops 1 era."
 
 REFERENCE          B2_MAP
 LANG_ENGLISH       "BLACK OPS 2 MAPS"
 
 REFERENCE          B2_MAP_DESC
-LANG_ENGLISH       "Mythical maps inspired by the Black Ops 2 era."
+LANG_ENGLISH       "Mythical maps based on the adventurous Black Ops 2 era."
 
 REFERENCE          B4_MAP
 LANG_ENGLISH       "BLACK OPS 4 MAPS"
 
 REFERENCE          B4_MAP_DESC
-LANG_ENGLISH       "Epic maps heavily influenced by the Black Ops 4 era."
+LANG_ENGLISH       "Epic maps influenced by the concluding Black Ops 4 era."
 
 REFERENCE          MW_MAP
 LANG_ENGLISH       "MODERN WARFARE MAPS"
 
 REFERENCE          MW_MAP_DESC
-LANG_ENGLISH       "Legendary maps from the Modern Warfare series, bathed in blood and zombies."
+LANG_ENGLISH       "Legendary maps that pay tribute to the Modern Warfare era."
 
 REFERENCE            QU_MAP
 LANG_ENGLISH         "QUIET SERIES MAPS"
@@ -219,7 +219,7 @@ REFERENCE            NOM_MAP
 LANG_ENGLISH         "MOVIE MAPS"
 
 REFERENCE            NOM_MAP_DESC
-LANG_ENGLISH         "Maps inspired by movies. These will transport you to cinematic scenarios full of action and excitement."
+LANG_ENGLISH         "Maps inspired by films. Fight in cinematic scenarios full of lights, camera, action."
 
 REFERENCE            SEA_MAP
 LANG_ENGLISH         "SEATOWN MAPS"
@@ -239,12 +239,11 @@ LANG_ENGLISH         "HALLOWEEN MAPS"
 REFERENCE            HLW_MAP_DESC
 LANG_ENGLISH         "Pumpkins, cobwebs, and skeletons galore. Beware the one frightful night."
 
-
 REFERENCE            XMA_MAP
 LANG_ENGLISH         "CHRISTMAS MAPS"
 
 REFERENCE            XMA_MAP_DESC
-LANG_ENGLISH         "Christmas maps full of joy.. ..until midnight strikes and the undead seek their gifts."
+LANG_ENGLISH         "Christmas maps full of joy.. ..until the undead seek their gifts."
 
 REFERENCE            UNSU_MAP
 LANG_ENGLISH         "^1UNSUPPORTED MAPS^7"

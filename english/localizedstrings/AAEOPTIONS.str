@@ -261,7 +261,7 @@ REFERENCE           NO_SUPPORT_LINE3
 LANG_ENGLISH     "\n\n\n\n^22^7. Do You Own Black Ops III On Your Current ^BBUTTON_CYCLE_RIGHT^ Steam Account?"
 
 REFERENCE           NO_SUPPORT_LINE4
-LANG_ENGLISH     "\n\n\n\n\n^23^7. Are You Currently Using a Device or Operating System That is ^5Windows 10 ^7/ ^5Windows 11 ^7/ ^5Steam Deck ^7/ ^5Linux ^7?"
+LANG_ENGLISH     "\n\n\n\n\n^23^7. Are You Currently Using a Device or Operating System That is ^3Windows 10 ^7/ ^3Windows 11 ^7/ ^3Steam Deck ^7/ ^3Linux ^7?"
 
 REFERENCE           MWZCOLOR
 LANG_ENGLISH     "Black Ops 6 Team Colors (Restart Required)"
