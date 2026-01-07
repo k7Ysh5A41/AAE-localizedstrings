@@ -147,7 +147,7 @@ REFERENCE          WW_MAP
 LANG_ENGLISH       "WORLD AT WAR MAPS"
 
 REFERENCE          WW_MAP_DESC
-LANG_ENGLISH       "Gritty maps reminiscent of the World at War era. Includes custom World at War maps remade for Black Ops 3."
+LANG_ENGLISH       "Gritty maps reminiscent of the gruesome World at War era. \nIncludes classic custom World at War maps, remade for Black Ops 3."
 
 REFERENCE          B1_MAP
 LANG_ENGLISH       "BLACK OPS 1 MAPS"
@@ -166,6 +166,12 @@ LANG_ENGLISH       "BLACK OPS 4 MAPS"
 
 REFERENCE          B4_MAP_DESC
 LANG_ENGLISH       "Epic maps influenced by the concluding Black Ops 4 era."
+
+REFERENCE          CW_MAP
+LANG_ENGLISH       "COLD WAR MAPS"
+
+REFERENCE          B4_MAP_DESC
+LANG_ENGLISH       "Stunning maps impacted by the unique Black Ops Cold War era."
 
 REFERENCE          MW_MAP
 LANG_ENGLISH       "MODERN WARFARE MAPS"
