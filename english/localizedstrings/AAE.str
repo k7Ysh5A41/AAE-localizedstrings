@@ -45,7 +45,7 @@ REFERENCE           CREATE_INVITE_TOAST_HEAD2
 LANG_ENGLISH     "Unable to Generate link"
 
 REFERENCE           CAREERS
-LANG_ENGLISH     "CAREERS"
+LANG_ENGLISH     "CAREER HISTORY"
 
 REFERENCE           BANK_BALANCE
 LANG_ENGLISH     "Bank Balance"
@@ -480,10 +480,10 @@ REFERENCE           MAP_NOT_SUPPORT_TITLE2
 LANG_ENGLISH     "AAE LITE REQUIRED"
 
 REFERENCE           MAP_NOT_SUPPORT_DESC
-LANG_ENGLISH     "The map you have selected is incompatible with All-around Enhancement. This will cause the game to crash."
+LANG_ENGLISH     "The selected map is incompatible with All-around Enhancement. This will cause the game to crash."
 
 REFERENCE           MAP_NOT_SUPPORT_DESC2
-LANG_ENGLISH     "The map you have selected only supports the Lite version of All-around Enhancement. Please switch before trying again."
+LANG_ENGLISH     "The selected map only supports the Lite version of All-around Enhancement. Please switch before trying again."
 
 REFERENCE           MAP_NOT_SUPPORT_BUTTON
 LANG_ENGLISH     "Continue Anyway"
@@ -495,15 +495,15 @@ REFERENCE           MAP_NOT_SUPPORT_TITLE3
 LANG_ENGLISH     "GAME CRASH WARNING"
 
 REFERENCE           MAP_NOT_SUPPORT_DESC3
-LANG_ENGLISH     "The map you selected does not support the current party size. Continuing will cause the game to ^1crash ^7immediately!"
+LANG_ENGLISH     "The selected map does not support the party size. Continuing will cause the game to ^1crash! ^7"
 
 REFERENCE           MAP_NOT_SUPPORT_TITLE4
-LANG_ENGLISH     "GOBBLEGUM DISABLE WARNING"
+LANG_ENGLISH     "GOBBLEGUMS DISABLED"
 
 REFERENCE           MAP_NOT_SUPPORT_DESC4
-LANG_ENGLISH     "Current party size will reduces game stability. To improve stability slightly, the gobblegum system initialization will be blocked."
+LANG_ENGLISH     "Due to the party size, GobbleGums have been disabled to improve game stability."
 
 REFERENCE           DOWNLOAD_LITE
-LANG_ENGLISH     "Download the AAE Lite version"
+LANG_ENGLISH     "Download AAE Lite"
 
 ENDMARKER
