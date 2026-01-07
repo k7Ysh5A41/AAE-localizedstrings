@@ -491,4 +491,22 @@ LANG_ENGLISH     "Continue Anyway"
 REFERENCE           LOBBY_NOT_JOINABLE_EXTRA
 LANG_ENGLISH     "For best results, try the following:\n\n1. Join Private Matches via the Steam Friends List.\n2. Ensure the host has an OPEN NAT. Investigate the Options - Network menu to troubleshoot any potential networking issues. \n3. If playing a custom map, try pre-downloading it prior to joining. \n4. If issues still persist, try enabling Windows Game Mode or use a reputable 3rd party VPN/Game Booster.\n^1Notice:^7 The Server Browser menu does not list joinable servers. Steam is gathering lobbies with public IPs worldwide. Due to networking and security issues, these lobbies cannot be joined."
 
+REFERENCE           MAP_NOT_SUPPORT_TITLE3
+LANG_ENGLISH     "GAME CRASH WARNING"
+
+REFERENCE           MAP_NOT_SUPPORT_DESC3
+LANG_ENGLISH     "The map you selected does not support the current party size. Continuing will cause the game to ^1crash ^7immediately!"
+
+REFERENCE           MAP_NOT_SUPPORT_TITLE4
+LANG_ENGLISH     "GOBBLEGUM DISABLE WARNING"
+
+REFERENCE           MAP_NOT_SUPPORT_DESC4
+LANG_ENGLISH     "Current party size will reduces game stability. To improve stability slightly, the gobblegum system initialization will be blocked."
+
+REFERENCE           MAP_NOT_SUPPORT_DESC4
+LANG_ENGLISH     "Current party size will reduces game stability. To improve stability slightly, the gobblegum system initialization will be blocked."
+
+REFERENCE           DOWNLOAD_LITE
+LANG_ENGLISH     "Download the AAE Lite version"
+
 ENDMARKER
