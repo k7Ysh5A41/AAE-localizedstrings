@@ -252,10 +252,10 @@ REFERENCE            XMA_MAP_DESC
 LANG_ENGLISH         "Christmas maps full of joy.. ..until the undead seek their gifts."
 
 REFERENCE            UNSU_MAP
-LANG_ENGLISH         "^1UNSUPPORTED MAPS^7"
+LANG_ENGLISH         "^1INCOMPATIBLE MAPS^7"
 
 REFERENCE            UNSU_MAP_DESC
-LANG_ENGLISH         "Maps not compatible with All Around Enhancement."
+LANG_ENGLISH         "Maps reported to be incompatible with All Around Enhancement."
 
 REFERENCE            WHIMSICAL
 LANG_ENGLISH         "Whimsical"
