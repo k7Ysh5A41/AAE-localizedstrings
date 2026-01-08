@@ -98,10 +98,10 @@ LANG_ENGLISH         "Drücke ^3[{+melee}]^7 Pack-a-Punch Li'l Arnies [Kosten: 5
 REFERENCE            ZOMBIE_BASE_HEALTH
 LANG_ENGLISH         "Basisgesundheit-Multiplikator der Zombies"
 
-REFERENCE          VE_MAP
+REFERENCE          OW_MAP
 LANG_ENGLISH       "EIN-FENSTER-KARTEN"
 
-REFERENCE          VE_MAP_DESC
+REFERENCE          OW_MAP_DESC
 LANG_ENGLISH       "Karten, bei denen es nur ein Fenster gibt, in einem kleinen oder mittelgroßen Raum."
 
 REFERENCE          MIN_MAP
@@ -116,10 +116,10 @@ LANG_ENGLISH       "TURMKARTEN"
 REFERENCE          TOR_MAP_DESC
 LANG_ENGLISH       "Turmkarten, bei denen das Ziel ist, den Turm zu erklimmen oder zu verlassen, das finale kaufbare Ende zu erwerben oder Herausforderungen abzuschließen."
 
-REFERENCE          IN_MAP
+REFERENCE          TD_MAP
 LANG_ENGLISH       "INSPIRIERTE KARTEN"
 
-REFERENCE          IN_MAP_DESC
+REFERENCE          TD_MAP_DESC
 LANG_ENGLISH       "Inspiriert von den Designs von Treyarch."
 
 REFERENCE          MP_MAP
@@ -200,10 +200,10 @@ LANG_ENGLISH         "HORROR KARTEN"
 REFERENCE            NO_MAP_DESC
 LANG_ENGLISH         "Horrorkarten, wo Intensität schreit und Verzweiflung durch deinen Körper läuft, die Grenzen ständig herausfordernd."
 
-REFERENCE            NOM_MAP
+REFERENCE            MTV_MAP
 LANG_ENGLISH         "FILM KARTEN"
 
-REFERENCE            NOM_MAP_DESC
+REFERENCE            MTV_MAP_DESC
 LANG_ENGLISH         "Karten inspiriert von Filmen, die dich in filmische Szenarien voller Action und Spannung versetzen."
 
 REFERENCE            SEA_MAP
@@ -224,19 +224,19 @@ LANG_ENGLISH         "WEIHNACHTSKARTEN"
 REFERENCE            XMA_MAP_DESC
 LANG_ENGLISH         "Weihnachtskarten voller Freude bis Mitternacht, wenn die Untoten nach ihren Geschenken suchen."
 
-REFERENCE            UNSU_MAP
+REFERENCE            INCP_MAP
 LANG_ENGLISH         "^1UNTERSTÜTZTE KARTEN NICHT^7"
 
-REFERENCE            UNSU_MAP_DESC
+REFERENCE            INCP_MAP_DESC
 LANG_ENGLISH         "Hier werden Karten angezeigt, die mit dem All Around Enhancement-Mod nicht kompatibel sind."
 
 REFERENCE            WHIMSICAL
 LANG_ENGLISH         "Skurril"
 
-REFERENCE            ZC_MAP
+REFERENCE            ZC2_MAP
 LANG_ENGLISH         "ZOMBIES CHRONICLES II"
 
-REFERENCE            ZC_MAP_DESC
+REFERENCE            ZC2_MAP_DESC
 LANG_ENGLISH         "Epische Remakes von der Community erstellt, die eine unterhaltsame und einzigartige Möglichkeit bieten, diese klassischen Erfahrungen zu erleben!"
 
 REFERENCE            RTT_MAP

@@ -98,10 +98,10 @@ LANG_ENGLISH         "^3[{+melee}]^7を押してパック・ア・パンチ リ�
 REFERENCE            ZOMBIE_BASE_HEALTH
 LANG_ENGLISH         "ゾンビ基礎体力倍率"
 
-REFERENCE          VE_MAP
+REFERENCE          OW_MAP
 LANG_ENGLISH       "ワンウィンドウマップ"
 
-REFERENCE          VE_MAP_DESC
+REFERENCE          OW_MAP_DESC
 LANG_ENGLISH       "小～中サイズの部屋に1つだけ窓があるマップ。"
 
 REFERENCE          MIN_MAP
@@ -116,10 +116,10 @@ LANG_ENGLISH       "タワーマップ"
 REFERENCE          TOR_MAP_DESC
 LANG_ENGLISH       "塔を登ったり降りたりすることが目的のマップ、最後の購入可能エンディングを購入、またはチャレンジをクリアします。"
 
-REFERENCE          IN_MAP
+REFERENCE          TD_MAP
 LANG_ENGLISH       "インスパイアマップ"
 
-REFERENCE          IN_MAP_DESC
+REFERENCE          TD_MAP_DESC
 LANG_ENGLISH       "Treyarchのデザインを参考にしたインスパイアマップ。"
 
 REFERENCE          MP_MAP
@@ -200,10 +200,10 @@ LANG_ENGLISH         "ホラーマップ"
 REFERENCE            NO_MAP_DESC
 LANG_ENGLISH         "緊張感あふれるホラーマップ、絶望が体を駆け巡り、限界を試されます。"
 
-REFERENCE            NOM_MAP
+REFERENCE            MTV_MAP
 LANG_ENGLISH         "ムービーマップ"
 
-REFERENCE            NOM_MAP_DESC
+REFERENCE            MTV_MAP_DESC
 LANG_ENGLISH         "映画に触発されたマップで、シネマティックなシナリオにあなたを運びます。"
 
 REFERENCE            SEA_MAP
@@ -224,19 +224,19 @@ LANG_ENGLISH         "クリスマスマップ"
 REFERENCE            XMA_MAP_DESC
 LANG_ENGLISH         "クリスマスマップ、真夜中になるまで楽しみ、アンデッドがプレゼントを探す。"
 
-REFERENCE            UNSU_MAP
+REFERENCE            INCP_MAP
 LANG_ENGLISH         "^1サポートされていないマップ^7"
 
-REFERENCE            UNSU_MAP_DESC
+REFERENCE            INCP_MAP_DESC
 LANG_ENGLISH         "All Around Enhancement modに非対応のマップがこのタブに表示されます。"
 
 REFERENCE            WHIMSICAL
 LANG_ENGLISH         "気まぐれ"
 
-REFERENCE            ZC_MAP
+REFERENCE            ZC2_MAP
 LANG_ENGLISH         "ZOMBIES CHRONICLES II"
 
-REFERENCE            ZC_MAP_DESC
+REFERENCE            ZC2_MAP_DESC
 LANG_ENGLISH         "コミュニティによる壮大なリメイクで、クラシック体験を楽しくユニークにプレイできます！"
 
 REFERENCE            RTT_MAP

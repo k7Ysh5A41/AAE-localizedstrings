@@ -92,10 +92,10 @@ LANG_ENGLISH         "Presiona ^3[{+melee}]^7 para PAP Li'l Arnie [coste: 5000]"
 REFERENCE            ZOMBIE_BASE_HEALTH
 LANG_ENGLISH      "Aumentar la salud enemiga"
 
-REFERENCE            VE_MAP
+REFERENCE            OW_MAP
 LANG_ENGLISH         "MAPAS DE UNA VENTANA"
 
-REFERENCE            VE_MAP_DESC
+REFERENCE            OW_MAP_DESC
 LANG_ENGLISH         "Mapas donde solo hay una ventana y es en un cuarto pequeño o mediano."
 
 REFERENCE            MIN_MAP
@@ -110,10 +110,10 @@ LANG_ENGLISH         "MAPAS DE TORRES"
 REFERENCE            TOR_MAP_DESC
 LANG_ENGLISH         "Mapas de torres donde tu objetivo es subir o bajar la torre y comprar su final comprable o completar retos."
 
-REFERENCE            IN_MAP
+REFERENCE            TD_MAP
 LANG_ENGLISH         "MAPAS INSPIRADOS"
 
-REFERENCE            IN_MAP_DESC
+REFERENCE            TD_MAP_DESC
 LANG_ENGLISH         "Mapas inspirados tomando el diseño de Treyarch."
 
 REFERENCE            MP_MAP
@@ -194,10 +194,10 @@ LANG_ENGLISH         "MAPAS DE HORROR"
 REFERENCE            NO_MAP_DESC
 LANG_ENGLISH         "Mapas de horror donde la intensidad, los gritos y la desesperación recorrerán tu cuerpo, desafiando tus límites en cada segundo."
 
-REFERENCE            NOM_MAP
+REFERENCE            MTV_MAP
 LANG_ENGLISH         "MAPAS DE PELÍCULAS"
 
-REFERENCE            NOM_MAP_DESC
+REFERENCE            MTV_MAP_DESC
 LANG_ENGLISH         "Mapas inspirados en películas que te transportarán a escenarios cinematográficos llenos de emoción y acción."
 
 REFERENCE            SEA_MAP
@@ -218,10 +218,10 @@ LANG_ENGLISH         "MAPAS NAVIDEÑOS"
 REFERENCE            XMA_MAP_DESC
 LANG_ENGLISH         "Mapas navideños llenos de alegría, hasta que llegan las 12:00 de la noche y los muertos vivientes buscarán sus regalos."
 
-REFERENCE            UNSU_MAP
+REFERENCE            INCP_MAP
 LANG_ENGLISH         "^1MAPAS NO COMPATIBLES"
 
-REFERENCE            UNSU_MAP_DESC
+REFERENCE            INCP_MAP_DESC
 LANG_ENGLISH         "Aquí se mostrarán los mapas que no son compatibles con el mod de All Around Enhancement."
 
 REFERENCE            SHORTCUT_KEY
@@ -233,10 +233,10 @@ LANG_ENGLISH         "Escala del campo de visión"
 REFERENCE            WHIMSICAL
 LANG_ENGLISH         "Insólito"
 
-REFERENCE            ZC_MAP
+REFERENCE            ZC2_MAP
 LANG_ENGLISH         "ZOMBIS CHRONICLES II"
 
-REFERENCE            ZC_MAP_DESC
+REFERENCE            ZC2_MAP_DESC
 LANG_ENGLISH         "Mapas épicos hechos por la comunidad, celebrando la historia y esencia del modo Zombi."
 
 REFERENCE            RTT_MAP

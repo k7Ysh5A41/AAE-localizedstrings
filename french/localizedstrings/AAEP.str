@@ -98,10 +98,10 @@ LANG_ENGLISH         "Appuyez sur ^3[{+melee}]^7 Pack-a-Punch Li'l Arnies [Coût
 REFERENCE            ZOMBIE_BASE_HEALTH
 LANG_ENGLISH         "Multiplicateur de santé de base des zombies"
 
-REFERENCE          VE_MAP
+REFERENCE          OW_MAP
 LANG_ENGLISH       "CARTES À UNE FENÊTRE"
 
-REFERENCE          VE_MAP_DESC
+REFERENCE          OW_MAP_DESC
 LANG_ENGLISH       "Cartes où il n'y a qu'une seule fenêtre, située dans une pièce petite ou moyenne."
 
 REFERENCE          MIN_MAP
@@ -116,10 +116,10 @@ LANG_ENGLISH       "CARTES TOUR"
 REFERENCE          TOR_MAP_DESC
 LANG_ENGLISH       "Cartes de tour où votre objectif est de monter ou descendre la tour, acheter sa fin achetable finale ou compléter des défis."
 
-REFERENCE          IN_MAP
+REFERENCE          TD_MAP
 LANG_ENGLISH       "CARTES INSPIRÉES"
 
-REFERENCE          IN_MAP_DESC
+REFERENCE          TD_MAP_DESC
 LANG_ENGLISH       "Cartes inspirées par le design de Treyarch."
 
 REFERENCE          MP_MAP
@@ -200,10 +200,10 @@ LANG_ENGLISH         "CARTES HORREUR"
 REFERENCE            NO_MAP_DESC
 LANG_ENGLISH         "Cartes d'horreur où l'intensité hurle et le désespoir traverse votre corps, défiant vos limites chaque seconde."
 
-REFERENCE            NOM_MAP
+REFERENCE            MTV_MAP
 LANG_ENGLISH         "CARTES CINÉMA"
 
-REFERENCE            NOM_MAP_DESC
+REFERENCE            MTV_MAP_DESC
 LANG_ENGLISH         "Cartes inspirées de films qui vous transportent dans des scénarios cinématographiques pleins d'action et de suspense."
 
 REFERENCE            SEA_MAP
@@ -224,19 +224,19 @@ LANG_ENGLISH         "CARTES NOËL"
 REFERENCE            XMA_MAP_DESC
 LANG_ENGLISH         "Cartes de Noël pleines de joie jusqu'à minuit, où les morts-vivants cherchent leurs cadeaux."
 
-REFERENCE            UNSU_MAP
+REFERENCE            INCP_MAP
 LANG_ENGLISH         "^1CARTES NON SUPPORTÉES^7"
 
-REFERENCE            UNSU_MAP_DESC
+REFERENCE            INCP_MAP_DESC
 LANG_ENGLISH         "Ici seront affichées les cartes incompatibles avec le mod All Around Enhancement."
 
 REFERENCE            WHIMSICAL
 LANG_ENGLISH         "Fantaisiste"
 
-REFERENCE            ZC_MAP
+REFERENCE            ZC2_MAP
 LANG_ENGLISH         "ZOMBIES CHRONICLES II"
 
-REFERENCE            ZC_MAP_DESC
+REFERENCE            ZC2_MAP_DESC
 LANG_ENGLISH         "Remakes épiques réalisés par la communauté, offrant une façon amusante et unique de revivre ces expériences classiques !"
 
 REFERENCE            RTT_MAP

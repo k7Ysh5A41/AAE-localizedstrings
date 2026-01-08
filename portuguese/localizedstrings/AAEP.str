@@ -98,10 +98,10 @@ LANG_ENGLISH         "Pressione ^3[{+melee}]^7 Pack-a-Punch Li'l Arnies [Custo: 
 REFERENCE            ZOMBIE_BASE_HEALTH
 LANG_ENGLISH         "Multiplicador de Vida Base do Zumbi"
 
-REFERENCE          VE_MAP
+REFERENCE          OW_MAP
 LANG_ENGLISH       "MAPAS COM UMA JANELA"
 
-REFERENCE          VE_MAP_DESC
+REFERENCE          OW_MAP_DESC
 LANG_ENGLISH       "Mapas com apenas uma janela, localizados em uma sala pequena ou média."
 
 REFERENCE          MIN_MAP
@@ -116,10 +116,10 @@ LANG_ENGLISH       "MAPAS DE TORRE"
 REFERENCE          TOR_MAP_DESC
 LANG_ENGLISH       "Mapas de torre onde seu objetivo é subir ou descer na torre, comprar seu final comprável ou completar desafios."
 
-REFERENCE          IN_MAP
+REFERENCE          TD_MAP
 LANG_ENGLISH       "MAPAS INSPIRED"
 
-REFERENCE          IN_MAP_DESC
+REFERENCE          TD_MAP_DESC
 LANG_ENGLISH       "Mapas inspirados no design da Treyarch."
 
 REFERENCE          MP_MAP
@@ -200,10 +200,10 @@ LANG_ENGLISH         "MAPAS DE TERROR"
 REFERENCE            NO_MAP_DESC
 LANG_ENGLISH         "Mapas de terror onde a intensidade grita e o desespero atravessa seu corpo, testando seus limites a cada segundo."
 
-REFERENCE            NOM_MAP
+REFERENCE            MTV_MAP
 LANG_ENGLISH         "MAPAS DE FILME"
 
-REFERENCE            NOM_MAP_DESC
+REFERENCE            MTV_MAP_DESC
 LANG_ENGLISH         "Mapas inspirados em filmes que transportam você para cenários cinematográficos cheios de emoção e ação."
 
 REFERENCE            SEA_MAP
@@ -224,19 +224,19 @@ LANG_ENGLISH         "MAPAS DE NATAL"
 REFERENCE            XMA_MAP_DESC
 LANG_ENGLISH         "Mapas de Natal cheios de alegria, até a meia-noite, quando os mortos-vivos procuram seus presentes."
 
-REFERENCE            UNSU_MAP
+REFERENCE            INCP_MAP
 LANG_ENGLISH         "^1MAPAS NÃO SUPORTADOS^7"
 
-REFERENCE            UNSU_MAP_DESC
+REFERENCE            INCP_MAP_DESC
 LANG_ENGLISH         "Aqui, na aba, serão mostrados mapas que não são compatíveis com o mod All Around Enhancement."
 
 REFERENCE            WHIMSICAL
 LANG_ENGLISH         "Caprichoso"
 
-REFERENCE            ZC_MAP
+REFERENCE            ZC2_MAP
 LANG_ENGLISH         "ZOMBIES CHRONICLES II"
 
-REFERENCE            ZC_MAP_DESC
+REFERENCE            ZC2_MAP_DESC
 LANG_ENGLISH         "Remakes épicos feitos pela comunidade, oferecendo uma maneira divertida e única de jogar essas experiências clássicas!"
 
 REFERENCE            RTT_MAP

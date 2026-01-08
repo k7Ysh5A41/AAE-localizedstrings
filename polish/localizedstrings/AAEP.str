@@ -98,10 +98,10 @@ LANG_ENGLISH         "Naciśnij ^3[{+melee}]^7, aby Pack-a-Punch Li'l Arnies [Ko
 REFERENCE            ZOMBIE_BASE_HEALTH
 LANG_ENGLISH         "Mnożnik bazowego zdrowia zombie"
 
-REFERENCE          VE_MAP
+REFERENCE          OW_MAP
 LANG_ENGLISH       "MAPY Z JEDNYM OKNEM"
 
-REFERENCE          VE_MAP_DESC
+REFERENCE          OW_MAP_DESC
 LANG_ENGLISH       "Mapy z jednym oknem, znajdujące się w małym lub średnim pomieszczeniu."
 
 REFERENCE          MIN_MAP
@@ -116,10 +116,10 @@ LANG_ENGLISH       "MAPY WIEŻOWE"
 REFERENCE          TOR_MAP_DESC
 LANG_ENGLISH       "Mapy wieżowe, gdzie celem jest wspinanie się lub schodzenie po wieży, zakup końcowego zakończenia lub wykonywanie wyzwań."
 
-REFERENCE          IN_MAP
+REFERENCE          TD_MAP
 LANG_ENGLISH       "MAPY INSPIRED"
 
-REFERENCE          IN_MAP_DESC
+REFERENCE          TD_MAP_DESC
 LANG_ENGLISH       "Mapy inspirowane projektami Treyarch."
 
 REFERENCE          MP_MAP
@@ -200,10 +200,10 @@ LANG_ENGLISH         "MAPY HORROR"
 REFERENCE            NO_MAP_DESC
 LANG_ENGLISH         "Mapy horroru, gdzie intensywność krzyczy, a rozpacz przeszywa ciało, testując twoje granice."
 
-REFERENCE            NOM_MAP
+REFERENCE            MTV_MAP
 LANG_ENGLISH         "MAPY FILMOWE"
 
-REFERENCE            NOM_MAP_DESC
+REFERENCE            MTV_MAP_DESC
 LANG_ENGLISH         "Mapy inspirowane filmami, przenoszące cię do kinowych scenariuszy pełnych akcji."
 
 REFERENCE            SEA_MAP
@@ -224,19 +224,19 @@ LANG_ENGLISH         "MAPY BOŻONARODZENIOWE"
 REFERENCE            XMA_MAP_DESC
 LANG_ENGLISH         "Mapy bożonarodzeniowe pełne radości, aż do północy, gdy nieumarli szukają swoich prezentów."
 
-REFERENCE            UNSU_MAP
+REFERENCE            INCP_MAP
 LANG_ENGLISH         "^1MAPY NIEOBSŁUGIWANE^7"
 
-REFERENCE            UNSU_MAP_DESC
+REFERENCE            INCP_MAP_DESC
 LANG_ENGLISH         "Tutaj w tej zakładce zostaną pokazane mapy niekompatybilne z All Around Enhancement mod."
 
 REFERENCE            WHIMSICAL
 LANG_ENGLISH         "Kapryśne"
 
-REFERENCE            ZC_MAP
+REFERENCE            ZC2_MAP
 LANG_ENGLISH         "ZOMBIES CHRONICLES II"
 
-REFERENCE            ZC_MAP_DESC
+REFERENCE            ZC2_MAP_DESC
 LANG_ENGLISH         "Epickie remake wykonane przez społeczność, oferujące zabawną i unikalną rozgrywkę klasycznych doświadczeń!"
 
 REFERENCE            RTT_MAP
