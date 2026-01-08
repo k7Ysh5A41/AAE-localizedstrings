@@ -107,107 +107,101 @@ LANG_ENGLISH       "ZOMBIES CHRONICLES II"
 REFERENCE          ZC2_MAP_DESC
 LANG_ENGLISH       "A collection of Treyarch maps remade by the best in the zombies community."
 
+REFERENCE          RTT_MAP
+LANG_ENGLISH       "RETURN TO TRANZIT"
+
+REFERENCE          RTT_MAP_DESC
+LANG_ENGLISH       "Relive TranZit as the Victis crew moments before rockets hit earth. Series by Verk0."
+
+REFERENCE          FC_MAP
+LANG_ENGLISH       "FULL CIRCLE"
+
+REFERENCE          FC_MAP_DESC
+LANG_ENGLISH       "Join the time-traveling Primus crew in this epic storyline. Series by Alfa."
+
+REFERENCE          WEE_MAP
+LANG_ENGLISH       "10 WEEKS - 10 MAPS"
+
+REFERENCE          WEE_MAP_DESC
+LANG_ENGLISH       "Defend and stay alive on these small-scale maps, each with a unique theme. Series by Logical."
+
+REFERENCE          QU_MAP
+LANG_ENGLISH       "QUIET"
+
+REFERENCE          QU_MAP_DESC
+LANG_ENGLISH       "Explore colorful, unique maps with fun gameplay twists. Series by Markus Darius."
+
 REFERENCE          WW_MAP
-LANG_ENGLISH       "WORLD AT WAR MAPS"
+LANG_ENGLISH       "WORLD AT WAR"
 
 REFERENCE          WW_MAP_DESC
 LANG_ENGLISH       "Gritty maps reminiscent of the gruesome World at War era. \nFeatures classic World at War custom maps, remade for Black Ops 3."
 
 REFERENCE          B1_MAP
-LANG_ENGLISH       "BLACK OPS MAPS"
+LANG_ENGLISH       "BLACK OPS"
 
 REFERENCE          B1_MAP_DESC
 LANG_ENGLISH       "Action-packed maps guided by the original Black Ops era."
 
 REFERENCE          DS_MAP
-LANG_ENGLISH       "BLACK OPS DS MAPS"
+LANG_ENGLISH       "BLACK OPS DS"
 
 REFERENCE          DS_MAP_DESC
 LANG_ENGLISH       "Entertaining remakes from the Nintendo DS release of Black Ops."
 
 REFERENCE          B2_MAP
-LANG_ENGLISH       "BLACK OPS II MAPS"
+LANG_ENGLISH       "BLACK OPS II"
 
 REFERENCE          B2_MAP_DESC
 LANG_ENGLISH       "Intense maps based on the adventurous Black Ops II era."
 
 REFERENCE          B4_MAP
-LANG_ENGLISH       "BLACK OPS 4 MAPS"
+LANG_ENGLISH       "BLACK OPS 4"
 
 REFERENCE          B4_MAP_DESC
 LANG_ENGLISH       "Epic maps influenced by the concluding Black Ops 4 era."
 
 REFERENCE          CW_MAP
-LANG_ENGLISH       "COLD WAR MAPS"
+LANG_ENGLISH       "COLD WAR"
 
 REFERENCE          CW_MAP_DESC
-LANG_ENGLISH       "Stunning maps shaped around the Cold War era and beyond."
+LANG_ENGLISH       "Stunning maps shaped around the more modern Cold War era and beyond."
 
 REFERENCE          MW_MAP
-LANG_ENGLISH       "MODERN WARFARE MAPS"
+LANG_ENGLISH       "MODERN WARFARE"
 
 REFERENCE          MW_MAP_DESC
 LANG_ENGLISH       "Legendary maps that pay tribute to the Modern Warfare era."
 
-REFERENCE          RTT_MAP
-LANG_ENGLISH       "RETURN TO TRANZIT SERIES"
-
-REFERENCE          RTT_MAP_DESC
-LANG_ENGLISH       "Relive TranZit as the Victis crew moments before rockets hit earth."
-
-REFERENCE          FC_MAP
-LANG_ENGLISH       "FULL CIRCLE SERIES"
-
-REFERENCE          FC_MAP_DESC
-LANG_ENGLISH       "Join the time-traveling Primus crew in this epic story."
-
-REFERENCE          QU_MAP
-LANG_ENGLISH       "QUIET SERIES"
-
-REFERENCE          QU_MAP_DESC
-LANG_ENGLISH       "Explore colorful, well-made maps with unique gameplay twists."
-
-REFERENCE          SAW_MAP
-LANG_ENGLISH       "SAW SERIES"
-
-REFERENCE          SAW_MAP_DESC
-LANG_ENGLISH       "Beware the disturbing environments full of macabre traps."
-
-REFERENCE          WEE_MAP
-LANG_ENGLISH       "10 WEEKS-10 MAPS SERIES"
-
-REFERENCE          WEE_MAP_DESC
-LANG_ENGLISH       "Defend and stay alive on these small-scale maps, each with a unique theme."
-
 REFERENCE          HLW_MAP
-LANG_ENGLISH       "HALLOWEEN MAPS"
+LANG_ENGLISH       "HALLOWEEN"
 
 REFERENCE          HLW_MAP_DESC
-LANG_ENGLISH       "Pumpkins, cobwebs, and skeletons galore. Beware the one frightful night."
+LANG_ENGLISH       "Pumpkins, cobwebs, and skeletons galore. Beware the one frightful night on these spooky maps."
 
 REFERENCE          XMA_MAP
-LANG_ENGLISH       "CHRISTMAS MAPS"
+LANG_ENGLISH       "CHRISTMAS"
 
 REFERENCE          XMA_MAP_DESC
-LANG_ENGLISH       "Christmas maps full of joy.. ..until the undead seek their gifts."
+LANG_ENGLISH       "Festive maps full of joy.. ..until the undead seek their gifts."
 
 REFERENCE          MIN_MAP
-LANG_ENGLISH       "MINECRAFT MAPS"
+LANG_ENGLISH       "MINECRAFT"
 
 REFERENCE          MIN_MAP_DESC
-LANG_ENGLISH       "Other maps inspired by the popular game Minecraft. \nMine and craft your way to survival."
+LANG_ENGLISH       "Other maps inspired by the popular game Minecraft."
 
 REFERENCE          MTV_MAP
-LANG_ENGLISH       "MOVIE/TV MAPS"
+LANG_ENGLISH       "MOVIES / SERIES"
 
 REFERENCE          MTV_MAP_DESC
-LANG_ENGLISH       "Other maps inspired by hit movies and series. \nFight the horde in scenarios full of lights, camera, action."
+LANG_ENGLISH       "Other maps inspired by hit movies and series."
 
 REFERENCE          VG_MAP
-LANG_ENGLISH       "VIDEO GAME MAPS"
+LANG_ENGLISH       "VIDEO GAMES"
 
 REFERENCE          VG_MAP_DESC
-LANG_ENGLISH       "Other maps inspired by fan-favorite video game series. \nCollect coins and rescue the princess from the undead."
+LANG_ENGLISH       "Other maps inspired by fan-favorite video game series."
 
 REFERENCE          KO_MAP
 LANG_ENGLISH       "VERK0 MAPS"
@@ -222,31 +216,31 @@ REFERENCE          ICE_MAP_DESC
 LANG_ENGLISH       "Other amazing maps made by popular map creator IceGrenade."
 
 REFERENCE          TD_MAP
-LANG_ENGLISH       "TRADITIONAL MAPS"
+LANG_ENGLISH       "TRADITIONAL"
 
 REFERENCE          TD_MAP_DESC
-LANG_ENGLISH       "Miscellaneous maps that play like classic survival experiences."
+LANG_ENGLISH       "Miscellaneous maps that play like traditional survival experiences."
 
 REFERENCE          CH_MAP
-LANG_ENGLISH       "CHALLENGE MAPS"
+LANG_ENGLISH       "CHALLENGE"
 
 REFERENCE          CH_MAP_DESC
 LANG_ENGLISH       "Miscellaneous maps filled with challenges that will test your skills and abilities."
 
 REFERENCE          TOR_MAP
-LANG_ENGLISH       "TOWER MAPS"
+LANG_ENGLISH       "TOWER"
 
 REFERENCE          TOR_MAP_DESC
 LANG_ENGLISH       "Miscellaneous maps with only one objective: Climb or descend the tower."
 
 REFERENCE          OW_MAP
-LANG_ENGLISH       "ONE WINDOW MAPS"
+LANG_ENGLISH       "ONE WINDOW"
 
 REFERENCE          OW_MAP_DESC
 LANG_ENGLISH       "Miscellaneous maps that feature only one window to defend."
 
 REFERENCE          INCP_MAP
-LANG_ENGLISH       "^1INCOMPATIBLE MAPS^7"
+LANG_ENGLISH       "^1INCOMPATIBLE^7"
 
 REFERENCE          INCP_MAP_DESC
 LANG_ENGLISH       "Maps that are not compatible with All Around Enhancement."
