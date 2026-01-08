@@ -101,65 +101,35 @@ LANG_ENGLISH         "Press ^3[{+melee}]^7 to Pack-a-Punch Li'l Arnies [Cost: 50
 REFERENCE            ZOMBIE_BASE_HEALTH
 LANG_ENGLISH         "Zombie Base Health Multiplier"
 
-REFERENCE          VE_MAP
-LANG_ENGLISH       "ONE WINDOW MAPS"
+REFERENCE          ZC2_MAP
+LANG_ENGLISH       "ZOMBIES CHRONICLES II"
 
-REFERENCE          VE_MAP_DESC
-LANG_ENGLISH       "Small-scale maps with only one window and one goal. Survive."
-
-REFERENCE          MIN_MAP
-LANG_ENGLISH       "MINECRAFT MAPS"
-
-REFERENCE          MIN_MAP_DESC
-LANG_ENGLISH       "Maps inspired by the popular game Minecraft. Filled with fun challenges and lots of zombies."
-
-REFERENCE          TOR_MAP
-LANG_ENGLISH       "TOWER MAPS"
-
-REFERENCE          TOR_MAP_DESC
-LANG_ENGLISH       "Your objective: Climb or descend the tower. Purchase the buyable ending."
-
-REFERENCE          IN_MAP
-LANG_ENGLISH       "INSPIRED MAPS"
-
-REFERENCE          IN_MAP_DESC
-LANG_ENGLISH       "Maps that take inspiration or gameplay cues from Treyarch."
-
-REFERENCE          MP_MAP
-LANG_ENGLISH       "MULTIPLAYER MAPS"
-
-REFERENCE          MP_MAP_DESC
-LANG_ENGLISH       "Multiplayer maps modified for a new zombies twist."
-
-REFERENCE          FC_MAP
-LANG_ENGLISH       "FULL CIRCLE MAPS"
-
-REFERENCE          FC_MAP_DESC
-LANG_ENGLISH       "Amazing maps from the popular map creator AlfaTheseus."
-
-REFERENCE          DS_MAP
-LANG_ENGLISH       "BLACK OPS DS MAPS"
-
-REFERENCE          DS_MAP_DESC
-LANG_ENGLISH       "Entertaining remakes from the Nintendo DS release of Black Ops 1."
+REFERENCE          ZC2_MAP_DESC
+LANG_ENGLISH       "A collection of Treyarch maps remade by the best in the zombies community."
 
 REFERENCE          WW_MAP
 LANG_ENGLISH       "WORLD AT WAR MAPS"
 
 REFERENCE          WW_MAP_DESC
-LANG_ENGLISH       "Gritty maps reminiscent of the gruesome World at War era. \nAlso includes classic custom World at War maps, remade for Black Ops 3."
+LANG_ENGLISH       "Gritty maps reminiscent of the gruesome World at War era. \nFeatures classic World at War custom maps, remade for Black Ops 3."
 
 REFERENCE          B1_MAP
-LANG_ENGLISH       "BLACK OPS 1 MAPS"
+LANG_ENGLISH       "BLACK OPS MAPS"
 
 REFERENCE          B1_MAP_DESC
-LANG_ENGLISH       "Action-packed maps inspired by the intense Black Ops 1 era."
+LANG_ENGLISH       "Action-packed maps guided by the original Black Ops era."
+
+REFERENCE          DS_MAP
+LANG_ENGLISH       "BLACK OPS DS MAPS"
+
+REFERENCE          DS_MAP_DESC
+LANG_ENGLISH       "Entertaining remakes from the Nintendo DS release of Black Ops."
 
 REFERENCE          B2_MAP
-LANG_ENGLISH       "BLACK OPS 2 MAPS"
+LANG_ENGLISH       "BLACK OPS II MAPS"
 
 REFERENCE          B2_MAP_DESC
-LANG_ENGLISH       "Mythical maps based on the adventurous Black Ops 2 era."
+LANG_ENGLISH       "Intense maps based on the adventurous Black Ops II era."
 
 REFERENCE          B4_MAP
 LANG_ENGLISH       "BLACK OPS 4 MAPS"
@@ -170,7 +140,7 @@ LANG_ENGLISH       "Epic maps influenced by the concluding Black Ops 4 era."
 REFERENCE          CW_MAP
 LANG_ENGLISH       "COLD WAR MAPS"
 
-REFERENCE          B4_MAP_DESC
+REFERENCE          CW_MAP_DESC
 LANG_ENGLISH       "Stunning maps shaped around the Cold War era and beyond."
 
 REFERENCE          MW_MAP
@@ -179,91 +149,109 @@ LANG_ENGLISH       "MODERN WARFARE MAPS"
 REFERENCE          MW_MAP_DESC
 LANG_ENGLISH       "Legendary maps that pay tribute to the Modern Warfare era."
 
-REFERENCE            QU_MAP
-LANG_ENGLISH         "QUIET SERIES MAPS"
+REFERENCE          RTT_MAP
+LANG_ENGLISH       "RETURN TO TRANZIT SERIES"
 
-REFERENCE            QU_MAP_DESC
-LANG_ENGLISH         "Amazing maps from the popular map creator Markus Darius. Some maps will only work with AAE Lite."
+REFERENCE          RTT_MAP_DESC
+LANG_ENGLISH       "Relive TranZit as the Victis crew moments before rockets hit earth."
 
-REFERENCE            KO_MAP
-LANG_ENGLISH         "VERK0 MAPS"
+REFERENCE          FC_MAP
+LANG_ENGLISH       "FULL CIRCLE SERIES"
 
-REFERENCE            KO_MAP_DESC
-LANG_ENGLISH         "Amazing maps from the popular map creator Verk0. Some maps will only work with AAE Lite."
+REFERENCE          FC_MAP_DESC
+LANG_ENGLISH       "Join the time-traveling Primus crew in this epic story."
 
-REFERENCE            RTT_MAP
-LANG_ENGLISH         "RETURN TO TRANZIT"
+REFERENCE          QU_MAP
+LANG_ENGLISH       "QUIET SERIES"
 
-REFERENCE            RTT_MAP_DESC
-LANG_ENGLISH         "Relive TranZit! Play as the Victis crew hours before the rockets hit earth."
+REFERENCE          QU_MAP_DESC
+LANG_ENGLISH       "Explore colorful, well-made maps with unique gameplay twists."
 
-REFERENCE            ICE_MAP
-LANG_ENGLISH         "ICEGRENADE MAPS"
+REFERENCE          SAW_MAP
+LANG_ENGLISH       "SAW SERIES"
 
-REFERENCE            ICE_MAP_DESC
-LANG_ENGLISH         "Amazing maps from the popular map creator IceGrenade. Some maps will only work with AAE Lite."
+REFERENCE          SAW_MAP_DESC
+LANG_ENGLISH       "Beware the disturbing environments full of macabre traps."
 
-REFERENCE            WEE_MAP
-LANG_ENGLISH         "LOGICAL MAPS"
+REFERENCE          WEE_MAP
+LANG_ENGLISH       "10 WEEKS-10 MAPS SERIES"
 
-REFERENCE            WEE_MAP_DESC
-LANG_ENGLISH         "Amazing maps from the popular map creator Logical. Some maps will only work with AAE Lite."
+REFERENCE          WEE_MAP_DESC
+LANG_ENGLISH       "Defend and stay alive on these small-scale maps, each with a unique theme."
 
-REFERENCE            CH_MAP
-LANG_ENGLISH         "CHALLENGE MAPS"
+REFERENCE          HLW_MAP
+LANG_ENGLISH       "HALLOWEEN MAPS"
 
-REFERENCE            CH_MAP_DESC
-LANG_ENGLISH         "Maps filled with challenges that will test your skills and abilities."
+REFERENCE          HLW_MAP_DESC
+LANG_ENGLISH       "Pumpkins, cobwebs, and skeletons galore. Beware the one frightful night."
 
-REFERENCE            NO_MAP
-LANG_ENGLISH         "HORROR MAPS"
+REFERENCE          XMA_MAP
+LANG_ENGLISH       "CHRISTMAS MAPS"
 
-REFERENCE            NO_MAP_DESC
-LANG_ENGLISH         "Horrific maps where intensity, screams, and despair will run through your body."
+REFERENCE          XMA_MAP_DESC
+LANG_ENGLISH       "Christmas maps full of joy.. ..until the undead seek their gifts."
 
-REFERENCE            NOM_MAP
-LANG_ENGLISH         "MOVIE MAPS"
+REFERENCE          MIN_MAP
+LANG_ENGLISH       "MINECRAFT MAPS"
 
-REFERENCE            NOM_MAP_DESC
-LANG_ENGLISH         "Maps inspired by films. Fight in cinematic scenarios full of lights, camera, action."
+REFERENCE          MIN_MAP_DESC
+LANG_ENGLISH       "Other maps inspired by the popular game Minecraft. \nMine and craft your way to survival."
 
-REFERENCE            SEA_MAP
-LANG_ENGLISH         "SEATOWN MAPS"
+REFERENCE          MTV_MAP
+LANG_ENGLISH       "MOVIE/TV MAPS"
 
-REFERENCE            SEA_MAP_DESC
-LANG_ENGLISH         "Maps inspired by the Modern Warfare 3 map Seatown. Your skills will be tested."
+REFERENCE          MTV_MAP_DESC
+LANG_ENGLISH       "Other maps inspired by hit movies and series. \nFight the horde in scenarios full of lights, camera, action."
 
-REFERENCE            SAW_MAP
-LANG_ENGLISH         "SAW MAPS"
+REFERENCE          VG_MAP
+LANG_ENGLISH       "VIDEO GAME MAPS"
 
-REFERENCE            SAW_MAP_DESC
-LANG_ENGLISH         "Terrifying maps inspired by SAW. Beware the disturbing environments full of macabre twists."
+REFERENCE          VG_MAP_DESC
+LANG_ENGLISH       "Other maps inspired by fan-favorite video game series. \nCollect coins and rescue the princess from the undead."
 
-REFERENCE            HLW_MAP
-LANG_ENGLISH         "HALLOWEEN MAPS"
+REFERENCE          KO_MAP
+LANG_ENGLISH       "VERK0 MAPS"
 
-REFERENCE            HLW_MAP_DESC
-LANG_ENGLISH         "Pumpkins, cobwebs, and skeletons galore. Beware the one frightful night."
+REFERENCE          KO_MAP_DESC
+LANG_ENGLISH       "Other amazing maps made by popular map creator Verk0."
 
-REFERENCE            XMA_MAP
-LANG_ENGLISH         "CHRISTMAS MAPS"
+REFERENCE          ICE_MAP
+LANG_ENGLISH       "ICEGRENADE MAPS"
 
-REFERENCE            XMA_MAP_DESC
-LANG_ENGLISH         "Christmas maps full of joy.. ..until the undead seek their gifts."
+REFERENCE          ICE_MAP_DESC
+LANG_ENGLISH       "Other amazing maps made by popular map creator IceGrenade."
 
-REFERENCE            UNSU_MAP
-LANG_ENGLISH         "^1INCOMPATIBLE MAPS^7"
+REFERENCE          TD_MAP
+LANG_ENGLISH       "TRADITIONAL MAPS"
 
-REFERENCE            UNSU_MAP_DESC
-LANG_ENGLISH         "Maps that are not compatible with All Around Enhancement."
+REFERENCE          TD_MAP_DESC
+LANG_ENGLISH       "Miscellaneous maps that play like classic survival experiences."
 
-REFERENCE            WHIMSICAL
-LANG_ENGLISH         "Whimsical"
+REFERENCE          CH_MAP
+LANG_ENGLISH       "CHALLENGE MAPS"
 
-REFERENCE            ZC_MAP
-LANG_ENGLISH         "ZOMBIES CHRONICLES II"
+REFERENCE          CH_MAP_DESC
+LANG_ENGLISH       "Miscellaneous maps filled with challenges that will test your skills and abilities."
 
-REFERENCE            ZC_MAP_DESC
-LANG_ENGLISH         "A collection of Treyarch maps remade by the best in the zombies community."
+REFERENCE          TOR_MAP
+LANG_ENGLISH       "TOWER MAPS"
+
+REFERENCE          TOR_MAP_DESC
+LANG_ENGLISH       "Miscellaneous maps with only one objective: Climb or descend the tower."
+
+REFERENCE          OW_MAP
+LANG_ENGLISH       "ONE WINDOW MAPS"
+
+REFERENCE          OW_MAP_DESC
+LANG_ENGLISH       "Miscellaneous maps that feature only one window to defend."
+
+REFERENCE          INCP_MAP
+LANG_ENGLISH       "^1INCOMPATIBLE MAPS^7"
+
+REFERENCE          INCP_MAP_DESC
+LANG_ENGLISH       "Maps that are not compatible with All Around Enhancement."
+
+REFERENCE          WHIMSICAL
+LANG_ENGLISH       "Whimsical"
 
 ENDMARKER
