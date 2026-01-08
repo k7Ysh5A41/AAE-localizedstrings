@@ -147,7 +147,7 @@ REFERENCE          WW_MAP
 LANG_ENGLISH       "WORLD AT WAR MAPS"
 
 REFERENCE          WW_MAP_DESC
-LANG_ENGLISH       "Gritty maps reminiscent of the World at War era. Includes custom World at War maps remade for Black Ops 3."
+LANG_ENGLISH       "Gritty maps reminiscent of the gruesome World at War era. \nAlso includes classic custom World at War maps, remade for Black Ops 3."
 
 REFERENCE          B1_MAP
 LANG_ENGLISH       "BLACK OPS 1 MAPS"
@@ -166,6 +166,12 @@ LANG_ENGLISH       "BLACK OPS 4 MAPS"
 
 REFERENCE          B4_MAP_DESC
 LANG_ENGLISH       "Epic maps influenced by the concluding Black Ops 4 era."
+
+REFERENCE          CW_MAP
+LANG_ENGLISH       "COLD WAR MAPS"
+
+REFERENCE          B4_MAP_DESC
+LANG_ENGLISH       "Stunning maps shaped around the Cold War era and beyond."
 
 REFERENCE          MW_MAP
 LANG_ENGLISH       "MODERN WARFARE MAPS"
@@ -246,10 +252,10 @@ REFERENCE            XMA_MAP_DESC
 LANG_ENGLISH         "Christmas maps full of joy.. ..until the undead seek their gifts."
 
 REFERENCE            UNSU_MAP
-LANG_ENGLISH         "^1UNSUPPORTED MAPS^7"
+LANG_ENGLISH         "^1INCOMPATIBLE MAPS^7"
 
 REFERENCE            UNSU_MAP_DESC
-LANG_ENGLISH         "Maps not compatible with All Around Enhancement."
+LANG_ENGLISH         "Maps that are not compatible with All Around Enhancement."
 
 REFERENCE            WHIMSICAL
 LANG_ENGLISH         "Whimsical"
