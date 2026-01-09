@@ -98,10 +98,10 @@ LANG_ENGLISH         "Нажмите ^3[{+melee}]^7 чтобы улучшить 
 REFERENCE            ZOMBIE_BASE_HEALTH
 LANG_ENGLISH         "Базовое здоровье зомби"
 
-REFERENCE          VE_MAP
+REFERENCE          OW_MAP
 LANG_ENGLISH       "КАРТЫ С ОДНИМ ОКНОМ"
 
-REFERENCE          VE_MAP_DESC
+REFERENCE          OW_MAP_DESC
 LANG_ENGLISH       "Карты с одним окном, расположенные в небольшой или средней комнате."
 
 REFERENCE          MIN_MAP
@@ -116,10 +116,10 @@ LANG_ENGLISH       "КАРТЫ БАШЕН"
 REFERENCE          TOR_MAP_DESC
 LANG_ENGLISH       "Карты башен, где ваша цель — подняться или спуститься с башни, купить её окончание или выполнить испытания."
 
-REFERENCE          IN_MAP
+REFERENCE          TD_MAP
 LANG_ENGLISH       "ВДОХНОВЛЁННЫЕ КАРТЫ"
 
-REFERENCE          IN_MAP_DESC
+REFERENCE          TD_MAP_DESC
 LANG_ENGLISH       "Карты, вдохновлённые дизайном Treyarch."
 
 REFERENCE          MP_MAP
@@ -200,10 +200,10 @@ LANG_ENGLISH         "КАРТЫ УЖАСОВ"
 REFERENCE            NO_MAP_DESC
 LANG_ENGLISH         "Карты ужасов, где интенсивность кричит, а отчаяние пронизывает тело, испытывая ваши пределы каждую секунду."
 
-REFERENCE            NOM_MAP
+REFERENCE            MTV_MAP
 LANG_ENGLISH         "КАРТЫ ФИЛЬМОВ"
 
-REFERENCE            NOM_MAP_DESC
+REFERENCE            MTV_MAP_DESC
 LANG_ENGLISH         "Карты, вдохновлённые фильмами, которые перенесут вас в кинематографические сценарии, полные волнения и действия."
 
 REFERENCE            SEA_MAP
@@ -224,19 +224,19 @@ LANG_ENGLISH         "КАРТЫ РОЖДЕСТВА"
 REFERENCE            XMA_MAP_DESC
 LANG_ENGLISH         "Рождественские карты, полные радости, до полуночи, когда нежить ищет свои подарки."
 
-REFERENCE            UNSU_MAP
+REFERENCE            INCP_MAP
 LANG_ENGLISH         "^1НЕПОДДЕРЖИВАЕМЫЕ КАРТЫ^7"
 
-REFERENCE            UNSU_MAP_DESC
+REFERENCE            INCP_MAP_DESC
 LANG_ENGLISH         "Здесь, на вкладке, будут показаны карты, которые не совместимы с модом All Around Enhancement."
 
 REFERENCE            WHIMSICAL
 LANG_ENGLISH         "Фантазийный"
 
-REFERENCE            ZC_MAP
+REFERENCE            ZC2_MAP
 LANG_ENGLISH         "ZOMBIES CHRONICLES II"
 
-REFERENCE            ZC_MAP_DESC
+REFERENCE            ZC2_MAP_DESC
 LANG_ENGLISH         "Эпические ремейки от сообщества, предлагающие увлекательный и уникальный способ пройти эти классические карты!"
 
 REFERENCE            RTT_MAP

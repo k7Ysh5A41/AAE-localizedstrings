@@ -98,10 +98,10 @@ LANG_ENGLISH         "Premi ^3[{+melee}]^7 Pack-a-Punch Li'l Arnies [Costo: 5000
 REFERENCE            ZOMBIE_BASE_HEALTH
 LANG_ENGLISH         "Moltiplicatore salute base Zombie"
 
-REFERENCE          VE_MAP
+REFERENCE          OW_MAP
 LANG_ENGLISH       "MAPPE UNA FINESTRA"
 
-REFERENCE          VE_MAP_DESC
+REFERENCE          OW_MAP_DESC
 LANG_ENGLISH       "Mappe dove c’è solo una finestra, situate in una stanza piccola o media."
 
 REFERENCE          MIN_MAP
@@ -116,10 +116,10 @@ LANG_ENGLISH       "MAPPE TORRE"
 REFERENCE          TOR_MAP_DESC
 LANG_ENGLISH       "Mappe torre dove l’obiettivo è salire o scendere la torre, acquistare il finale comprabile o completare sfide."
 
-REFERENCE          IN_MAP
+REFERENCE          TD_MAP
 LANG_ENGLISH       "MAPPE ISPIRATE"
 
-REFERENCE          IN_MAP_DESC
+REFERENCE          TD_MAP_DESC
 LANG_ENGLISH       "Mappe ispirate al design di Treyarch."
 
 REFERENCE          MP_MAP
@@ -200,10 +200,10 @@ LANG_ENGLISH         "MAPPE HORROR"
 REFERENCE            NO_MAP_DESC
 LANG_ENGLISH         "Mappe horror dove l’intensità urla e la disperazione ti percorre il corpo, sfidando continuamente i tuoi limiti."
 
-REFERENCE            NOM_MAP
+REFERENCE            MTV_MAP
 LANG_ENGLISH         "MAPPE CINEMA"
 
-REFERENCE            NOM_MAP_DESC
+REFERENCE            MTV_MAP_DESC
 LANG_ENGLISH         "Mappe ispirate ai film, che ti trasporteranno in scenari cinematografici pieni di azione ed eccitazione."
 
 REFERENCE            SEA_MAP
@@ -224,19 +224,19 @@ LANG_ENGLISH         "MAPPE NATALE"
 REFERENCE            XMA_MAP_DESC
 LANG_ENGLISH         "Mappe natalizie piene di gioia fino a mezzanotte, quando i non morti cercano i loro regali."
 
-REFERENCE            UNSU_MAP
+REFERENCE            INCP_MAP
 LANG_ENGLISH         "^1MAPPE NON SUPPORTATE^7"
 
-REFERENCE            UNSU_MAP_DESC
+REFERENCE            INCP_MAP_DESC
 LANG_ENGLISH         "Qui saranno mostrate le mappe non compatibili con la mod All Around Enhancement."
 
 REFERENCE            WHIMSICAL
 LANG_ENGLISH         "Bizzarro"
 
-REFERENCE            ZC_MAP
+REFERENCE            ZC2_MAP
 LANG_ENGLISH         "ZOMBIES CHRONICLES II"
 
-REFERENCE            ZC_MAP_DESC
+REFERENCE            ZC2_MAP_DESC
 LANG_ENGLISH         "Remake epici creati dalla community, che offrono un modo divertente e unico per vivere queste esperienze classiche!"
 
 REFERENCE            RTT_MAP
