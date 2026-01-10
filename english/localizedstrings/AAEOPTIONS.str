@@ -366,6 +366,6 @@ REFERENCE           AIHP_OPTIONS1
 LANG_ENGLISH     "Special Enemies Only"
 
 REFERENCE           AIHP_OPTIONS2
-LANG_ENGLISH     "Standard Enemies Only"
+LANG_ENGLISH     "Zombies and Keepers Only"
 
 ENDMARKER
