@@ -359,4 +359,13 @@ LANG_ENGLISH     "Random Camos"
 REFERENCE           WEAPON_OPTIONS4
 LANG_ENGLISH     "Random Attachments"
 
+REFERENCE           AIHP
+LANG_ENGLISH     "Enemy HP Bar(Require respawn)"
+
+REFERENCE           AIHP_OPTIONS1
+LANG_ENGLISH     "Specials Only"
+
+REFERENCE           AIHP_OPTIONS2
+LANG_ENGLISH     "Zombies Only"
+
 ENDMARKER
