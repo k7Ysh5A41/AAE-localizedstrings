@@ -204,7 +204,7 @@ REFERENCE            ZC
 LANG_ENGLISH         "Zombie Counter"
 
 REFERENCE            HITMARKER
-LANG_ENGLISH         "Zombie Hitmarkers"
+LANG_ENGLISH         "Hitmarkers"
 
 REFERENCE            SE
 LANG_ENGLISH         "Score Events"
