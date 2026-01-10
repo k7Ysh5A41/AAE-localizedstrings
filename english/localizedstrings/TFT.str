@@ -48,7 +48,7 @@ REFERENCE           CRAZYZOMBIE_DESC
 LANG_ENGLISH     "Zombie speed is doubled for all actions."
 
 REFERENCE           DAMAGE_NUMBER
-LANG_ENGLISH     "Damage Number Visibility"
+LANG_ENGLISH     "Enable Damage Numbers"
 
 REFERENCE           DAMAGE_NUMBER_DESC
 LANG_ENGLISH     "Choose whether to show or hide the amount of damage dealt to the enemy."

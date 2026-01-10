@@ -84,7 +84,7 @@ REFERENCE           DW_DESC
 LANG_ENGLISH     "The Ray Gun and Thundergun gain a dualwield toggle when PAP'd. This option disables that."
 
 REFERENCE           ZMBAR
-LANG_ENGLISH     "Zombie Health Bar"
+LANG_ENGLISH     "Disable Enemy HP Bar"
 
 REFERENCE           JUKE
 LANG_ENGLISH     "Zombie Juke"
