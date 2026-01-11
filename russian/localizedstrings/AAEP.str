@@ -158,6 +158,9 @@ LANG_ENGLISH       "КАРТЫ COD BO2"
 REFERENCE          B2_MAP_DESC
 LANG_ENGLISH       "Таинственные и крутые карты, основанные на игре Black Ops 2."
 
+REFERENCE          CW_MAP_DESC
+LANG_ENGLISH       "Потрясающие карты, созданные в эпоху холодной войны и после неё."
+
 REFERENCE          MW_MAP
 LANG_ENGLISH       "КАРТЫ COD MW"
 
