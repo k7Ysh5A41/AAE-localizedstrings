@@ -15,7 +15,7 @@ REFERENCE           WALLBUY
 LANG_ENGLISH     "Disable Wall Buy Hints"
 
 REFERENCE           PLAYER_HPBAR
-LANG_ENGLISH     "Disable Player Overhead Healthbar"
+LANG_ENGLISH     "Disable Overhead HP Bar"
 
 REFERENCE           SMOKE
 LANG_ENGLISH     "Disable Muzzle Smoke Trails"
@@ -204,7 +204,7 @@ REFERENCE           ZA
 LANG_ENGLISH     "Disable Zone Announcer Text"
  
 REFERENCE           SELFHP
-LANG_ENGLISH     "Disable Self Health Bar"
+LANG_ENGLISH     "Disable Self HP Bar"
  
 REFERENCE           LAUNCHER_LOCK
 LANG_ENGLISH     "Disable Rocket Launcher Lock-On"
@@ -270,7 +270,7 @@ REFERENCE           AMMOBAG
 LANG_ENGLISH     "Disable Ammo Bag (Spawns On Player Every 10 Rounds)"
 
 REFERENCE           SLOTHUD
-LANG_ENGLISH     "Disable Empty Perk Slots (Restart Required)"
+LANG_ENGLISH     "Disable Available Perk Slot UI (Restart Required)"
 
 REFERENCE           STABAR
 LANG_ENGLISH     "Disable Stamina Bar"
@@ -321,7 +321,7 @@ REFERENCE           HPBAR_RANDOM_NAMES
 LANG_ENGLISH     "Enabled - Use Random Names"
 
 REFERENCE           PLAYER_HEALTHBAR
-LANG_ENGLISH     "Player Overhead Health Bar"
+LANG_ENGLISH     "Ally Overhead HP Bar"
 
 REFERENCE           BGB_NOULTRA
 LANG_ENGLISH     "Enabled - No Ultra-Rares"
@@ -360,12 +360,12 @@ REFERENCE           WEAPON_OPTIONS4
 LANG_ENGLISH     "Random Attachments"
 
 REFERENCE           AIHP
-LANG_ENGLISH     "Enemy HP Bar(Require respawn)"
+LANG_ENGLISH     "Enemy HP Bar (Respawn Required)"
 
 REFERENCE           AIHP_OPTIONS1
-LANG_ENGLISH     "Specials Only"
+LANG_ENGLISH     "Special Enemies Only"
 
 REFERENCE           AIHP_OPTIONS2
-LANG_ENGLISH     "Zombies Only"
+LANG_ENGLISH     "Zombies and Keepers Only"
 
 ENDMARKER
