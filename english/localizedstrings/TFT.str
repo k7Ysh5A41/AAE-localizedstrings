@@ -27,7 +27,7 @@ REFERENCE           ZOMBIE_COUNT
 LANG_ENGLISH     "Zombie Round Amount Algorithm"
 
 REFERENCE           ZOMBIE_COUNT_DESC
-LANG_ENGLISH     "Change how the game calculates how many zombies need to be killed for a round to end."
+LANG_ENGLISH     "Change how the game calculates how many zombies need to be killed for a round to end. Dependent on round number and party size."
 
 REFERENCE           SPAWNTYPE
 LANG_ENGLISH     "Special Enemy Frequency"
@@ -39,10 +39,10 @@ REFERENCE           SPAWNTYPE_OPTION_DESC
 LANG_ENGLISH     "Increased Special Zombie Frequency"
 
 REFERENCE           ZOMBIE_H
-LANG_ENGLISH     "Limit Zombie Health"
+LANG_ENGLISH     "Maximum Zombie Health Round"
 
 REFERENCE           ZOMBIE_H_DESC
-LANG_ENGLISH     "Zombie health will stop increasing when reaching this round."
+LANG_ENGLISH     "Zombie health will stop increasing when reaching the specified round. There is no health cap when 'Default' is selected."
 
 REFERENCE           CRAZYZOMBIE_DESC
 LANG_ENGLISH     "Zombie speed is doubled for all actions."
@@ -51,7 +51,7 @@ REFERENCE           DAMAGE_NUMBER
 LANG_ENGLISH     "Damage Numbers"
 
 REFERENCE           DAMAGE_NUMBER_DESC
-LANG_ENGLISH     "Choose whether to show or hide the amount of damage dealt to the enemy."
+LANG_ENGLISH     "Display the amount of damage dealt to an enemy."
 
 REFERENCE           CENTERCROSS
 LANG_ENGLISH     "Disable Center Crosshair Dot"
@@ -90,7 +90,7 @@ REFERENCE           DUCK_DESC
 LANG_ENGLISH     "All players wear a duck float."
 
 REFERENCE           ALERT
-LANG_ENGLISH     "\n\n^BBUTTON_CYCLE_LEFT^ Changing this option disables AAE Career tracking, Bank, and Weapon Locker."
+LANG_ENGLISH     "\n\n^BBUTTON_CYCLE_LEFT^ Changing this option disables Careers, Weapon Locker, and Bank."
 
 REFERENCE           RAMPAGE
 LANG_ENGLISH     "Replace Gambler With Rampage Inducer"

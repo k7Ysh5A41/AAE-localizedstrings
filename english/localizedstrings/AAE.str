@@ -57,28 +57,28 @@ REFERENCE           HIGHEST
 LANG_ENGLISH     "Highest "
 
 REFERENCE           EE_COUNT
-LANG_ENGLISH     "Easter Egg Count"
+LANG_ENGLISH     "Easter Eggs"
 
 REFERENCE           BOARD_COUNT
-LANG_ENGLISH     "Board Count"
+LANG_ENGLISH     "Barriers Repaired"
 
 REFERENCE           PICKUP
-LANG_ENGLISH     " Picked Up"
+LANG_ENGLISH     " Aquired"
 
 REFERENCE           BUILDABLES_COUNT
-LANG_ENGLISH     "Buildables Count"
+LANG_ENGLISH     "Buildables Aquired"
 
 REFERENCE           PLANTED
 LANG_ENGLISH     " Planted"
 
 REFERENCE           POWER_ON_COUNT
-LANG_ENGLISH     "Power On Count"
+LANG_ENGLISH     "Power Switches Activated"
 
 REFERENCE           USES
 LANG_ENGLISH     " Uses"
 
 REFERENCE           MEATBALLS
-LANG_ENGLISH     "Meatballs"
+LANG_ENGLISH     "Insanity Elemental"
 
 REFERENCE           WUNDERFIZZ
 LANG_ENGLISH     "Wunderfizz"
@@ -93,19 +93,19 @@ REFERENCE           NOT_GRAABED
 LANG_ENGLISH     " Not Grabbed"
 
 REFERENCE           DIED_REVIVE
-LANG_ENGLISH     "Died while reviving player"
+LANG_ENGLISH     "Died Reviving An Ally"
 
 REFERENCE           WALLBUY_PAP_AMMO
-LANG_ENGLISH     "Wallbuy PAP Ammo Purchased"
+LANG_ENGLISH     "PAP Ammo Purchased"
 
 REFERENCE           AAT
-LANG_ENGLISH     "AAT Trigger Count"
+LANG_ENGLISH     "AATs Triggered"
 
 REFERENCE           DOWN_REVIVE
-LANG_ENGLISH     "Downed after reviving a player"
+LANG_ENGLISH     "Downed Reviving An Ally"
 
 REFERENCE           WALLBUY_AMMO
-LANG_ENGLISH     "Wallbuy Ammo Purchased"
+LANG_ENGLISH     "Wall-Buy Ammo Purchased"
 
 REFERENCE           BGB
 LANG_ENGLISH     " Chewed"
@@ -393,31 +393,31 @@ REFERENCE           RESTARTHINT_BACK
 LANG_ENGLISH     "Don't use console commands! Press &&1 &&2 Times To Restart."
 
 REFERENCE           TOTAL_PLAYTIME
-LANG_ENGLISH     "Total Play Time"
+LANG_ENGLISH     "Play Time"
 
 REFERENCE           MINE_PLANTED
-LANG_ENGLISH     "Trip Mine Planted"
+LANG_ENGLISH     "Trip Mines Planted"
 
 REFERENCE           POWERUP_COLLECTED
-LANG_ENGLISH     "Power-Ups Picked Up"
+LANG_ENGLISH     "Power-Ups Aquired"
 
 REFERENCE           POINTS_EARNED
 LANG_ENGLISH     "Total Points Earned"
 
 REFERENCE           PARASITE_KILLED
-LANG_ENGLISH     "Total Parasite Killed"
+LANG_ENGLISH     "Parasites Killed"
 
 REFERENCE           LONGEST_PLAYTIME
-LANG_ENGLISH     "Longest Play Time"
+LANG_ENGLISH     "Longest Match Time"
 
 REFERENCE           MINE_PICKUP
-LANG_ENGLISH     "Trip Mine Picked Up"
+LANG_ENGLISH     "Trip Mines Aquired"
 
 REFERENCE           DOUBLEPOINTS_PICKUP
-LANG_ENGLISH     "Double Points Picked Up"
+LANG_ENGLISH     "Double Points Aquired"
 
 REFERENCE           HELLHOUND_KILLED
-LANG_ENGLISH     "Hellhound Killed"
+LANG_ENGLISH     "Hellhounds Killed"
 
 REFERENCE           BOX_USE
 LANG_ENGLISH     "Mystery Box Used"
@@ -426,40 +426,40 @@ REFERENCE           PAP_USE
 LANG_ENGLISH     "Pack-a-Punch Used"
 
 REFERENCE           INSTAKILL_PICKUP
-LANG_ENGLISH     "Instakill Picked Up"
+LANG_ENGLISH     "Insta-Kill Picked Up"
 
 REFERENCE           SHOTS_FIRED
 LANG_ENGLISH     "Total Shots Fired"
 
 REFERENCE           MEATBALLS_KILLED
-LANG_ENGLISH     "Meatballs Killed"
+LANG_ENGLISH     "Insanity Elementals Killed"
 
 REFERENCE           PERK_RANDOM_USE
 LANG_ENGLISH     "Wunderfizz Used"
 
 REFERENCE           BOX_GRAB
-LANG_ENGLISH     "Mystery Box Grabbed"
+LANG_ENGLISH     "Mystery Box Aquired"
 
 REFERENCE           PAP_GRAB2
 LANG_ENGLISH     "Pack-a-Punch Sacrificed"
 
 REFERENCE           PAP_GRAB
-LANG_ENGLISH     "Pack-a-Punch Grabbed"
+LANG_ENGLISH     "Pack-a-Punch Aquired"
 
 REFERENCE           CARPENTER_PICKUP
-LANG_ENGLISH     "Carpenter Picked Up"
+LANG_ENGLISH     "Carpenters Aquired"
 
 REFERENCE           PERK_RANDOM_PICKUP
-LANG_ENGLISH     "Wunderfizz Grabbed"
+LANG_ENGLISH     "Wunderfizz Aquired"
 
 REFERENCE           FIRESALE_PICK
-LANG_ENGLISH     "Firesale Picked Up"
+LANG_ENGLISH     "Firesale Aquired"
 
 REFERENCE           BGB_EAT
-LANG_ENGLISH     "GobbleGum Chewed"
+LANG_ENGLISH     "GobbleGums Chewed"
 
 REFERENCE           NUKE_PICK
-LANG_ENGLISH     "Nuke Picked up"
+LANG_ENGLISH     "Nuke Aquired"
 
 REFERENCE           POWERSWITCH
 LANG_ENGLISH     "Power Switch"

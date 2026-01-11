@@ -543,7 +543,7 @@ REFERENCE            HEADSHOTKILL_DESC
 LANG_ENGLISH         "Get extra points for killing zombies by headshots."
 
 REFERENCE            MAXZM_DESC
-LANG_ENGLISH         "Maximum number of zombies that can be spawned at any time. 24 is the default. Higher numbers can cause lag and instability on certain maps."
+LANG_ENGLISH         "Maximum number of zombies that can be spawned at any time. 24 is the default. \n\n^1Notice:^7 Higher numbers can cause instability on certain maps."
 
 REFERENCE            SLOWZM_DESC
 LANG_ENGLISH         "Zombie's strength increases slower."
