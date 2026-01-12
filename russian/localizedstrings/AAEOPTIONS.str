@@ -350,5 +350,19 @@ LANG_ENGLISH     "Время предохранителя"
 REFERENCE           GRENADE_PREDICATION_OPTION3
 LANG_ENGLISH     "Прогноз. траектории"
 
+REFERENCE           AIHP
+LANG_ENGLISH     "Шкала здоровья противника (требуется возрождение)"
+
+REFERENCE           AIHP_OPTIONS1
+LANG_ENGLISH     "Только особые"
+
+REFERENCE           AIHP_OPTIONS2
+LANG_ENGLISH     "Только зомби"
+
+REFERENCE           WEAPON_OPTIONS3
+LANG_ENGLISH     "Случайный камуфляж"
+
+REFERENCE           WEAPON_OPTIONS4
+LANG_ENGLISH     "Случайные модули"
 
 ENDMARKER
