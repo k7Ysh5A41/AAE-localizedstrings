@@ -119,6 +119,12 @@ LANG_ENGLISH       "FULL CIRCLE"
 REFERENCE          FC_MAP_DESC
 LANG_ENGLISH       "Join the time-traveling Primus crew in this epic storyline. Series by Alfa."
 
+REFERENCE          WD_MAP
+LANG_ENGLISH       "THE WALKING DEAD"
+
+REFERENCE          WD_MAP_DESC
+LANG_ENGLISH       "Experience iconic scenes from Frank Darabont's hit AMC show The Walking Dead. Series by itsbrodes."
+
 REFERENCE          WEE_MAP
 LANG_ENGLISH       "10 WEEKS - 10 MAPS"
 
@@ -135,7 +141,7 @@ REFERENCE          WW_MAP
 LANG_ENGLISH       "WORLD AT WAR"
 
 REFERENCE          WW_MAP_DESC
-LANG_ENGLISH       "Gritty maps reminiscent of the gruesome World at War era. \nFeatures classic World at War custom maps, remade for Black Ops 3."
+LANG_ENGLISH       "Gritty maps reminiscent of the gruesome World at War era. \nAlso features classic World at War custom maps, remade for Black Ops 3."
 
 REFERENCE          B1_MAP
 LANG_ENGLISH       "BLACK OPS"

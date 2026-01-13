@@ -393,7 +393,7 @@ REFERENCE           RESTARTHINT_BACK
 LANG_ENGLISH     "Don't use console commands! Press &&1 &&2 Times To Restart."
 
 REFERENCE           TOTAL_PLAYTIME
-LANG_ENGLISH     "Play Time"
+LANG_ENGLISH     "Total Play Time"
 
 REFERENCE           MINE_PLANTED
 LANG_ENGLISH     "Trip Mines Planted"
@@ -408,7 +408,7 @@ REFERENCE           PARASITE_KILLED
 LANG_ENGLISH     "Parasites Killed"
 
 REFERENCE           LONGEST_PLAYTIME
-LANG_ENGLISH     "Longest Match Time"
+LANG_ENGLISH     "Longest Game"
 
 REFERENCE           MINE_PICKUP
 LANG_ENGLISH     "Trip Mines Aquired"
@@ -426,7 +426,7 @@ REFERENCE           PAP_USE
 LANG_ENGLISH     "Pack-a-Punch Used"
 
 REFERENCE           INSTAKILL_PICKUP
-LANG_ENGLISH     "Insta-Kill Picked Up"
+LANG_ENGLISH     "Insta-Kill Aquired"
 
 REFERENCE           SHOTS_FIRED
 LANG_ENGLISH     "Total Shots Fired"
