@@ -45,7 +45,7 @@ REFERENCE           CREATE_INVITE_TOAST_HEAD2
 LANG_ENGLISH     "No es posible generar el enlace"
 
 REFERENCE           CAREERS
-LANG_ENGLISH     "^3ESTADÍSTICAS AAE"
+LANG_ENGLISH     "ESTADÍSTICAS"
 
 REFERENCE           BANK_BALANCE
 LANG_ENGLISH     "Saldo bancario"
@@ -201,7 +201,7 @@ REFERENCE           INVITEDISCORD
 LANG_ENGLISH     "Invitar por Discord"
 
 REFERENCE           RESTARTHINT
-LANG_ENGLISH     "Presiona &&1 ^1&&2^7 veces para reiniciar el mapa"
+LANG_SPANISH       "(No uses fast_restart ni map_restart) Presiona &&1 ^2&&2^7 veces para reiniciar el mapa"
 
 REFERENCE           RESTARTING
 LANG_ENGLISH     "Reiniciando el mapa..."
@@ -468,9 +468,45 @@ REFERENCE           POWERSWITCH
 LANG_ENGLISH     "ELECTRICIDAD ACTIVADA"
 
 REFERENCE           REWARD_30
-LANG_SPANISH     "30 EE COMPLETADOS"
+LANG_ENGLISH     "30 EE COMPLETADOS"
 
 REFERENCE           REWARD_LINE15
-LANG_SPANISH     "Podrás mantener el estado de desangrado por mucho más tiempo."
+LANG_ENGLISH     "Podrás mantener el estado de desangrado por mucho más tiempo."
+
+REFERENCE           REWARD_LINE16
+LANG_ENGLISH     "Al PaP tus armas automáticamente tendrán rareza Épico"
+
+REFERENCE           MAP_NOT_SUPPORT_TITLE
+LANG_SPANISH       "EL MAPA NO ES COMPATIBLE"
+
+REFERENCE           MAP_NOT_SUPPORT_TITLE2
+LANG_SPANISH       "Cambia a la versión AAE Lite"
+
+REFERENCE           MAP_NOT_SUPPORT_DESC
+LANG_SPANISH       "El mapa que tienes seleccionado actualmente es incompatible con All-around Enhancement y causará que el juego se cierre."
+
+REFERENCE           MAP_NOT_SUPPORT_DESC2
+LANG_SPANISH       "El mapa que tienes seleccionado actualmente solo es compatible con la versión All-around Enhancement Lite. Por favor, cambia a la versión Lite antes de intentarlo de nuevo."
+
+REFERENCE           MAP_NOT_SUPPORT_BUTTON
+LANG_SPANISH       "Continuar de todos modos"
+
+REFERENCE           LOBBY_NOT_JOINABLE_EXTRA
+LANG_SPANISH       "^3Prueba las siguientes soluciones:\n\n^51. ^7Asegúrate de no haber intentado unirte al lobby haciendo clic en algún botón “UNIRSE AL JUEGO” dentro del juego.\n^52. ^7Únete a tus amigos a través de la lista de amigos de Steam al menos 20 veces o más.\n^53. ^7Asegúrate de que el anfitrión al que intentas unirte tenga un tipo de NAT abierto.\n^54. ^7Evita usar Game Booster o VPNs.\n^55. ^7Si intentas unirte a través del explorador de servidores, los juegos que ves no son servidores reales. En su lugar, Steam está recopilando lobbies de jugadores en todo el mundo con direcciones IP públicas. Debido a varios problemas de compatibilidad de red, no se puede unir a estos lobbies."
+
+REFERENCE           MAP_NOT_SUPPORT_TITLE3
+LANG_SPANISH       "ADVERTENCIA EL JUEGO PODRÍA CERRARSE"
+
+REFERENCE           MAP_NOT_SUPPORT_DESC3
+LANG_SPANISH       "El mapa que seleccionaste no soporta el tamaño actual del grupo. ¡Continuar hará que el juego ^1se cierre ^7inmediatamente!"
+
+REFERENCE           MAP_NOT_SUPPORT_TITLE4
+LANG_SPANISH       "ADVERTENCIA SE DESACTIVARÁN LAS MÁQUINAS DE GOBBLEGUM"
+
+REFERENCE           MAP_NOT_SUPPORT_DESC4
+LANG_SPANISH       "El tamaño actual del grupo reduce la estabilidad del juego. Para mejorar ligeramente la estabilidad, se desactivarán las máquinas de Gobblegum."
+
+REFERENCE           DOWNLOAD_LITE
+LANG_SPANISH       "Descargar la versión AAE Lite"
 
 ENDMARKER

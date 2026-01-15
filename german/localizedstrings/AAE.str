@@ -45,7 +45,7 @@ REFERENCE           CREATE_INVITE_TOAST_HEAD2
 LANG_ENGLISH     "Link konnte nicht erstellt werden"
 
 REFERENCE           CAREERS
-LANG_ENGLISH     "^3AAE KARRIEREN"
+LANG_ENGLISH     "^KARRIEREN"
 
 REFERENCE           BANK_BALANCE
 LANG_ENGLISH     "Bankguthaben"
@@ -201,7 +201,7 @@ REFERENCE           INVITEDISCORD
 LANG_ENGLISH     "Einladen über Discord"
 
 REFERENCE           RESTARTHINT
-LANG_ENGLISH     "Drücke &&1 ^1&&2^7 Mal, um die Karte neu zu starten"
+LANG_ENGLISH     "(Nicht fast_restart oder map_restart verwenden) Drücke &&1 ^2&&2^7 Mal, um die Karte neu zu starten"
 
 REFERENCE           RESTARTING
 LANG_ENGLISH     "Neustart......"
@@ -472,5 +472,41 @@ LANG_ENGLISH     "30 Mal"
 
 REFERENCE           REWARD_LINE15
 LANG_ENGLISH     "Bleibt viel länger im Down-Zustand."
+
+REFERENCE           REWARD_LINE16
+LANG_ENGLISH     "Mit PaP verbesserte Waffen erreichen sofort ihren maximalen Schaden"
+
+REFERENCE           MAP_NOT_SUPPORT_TITLE
+LANG_ENGLISH     "KARTE IST NICHT KOMPATIBEL"
+
+REFERENCE           MAP_NOT_SUPPORT_TITLE2
+LANG_ENGLISH     "Zur AAE Lite-Version wechseln"
+
+REFERENCE           MAP_NOT_SUPPORT_DESC
+LANG_ENGLISH     "Die aktuell ausgewählte Karte ist mit All-around Enhancement nicht kompatibel und führt zum Absturz des Spiels."
+
+REFERENCE           MAP_NOT_SUPPORT_DESC2
+LANG_ENGLISH     "Die aktuell ausgewählte Karte unterstützt nur die All-around Enhancement Lite-Version. Bitte wechseln Sie vor dem erneuten Versuch zur Lite-Version."
+
+REFERENCE           MAP_NOT_SUPPORT_BUTTON
+LANG_ENGLISH     "Trotzdem fortfahren"
+
+REFERENCE           LOBBY_NOT_JOINABLE_EXTRA
+LANG_ENGLISH     "^3Versuche die folgenden Lösungen:\n\n^51. ^7Stelle sicher, dass du nicht versucht hast, dem Lobby beizutreten, indem du irgendeinen „JOIN GAME“-Button im Spiel geklickt hast.\n^52. ^7Tritt Freunden über die Steam-Freundesliste mindestens 20 Mal oder öfter bei.\n^53. ^7Stelle sicher, dass der Host, dem du beitreten möchtest, einen offenen NAT-Typ hat.\n^54. ^7Verwendung von Game Booster oder VPNs\n^55. ^7Wenn du versuchst, über den Server-Browser beizutreten, sind die Spiele, die du siehst, keine echten Server. Steam sammelt stattdessen Lobbys von Spielern weltweit mit öffentlichen IP-Adressen. Aufgrund verschiedener Netzwerkkompatibilitätsprobleme können diese Lobbys nicht betreten werden."
+
+REFERENCE           MAP_NOT_SUPPORT_TITLE3
+LANG_ENGLISH     "SPIELABSTURZ-WARNUNG"
+
+REFERENCE           MAP_NOT_SUPPORT_DESC3
+LANG_ENGLISH     "Die von dir ausgewählte Karte unterstützt nicht die aktuelle Gruppengröße. Wenn du fortfährst, wird das Spiel sofort ^1abstürzen ^7!"
+
+REFERENCE           MAP_NOT_SUPPORT_TITLE4
+LANG_ENGLISH     "GOBBLEGUM-DEAKTIVIERUNGSWARNUNG"
+
+REFERENCE           MAP_NOT_SUPPORT_DESC4
+LANG_ENGLISH     "Die aktuelle Gruppengröße verringert die Spielstabilität. Um die Stabilität leicht zu verbessern, wird die Gobblegum-Systeminitialisierung blockiert."
+
+REFERENCE           DOWNLOAD_LITE
+LANG_ENGLISH     "Lade die AAE Lite-Version herunter"
 
 ENDMARKER

@@ -270,7 +270,7 @@ REFERENCE           AMMOBAG
 LANG_ENGLISH     "Desativar bolsa de munição que aparece a cada 2 rodadas"
 
 REFERENCE           SLOTHUD
-LANG_ENGLISH     "Desativar HUD do slot de perks"
+LANG_ENGLISH     "Desativar slots de perks vazios (Reinício necessário)"
 
 REFERENCE           STABAR
 LANG_ENGLISH     "Desativar barra de resistência"
@@ -337,5 +337,35 @@ LANG_ENGLISH        "Desativar fragmentos da Espingarda"
 
 REFERENCE           WEAPON_KIT_PAP
 LANG_ENGLISH        "O kit de armas é apenas para armas aprimoradas"
+
+REFERENCE           GRENADE_PREDICATION
+LANG_ENGLISH     "Previsão da granada"
+
+REFERENCE           GRENADE_PREDICATION_OPTION1
+LANG_ENGLISH     "Previsão e barra do fusível"
+
+REFERENCE           GRENADE_PREDICATION_OPTION2
+LANG_ENGLISH     "Barra do tempo do fusível"
+
+REFERENCE           GRENADE_PREDICATION_OPTION3
+LANG_ENGLISH     "Previsão da trajetória"
+
+REFERENCE           SYSTIME
+LANG_ENGLISH     "Desativar exibição do horário do sistema"
+
+REFERENCE           WEAPON_OPTIONS3
+LANG_ENGLISH     "Camuflagens aleatórias"
+
+REFERENCE           WEAPON_OPTIONS4
+LANG_ENGLISH     "Acessórios aleatórios"
+
+REFERENCE           AIHP
+LANG_ENGLISH     "Barra de HP do inimigo (Requer respawn)"
+
+REFERENCE           AIHP_OPTIONS1
+LANG_ENGLISH     "Apenas Especiais"
+
+REFERENCE           AIHP_OPTIONS2
+LANG_ENGLISH     "Apenas Zumbis"
 
 ENDMARKER

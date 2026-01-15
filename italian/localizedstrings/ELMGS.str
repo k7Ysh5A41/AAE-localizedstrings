@@ -74,6 +74,15 @@ LANG_ENGLISH     "ISOLA DI ALCATRAZ"
 REFERENCE           MOB_LINE2
 LANG_ENGLISH     "Baia di San Francisco, USA"
 
+REFERENCE           MOB_LINE3
+LANG_ENGLISH     "Mob of The Dead"
+
+REFERENCE           MOB_TITLE
+LANG_ENGLISH     "Mob of The Dead"
+
+REFERENCE           MOB_DESC
+LANG_ENGLISH     "Combatti i non morti mentre cerchi di liberarti dall'incarcerazione fisica e metaforica della prigione di Alcatraz."
+
 REFERENCE           LEV_LINE1
 LANG_ENGLISH     "Leviatano"
 

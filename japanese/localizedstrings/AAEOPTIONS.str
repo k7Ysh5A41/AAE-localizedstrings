@@ -270,7 +270,7 @@ REFERENCE           AMMOBAG
 LANG_ENGLISH     "2ラウンドごとに出現する弾薬袋を無効化"
 
 REFERENCE           SLOTHUD
-LANG_ENGLISH     "パークスロットHUDを無効化"
+LANG_ENGLISH     "空のパークスロットを無効化（再起動が必要）"
 
 REFERENCE           STABAR
 LANG_ENGLISH     "スタミナバーを無効化"
@@ -337,5 +337,50 @@ LANG_ENGLISH        "ショットガンの破片を無効にする"
 
 REFERENCE           WEAPON_KIT_PAP
 LANG_ENGLISH        "ウェポンキットは強化された武器専用です"
+
+REFERENCE           GRENADE_PREDICATION
+LANG_ENGLISH     "手榴弾予測"
+
+REFERENCE           GRENADE_PREDICATION_OPTION1
+LANG_ENGLISH     "予測とヒューズバー"
+
+REFERENCE           GRENADE_PREDICATION_OPTION2
+LANG_ENGLISH     "ヒューズタイミングバー"
+
+REFERENCE           GRENADE_PREDICATION_OPTION3
+LANG_ENGLISH     "軌道の予測"
+
+REFERENCE           SYSTIME
+LANG_ENGLISH     "システム時刻の表示を無効化"
+
+REFERENCE           WEAPON_OPTIONS3
+LANG_ENGLISH     "ランダム迷彩"
+
+REFERENCE           WEAPON_OPTIONS4
+LANG_ENGLISH     "ランダムアタッチメント"
+
+REFERENCE           MAP_NOT_SUPPORT_TITLE3
+LANG_ENGLISH     "ゲームクラッシュ警告"
+
+REFERENCE           MAP_NOT_SUPPORT_DESC3
+LANG_ENGLISH     "選択したマップは現在のパーティサイズに対応していません。続行するとゲームが^1即座にクラッシュ ^7します！"
+
+REFERENCE           MAP_NOT_SUPPORT_TITLE4
+LANG_ENGLISH     "ゴブルガム無効化警告"
+
+REFERENCE           MAP_NOT_SUPPORT_DESC4
+LANG_ENGLISH     "現在のパーティサイズはゲームの安定性を低下させます。安定性を少し向上させるため、ゴブルガムシステムの初期化はブロックされます。"
+
+REFERENCE           DOWNLOAD_LITE
+LANG_ENGLISH     "AAE Lite バージョンをダウンロード"
+
+REFERENCE           AIHP
+LANG_ENGLISH     "敵HPバー（リスポーンが必要）"
+
+REFERENCE           AIHP_OPTIONS1
+LANG_ENGLISH     "スペシャルのみ"
+
+REFERENCE           AIHP_OPTIONS2
+LANG_ENGLISH     "ゾンビのみ"
 
 ENDMARKER

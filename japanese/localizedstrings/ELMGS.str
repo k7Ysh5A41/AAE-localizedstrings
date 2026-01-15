@@ -74,6 +74,15 @@ LANG_ENGLISH     "アルカトラズ島"
 REFERENCE           MOB_LINE2
 LANG_ENGLISH     "サンフランシスコ湾、アメリカ"
 
+REFERENCE           MOB_LINE3
+LANG_ENGLISH     "Mob of The Dead"
+
+REFERENCE           MOB_TITLE
+LANG_ENGLISH     "Mob of The Dead"
+
+REFERENCE           MOB_DESC
+LANG_ENGLISH     "アルカトラズ刑務所の物理的および比喩的な拘禁から脱出しようとする中で、アンデッドと戦おう。"
+
 REFERENCE           LEV_LINE1
 LANG_ENGLISH     "リヴァイアサン"
 
