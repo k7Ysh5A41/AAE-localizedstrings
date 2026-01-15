@@ -45,7 +45,7 @@ REFERENCE           CREATE_INVITE_TOAST_HEAD2
 LANG_ENGLISH     "Nie można wygenerować linku"
 
 REFERENCE           CAREERS
-LANG_ENGLISH     "^3KARIERY AAE"
+LANG_ENGLISH     "KARIERY"
 
 REFERENCE           BANK_BALANCE
 LANG_ENGLISH     "Stan konta bankowego"
@@ -201,7 +201,7 @@ REFERENCE           INVITEDISCORD
 LANG_ENGLISH     "Zaproś przez Discord"
 
 REFERENCE           RESTARTHINT
-LANG_ENGLISH     "Naciśnij &&1 ^1&&2^7 Razy Aby Zrestartować Mapę"
+LANG_ENGLISH     "(Nie używaj fast_restart ani map_restart) Naciśnij &&1 ^2&&2^7 razy, aby zrestartować mapę"
 
 REFERENCE           RESTARTING
 LANG_ENGLISH     "Restartowanie......"
@@ -472,5 +472,41 @@ LANG_ENGLISH     "30 razy"
 
 REFERENCE           REWARD_LINE15
 LANG_ENGLISH     "Pozostań w stanie wykrwawiania się o wiele dłużej."
+
+REFERENCE           REWARD_LINE16
+LANG_ENGLISH     "Broń ulepszona przez PaP natychmiast osiąga maksymalne obrażenia"
+
+REFERENCE           MAP_NOT_SUPPORT_TITLE
+LANG_ENGLISH     "MAPA NIE JEST KOMPATYBILNA"
+
+REFERENCE           MAP_NOT_SUPPORT_TITLE2
+LANG_ENGLISH     "Przełącz na wersję AAE Lite"
+
+REFERENCE           MAP_NOT_SUPPORT_DESC
+LANG_ENGLISH     "Wybrana mapa jest niekompatybilna z All-around Enhancement i spowoduje awarię gry."
+
+REFERENCE           MAP_NOT_SUPPORT_DESC2
+LANG_ENGLISH     "Wybrana mapa obsługuje tylko wersję All-around Enhancement Lite. Przed ponowną próbą przełącz się na wersję Lite."
+
+REFERENCE           MAP_NOT_SUPPORT_BUTTON
+LANG_ENGLISH     "Kontynuuj mimo to"
+
+REFERENCE           LOBBY_NOT_JOINABLE_EXTRA
+LANG_ENGLISH     "^3Wypróbuj następujące rozwiązania:\n\n^51. ^7Upewnij się, że nie próbowałeś dołączyć do lobby, klikając jakikolwiek przycisk „JOIN GAME” w grze.\n^52. ^7Dołącz do znajomych przez listę znajomych Steam co najmniej 20 razy lub więcej.\n^53. ^7Upewnij się, że host, do którego próbujesz dołączyć, ma otwarty typ NAT.\n^54. ^7Używanie Game Booster lub VPN\n^55. ^7Jeśli próbujesz dołączyć przez przeglądarkę serwerów, gry które widzisz, nie są prawdziwymi serwerami. Steam zbiera loby od graczy na całym świecie z publicznymi adresami IP. Z powodu różnych problemów z kompatybilnością sieciową, do tych lobby nie można dołączyć."
+
+REFERENCE           MAP_NOT_SUPPORT_TITLE3
+LANG_ENGLISH     "OSTRZEŻENIE O AWARII GRY"
+
+REFERENCE           MAP_NOT_SUPPORT_DESC3
+LANG_ENGLISH     "Wybrana mapa nie obsługuje aktualnej liczby graczy. Kontynuowanie spowoduje ^1natychmiastowy ^7crash gry!"
+
+REFERENCE           MAP_NOT_SUPPORT_TITLE4
+LANG_ENGLISH     "OSTRZEŻENIE O WYŁĄCZENIU GOBBLEGUM"
+
+REFERENCE           MAP_NOT_SUPPORT_DESC4
+LANG_ENGLISH     "Aktualna liczba graczy zmniejszy stabilność gry. Aby nieznacznie poprawić stabilność, inicjalizacja systemu Gobblegum zostanie zablokowana."
+
+REFERENCE           DOWNLOAD_LITE
+LANG_ENGLISH     "Pobierz wersję AAE Lite"
 
 ENDMARKER
