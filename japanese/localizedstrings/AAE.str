@@ -45,7 +45,7 @@ REFERENCE           CREATE_INVITE_TOAST_HEAD2
 LANG_ENGLISH     "リンクを生成できませんでした"
 
 REFERENCE           CAREERS
-LANG_ENGLISH     "^3AAE キャリア"
+LANG_ENGLISH     "キャリア"
 
 REFERENCE           BANK_BALANCE
 LANG_ENGLISH     "銀行残高"
@@ -201,7 +201,7 @@ REFERENCE           INVITEDISCORD
 LANG_ENGLISH     "Discordで招待"
 
 REFERENCE           RESTARTHINT
-LANG_ENGLISH     "マップを再起動するには &&1 を ^1&&2^7 回押してください"
+LANG_ENGLISH     "(fast_restartやmap_restartは使用しない) &&1 ^2&&2^7 回押してマップをリスタート"
 
 REFERENCE           RESTARTING
 LANG_ENGLISH     "再起動中......"
@@ -472,5 +472,26 @@ LANG_ENGLISH     "30回"
 
 REFERENCE           REWARD_LINE15
 LANG_ENGLISH     "瀕死状態のまま、もっと長く留まれる。"
+
+REFERENCE           REWARD_LINE16
+LANG_ENGLISH     "PaPで強化された武器は、即座に最大ダメージになります"
+
+REFERENCE           MAP_NOT_SUPPORT_TITLE
+LANG_ENGLISH     "マップは対応していません"
+
+REFERENCE           MAP_NOT_SUPPORT_TITLE2
+LANG_ENGLISH     "AAE Liteバージョンに切り替えてください"
+
+REFERENCE           MAP_NOT_SUPPORT_DESC
+LANG_ENGLISH     "現在選択しているマップはオールラウンド強化に対応しておらず、ゲームがクラッシュする可能性があります。"
+
+REFERENCE           MAP_NOT_SUPPORT_DESC2
+LANG_ENGLISH     "現在選択しているマップは、オールラウンド強化Liteバージョンのみ対応しています。再試行する前にLiteバージョンに切り替えてください。"
+
+REFERENCE           MAP_NOT_SUPPORT_BUTTON
+LANG_ENGLISH     "とにかく続行"
+
+REFERENCE           LOBBY_NOT_JOINABLE_EXTRA
+LANG_ENGLISH     "^3次の解決策を試してください：\n\n^51. ^7ゲーム内の「JOIN GAME」ボタンをクリックしてロビーに参加しようとしていないことを確認してください。\n^52. ^7Steamのフレンドリストを通じて、少なくとも20回以上友達に参加してください。\n^53. ^7参加しようとしているホストがオープンNATタイプであることを確認してください。\n^54. ^7Game BoosterやVPNの使用\n^55. ^7サーバーブラウザから参加しようとしている場合、表示されているゲームは実際のサーバーではありません。Steamは、世界中の公開IPアドレスを持つプレイヤーからロビーを収集しています。さまざまなネットワーク互換性の問題により、これらのロビーには参加できません。"
 
 ENDMARKER

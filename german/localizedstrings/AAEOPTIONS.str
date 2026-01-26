@@ -270,7 +270,7 @@ REFERENCE           AMMOBAG
 LANG_ENGLISH     "Ammo Bag, das alle 2 Runden erscheint, deaktivieren"
 
 REFERENCE           SLOTHUD
-LANG_ENGLISH     "Perk Slot HUD deaktivieren"
+LANG_ENGLISH     "Leere Perk-Slots deaktivieren (Neustart erforderlich)"
 
 REFERENCE           STABAR
 LANG_ENGLISH     "Ausdauerleiste deaktivieren"
@@ -337,5 +337,35 @@ LANG_ENGLISH        "Schrotflinten-Gib deaktivieren"
 
 REFERENCE           WEAPON_KIT_PAP
 LANG_ENGLISH        "Das Waffenkit ist nur für verbesserte Waffen"
+
+REFERENCE           GRENADE_PREDICATION
+LANG_ENGLISH     "Granatenvorhersage"
+
+REFERENCE           GRENADE_PREDICATION_OPTION1
+LANG_ENGLISH     "Vorhersage und Zündleiste"
+
+REFERENCE           GRENADE_PREDICATION_OPTION2
+LANG_ENGLISH     "Zündzeit-Leiste"
+
+REFERENCE           GRENADE_PREDICATION_OPTION3
+LANG_ENGLISH     "Vorhersage der Flugbahn"
+
+REFERENCE           SYSTIME
+LANG_ENGLISH     "Systemzeit-Anzeige deaktivieren"
+
+REFERENCE           WEAPON_OPTIONS3
+LANG_ENGLISH     "Zufällige Tarnungen"
+
+REFERENCE           WEAPON_OPTIONS4
+LANG_ENGLISH     "Zufällige Aufsätze"
+
+REFERENCE           AIHP
+LANG_ENGLISH     "Gegner-Lebensleiste (Erfordert Respawn)"
+
+REFERENCE           AIHP_OPTIONS1
+LANG_ENGLISH     "Nur Specials"
+
+REFERENCE           AIHP_OPTIONS2
+LANG_ENGLISH     "Nur Zombies"
 
 ENDMARKER

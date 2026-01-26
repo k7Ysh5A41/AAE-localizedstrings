@@ -119,6 +119,12 @@ LANG_ENGLISH       "FULL CIRCLE"
 REFERENCE          FC_MAP_DESC
 LANG_ENGLISH       "Join the time-traveling Primus crew in this epic storyline. Series by Alfa."
 
+REFERENCE          WD_MAP
+LANG_ENGLISH       "THE WALKING DEAD"
+
+REFERENCE          WD_MAP_DESC
+LANG_ENGLISH       "Experience iconic scenes from Frank Darabont's hit AMC show The Walking Dead. Series by itsbrodes."
+
 REFERENCE          WEE_MAP
 LANG_ENGLISH       "10 WEEKS - 10 MAPS"
 
@@ -135,7 +141,7 @@ REFERENCE          WW_MAP
 LANG_ENGLISH       "WORLD AT WAR"
 
 REFERENCE          WW_MAP_DESC
-LANG_ENGLISH       "Gritty maps reminiscent of the gruesome World at War era. \nFeatures classic World at War custom maps, remade for Black Ops 3."
+LANG_ENGLISH       "Gritty maps reminiscent of the gruesome World at War era. \nAlso features classic World at War custom maps, remade for Black Ops 3."
 
 REFERENCE          B1_MAP
 LANG_ENGLISH       "BLACK OPS"
@@ -204,40 +210,40 @@ REFERENCE          VG_MAP_DESC
 LANG_ENGLISH       "Other maps inspired by fan-favorite video game series."
 
 REFERENCE          KO_MAP
-LANG_ENGLISH       "VERK0 MAPS"
+LANG_ENGLISH       "VERK0"
 
 REFERENCE          KO_MAP_DESC
-LANG_ENGLISH       "Other amazing maps made by popular map creator Verk0."
+LANG_ENGLISH       "Other maps made by popular map creator Verk0."
 
 REFERENCE          ICE_MAP
-LANG_ENGLISH       "ICEGRENADE MAPS"
+LANG_ENGLISH       "ICEGRENADE"
 
 REFERENCE          ICE_MAP_DESC
-LANG_ENGLISH       "Other amazing maps made by popular map creator IceGrenade."
-
-REFERENCE          TD_MAP
-LANG_ENGLISH       "TRADITIONAL"
-
-REFERENCE          TD_MAP_DESC
-LANG_ENGLISH       "Miscellaneous maps that play like traditional survival experiences."
-
-REFERENCE          CH_MAP
-LANG_ENGLISH       "CHALLENGE"
-
-REFERENCE          CH_MAP_DESC
-LANG_ENGLISH       "Miscellaneous maps filled with challenges that will test your skills and abilities."
+LANG_ENGLISH       "Other maps made by popular map creator IceGrenade."
 
 REFERENCE          TOR_MAP
 LANG_ENGLISH       "TOWER"
 
 REFERENCE          TOR_MAP_DESC
-LANG_ENGLISH       "Miscellaneous maps with only one objective: Climb or descend the tower."
+LANG_ENGLISH       "Other tower maps that are compatible with All Around Enhancement."
+
+REFERENCE          CH_MAP
+LANG_ENGLISH       "CHALLENGE"
+
+REFERENCE          CH_MAP_DESC
+LANG_ENGLISH       "Other challenge maps that are compatible with All Around Enhancement."
 
 REFERENCE          OW_MAP
 LANG_ENGLISH       "ONE WINDOW"
 
 REFERENCE          OW_MAP_DESC
-LANG_ENGLISH       "Miscellaneous maps that feature only one window to defend."
+LANG_ENGLISH       "Other one-window maps that are compatible with All Around Enhancement."
+
+REFERENCE          TD_MAP
+LANG_ENGLISH       "MISCELLANEOUS"
+
+REFERENCE          TD_MAP_DESC
+LANG_ENGLISH       "Miscellaneous maps that are compatible with All Around Enhancement."
 
 REFERENCE          INCP_MAP
 LANG_ENGLISH       "^1INCOMPATIBLE^7"

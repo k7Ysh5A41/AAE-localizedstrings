@@ -185,7 +185,7 @@ REFERENCE           START_HINT
 LANG_ENGLISH     "^3[{+reload}] ^7Inspect weapons\n^3[{+melee}]^7 + ^3[{+actionslot 3}] ^7Flashlight\n^3[{+breath_sprint}]^7 + ^3[{+actionslot 3}] ^7Drop some points\n^3[{+gostand}]^7 + ^3[{+actionslot 3}] ^7DNI Enhanced Vision"
 
 REFERENCE           REMOVEPERK_HINT
-LANG_ENGLISH     "Press ^3[{+activate}]^7 + ^3[{+melee}] ^7 to remove a perk at its perk machine."
+LANG_ENGLISH     "Press ^3[{+activate}]^7 + ^3[{+melee}] ^7to remove a perk at its perk machine."
 
 REFERENCE           KATANA_HINT
 LANG_ENGLISH     "^3[{+attack}]^7 Merciless Dash\n^3[{+reload}]^7 In Plain Sight & Unlimited Ammo(Once per Round)\n^3[{+melee}]^7 Regain Health"

@@ -245,4 +245,16 @@ LANG_ENGLISH          "RÜCKKEHR NACH TRANZIT"
 REFERENCE            RTT_MAP_DESC
 LANG_ENGLISH          "Erlebe Tranzit erneut und spiele als Victis-Crew, nur wenige Stunden bevor die Raketen die Erde treffen!"
 
+REFERENCE          B4_MAP
+LANG_ENGLISH       "BLACK OPS 4"
+
+REFERENCE          B4_MAP_DESC
+LANG_ENGLISH       "Epische Karten, beeinflusst von der abschließenden Black Ops 4-Ära."
+
+REFERENCE          CW_MAP
+LANG_ENGLISH       "COLD WAR"
+
+REFERENCE          CW_MAP_DESC
+LANG_ENGLISH       "Beeindruckende Karten, gestaltet rund um die modernere Ära des Kalten Krieges und darüber hinaus."
+
 ENDMARKER

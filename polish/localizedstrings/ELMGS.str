@@ -74,6 +74,15 @@ LANG_ENGLISH     "WYSPA ALCATRAZ"
 REFERENCE           MOB_LINE2
 LANG_ENGLISH     "Zatoka San Francisco, USA"
 
+REFERENCE           MOB_LINE3
+LANG_ENGLISH     "Mob of The Dead"
+
+REFERENCE           MOB_TITLE
+LANG_ENGLISH     "Mob of The Dead"
+
+REFERENCE           MOB_DESC
+LANG_ENGLISH     "Walcz z nieumarłymi, próbując uwolnić się z fizycznego i metaforycznego uwięzienia w więzieniu Alcatraz."
+
 REFERENCE           LEV_LINE1
 LANG_ENGLISH     "Lewiatan"
 

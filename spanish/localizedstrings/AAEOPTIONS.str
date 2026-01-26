@@ -338,4 +338,34 @@ LANG_ENGLISH        "Deshab. el desmembramiento cuando se usan las escopetas"
 REFERENCE           WEAPON_KIT_PAP
 LANG_ENGLISH        "El kit de armas solo funciona con las armas mejoradas"
 
+REFERENCE           GRENADE_PREDICATION
+LANG_ENGLISH       "Predicción de granadas"
+
+REFERENCE           GRENADE_PREDICATION_OPTION1
+LANG_ENGLISH       "Predicción y barra de fusible"
+
+REFERENCE           GRENADE_PREDICATION_OPTION2
+LANG_ENGLISH       "Barra de temporizador del fusible"
+
+REFERENCE           GRENADE_PREDICATION_OPTION3
+LANG_ENGLISH       "Predicción de la trayectoria"
+
+REFERENCE           SYSTIME
+LANG_ENGLISH       "Deshab. la hora visual del sistema"
+
+REFERENCE           WEAPON_OPTIONS3
+LANG_ENGLISH       "Camuflajes Aleatorios"
+
+REFERENCE           WEAPON_OPTIONS4
+LANG_ENGLISH       "Accesorios Aleatorios"
+
+REFERENCE           AIHP
+LANG_ENGLISH       "Barra de vida enemiga (Req. reiniciar)"
+
+REFERENCE           AIHP_OPTIONS1
+LANG_ENGLISH       "Solo especiales"
+
+REFERENCE           AIHP_OPTIONS2
+LANG_ENGLISH       "Solo zombis"
+
 ENDMARKER

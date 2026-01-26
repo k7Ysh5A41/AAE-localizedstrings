@@ -270,7 +270,7 @@ REFERENCE           AMMOBAG
 LANG_ENGLISH     "Désactiver le sac de munitions qui apparaît toutes les 2 rounds"
 
 REFERENCE           SLOTHUD
-LANG_ENGLISH     "Désactiver le HUD du Perk Slot"
+LANG_ENGLISH     "Désactiver les emplacements de perks vides (Redémarrage requis)"
 
 REFERENCE           STABAR
 LANG_ENGLISH     "Désactiver la barre d'endurance"
@@ -337,5 +337,35 @@ LANG_ENGLISH        "Désactiver l’explosion de fusil à pompe"
 
 REFERENCE           WEAPON_KIT_PAP
 LANG_ENGLISH        "Le kit d'arme est uniquement pour les armes améliorées"
+
+REFERENCE           GRENADE_PREDICATION
+LANG_ENGLISH     "Prédiction de grenade"
+
+REFERENCE           GRENADE_PREDICATION_OPTION1
+LANG_ENGLISH     "Prédiction et barre de détonation"
+
+REFERENCE           GRENADE_PREDICATION_OPTION2
+LANG_ENGLISH     "Barre de timing de détonation"
+
+REFERENCE           GRENADE_PREDICATION_OPTION3
+LANG_ENGLISH     "Prédiction de la trajectoire"
+
+REFERENCE           SYSTIME
+LANG_ENGLISH     "Désactiver l'affichage de l'heure système"
+
+REFERENCE           WEAPON_OPTIONS3
+LANG_ENGLISH     "Camouflages aléatoires"
+
+REFERENCE           WEAPON_OPTIONS4
+LANG_ENGLISH     "Accessoires aléatoires"
+
+REFERENCE           AIHP
+LANG_ENGLISH     "Barre de vie ennemie (Nécessite réapparition)"
+
+REFERENCE           AIHP_OPTIONS1
+LANG_ENGLISH     "Spéciaux seulement"
+
+REFERENCE           AIHP_OPTIONS2
+LANG_ENGLISH     "Uniquement les zombies"
 
 ENDMARKER

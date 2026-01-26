@@ -45,7 +45,7 @@ REFERENCE           CREATE_INVITE_TOAST_HEAD2
 LANG_ENGLISH     "Impossible de générer le lien"
 
 REFERENCE           CAREERS
-LANG_ENGLISH     "^3CARRIÈRES AAE"
+LANG_ENGLISH     "CARRIÈRES"
 
 REFERENCE           BANK_BALANCE
 LANG_ENGLISH     "Solde bancaire"
@@ -201,7 +201,7 @@ REFERENCE           INVITEDISCORD
 LANG_ENGLISH     "Inviter via Discord"
 
 REFERENCE           RESTARTHINT
-LANG_ENGLISH     "Appuyez &&1 ^1&&2^7 Fois Pour Redémarrer La Carte"
+LANG_ENGLISH     "(Ne pas utiliser fast_restart ou map_restart) Appuyez &&1 ^2&&2^7 fois pour redémarrer la carte"
 
 REFERENCE           RESTARTING
 LANG_ENGLISH     "Redémarrage......"
@@ -472,5 +472,41 @@ LANG_ENGLISH     "30 fois"
 
 REFERENCE           REWARD_LINE15
 LANG_ENGLISH     "Restez en hémorragie beaucoup plus longtemps."
+
+REFERENCE           REWARD_LINE16
+LANG_ENGLISH     "Les armes améliorées avec le PaP atteignent immédiatement leurs dégâts maximum"
+
+REFERENCE           MAP_NOT_SUPPORT_TITLE
+LANG_ENGLISH     "LA CARTE N'EST PAS COMPATIBLE"
+
+REFERENCE           MAP_NOT_SUPPORT_TITLE2
+LANG_ENGLISH     "Passez à la version AAE Lite"
+
+REFERENCE           MAP_NOT_SUPPORT_DESC
+LANG_ENGLISH     "La carte que vous avez actuellement sélectionnée est incompatible avec l'Amélioration Tout-en-Un et provoquera un plantage du jeu."
+
+REFERENCE           MAP_NOT_SUPPORT_DESC2
+LANG_ENGLISH     "La carte que vous avez actuellement sélectionnée ne prend en charge que la version All-around Enhancement Lite. Veuillez passer à la version Lite avant de réessayer."
+
+REFERENCE           MAP_NOT_SUPPORT_BUTTON
+LANG_ENGLISH     "Continuer quand même"
+
+REFERENCE           LOBBY_NOT_JOINABLE_EXTRA
+LANG_ENGLISH     "^3Essayez les solutions suivantes :\n\n^51. ^7Assurez-vous de ne pas avoir tenté de rejoindre le lobby en cliquant sur un bouton « JOIN GAME » dans le jeu.\n^52. ^7Rejoignez des amis via la liste d'amis Steam au moins 20 fois ou plus.\n^53. ^7Assurez-vous que l'hôte que vous tentez de rejoindre a un type NAT ouvert.\n^54. ^7Utilisation de Game Booster ou VPN\n^55. ^7Si vous essayez de rejoindre via le navigateur de serveurs, les parties que vous voyez ne sont pas de vrais serveurs. Steam rassemble plutôt les lobbies de joueurs du monde entier avec des adresses IP publiques. En raison de divers problèmes de compatibilité réseau, ces lobbies ne peuvent pas être rejoints."
+
+REFERENCE           MAP_NOT_SUPPORT_TITLE3
+LANG_ENGLISH     "AVERTISSEMENT DE PLANTAGE DU JEU"
+
+REFERENCE           MAP_NOT_SUPPORT_DESC3
+LANG_ENGLISH     "La carte que vous avez sélectionnée ne prend pas en charge la taille actuelle du groupe. Continuer provoquera un ^1plantage ^7immédiat du jeu !"
+
+REFERENCE           MAP_NOT_SUPPORT_TITLE4
+LANG_ENGLISH     "AVERTISSEMENT DE DÉSACTIVATION DES GOBBLEGUM"
+
+REFERENCE           MAP_NOT_SUPPORT_DESC4
+LANG_ENGLISH     "La taille actuelle du groupe réduira la stabilité du jeu. Pour améliorer légèrement la stabilité, l'initialisation du système Gobblegum sera bloquée."
+
+REFERENCE           DOWNLOAD_LITE
+LANG_ENGLISH     "Téléchargez la version AAE Lite"
 
 ENDMARKER

@@ -24,7 +24,7 @@ REFERENCE           ROUNDTIME_DESC
 LANG_ENGLISH     "After finishing the 'Finish Match On Round' round, survive an endless round of instantly spawning zombies before time runs out! Face the horrors of Super Sprinter and Tranzit Sprinter zombies."
 
 REFERENCE           TRADE_DESC
-LANG_ENGLISH     "Trade weapons with another player. Walk up to the player you want to trade with and look at their gun. Both players must then hold the prompt on-screen until the bar is full for each player."
+LANG_ENGLISH     "Trade weapons with another player. Walk up to the player you want to trade with and look at their gun. Both players must then hold the prompt on-screen until the bar is full."
 
 REFERENCE           GAMBLER_DESC
 LANG_ENGLISH     "Spawns a floating Lucky 8 ball at the player's spawn location. Interact with it for random effects! Some are good, some are bad, some are weird. It’s a gamble!"
@@ -84,7 +84,7 @@ REFERENCE           DW_DESC
 LANG_ENGLISH     "The Ray Gun and Thundergun gain a dualwield toggle when PAP'd. This option disables that."
 
 REFERENCE           ZMBAR
-LANG_ENGLISH     "Zombie Health Bar"
+LANG_ENGLISH     "Disable Enemy HP Bar"
 
 REFERENCE           JUKE
 LANG_ENGLISH     "Zombie Juke"
