@@ -210,7 +210,7 @@ REFERENCE           LAUNCHER_LOCK
 LANG_ENGLISH     "Отключить блокировку ракетницы"
 
 REFERENCE           POINTS_COLOR
-LANG_ENGLISH     "Заменить цвет очков на цвет интерфейса (требуется перезапуск)"
+LANG_ENGLISH     "Заменить цвет очков на цвет интерфейса (рестарт)"
 
 REFERENCE           HIGHROUND_TIMER
 LANG_ENGLISH     "Таймер в игре"
@@ -225,7 +225,7 @@ REFERENCE           HITM_STAY_M
 LANG_ENGLISH     "Меньший хитмаркер"
 
 REFERENCE           ZCPERK
-LANG_ENGLISH     "Отключить доп. перк машины и PAP на картах ZC (требуется перезапуск)"
+LANG_ENGLISH     "Откл. доп. перк машины и PAP на картах ZC (рестарт)"
 
 REFERENCE           NOPES
 LANG_ENGLISH     "Невозможно взаимодействовать с скафандром на Луне"
@@ -264,10 +264,10 @@ REFERENCE           NO_SUPPORT_LINE4
 LANG_ENGLISH     "\n\n\n\n\n^23^7. Вы используете устройство или ОС ^5Windows 10 ^7/ ^5Windows 11 ^7/ ^5Steam Deck ^7/ ^5Linux ^7?"
 
 REFERENCE           MWZCOLOR
-LANG_ENGLISH     "Цвет команды BO6 (требуется перезапуск)"
+LANG_ENGLISH     "Цвет команды BO6 (рестарт)"
 
 REFERENCE           AMMOBAG
-LANG_ENGLISH     "Отключить появление сумки с боеприпасами каждые 2 раунда"
+LANG_ENGLISH     "Откл. появление сумки с патронами каждые 2 раунда"
 
 REFERENCE           SLOTHUD
 LANG_ENGLISH     "Отключить HUD перк слота (необходим перезапуск)"
@@ -291,13 +291,13 @@ REFERENCE           GUNPOS_ENABLE
 LANG_ENGLISH     "Включить пользовательское положение модели руки от первого лица"
 
 REFERENCE           T7HUD
-LANG_ENGLISH     "Макет HUD (требуется перезапуск)"
+LANG_ENGLISH     "Макет HUD (рестарт)"
 
 REFERENCE           TIPHINT
 LANG_ENGLISH     "Отключить подсказки и счетчик душ"
 
 REFERENCE           BARSPIN
-LANG_ENGLISH     "Плоский интерфейс (требуется перезапуск)"
+LANG_ENGLISH     "Плоский интерфейс (рестарт)"
 
 REFERENCE           T7
 LANG_ENGLISH     "Стандарт"
@@ -306,7 +306,7 @@ REFERENCE           T10
 LANG_ENGLISH     "По центру"
 
 REFERENCE           NOATTACHMENT  
-LANG_ENGLISH     "Нет вложения"  
+LANG_ENGLISH     "Без модулей"  
 
 REFERENCE           HUDMOVEMENT
 LANG_ENGLISH        "Отключить тряску интерфейса (HUD)"
@@ -364,5 +364,8 @@ LANG_ENGLISH     "Случайный камуфляж"
 
 REFERENCE           WEAPON_OPTIONS4
 LANG_ENGLISH     "Случайные модули"
+
+REFERENCE           SYSTIME
+LANG_ENGLISH     "Отключить отображение даты/времени"
 
 ENDMARKER
