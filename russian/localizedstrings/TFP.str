@@ -30,7 +30,7 @@ REFERENCE           FFFIVE
 LANG_ENGLISH     "Огонь по своим, но не убивает"
 
 REFERENCE           ROUNDLIMIT
-LANG_ENGLISH     "Закончить матч на этом раунде"
+LANG_ENGLISH     "Закончить матч на раунде"
 
 REFERENCE           ROUNDTIME
 LANG_ENGLISH     "End Game Challenge"
