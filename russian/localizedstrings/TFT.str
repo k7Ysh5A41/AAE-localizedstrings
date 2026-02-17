@@ -99,10 +99,10 @@ REFERENCE           RAMPAGE_DESC
 LANG_ENGLISH     "Меняет местами Гэмблер и индуктор бешенства для поддержки пользовательских карт.\n\Индуктор бешенства:\nАктивируйте, чтобы зомби появлялись быстрее и двигались быстрее"
 
 REFERENCE           THEGIANT_WEAPON
-LANG_ENGLISH     "Добавить оружие из The Giant в Таинственный ящик"
+LANG_ENGLISH     "Добавить оружие из BO3 на пользовательские карты"
 
 REFERENCE           HIDE_CUSTOM_MAP_WEAPON
-LANG_ENGLISH     "Скрыть оружие с пользовательских карт в Таинственном ящике"
+LANG_ENGLISH     "Скрыть оружие с пользовательских карт в таинственном ящике"
 
 REFERENCE           HIDE_AAE_WEAPON
 LANG_ENGLISH     "Скрыть оружие из AAE в Таинственном ящике"
