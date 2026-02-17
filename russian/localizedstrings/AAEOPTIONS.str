@@ -228,7 +228,7 @@ REFERENCE           ZCPERK
 LANG_ENGLISH     "Откл. доп. перк машины и PAP на картах ZC (рестарт)"
 
 REFERENCE           NOPES
-LANG_ENGLISH     "Невозможно взаимодействовать с скафандром на Луне"
+LANG_ENGLISH     "Отключить скафандр на Луне"
 
 REFERENCE           PAPBOX
 LANG_ENGLISH     "Улучшенное оружие с ящика (Требуется AF & 50 EE)"
@@ -267,7 +267,7 @@ REFERENCE           MWZCOLOR
 LANG_ENGLISH     "Цвет команды BO6 (рестарт)"
 
 REFERENCE           AMMOBAG
-LANG_ENGLISH     "Откл. появление сумки с патронами каждые 2 раунда"
+LANG_ENGLISH     "Отключить сумку с патронами"
 
 REFERENCE           SLOTHUD
 LANG_ENGLISH     "Отключить HUD перк слота (необходим перезапуск)"
