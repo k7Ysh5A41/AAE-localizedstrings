@@ -203,6 +203,12 @@ LANG_ENGLISH         "КАРТЫ ВЫЗОВОВ"
 REFERENCE            CH_MAP_DESC
 LANG_ENGLISH         "Карты, полные испытаний, некоторые более экстремальные, чем другие, проверяющие ваши навыки и способности."
 
+REFERENCE          VG_MAP
+LANG_ENGLISH       "ВИДЕОИГРЫ"
+
+REFERENCE          VG_MAP_DESC
+LANG_ENGLISH       "Другие карты созданы по мотивам популярных среди фанатов серий видеоигр."
+
 REFERENCE            NO_MAP
 LANG_ENGLISH         "КАРТЫ УЖАСОВ"
 
