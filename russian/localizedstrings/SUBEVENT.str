@@ -30,7 +30,7 @@ REFERENCE           READY
 LANG_ENGLISH     "Я готов"
 
 REFERENCE           AUTOREVIVE
-LANG_ENGLISH     "Я получил самооживление"
+LANG_ENGLISH     "Я воспользовался самооживлением"
 
 REFERENCE           GOTSOMEPERK
 LANG_ENGLISH     "Я получил"
@@ -57,7 +57,7 @@ REFERENCE           DOT
 LANG_ENGLISH     "."
 
 REFERENCE           PAYHALF_DOOR
-LANG_ENGLISH     "Я заплатил половину за эти двери, еще нужно "
+LANG_ENGLISH     "Я заплатил половину за эту дверь, еще нужно "
 
 REFERENCE           PAYHALF_DEBRIS
 LANG_ENGLISH     "Я заплатил половину за этот обломок, еще нужно "
@@ -102,7 +102,7 @@ REFERENCE           PING_PERK
 LANG_ENGLISH     "Перк машина"
 
 REFERENCE           PING_PAP
-LANG_ENGLISH     "Машина улучшайзер"
+LANG_ENGLISH     "Улучшайзер"
 
 REFERENCE           FULL_AMMO
 LANG_ENGLISH     "Максимум патронов"

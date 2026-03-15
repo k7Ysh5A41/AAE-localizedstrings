@@ -245,4 +245,16 @@ LANG_ENGLISH        "MAPAS DE TRANZIT"
 REFERENCE            RTT_MAP_DESC
 LANG_ENGLISH        "Mapas inspirados en las icónicas secciones de Tranzit, sobreviviendo con los Victis antes de que los cohetes cayeran a la Tierra."
 
+REFERENCE           B4_MAP
+LANG_SPANISH       "BLACK OPS 4"
+
+REFERENCE           B4_MAP_DESC
+LANG_SPANISH       "Mapas épicos inspirados de Black Ops 4."
+
+REFERENCE           CW_MAP
+LANG_SPANISH       "COLD WAR"
+
+REFERENCE           CW_MAP_DESC
+LANG_SPANISH       "Mapas impresionantes ambientados en la era más moderna de la Guerra Fría y posteriores."
+
 ENDMARKER

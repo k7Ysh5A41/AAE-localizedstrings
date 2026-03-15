@@ -245,4 +245,16 @@ LANG_ENGLISH       "トランジットへ戻る"
 REFERENCE            RTT_MAP_DESC
 LANG_ENGLISH        "ロケットが地球に落ちる数時間前、ビクティスのクルーとしてトランジットを再び体験せよ！"
 
+REFERENCE          B4_MAP
+LANG_ENGLISH       "BLACK OPS 4"
+
+REFERENCE          B4_MAP_DESC
+LANG_ENGLISH       "Black Ops 4の終焉の時代に影響を受けた壮大なマップ。"
+
+REFERENCE          CW_MAP
+LANG_ENGLISH       "COLD WAR"
+
+REFERENCE          CW_MAP_DESC
+LANG_ENGLISH       "より現代的な冷戦時代以降をテーマにした美しいマップ。"
+
 ENDMARKER

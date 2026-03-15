@@ -45,7 +45,7 @@ REFERENCE           CREATE_INVITE_TOAST_HEAD2
 LANG_ENGLISH     "Impossibile generare il link"
 
 REFERENCE           CAREERS
-LANG_ENGLISH     "^3CARRIERE AAE"
+LANG_ENGLISH     "CARRIERE"
 
 REFERENCE           BANK_BALANCE
 LANG_ENGLISH     "Saldo bancario"
@@ -201,7 +201,7 @@ REFERENCE           INVITEDISCORD
 LANG_ENGLISH     "Invita tramite Discord"
 
 REFERENCE           RESTARTHINT
-LANG_ENGLISH     "Premi &&1 ^1&&2^7 Volte Per Riavviare La Mappa"
+LANG_ENGLISH     "(Non usare fast_restart o map_restart) Premi &&1 ^2&&2^7 volte per riavviare la mappa"
 
 REFERENCE           RESTARTING
 LANG_ENGLISH     "Riavvio......"
@@ -472,5 +472,41 @@ LANG_ENGLISH     "30 volte"
 
 REFERENCE           REWARD_LINE15
 LANG_ENGLISH     "Rimani a terra in fin di vita per molto più tempo."
+
+REFERENCE           REWARD_LINE16
+LANG_ENGLISH     "Le armi potenziate con il PaP raggiungono immediatamente il danno massimo"
+
+REFERENCE           MAP_NOT_SUPPORT_TITLE
+LANG_ENGLISH     "LA MAPPA NON È COMPATIBILE"
+
+REFERENCE           MAP_NOT_SUPPORT_TITLE2
+LANG_ENGLISH     "Passa alla versione AAE Lite"
+
+REFERENCE           MAP_NOT_SUPPORT_DESC
+LANG_ENGLISH     "La mappa attualmente selezionata non è compatibile con All-around Enhancement e causerà il crash del gioco."
+
+REFERENCE           MAP_NOT_SUPPORT_DESC2
+LANG_ENGLISH     "La mappa attualmente selezionata supporta solo la versione All-around Enhancement Lite. Passa alla versione Lite prima di riprovare."
+
+REFERENCE           MAP_NOT_SUPPORT_BUTTON
+LANG_ENGLISH     "Continua comunque"
+
+REFERENCE           LOBBY_NOT_JOINABLE_EXTRA
+LANG_ENGLISH     "^3Prova le seguenti soluzioni:\n\n^51. ^7Assicurati di non aver tentato di unirti alla lobby cliccando su qualsiasi pulsante “JOIN GAME” all'interno del gioco.\n^52. ^7Unisciti agli amici tramite la lista amici di Steam almeno 20 volte o più.\n^53. ^7Assicurati che l'host a cui stai tentando di unirti abbia un tipo NAT aperto.\n^54. ^7Uso di Game Booster o VPN\n^55. ^7Se stai tentando di unirti tramite il browser dei server, i giochi che vedi non sono server reali. Steam raccoglie invece le lobby dai giocatori di tutto il mondo con indirizzi IP pubblici. A causa di vari problemi di compatibilità di rete, queste lobby non possono essere raggiunte."
+
+REFERENCE           MAP_NOT_SUPPORT_TITLE3
+LANG_ENGLISH     "AVVISO DI CRASH DEL GIOCO"
+
+REFERENCE           MAP_NOT_SUPPORT_DESC3
+LANG_ENGLISH     "La mappa selezionata non supporta la dimensione attuale del gruppo. Continuare causerà il ^1crash ^7immediato del gioco!"
+
+REFERENCE           MAP_NOT_SUPPORT_TITLE4
+LANG_ENGLISH     "AVVISO DI DISATTIVAZIONE GOBBLEGUM"
+
+REFERENCE           MAP_NOT_SUPPORT_DESC4
+LANG_ENGLISH     "La dimensione attuale del gruppo ridurrà la stabilità del gioco. Per migliorare leggermente la stabilità, l’inizializzazione del sistema Gobblegum sarà bloccata."
+
+REFERENCE           DOWNLOAD_LITE
+LANG_ENGLISH     "Scarica la versione AAE Lite"
 
 ENDMARKER
