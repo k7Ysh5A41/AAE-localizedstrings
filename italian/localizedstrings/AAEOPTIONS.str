@@ -270,7 +270,7 @@ REFERENCE           AMMOBAG
 LANG_ENGLISH     "Disabilita Ammo Bag che appare ogni 2 round"
 
 REFERENCE           SLOTHUD
-LANG_ENGLISH     "Disabilita HUD Perk Slot"
+LANG_ENGLISH     "Disabilita slot perk vuoti (Riavvio richiesto)"
 
 REFERENCE           STABAR
 LANG_ENGLISH     "Disabilita barra resistenza"
@@ -337,5 +337,35 @@ LANG_ENGLISH        "Disattiva frammenti del fucile a pompa"
 
 REFERENCE           WEAPON_KIT_PAP
 LANG_ENGLISH        "Il kit arma è solo per le armi potenziate"
+
+REFERENCE           GRENADE_PREDICATION
+LANG_ENGLISH     "Predizione granata"
+
+REFERENCE           GRENADE_PREDICATION_OPTION1
+LANG_ENGLISH     "Predizione e barra del fusibile"
+
+REFERENCE           GRENADE_PREDICATION_OPTION2
+LANG_ENGLISH     "Barra del tempo di fusibile"
+
+REFERENCE           GRENADE_PREDICATION_OPTION3
+LANG_ENGLISH     "Predizione della traiettoria"
+
+REFERENCE           SYSTIME
+LANG_ENGLISH     "Disattiva visualizzazione dell'orario di sistema"
+
+REFERENCE           WEAPON_OPTIONS3
+LANG_ENGLISH     "Mimetiche casuali"
+
+REFERENCE           WEAPON_OPTIONS4
+LANG_ENGLISH     "Accessori casuali"
+
+REFERENCE           AIHP
+LANG_ENGLISH     "Barra HP nemica (Richiede respawn)"
+
+REFERENCE           AIHP_OPTIONS1
+LANG_ENGLISH     "Solo Speciali"
+
+REFERENCE           AIHP_OPTIONS2
+LANG_ENGLISH     "Solo Zombie"
 
 ENDMARKER

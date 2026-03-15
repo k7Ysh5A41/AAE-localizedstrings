@@ -170,11 +170,11 @@ LANG_ENGLISH         "Базовая стоимость губль-гам"
 REFERENCE            BGB_LIMIT
 LANG_ENGLISH         "Лимит покупки губль-гам"
 
+REFERENCE            BGB_NT
+LANG_ENGLISH         "Бесконечный вызов ньютону"
+
 REFERENCE            BGB_SP
 LANG_ENGLISH         "Отключить бесплатную музыку при покупке"
-
-REFERENCE            BGB_NT
-LANG_ENGLISH         "Бесконечная Newtonian Negation"
 
 REFERENCE            BGB_OFF_DESC
 LANG_ENGLISH         "Отключает все машины губль-гам на карте."
@@ -309,7 +309,7 @@ REFERENCE            IW8
 LANG_ENGLISH         "Отключить оружие MW 2019"
 
 REFERENCE            T9
-LANG_ENGLISH         "Отключить оружие BO-CW"
+LANG_ENGLISH         "Отключить оружие BOCW"
 
 REFERENCE            ELMG_WEAPON
 LANG_ENGLISH         "Отключить оружие AAE"
@@ -456,7 +456,7 @@ REFERENCE            OWNCAMO
 LANG_ENGLISH         "Использовать свой камуфляж"
 
 REFERENCE            PAPCAMO
-LANG_ENGLISH         "Выбрать камуфляж улучшенного оружия"
+LANG_ENGLISH         "Камуфляж улучшенного оружия"
 
 REFERENCE            BOXSHARE
 LANG_ENGLISH         "Делиться оружием с таинственной коробки"
@@ -510,7 +510,7 @@ REFERENCE            HEADSHOTKILL
 LANG_ENGLISH         "Доп. очки за убийство в голову"
 
 REFERENCE            MAXZM
-LANG_ENGLISH         "Максимальное количество зомби"
+LANG_ENGLISH         "Максимальное кол-во зомби"
 
 REFERENCE            SLOWZM
 LANG_ENGLISH         "Слабее зомби"

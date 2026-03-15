@@ -71,6 +71,15 @@ LANG_ENGLISH     "NÖRDLICHE HÄLFTE DER ERDE"
 REFERENCE           MOB_LINE1
 LANG_ENGLISH     "ALCATRAZ-INSEL"
 
+REFERENCE           MOB_LINE3
+LANG_ENGLISH     "Mob of The Dead"
+
+REFERENCE           MOB_TITLE
+LANG_ENGLISH     "Mob of The Dead"
+
+REFERENCE           MOB_DESC
+LANG_ENGLISH     "Kämpfe gegen die Untoten, während du versuchst, aus der physischen und metaphorischen Inhaftierung des Alcatraz-Gefängnisses zu entkommen."
+
 REFERENCE           MOB_LINE2
 LANG_ENGLISH     "San Francisco Bay, USA"
 

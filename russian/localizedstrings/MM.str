@@ -24,10 +24,10 @@ REFERENCE           TOGGLESHOOTPOWERUPS
 LANG_ENGLISH     "Переключить стрельбу силовыми апгрейдами"
 
 REFERENCE           TOGGLELEFTSIDEWEAPON
-LANG_ENGLISH     "Переключить оружие на левую сторону"
+LANG_ENGLISH     "Переключить оружие на левую руку"
 
 REFERENCE           PACKERPUNCHCURRENTWEAPON
-LANG_ENGLISH     "Улучшение текущего оружия"
+LANG_ENGLISH     "Улучшить текущее оружие"
 
 REFERENCE           UNPACKCURRENTWEAPON
 LANG_ENGLISH     "Распаковать текущее оружие"
@@ -75,7 +75,7 @@ REFERENCE           TOGGLERAPIDFIRE
 LANG_ENGLISH     "Переключить автоматический огонь"
 
 REFERENCE           PRINTENTITIES
-LANG_ENGLISH     "Печать сущностей"
+LANG_ENGLISH     "Написать количество сущностей"
 
 REFERENCE           CLONEPLAYER
 LANG_ENGLISH     "Клонировать игрока"
@@ -114,7 +114,7 @@ REFERENCE           MYSTERYBOXMODS
 LANG_ENGLISH     "Модификации Таинственного ящика"
 
 REFERENCE           MYSTERYBOXNEVERMOVES
-LANG_ENGLISH     "Таинственный ящик никогда не двинется"
+LANG_ENGLISH     "Таинственный ящик никогда не улетает"
 
 REFERENCE           MYSTERYBOXOPENINGPRICE
 LANG_ENGLISH     "Стоимость открытия Таинственного ящика"
@@ -378,10 +378,10 @@ REFERENCE           3RDPERSONRANGEBAR
 LANG_ENGLISH     "3-е лицо, полоса дальности"
 
 REFERENCE           PRINTORIGIN
-LANG_ENGLISH     "Печать происхождения"
+LANG_ENGLISH     "Написать координаты"
 
 REFERENCE           PRINTZOMBIECOUNT
-LANG_ENGLISH     "Печать количества зомби"
+LANG_ENGLISH     "Написать количество зомби"
 
 REFERENCE           TOGGLEZOMBIESIGNOREYOU
 LANG_ENGLISH     "Переключить игнорирование зомби вами"

@@ -270,7 +270,7 @@ REFERENCE           AMMOBAG
 LANG_ENGLISH     "Wyłącz spawnowanie Ammo Baga co 2 rundy"
 
 REFERENCE           SLOTHUD
-LANG_ENGLISH     "Wyłącz HUD Perk Slot"
+LANG_ENGLISH     "Wyłącz puste sloty perków (wymagany restart)"
 
 REFERENCE           STABAR
 LANG_ENGLISH     "Wyłącz pasek wytrzymałości"
@@ -337,5 +337,35 @@ LANG_ENGLISH        "Wyłącz odłamki strzelby"
 
 REFERENCE           WEAPON_KIT_PAP
 LANG_ENGLISH        "Zestaw broni jest tylko dla ulepszonych broni"
+
+REFERENCE           GRENADE_PREDICATION
+LANG_ENGLISH     "Predykcja granatu"
+
+REFERENCE           GRENADE_PREDICATION_OPTION1
+LANG_ENGLISH     "Predykcja i pasek zapłonu"
+
+REFERENCE           GRENADE_PREDICATION_OPTION2
+LANG_ENGLISH     "Pasek czasu zapłonu"
+
+REFERENCE           GRENADE_PREDICATION_OPTION3
+LANG_ENGLISH     "Predykcja trajektorii"
+
+REFERENCE           SYSTIME
+LANG_ENGLISH     "Wyłącz wyświetlanie czasu systemowego"
+
+REFERENCE           WEAPON_OPTIONS3
+LANG_ENGLISH     "Losowe kamuflaże"
+
+REFERENCE           WEAPON_OPTIONS4
+LANG_ENGLISH     "Losowe dodatki"
+
+REFERENCE           AIHP
+LANG_ENGLISH     "Pasek HP wroga (Wymaga respawnu)"
+
+REFERENCE           AIHP_OPTIONS1
+LANG_ENGLISH     "Tylko Specjale"
+
+REFERENCE           AIHP_OPTIONS2
+LANG_ENGLISH     "Tylko Zombie"
 
 ENDMARKER
