@@ -69,7 +69,7 @@ REFERENCE           LOADOUTSAVE2
 LANG_ENGLISH     "Clear Saved Loadout After Bleed Out"
 
 REFERENCE           LOADOUTSAVE2_DESC
-LANG_ENGLISH     "Clear your saved weapons after bleedout. You will respawn only with the pistol like normal. \n\n^1Notice:^7 Use this with the “Weapon Restore & Mule Kick Weapon Restore” option enabled so Mule Kick will still save your extra weapon if you lose the perk."
+LANG_ENGLISH     "Clear the player's weapons after bleeding-out. Respawn only with a pistol like normal. \n\n^1Notice:^7 Using this with "Weapon Restore" will still enable loadout saving for disconnects and Mule Kick."
 
 REFERENCE           RIPPER
 LANG_ENGLISH     "Disable Bowie Knife To Ripper Upgrade"
