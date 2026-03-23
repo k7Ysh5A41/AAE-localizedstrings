@@ -183,13 +183,13 @@ REFERENCE            BGB_OFF_DESC
 LANG_ENGLISH         "Disable all GobbleGum Machines on the map."
 
 REFERENCE            BGB_RDM_DESC
-LANG_ENGLISH         "GobbleGum will no longer use player's loadout, but will be randomly selected from all GobbleGums."
+LANG_ENGLISH         "GobbleGum selection will no longer use player's loadout. Instead, it will be randomly selected from a pool of all GobbleGums."
 
 REFERENCE            BGB_COST_DESC
 LANG_ENGLISH         "Base Cost of GobbleGum Machines."
 
 REFERENCE            BGB_FIX_DESC
-LANG_ENGLISH         "Normally, the cost to use a GobbleGum Machine scales each time it's used per round, and as more rounds are completed. This option makes the Base Cost permanent."
+LANG_ENGLISH         "Normally, the cost to use a GobbleGum Machine increases each time it's used and as more rounds are completed. This option disables that behavior and makes the Base Cost permanent."
 
 REFERENCE            BGB_LIMIT_DESC
 LANG_ENGLISH         "Per round purchase limit for GobbleGum Machines. Default is 3."
@@ -504,7 +504,7 @@ REFERENCE            BOXSHARE_DESC
 LANG_ENGLISH         "Use melee on a Mystery Box weapon to share it with an ally."
 
 REFERENCE            LOADOUTSAVE_DESC
-LANG_ENGLISH         "When you are disconnected from a game, the current host will store your weapons, perks and points. After reconnecting, you will automatically reaquire everything. \n\n^1Notice:^7 This also applies to the Mule Kick Bonus effect and respawning."
+LANG_ENGLISH         "If a player disconnects or dies, the host will save their weapons, perks, and points. After reconnecting or respawning, they will automatically reaquire everything. \n\n^1Notice:^7 Also applies to Mule Kick when the perk is lost."
 
 REFERENCE            C4_DESC
 LANG_ENGLISH         "After 35 rounds, having 150k points and detonating C4 will end the game. This setting disables that."

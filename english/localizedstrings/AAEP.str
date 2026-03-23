@@ -141,7 +141,7 @@ REFERENCE          WW_MAP
 LANG_ENGLISH       "WORLD AT WAR"
 
 REFERENCE          WW_MAP_DESC
-LANG_ENGLISH       "Gritty maps reminiscent of the gruesome World at War era. \nAlso features classic World at War custom maps, remade for Black Ops 3."
+LANG_ENGLISH       "Gritty maps reminiscent of the gruesome World at War era."
 
 REFERENCE          B1_MAP
 LANG_ENGLISH       "BLACK OPS"
@@ -171,13 +171,19 @@ REFERENCE          CW_MAP
 LANG_ENGLISH       "COLD WAR"
 
 REFERENCE          CW_MAP_DESC
-LANG_ENGLISH       "Stunning maps shaped around the more modern Cold War era and beyond."
+LANG_ENGLISH       "Stunning maps shaped around the modern Cold War era and beyond."
+
+REFERENCE          IW_MAP
+LANG_ENGLISH       "INFINITE WARFARE"
+
+REFERENCE          IW_MAP_DESC
+LANG_ENGLISH       "Wacky maps nostalgic for the groovy Infinite Warfare era."
 
 REFERENCE          MW_MAP
 LANG_ENGLISH       "MODERN WARFARE"
 
 REFERENCE          MW_MAP_DESC
-LANG_ENGLISH       "Legendary maps that pay tribute to the Modern Warfare era."
+LANG_ENGLISH       "Legendary maps that pay tribute to the epic Modern Warfare era."
 
 REFERENCE          HLW_MAP
 LANG_ENGLISH       "HALLOWEEN"
@@ -195,31 +201,13 @@ REFERENCE          MIN_MAP
 LANG_ENGLISH       "MINECRAFT"
 
 REFERENCE          MIN_MAP_DESC
-LANG_ENGLISH       "Other maps inspired by the popular game Minecraft."
+LANG_ENGLISH       "Mine and craft your way to survival on these blocky maps."
 
 REFERENCE          MTV_MAP
-LANG_ENGLISH       "MOVIES / SERIES"
+LANG_ENGLISH       "MEDIA INSPIRED"
 
 REFERENCE          MTV_MAP_DESC
-LANG_ENGLISH       "Other maps inspired by hit movies and series."
-
-REFERENCE          VG_MAP
-LANG_ENGLISH       "VIDEO GAMES"
-
-REFERENCE          VG_MAP_DESC
-LANG_ENGLISH       "Other maps inspired by fan-favorite video game series."
-
-REFERENCE          KO_MAP
-LANG_ENGLISH       "VERK0"
-
-REFERENCE          KO_MAP_DESC
-LANG_ENGLISH       "Other maps made by popular map creator Verk0."
-
-REFERENCE          ICE_MAP
-LANG_ENGLISH       "ICEGRENADE"
-
-REFERENCE          ICE_MAP_DESC
-LANG_ENGLISH       "Other maps made by popular map creator IceGrenade."
+LANG_ENGLISH       "Other maps inspired by hit movies, series, video games, and more."
 
 REFERENCE          TOR_MAP
 LANG_ENGLISH       "TOWER"
@@ -228,7 +216,7 @@ REFERENCE          TOR_MAP_DESC
 LANG_ENGLISH       "Other tower maps that are compatible with All Around Enhancement."
 
 REFERENCE          CH_MAP
-LANG_ENGLISH       "CHALLENGE"
+LANG_ENGLISH       "CHALLENGES"
 
 REFERENCE          CH_MAP_DESC
 LANG_ENGLISH       "Other challenge maps that are compatible with All Around Enhancement."
@@ -249,7 +237,7 @@ REFERENCE          INCP_MAP
 LANG_ENGLISH       "^1INCOMPATIBLE^7"
 
 REFERENCE          INCP_MAP_DESC
-LANG_ENGLISH       "Maps that are not compatible with All Around Enhancement."
+LANG_ENGLISH       "Maps that are NOT compatible with All Around Enhancement."
 
 REFERENCE          WHIMSICAL
 LANG_ENGLISH       "Whimsical"
