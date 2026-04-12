@@ -13,9 +13,6 @@ LANG_ENGLISH         "^3Enhanced Controls\n\n^7Flashlight\nPing\nDrop 1000 Point
 
 REFERENCE            DRONE_KILL
 LANG_ENGLISH         "Valkyrie Drone Elimination"
-
-REFERENCE            DRONE_KILL
-LANG_ENGLISH         "Valkyrie Drone Elimination"
  
 REFERENCE            DRONE_EXPLOSIVE_KILL
 LANG_ENGLISH         "Valkyrie Drone Explosive Kill"
