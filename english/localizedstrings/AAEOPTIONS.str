@@ -371,4 +371,7 @@ LANG_ENGLISH     "Zombies and Keepers Only"
 REFERENCE           HUDSIZE
 LANG_ENGLISH     "Hud Size"
 
+REFERENCE           INDICATOR_ICON
+LANG_ENGLISH     "Disable Indicator Icon"
+
 ENDMARKER
