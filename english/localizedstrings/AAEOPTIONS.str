@@ -368,4 +368,7 @@ LANG_ENGLISH     "Special Enemies Only"
 REFERENCE           AIHP_OPTIONS2
 LANG_ENGLISH     "Zombies and Keepers Only"
 
+REFERENCE           HUDSIZE
+LANG_ENGLISH     "Hud Size"
+
 ENDMARKER

@@ -506,4 +506,34 @@ LANG_ENGLISH     "Due to the party size, GobbleGums have been disabled to improv
 REFERENCE           DOWNLOAD_LITE
 LANG_ENGLISH     "Download AAE Lite"
 
+REFERENCE           CHOOSE_HERO
+LANG_ENGLISH     "Choose Crew Member"
+
+REFERENCE           CHOOSE_HERO_DESC
+LANG_ENGLISH     "Choose the crew members you want to use | ^5Current^7: ^3"
+
+REFERENCE           CHOOSE_HERO_LIST0
+LANG_ENGLISH     "Tank Dempsey"
+
+REFERENCE           CHOOSE_HERO_LIST1
+LANG_ENGLISH     "Nikolai Belinski"
+
+REFERENCE           CHOOSE_HERO_LIST2
+LANG_ENGLISH     "Edward Richtofen"
+
+REFERENCE           CHOOSE_HERO_LIST3
+LANG_ENGLISH     "Takeo Masaki"
+
+REFERENCE           CHOOSE_HERO_LIST5
+LANG_ENGLISH     "Floyd Campbell"
+
+REFERENCE           CHOOSE_HERO_LIST6
+LANG_ENGLISH     "Jack Vincent"
+
+REFERENCE           CHOOSE_HERO_LIST7
+LANG_ENGLISH     "Jessica Rose"
+
+REFERENCE           CHOOSE_HERO_LIST8
+LANG_ENGLISH     "Nero Blackstone"
+
 ENDMARKER
