@@ -503,4 +503,19 @@ LANG_ENGLISH         "^1Richtofen^7: I'm so sorry‚ I really don't have time to
 REFERENCE            ZOD_OUTRO_2
 LANG_ENGLISH         "^1Richtofen^7: Thank you und goodbye."
 
+REFERENCE            COAST_OUTRO_1
+LANG_ENGLISH         "^8George A. Romero^7: Years ago I did research for a World War II movie."
+
+REFERENCE            COAST_OUTRO_2
+LANG_ENGLISH         "^8George A. Romero^7: I came across some old Nazi documents. I couldn't believe what I was reading."
+
+REFERENCE            COAST_OUTRO_3
+LANG_ENGLISH         "^8George A. Romero^7: Element 115, necromancers, raising the dead, real creepy stuff."
+
+REFERENCE            COAST_OUTRO_4
+LANG_ENGLISH         "^8George A. Romero^7: The coolest thing? Some of that crazy shit happened right here."
+
+REFERENCE           COAST_OUTRO_5
+LANG_ENGLISH     "^1Rooker^7: Come on!"
+
 ENDMARKER

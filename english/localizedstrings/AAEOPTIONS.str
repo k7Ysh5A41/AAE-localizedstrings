@@ -374,4 +374,7 @@ LANG_ENGLISH     "Hud Size"
 REFERENCE           INDICATOR_ICON
 LANG_ENGLISH     "Disable Indicator Icon"
 
+REFERENCE           NO_TALK
+LANG_ENGLISH     "Disable Character Dialogue"
+
 ENDMARKER
