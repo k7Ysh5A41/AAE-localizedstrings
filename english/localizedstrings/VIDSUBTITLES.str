@@ -518,4 +518,19 @@ LANG_ENGLISH         "^8George A. Romero^7: The coolest thing? Some of that craz
 REFERENCE           COAST_OUTRO_5
 LANG_ENGLISH     "^1Rooker^7: Come on!"
 
+REFERENCE           REV_OUTRO_1
+LANG_ENGLISH     "^1Maxis^7: Sophia."
+
+REFERENCE           REV_OUTRO_2
+LANG_ENGLISH     "^1Sophia^7: Maxis."
+
+REFERENCE           REV_OUTRO_3
+LANG_ENGLISH     "^1Maxis^7: You know we must do it, my dear."
+
+REFERENCE           REV_OUTRO_4
+LANG_ENGLISH     "^1Sophia^7: Yes, my love."
+
+REFERENCE           REV_OUTRO_5
+LANG_ENGLISH     "^1Maxis^7: We will do it together, As one we are now and forever."
+
 ENDMARKER
