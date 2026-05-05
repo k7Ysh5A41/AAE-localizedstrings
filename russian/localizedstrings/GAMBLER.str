@@ -33,10 +33,10 @@ REFERENCE           LOSTMONEY
 LANG_ENGLISH     "^1Вы потеряли все свои деньги!"
 
 REFERENCE           SHIELD_FIX
-LANG_ENGLISH     "^2Вы получили починку для бронированного щита!"
+LANG_ENGLISH     "^2Вы получили починку для зомби щита!"
 
 REFERENCE           WIN_SHIELD
-LANG_ENGLISH     "^2Вы выиграли бронированный щит на спину!"
+LANG_ENGLISH     "^2Вы выиграли зомби щит на спину!"
 
 REFERENCE           NO_SHIELD
 LANG_ENGLISH     "^2Вы выиграли щит, но мы не можем его вам дать."
@@ -72,7 +72,7 @@ REFERENCE           SB_LIVE
 LANG_ENGLISH     "^1Бууум! Все убиты идиотами! Идиоты выжили! Идиоты получают бесплатный перкоголик!"
 
 REFERENCE           RICH
-LANG_ENGLISH     "^3Стань богатым!"
+LANG_ENGLISH     "^3МЫ БОГАТЫ!"
 
 REFERENCE           AIRSTRIKE_ZM
 LANG_ENGLISH     "^2Точный воздушный удар!"
@@ -102,6 +102,6 @@ REFERENCE           TOOK_ALL
 LANG_ENGLISH     "^1 забрал все ваши деньги!"
 
 REFERENCE           GIVE_2000
-LANG_ENGLISH     "^2 даёт вам ^BBUTTON_COD_POINT_ICON^2000."
+LANG_ENGLISH     "^2 передал вам ^BBUTTON_COD_POINT_ICON^2000."
 
 ENDMARKER
