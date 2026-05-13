@@ -506,4 +506,106 @@ LANG_ENGLISH     "Из-за большого количества участни
 REFERENCE           DOWNLOAD_LITE
 LANG_ENGLISH     "Скачать AAE Lite"
 
+REFERENCE           CHOOSE_HERO
+LANG_ENGLISH     "Выбрать играбельного персонажа"
+
+REFERENCE           CHOOSE_HERO_DESC
+LANG_ENGLISH     "Если другой игрок выберет того же персонажа, что и вы, вам автоматически будет назначен другой персонаж.\n\nВыберите персонажей, которых вы хотите использовать. | ^5Текущий^7: ^3"
+///////////////////////////////////////////////////////////
+REFERENCE           CHOOSE_HERO_LIST0
+LANG_ENGLISH     "Танк Демпси"
+
+REFERENCE           CHOOSE_HERO_LIST1
+LANG_ENGLISH     "Николай Белинский"
+
+REFERENCE           CHOOSE_HERO_LIST2
+LANG_ENGLISH     "Эдвард Рихтгофен"
+
+REFERENCE           CHOOSE_HERO_LIST3
+LANG_ENGLISH     "Такео Масаки"
+///////////////////////////////////////////////////////////
+REFERENCE           CHOOSE_HERO_LIST5
+LANG_ENGLISH     "Флойд Кэмпбелл"
+
+REFERENCE           CHOOSE_HERO_LIST6
+LANG_ENGLISH     "Джеки Винсент"
+
+REFERENCE           CHOOSE_HERO_LIST7
+LANG_ENGLISH     "Джессика Роуз"
+
+REFERENCE           CHOOSE_HERO_LIST8
+LANG_ENGLISH     "Неро Блэкстоун"
+///////////////////////////////////////////////////////////
+REFERENCE           CHOOSE_HERO_LIST9
+LANG_ENGLISH     "Рассман"
+
+REFERENCE           CHOOSE_HERO_LIST10
+LANG_ENGLISH     "Сэмюэл Стулинджер"
+
+REFERENCE           CHOOSE_HERO_LIST11
+LANG_ENGLISH     "Абигейл "Мисти" Брайтон"
+
+REFERENCE           CHOOSE_HERO_LIST12
+LANG_ENGLISH     "Марлтон Джонсон"
+///////////////////////////////////////////////////////////
+REFERENCE           CHOOSE_HERO_LIST13
+LANG_ENGLISH     "Майкл "Финн" О'Лири"
+
+REFERENCE           CHOOSE_HERO_LIST14
+LANG_ENGLISH     "Сальватор "Сал" ДеЛюка"
+
+REFERENCE           CHOOSE_HERO_LIST15
+LANG_ENGLISH     "Билли Хэндсом"
+
+REFERENCE           CHOOSE_HERO_LIST16
+LANG_ENGLISH     "Альберт "Хорёк" Арлингтон"
+///////////////////////////////////////////////////////////
+REFERENCE           CHOOSE_HERO_LIST17
+LANG_ENGLISH     "Сара Мишель Геллар"
+
+REFERENCE           CHOOSE_HERO_LIST18
+LANG_ENGLISH     "Роберт Инглунд"
+
+REFERENCE           CHOOSE_HERO_LIST19
+LANG_ENGLISH     "Дэнни Трехо"
+
+REFERENCE           CHOOSE_HERO_LIST20
+LANG_ENGLISH     "Майкл Рукер"
+///////////////////////////////////////////////////////////
+REFERENCE           CHOOSE_HERO_LIST21
+LANG_ENGLISH     "Скарлетт Родс"
+
+REFERENCE           CHOOSE_HERO_LIST22
+LANG_ENGLISH     "Стэнтон Шоу"
+
+REFERENCE           CHOOSE_HERO_LIST23
+LANG_ENGLISH     "Бруно Делакруа"
+
+REFERENCE           CHOOSE_HERO_LIST24
+LANG_ENGLISH     "Диего Некалли"
+///////////////////////////////////////////////////////////
+REFERENCE           CHOOSE_HERO_LIST25
+LANG_ENGLISH     "Джонатан Варвик"
+
+REFERENCE           CHOOSE_HERO_LIST26
+LANG_ENGLISH     "Годфри"
+
+REFERENCE           CHOOSE_HERO_LIST27
+LANG_ENGLISH     "Гидеон Джонс"
+
+REFERENCE           CHOOSE_HERO_LIST28
+LANG_ENGLISH     "Кристина Фаулер"
+/////////////////////////////////////////////////////////// 5-8
+REFERENCE           CHOOSE_HERO_LIST29
+LANG_ENGLISH     "Аарон "Эй-Джей" Джордэниелс"
+
+REFERENCE           CHOOSE_HERO_LIST30
+LANG_ENGLISH     "Пойндекстер Зиттерманн"
+
+REFERENCE           CHOOSE_HERO_LIST31
+LANG_ENGLISH     "Салли Симпсон"
+
+REFERENCE           CHOOSE_HERO_LIST32
+LANG_ENGLISH     "Андре Райт"
+///////////////////////////////////////////////////////////
 ENDMARKER

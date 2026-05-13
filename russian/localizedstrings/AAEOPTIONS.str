@@ -368,4 +368,13 @@ LANG_ENGLISH     "Случайные модули"
 REFERENCE           SYSTIME
 LANG_ENGLISH     "Отключить отображение даты/времени"
 
+REFERENCE           HUDSIZE
+LANG_ENGLISH     "Размер HUD"
+
+REFERENCE           INDICATOR_ICON
+LANG_ENGLISH     "Отключить значок индикатора"
+
+REFERENCE           NO_TALK
+LANG_ENGLISH     "Отключить диалоги персонажей"
+
 ENDMARKER
