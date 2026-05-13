@@ -89,4 +89,7 @@ LANG_ENGLISH     "ПОКИНУТЫЙ ГОРОД"
 REFERENCE           GENESIS_LINE1
 LANG_ENGLISH     "Светлое будущее"
 
+REFERENCE            ZM_TOMB_TITLE
+LANG_ENGLISH         "МЕСТО РАСКОПОК 64"
+
 ENDMARKER
