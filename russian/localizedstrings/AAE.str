@@ -381,7 +381,7 @@ REFERENCE           REWARD_LINE13
 LANG_ENGLISH     "Оборудование для вашего правого Dpad будет постоянно пополняться."
 
 REFERENCE           REWARD_LINE14
-LANG_ENGLISH     "Если у вас сейчас ровно 5 очков, вы получите 50000."
+LANG_ENGLISH     "Если у вас сейчас ровно 5 очков, вы получите 50000.\nПредметы экипировки из Revelations и Gorod Krovi будут автоматически разблокированы на 2 раунде"
 
 REFERENCE           CLICKHERE
 LANG_ENGLISH     "Кликните сюда"
