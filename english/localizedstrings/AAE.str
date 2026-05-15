@@ -608,4 +608,29 @@ LANG_ENGLISH     "Sally Simpson"
 REFERENCE           CHOOSE_HERO_LIST32
 LANG_ENGLISH     "Andre Wright"
 ///////////////////////////////////////////////////////////
+
+REFERENCE           EECOUNT_INFO_TITLE
+LANG_ENGLISH     "Details on the Conditions for the EE Counter"
+
+REFERENCE           EECOUNT_INFO_LINE1
+LANG_ENGLISH     "1. After the counter has been updated once, please return to the lobby to save your progress"
+
+REFERENCE           EECOUNT_INFO_LINE2
+LANG_ENGLISH     "2. No cheating of any kind (including AAE advanced features)"
+
+REFERENCE           EECOUNT_INFO_LINE3
+LANG_ENGLISH     "3. Main story easter egg only"
+
+REFERENCE           EECOUNT_INFO_LINE4
+LANG_ENGLISH     "4. Legitimate completion time"
+
+REFERENCE           EECOUNT_INFO_LINE5
+LANG_ENGLISH     "5. Keep the default values for health, speed, and score, they must not be higher or lower than the defaults"
+
+REFERENCE           EECOUNT_INFO_LINE6
+LANG_ENGLISH     "6. No exo movements"
+
+REFERENCE           EECOUNT_INFO_LINE7
+LANG_ENGLISH     "7. All maps from the workshop and The Giant will not be counted toward the total"
+
 ENDMARKER
