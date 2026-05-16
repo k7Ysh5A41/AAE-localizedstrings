@@ -201,7 +201,7 @@ REFERENCE           INVITEDISCORD
 LANG_ENGLISH     "Invitar por Discord"
 
 REFERENCE           RESTARTHINT
- LANG_ENGLISH       "(No uses fast_restart ni map_restart) Presiona &&1 ^2&&2^7 veces para reiniciar el mapa."
+LANG_ENGLISH       "(No uses fast_restart ni map_restart) Presiona &&1 ^2&&2^7 veces para reiniciar el mapa."
 
 REFERENCE           RESTARTING
 LANG_ENGLISH     "Reiniciando el mapa..."
@@ -477,164 +477,164 @@ REFERENCE           REWARD_LINE16
 LANG_ENGLISH     "Al PaP tus armas automáticamente tendrán rareza Épico"
 
 REFERENCE           MAP_NOT_SUPPORT_TITLE
- LANG_ENGLISH       "EL MAPA NO ES COMPATIBLE"
+LANG_ENGLISH       "EL MAPA NO ES COMPATIBLE"
 
 REFERENCE           MAP_NOT_SUPPORT_TITLE2
- LANG_ENGLISH       "Cambia a la versión AAE Lite"
+LANG_ENGLISH       "Cambia a la versión AAE Lite"
 
 REFERENCE           MAP_NOT_SUPPORT_DESC
- LANG_ENGLISH       "El mapa que tienes seleccionado actualmente es incompatible con All-around Enhancement y causará que el juego se cierre."
+LANG_ENGLISH       "El mapa que tienes seleccionado actualmente es incompatible con All-around Enhancement y causará que el juego se cierre."
 
 REFERENCE           MAP_NOT_SUPPORT_DESC2
- LANG_ENGLISH       "El mapa que tienes seleccionado actualmente solo es compatible con la versión All-around Enhancement Lite. Por favor, cambia a la versión Lite antes de intentarlo de nuevo."
+LANG_ENGLISH       "El mapa que tienes seleccionado actualmente solo es compatible con la versión All-around Enhancement Lite. Por favor, cambia a la versión Lite antes de intentarlo de nuevo."
 
 REFERENCE           MAP_NOT_SUPPORT_BUTTON
- LANG_ENGLISH       "Continuar de todos modos"
+LANG_ENGLISH       "Continuar de todos modos"
 
 REFERENCE           LOBBY_NOT_JOINABLE_EXTRA
- LANG_ENGLISH       "^3Prueba las siguientes soluciones:\n\n^51. ^7Asegúrate de no haber intentado unirte al lobby haciendo clic en algún botón “UNIRSE AL JUEGO” dentro del juego.\n^52. ^7Únete a tus amigos a través de la lista de amigos de Steam al menos 20 veces o más.\n^53. ^7Asegúrate de que el anfitrión al que intentas unirte tenga un tipo de NAT abierto.\n^54. ^7Evita usar Game Booster o VPNs.\n^55. ^7Si intentas unirte a través del explorador de servidores, los juegos que ves no son servidores reales. En su lugar, Steam está recopilando lobbies de jugadores en todo el mundo con direcciones IP públicas. Debido a varios problemas de compatibilidad de red, no se puede unir a estos lobbies."
+LANG_ENGLISH       "^3Prueba las siguientes soluciones:\n\n^51. ^7Asegúrate de no haber intentado unirte al lobby haciendo clic en algún botón “UNIRSE AL JUEGO” dentro del juego.\n^52. ^7Únete a tus amigos a través de la lista de amigos de Steam al menos 20 veces o más.\n^53. ^7Asegúrate de que el anfitrión al que intentas unirte tenga un tipo de NAT abierto.\n^54. ^7Evita usar Game Booster o VPNs.\n^55. ^7Si intentas unirte a través del explorador de servidores, los juegos que ves no son servidores reales. En su lugar, Steam está recopilando lobbies de jugadores en todo el mundo con direcciones IP públicas. Debido a varios problemas de compatibilidad de red, no se puede unir a estos lobbies."
 
 REFERENCE           MAP_NOT_SUPPORT_TITLE3
- LANG_ENGLISH       "ADVERTENCIA EL JUEGO PODRÍA CERRARSE"
+LANG_ENGLISH       "ADVERTENCIA EL JUEGO PODRÍA CERRARSE"
 
 REFERENCE           MAP_NOT_SUPPORT_DESC3
- LANG_ENGLISH       "El mapa que seleccionaste no soporta el tamaño actual del grupo. ¡Continuar hará que el juego ^1se cierre ^7inmediatamente!"
+LANG_ENGLISH       "El mapa que seleccionaste no soporta el tamaño actual del grupo. ¡Continuar hará que el juego ^1se cierre ^7inmediatamente!"
 
 REFERENCE           MAP_NOT_SUPPORT_TITLE4
- LANG_ENGLISH       "ADVERTENCIA SE DESACTIVARÁN LAS MÁQUINAS DE GOBBLEGUM"
+LANG_ENGLISH       "ADVERTENCIA SE DESACTIVARÁN LAS MÁQUINAS DE GOBBLEGUM"
 
 REFERENCE           MAP_NOT_SUPPORT_DESC4
- LANG_ENGLISH       "El tamaño actual del grupo reduce la estabilidad del juego. Para mejorar ligeramente la estabilidad, se desactivarán las máquinas de Gobblegum."
+LANG_ENGLISH       "El tamaño actual del grupo reduce la estabilidad del juego. Para mejorar ligeramente la estabilidad, se desactivarán las máquinas de Gobblegum."
 
 REFERENCE           DOWNLOAD_LITE
- LANG_ENGLISH       "Descargar la versión AAE Lite"
+LANG_ENGLISH       "Descargar la versión AAE Lite"
 
 REFERENCE           CHOOSE_HERO
- LANG_ENGLISH     "Escoge un personaje del grupo"
+LANG_ENGLISH     "Escoge un personaje del grupo"
 
 REFERENCE           CHOOSE_HERO_DESC
- LANG_ENGLISH     "Si otro jugador selecciona el mismo personaje que tú, se te asignará automáticamente uno diferente al azar.\n\nEscoge al miembro del grupo que quieres usar | ^3Actual^7: ^3"
+LANG_ENGLISH     "Si otro jugador selecciona el mismo personaje que tú, se te asignará automáticamente uno diferente al azar.\n\nEscoge al miembro del grupo que quieres usar | ^3Actual^7: ^3"
 ///////////////////////////////////////////////////////////
 REFERENCE           CHOOSE_HERO_LIST0
- LANG_ENGLISH     "Tank Dempsey"
+LANG_ENGLISH     "Tank Dempsey"
 
 REFERENCE           CHOOSE_HERO_LIST1
- LANG_ENGLISH     "Nikolai Belinski"
+LANG_ENGLISH     "Nikolai Belinski"
 
 REFERENCE           CHOOSE_HERO_LIST2
- LANG_ENGLISH     "Edward Richtofen"
+LANG_ENGLISH     "Edward Richtofen"
 
 REFERENCE           CHOOSE_HERO_LIST3
- LANG_ENGLISH     "Takeo Masaki"
+LANG_ENGLISH     "Takeo Masaki"
 ///////////////////////////////////////////////////////////
 REFERENCE           CHOOSE_HERO_LIST5
- LANG_ENGLISH     "Floyd Campbell"
+LANG_ENGLISH     "Floyd Campbell"
 
 REFERENCE           CHOOSE_HERO_LIST6
- LANG_ENGLISH     "Jack Vincent"
+LANG_ENGLISH     "Jack Vincent"
 
 REFERENCE           CHOOSE_HERO_LIST7
- LANG_ENGLISH     "Jessica Rose"
+LANG_ENGLISH     "Jessica Rose"
 
 REFERENCE           CHOOSE_HERO_LIST8
- LANG_ENGLISH     "Nero Blackstone"
+LANG_ENGLISH     "Nero Blackstone"
 ///////////////////////////////////////////////////////////
 REFERENCE           CHOOSE_HERO_LIST9
- LANG_ENGLISH     "Russman"
+LANG_ENGLISH     "Russman"
 
 REFERENCE           CHOOSE_HERO_LIST10
- LANG_ENGLISH     "Samuel J. Stuhlinger"
+LANG_ENGLISH     "Samuel J. Stuhlinger"
 
 REFERENCE           CHOOSE_HERO_LIST11
- LANG_ENGLISH     "Abigal “Misty” Briarton"
+LANG_ENGLISH     "Abigal “Misty” Briarton"
 
 REFERENCE           CHOOSE_HERO_LIST12
- LANG_ENGLISH     "Marlton Johnson"
+LANG_ENGLISH     "Marlton Johnson"
 ///////////////////////////////////////////////////////////
 REFERENCE           CHOOSE_HERO_LIST13
- LANG_ENGLISH     "Michael “Finn” O’Leary"
+LANG_ENGLISH     "Michael “Finn” O’Leary"
 
 REFERENCE           CHOOSE_HERO_LIST14
- LANG_ENGLISH     "Salvatore “Sal” DeLuca"
+LANG_ENGLISH     "Salvatore “Sal” DeLuca"
 
 REFERENCE           CHOOSE_HERO_LIST15
- LANG_ENGLISH     "Billy Handsome"
+LANG_ENGLISH     "Billy Handsome"
 
 REFERENCE           CHOOSE_HERO_LIST16
- LANG_ENGLISH     "Albert “Weasel” Arlington"
+LANG_ENGLISH     "Albert “Weasel” Arlington"
 ///////////////////////////////////////////////////////////
 REFERENCE           CHOOSE_HERO_LIST17
- LANG_ENGLISH     "Sarah Michelle Gellar"
+LANG_ENGLISH     "Sarah Michelle Gellar"
 
 REFERENCE           CHOOSE_HERO_LIST18
- LANG_ENGLISH     "Robert Englund"
+LANG_ENGLISH     "Robert Englund"
 
 REFERENCE           CHOOSE_HERO_LIST19
- LANG_ENGLISH     "Danny Trejo"
+LANG_ENGLISH     "Danny Trejo"
 
 REFERENCE           CHOOSE_HERO_LIST20
- LANG_ENGLISH     "Michael Rooker"
+LANG_ENGLISH     "Michael Rooker"
 ///////////////////////////////////////////////////////////
 REFERENCE           CHOOSE_HERO_LIST21
- LANG_ENGLISH     "Scarlett Rhodes"
+LANG_ENGLISH     "Scarlett Rhodes"
 
 REFERENCE           CHOOSE_HERO_LIST22
- LANG_ENGLISH     "Stanton Shaw"
+LANG_ENGLISH     "Stanton Shaw"
 
 REFERENCE           CHOOSE_HERO_LIST23
- LANG_ENGLISH     "Bruno Delacroix"
+LANG_ENGLISH     "Bruno Delacroix"
 
 REFERENCE           CHOOSE_HERO_LIST24
- LANG_ENGLISH     "Diego Necalli"
+LANG_ENGLISH     "Diego Necalli"
 ///////////////////////////////////////////////////////////
 REFERENCE           CHOOSE_HERO_LIST25
- LANG_ENGLISH     "Jonathan Warwick"
+LANG_ENGLISH     "Jonathan Warwick"
 
 REFERENCE           CHOOSE_HERO_LIST26
- LANG_ENGLISH     "Godfrey"
+LANG_ENGLISH     "Godfrey"
 
 REFERENCE           CHOOSE_HERO_LIST27
- LANG_ENGLISH     "Gideon Jones"
+LANG_ENGLISH     "Gideon Jones"
 
 REFERENCE           CHOOSE_HERO_LIST28
- LANG_ENGLISH     "Christina Fowler"
+LANG_ENGLISH     "Christina Fowler"
 /////////////////////////////////////////////////////////// 5-8
 REFERENCE           CHOOSE_HERO_LIST29
- LANG_ENGLISH     "Aaron “A.J.” Jordaniels"
+LANG_ENGLISH     "Aaron “A.J.” Jordaniels"
 
 REFERENCE           CHOOSE_HERO_LIST30
- LANG_ENGLISH     "Poindexter Zittermann"
+LANG_ENGLISH     "Poindexter Zittermann"
 
 REFERENCE           CHOOSE_HERO_LIST31
- LANG_ENGLISH     "Sally Simpson"
+LANG_ENGLISH     "Sally Simpson"
 
 REFERENCE           CHOOSE_HERO_LIST32
- LANG_ENGLISH     "Andre Wright"
+LANG_ENGLISH     "Andre Wright"
 ///////////////////////////////////////////////////////////
 
 REFERENCE           EECOUNT_INFO_TITLE
- LANG_ENGLISH     "Detalles sobre las condiciones del contador de EE"
+LANG_ENGLISH     "Detalles sobre las condiciones del contador de EE"
 
 REFERENCE           EECOUNT_INFO_LINE1
- LANG_ENGLISH     "1. Después de que el contador se haya actualizado una vez, vuelve al lobby para guardar tu progreso"
+LANG_ENGLISH     "1. Después de que el contador se haya actualizado una vez, vuelve al lobby para guardar tu progreso"
 
 REFERENCE           EECOUNT_INFO_LINE2
- LANG_ENGLISH     "2. No se permite ningún tipo de trampa (incluyendo las funciones avanzadas de AAE)"
+LANG_ENGLISH     "2. No se permite ningún tipo de trampa (incluyendo las funciones avanzadas de AAE)"
 
 REFERENCE           EECOUNT_INFO_LINE3
- LANG_ENGLISH     "3. Solo cuenta el easter egg principal de la historia"
+LANG_ENGLISH     "3. Solo cuenta el easter egg principal de la historia"
 
 REFERENCE           EECOUNT_INFO_LINE4
- LANG_ENGLISH     "4. Tiempo de finalización legítimo"
+LANG_ENGLISH     "4. Tiempo de finalización legítimo"
 
 REFERENCE           EECOUNT_INFO_LINE5
- LANG_ENGLISH     "5. Mantén los valores predeterminados de salud, velocidad y puntuación; no deben ser mayores ni menores que los valores por defecto"
+LANG_ENGLISH     "5. Mantén los valores predeterminados de salud, velocidad y puntuación; no deben ser mayores ni menores que los valores por defecto"
 
 REFERENCE           EECOUNT_INFO_LINE6
- LANG_ENGLISH     "6. Sin movimientos exo"
+LANG_ENGLISH     "6. Sin movimientos exo"
 
 REFERENCE           EECOUNT_INFO_LINE7
- LANG_ENGLISH     "7. Los mapas de la workshop y The Giant no cuentan"
+LANG_ENGLISH     "7. Los mapas de la workshop y The Giant no cuentan"
 
 ENDMARKER
 

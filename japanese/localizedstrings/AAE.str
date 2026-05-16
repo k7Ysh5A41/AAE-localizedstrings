@@ -495,145 +495,145 @@ REFERENCE           LOBBY_NOT_JOINABLE_EXTRA
 LANG_ENGLISH     "^3次の解決策を試してください：\n\n^51. ^7ゲーム内の「JOIN GAME」ボタンをクリックしてロビーに参加しようとしていないことを確認してください。\n^52. ^7Steamのフレンドリストを通じて、少なくとも20回以上友達に参加してください。\n^53. ^7参加しようとしているホストがオープンNATタイプであることを確認してください。\n^54. ^7Game BoosterやVPNの使用\n^55. ^7サーバーブラウザから参加しようとしている場合、表示されているゲームは実際のサーバーではありません。Steamは、世界中の公開IPアドレスを持つプレイヤーからロビーを収集しています。さまざまなネットワーク互換性の問題により、これらのロビーには参加できません。"
 
 REFERENCE           MAP_NOT_SUPPORT_TITLE3
- LANG_ENGLISH     "ゲームクラッシュ警告"
+LANG_ENGLISH     "ゲームクラッシュ警告"
 
 REFERENCE           MAP_NOT_SUPPORT_DESC3
- LANG_ENGLISH     "選択したマップは現在のパーティー人数に対応していません。続行するとゲームが^1クラッシュする可能性があります！^7"
+LANG_ENGLISH     "選択したマップは現在のパーティー人数に対応していません。続行するとゲームが^1クラッシュする可能性があります！^7"
 
 REFERENCE           MAP_NOT_SUPPORT_TITLE4
- LANG_ENGLISH     "ゴブルガム無効"
+LANG_ENGLISH     "ゴブルガム無効"
 
 REFERENCE           MAP_NOT_SUPPORT_DESC4
- LANG_ENGLISH     "パーティー人数の影響により、ゲームの安定性向上のためゴブルガムが無効化されています。"
+LANG_ENGLISH     "パーティー人数の影響により、ゲームの安定性向上のためゴブルガムが無効化されています。"
 
 REFERENCE           DOWNLOAD_LITE
- LANG_ENGLISH     "AAE Lite をダウンロード"
+LANG_ENGLISH     "AAE Lite をダウンロード"
 
 REFERENCE           CHOOSE_HERO
- LANG_ENGLISH     "クルーメンバーを選択"
+LANG_ENGLISH     "クルーメンバーを選択"
 
 REFERENCE           CHOOSE_HERO_DESC
- LANG_ENGLISH     "他のプレイヤーがあなたと同じクルーメンバーを選択した場合、自動的に別のクルーメンバーが割り当てられます。\n\n使用したいクルーメンバーを選択してください | ^3現在^7: ^3"
+LANG_ENGLISH     "他のプレイヤーがあなたと同じクルーメンバーを選択した場合、自動的に別のクルーメンバーが割り当てられます。\n\n使用したいクルーメンバーを選択してください | ^3現在^7: ^3"
 ///////////////////////////////////////////////////////////
 REFERENCE           CHOOSE_HERO_LIST0
- LANG_ENGLISH     "Tank Dempsey"
+LANG_ENGLISH     "Tank Dempsey"
 
 REFERENCE           CHOOSE_HERO_LIST1
- LANG_ENGLISH     "Nikolai Belinski"
+LANG_ENGLISH     "Nikolai Belinski"
 
 REFERENCE           CHOOSE_HERO_LIST2
- LANG_ENGLISH     "Edward Richtofen"
+LANG_ENGLISH     "Edward Richtofen"
 
 REFERENCE           CHOOSE_HERO_LIST3
- LANG_ENGLISH     "Takeo Masaki"
+LANG_ENGLISH     "Takeo Masaki"
 ///////////////////////////////////////////////////////////
 REFERENCE           CHOOSE_HERO_LIST5
- LANG_ENGLISH     "Floyd Campbell"
+LANG_ENGLISH     "Floyd Campbell"
 
 REFERENCE           CHOOSE_HERO_LIST6
- LANG_ENGLISH     "Jack Vincent"
+LANG_ENGLISH     "Jack Vincent"
 
 REFERENCE           CHOOSE_HERO_LIST7
- LANG_ENGLISH     "Jessica Rose"
+LANG_ENGLISH     "Jessica Rose"
 
 REFERENCE           CHOOSE_HERO_LIST8
- LANG_ENGLISH     "Nero Blackstone"
+LANG_ENGLISH     "Nero Blackstone"
 ///////////////////////////////////////////////////////////
 REFERENCE           CHOOSE_HERO_LIST9
- LANG_ENGLISH     "Russman"
+LANG_ENGLISH     "Russman"
 
 REFERENCE           CHOOSE_HERO_LIST10
- LANG_ENGLISH     "Samuel J. Stuhlinger"
+LANG_ENGLISH     "Samuel J. Stuhlinger"
 
 REFERENCE           CHOOSE_HERO_LIST11
- LANG_ENGLISH     "Abigal “Misty” Briarton"
+LANG_ENGLISH     "Abigal “Misty” Briarton"
 
 REFERENCE           CHOOSE_HERO_LIST12
- LANG_ENGLISH     "Marlton Johnson"
+LANG_ENGLISH     "Marlton Johnson"
 ///////////////////////////////////////////////////////////
 REFERENCE           CHOOSE_HERO_LIST13
- LANG_ENGLISH     "Michael “Finn” O’Leary"
+LANG_ENGLISH     "Michael “Finn” O’Leary"
 
 REFERENCE           CHOOSE_HERO_LIST14
- LANG_ENGLISH     "Salvatore “Sal” DeLuca"
+LANG_ENGLISH     "Salvatore “Sal” DeLuca"
 
 REFERENCE           CHOOSE_HERO_LIST15
- LANG_ENGLISH     "Billy Handsome"
+LANG_ENGLISH     "Billy Handsome"
 
 REFERENCE           CHOOSE_HERO_LIST16
- LANG_ENGLISH     "Albert “Weasel” Arlington"
+LANG_ENGLISH     "Albert “Weasel” Arlington"
 ///////////////////////////////////////////////////////////
 REFERENCE           CHOOSE_HERO_LIST17
- LANG_ENGLISH     "Sarah Michelle Gellar"
+LANG_ENGLISH     "Sarah Michelle Gellar"
 
 REFERENCE           CHOOSE_HERO_LIST18
- LANG_ENGLISH     "Robert Englund"
+LANG_ENGLISH     "Robert Englund"
 
 REFERENCE           CHOOSE_HERO_LIST19
- LANG_ENGLISH     "Danny Trejo"
+LANG_ENGLISH     "Danny Trejo"
 
 REFERENCE           CHOOSE_HERO_LIST20
- LANG_ENGLISH     "Michael Rooker"
+LANG_ENGLISH     "Michael Rooker"
 ///////////////////////////////////////////////////////////
 REFERENCE           CHOOSE_HERO_LIST21
- LANG_ENGLISH     "Scarlett Rhodes"
+LANG_ENGLISH     "Scarlett Rhodes"
 
 REFERENCE           CHOOSE_HERO_LIST22
- LANG_ENGLISH     "Stanton Shaw"
+LANG_ENGLISH     "Stanton Shaw"
 
 REFERENCE           CHOOSE_HERO_LIST23
- LANG_ENGLISH     "Bruno Delacroix"
+LANG_ENGLISH     "Bruno Delacroix"
 
 REFERENCE           CHOOSE_HERO_LIST24
- LANG_ENGLISH     "Diego Necalli"
+LANG_ENGLISH     "Diego Necalli"
 ///////////////////////////////////////////////////////////
 REFERENCE           CHOOSE_HERO_LIST25
- LANG_ENGLISH     "Jonathan Warwick"
+LANG_ENGLISH     "Jonathan Warwick"
 
 REFERENCE           CHOOSE_HERO_LIST26
- LANG_ENGLISH     "Godfrey"
+LANG_ENGLISH     "Godfrey"
 
 REFERENCE           CHOOSE_HERO_LIST27
- LANG_ENGLISH     "Gideon Jones"
+LANG_ENGLISH     "Gideon Jones"
 
 REFERENCE           CHOOSE_HERO_LIST28
- LANG_ENGLISH     "Christina Fowler"
+LANG_ENGLISH     "Christina Fowler"
 ///////////////////////////////////////////////////////////
 REFERENCE           CHOOSE_HERO_LIST29
- LANG_ENGLISH     "Aaron “A.J.” Jordaniels"
+LANG_ENGLISH     "Aaron “A.J.” Jordaniels"
 
 REFERENCE           CHOOSE_HERO_LIST30
- LANG_ENGLISH     "Poindexter Zittermann"
+LANG_ENGLISH     "Poindexter Zittermann"
 
 REFERENCE           CHOOSE_HERO_LIST31
- LANG_ENGLISH     "Sally Simpson"
+LANG_ENGLISH     "Sally Simpson"
 
 REFERENCE           CHOOSE_HERO_LIST32
- LANG_ENGLISH     "Andre Wright"
+LANG_ENGLISH     "Andre Wright"
 ///////////////////////////////////////////////////////////
 
 REFERENCE           EECOUNT_INFO_TITLE
- LANG_ENGLISH     "EEカウンター条件の詳細"
+LANG_ENGLISH     "EEカウンター条件の詳細"
 
 REFERENCE           EECOUNT_INFO_LINE1
- LANG_ENGLISH     "1. カウンターが更新された後、進行状況を保存するためにロビーへ戻ってください"
+LANG_ENGLISH     "1. カウンターが更新された後、進行状況を保存するためにロビーへ戻ってください"
 
 REFERENCE           EECOUNT_INFO_LINE2
- LANG_ENGLISH     "2. いかなる不正行為も禁止（AAEの高度な機能を含む）"
+LANG_ENGLISH     "2. いかなる不正行為も禁止（AAEの高度な機能を含む）"
 
 REFERENCE           EECOUNT_INFO_LINE3
- LANG_ENGLISH     "3. メインストーリーのイースターエッグのみ"
+LANG_ENGLISH     "3. メインストーリーのイースターエッグのみ"
 
 REFERENCE           EECOUNT_INFO_LINE4
- LANG_ENGLISH     "4. 正当なクリア時間"
+LANG_ENGLISH     "4. 正当なクリア時間"
 
 REFERENCE           EECOUNT_INFO_LINE5
- LANG_ENGLISH     "5. 体力、速度、スコアはデフォルト値のままにしてください。デフォルトより高くも低くもしてはいけません"
+LANG_ENGLISH     "5. 体力、速度、スコアはデフォルト値のままにしてください。デフォルトより高くも低くもしてはいけません"
 
 REFERENCE           EECOUNT_INFO_LINE6
- LANG_ENGLISH     "6. Exoムーブメント禁止"
+LANG_ENGLISH     "6. Exoムーブメント禁止"
 
 REFERENCE           EECOUNT_INFO_LINE7
- LANG_ENGLISH     "7. Workshopの全マップおよびThe Giantは合計数に含まれません"
+LANG_ENGLISH     "7. Workshopの全マップおよびThe Giantは合計数に含まれません"
 
 ENDMARKER
