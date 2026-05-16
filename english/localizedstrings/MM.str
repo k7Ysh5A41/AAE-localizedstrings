@@ -123,16 +123,16 @@ REFERENCE           MYSTERYBOXOPENINGPRICE
 LANG_ENGLISH     "Mystery Box Opening Price"
 
 REFERENCE           SETPRICETO5100000
-LANG_ENGLISH     "Set price to ^5 100000"
+LANG_ENGLISH     "Set price to ^3 100000"
 
 REFERENCE           SETPRICETO51337
-LANG_ENGLISH     "Set price to ^5 1337"
+LANG_ENGLISH     "Set price to ^3 1337"
 
 REFERENCE           SETPRICETO5950
-LANG_ENGLISH     "Set price to ^5 950"
+LANG_ENGLISH     "Set price to ^3 950"
 
 REFERENCE           SETPRICETO51
-LANG_ENGLISH     "Set price to ^5 1"
+LANG_ENGLISH     "Set price to ^3 1"
 
 REFERENCE           SETPRICETO0
 LANG_ENGLISH     "Set price to 0"
@@ -405,7 +405,7 @@ REFERENCE           EFFECTBULLETS1OFF
 LANG_ENGLISH     "Effect Bullets OFF"
 
 REFERENCE           MENUNAME
-LANG_ENGLISH     "^5Center Control"
+LANG_ENGLISH     "^3Center Control"
 
 REFERENCE           TOGGLEINVISIBLE
 LANG_ENGLISH     "Toggle Invisibility"
