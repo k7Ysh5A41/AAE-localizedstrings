@@ -634,7 +634,6 @@ REFERENCE           EECOUNT_INFO_LINE7
 LANG_ENGLISH     "7. All maps from the workshop and The Giant will not be counted toward the total"
 
 REFERENCE           REWARD_LINE17
-LANG_ENGLISH     "Higher chance of getting wonder weapon from the box"
-
+LANG_ENGLISH     "Higher chance of getting wonder weapon from the box after round 1"
 
 ENDMARKER
