@@ -123,16 +123,16 @@ REFERENCE           MYSTERYBOXOPENINGPRICE
 LANG_ENGLISH  "Preço de Abertura da Caixa Misteriosa"
 
 REFERENCE           SETPRICETO5100000
-LANG_ENGLISH  "Definir preço para ^5 100000"
+LANG_ENGLISH  "Definir preço para ^3 100000"
 
 REFERENCE           SETPRICETO51337
-LANG_ENGLISH  "Definir preço para ^5 1337"
+LANG_ENGLISH  "Definir preço para ^3 1337"
 
 REFERENCE           SETPRICETO5950
-LANG_ENGLISH  "Definir preço para ^5 950"
+LANG_ENGLISH  "Definir preço para ^3 950"
 
 REFERENCE           SETPRICETO51
-LANG_ENGLISH  "Definir preço para ^5 1"
+LANG_ENGLISH  "Definir preço para ^3 1"
 
 REFERENCE           SETPRICETO0
 LANG_ENGLISH  "Definir preço para 0"
@@ -405,7 +405,7 @@ REFERENCE           EFFECTBULLETS1OFF
 LANG_ENGLISH  "Desativar Balas de Efeito"
 
 REFERENCE           MENUNAME
-LANG_ENGLISH  "^5Controle Central"
+LANG_ENGLISH  "^3Controle Central"
 
 REFERENCE           TOGGLEINVISIBLE
 LANG_ENGLISH  "Alternar Invisibilidade"

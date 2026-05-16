@@ -123,16 +123,16 @@ REFERENCE           MYSTERYBOXOPENINGPRICE
 LANG_ENGLISH     "Cena Otwierania Skrzynki Mysterium"
 
 REFERENCE           SETPRICETO5100000
-LANG_ENGLISH     "Ustaw cenę na ^5 100000"
+LANG_ENGLISH     "Ustaw cenę na ^3 100000"
 
 REFERENCE           SETPRICETO51337
-LANG_ENGLISH     "Ustaw cenę na ^5 1337"
+LANG_ENGLISH     "Ustaw cenę na ^3 1337"
 
 REFERENCE           SETPRICETO5950
-LANG_ENGLISH     "Ustaw cenę na ^5 950"
+LANG_ENGLISH     "Ustaw cenę na ^3 950"
 
 REFERENCE           SETPRICETO51
-LANG_ENGLISH     "Ustaw cenę na ^5 1"
+LANG_ENGLISH     "Ustaw cenę na ^3 1"
 
 REFERENCE           SETPRICETO0
 LANG_ENGLISH     "Ustaw cenę na 0"
@@ -405,7 +405,7 @@ REFERENCE           EFFECTBULLETS1OFF
 LANG_ENGLISH     "Efekt Amunicji OFF"
 
 REFERENCE           MENUNAME
-LANG_ENGLISH     "^5Centrum Kontroli"
+LANG_ENGLISH     "^3Centrum Kontroli"
 
 REFERENCE           TOGGLEINVISIBLE
 LANG_ENGLISH     "Przełącz Niewidzialność"
