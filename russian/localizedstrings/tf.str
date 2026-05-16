@@ -387,7 +387,7 @@ REFERENCE            POWERUP_SPAWN
 LANG_ENGLISH         "Количество спавна бонусов"
 
 REFERENCE            NUKE
-LANG_ENGLISH         "Улучшенная Ядерная бомба"
+LANG_ENGLISH         "Улучшенная ядерка"
 
 REFERENCE            NUKE_SCORE
 LANG_ENGLISH         "Очки за улучшенную Ядерную бомбу"
@@ -402,7 +402,7 @@ REFERENCE            POWERUP_SPAWN_DESC
 LANG_ENGLISH         "Выберите количество спавна бонусов за раунд."
 
 REFERENCE            NUKE_DESC
-LANG_ENGLISH         "Ядерная бомба теперь дает фиксированное количество очков за убитого зомби (минимум 400)."
+LANG_ENGLISH         "Ядерка теперь дает фиксированное количество очков за убитого зомби (минимум 400)."
 
 REFERENCE            NUKE_SCORE_DESC
 LANG_ENGLISH         "Выберите количество очков за зомби."
@@ -426,7 +426,7 @@ REFERENCE            ROAMER
 LANG_ENGLISH         "Настройка Roamer"
 
 REFERENCE            ROAMERTIME
-LANG_ENGLISH         "Время Roamer между раундами"
+LANG_ENGLISH         "Время между раундами"
 
 REFERENCE            ROMAER_DESC
 LANG_ENGLISH         "Roamer позволяет ждать в конце раунда перед следующим раундом. Чтобы начать следующий раунд, нажмите ADS + Melee."
@@ -453,10 +453,10 @@ REFERENCE            RADM_WEAPON
 LANG_ENGLISH         "Случайное стартовое оружие"
 
 REFERENCE            OWNCAMO
-LANG_ENGLISH         "Использовать свой камуфляж"
+LANG_ENGLISH         "Использовать свой камо"
 
 REFERENCE            PAPCAMO
-LANG_ENGLISH         "Камуфляж улучшенного оружия"
+LANG_ENGLISH         "Камо улучшенного оружия"
 
 REFERENCE            BOXSHARE
 LANG_ENGLISH         "Делиться оружием с таинственной коробки"

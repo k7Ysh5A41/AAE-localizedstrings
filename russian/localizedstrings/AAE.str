@@ -608,4 +608,29 @@ LANG_ENGLISH     "Салли Симпсон"
 REFERENCE           CHOOSE_HERO_LIST32
 LANG_ENGLISH     "Андре Райт"
 ///////////////////////////////////////////////////////////
+
+REFERENCE           EECOUNT_INFO_TITLE
+LANG_ENGLISH     "Подробная информация об условиях использования счетчика EE"
+
+REFERENCE           EECOUNT_INFO_LINE1
+LANG_ENGLISH     "1. После того, как счетчик обновится, пожалуйста, вернитесь в лобби, чтобы сохранить свой прогресс."
+
+REFERENCE           EECOUNT_INFO_LINE2
+LANG_ENGLISH     "2. Никаких читов (включая использование расширенных функций AAE)."
+
+REFERENCE           EECOUNT_INFO_LINE3
+LANG_ENGLISH     "3. Пасхальные яйца только из основного сюжета"
+
+REFERENCE           EECOUNT_INFO_LINE4
+LANG_ENGLISH     "4. Законное время завершения"
+
+REFERENCE           EECOUNT_INFO_LINE5
+LANG_ENGLISH     "5. Сохраните значения по умолчанию для здоровья, скорости и очков; они не должны быть выше или ниже значений по умолчанию.
+
+REFERENCE           EECOUNT_INFO_LINE6
+LANG_ENGLISH     "6. Без экзодвижений"
+
+REFERENCE           EECOUNT_INFO_LINE7
+LANG_ENGLISH     "7. Все карты из мастерской и карта «The Giant» не будут учитываться в счётчике пасхалок."
+
 ENDMARKER
