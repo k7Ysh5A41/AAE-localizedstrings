@@ -24,7 +24,7 @@ REFERENCE           PREPATCH_BGB_DESC
 LANG_ENGLISH     "Машина Губль-гам будет изменена так, как она работала в версии BO3 первого дня. Это включает:\n  - Можно использовать только один раз за раунд\n  - Можно использовать только 37% машин Губль-гам\n  - Машины Губль-гам могут быть закрыты или открыты в других местах\n  - Стандартная цена — 500 очков"
 
 REFERENCE           ZOMBIE_COUNT
-LANG_ENGLISH     "Алгоритм кол-ва раундов зомби"
+LANG_ENGLISH     "Алгоритм кол-ва раундов"
 
 REFERENCE           ZOMBIE_COUNT_DESC
 LANG_ENGLISH     "Изменяет способ расчета количества зомби, которых нужно убить, чтобы закончить раунд"
@@ -39,7 +39,7 @@ REFERENCE           SPAWNTYPE_OPTION_DESC
 LANG_ENGLISH     "Много специальных зомби"
 
 REFERENCE           ZOMBIE_H
-LANG_ENGLISH     "Ограничение здоровья зомби"
+LANG_ENGLISH     "Ограничение HP зомби"
 
 REFERENCE           ZOMBIE_H_DESC
 LANG_ENGLISH     "Здоровье зомби перестанет увеличиваться после этой волны"
@@ -57,7 +57,7 @@ REFERENCE           CENTERCROSS
 LANG_ENGLISH     "Отключить маленькую точку в центре экрана"
 
 REFERENCE           ITEM_DUPE_RENDER
-LANG_ENGLISH     "Выделять детали для крафта"
+LANG_ENGLISH     "Детали для крафта"
 
 REFERENCE           ITEM_DUPE_RENDER_DESC
 LANG_ENGLISH     "Детали для крафта, которые можно подобрать на карте, видны сквозь стены"

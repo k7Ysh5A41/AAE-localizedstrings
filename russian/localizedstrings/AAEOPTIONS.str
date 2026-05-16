@@ -249,7 +249,7 @@ REFERENCE           MOTIONUI_4
 LANG_ENGLISH     "Перевернуть"
 
 REFERENCE           MOTIONUI_INTENSITY
-LANG_ENGLISH     "Интенсивность движения интерфейса"
+LANG_ENGLISH     "Интенсивность движения HUD"
 
 REFERENCE           NO_SUPPORT_LINE1
 LANG_ENGLISH     "^1Обнаружена неподдерживаемая версия\n^3Проверьте следующее^7:"
@@ -291,7 +291,7 @@ REFERENCE           GUNPOS_ENABLE
 LANG_ENGLISH     "Включить пользовательское положение модели руки от первого лица"
 
 REFERENCE           T7HUD
-LANG_ENGLISH     "Макет HUD (рестарт)"
+LANG_ENGLISH     "Положение перков (рестарт)"
 
 REFERENCE           TIPHINT
 LANG_ENGLISH     "Отключить подсказки и счетчик душ"
@@ -324,7 +324,7 @@ REFERENCE           PLAYER_HEALTHBAR
 LANG_ENGLISH        "Полоса здоровья над игроком"
 
 REFERENCE           BGB_NOULTRA
-LANG_ENGLISH        "Включено, но без ультра-редкого"
+LANG_ENGLISH        "Вкл без очень редкого"
 
 REFERENCE           RELOADCANCEL
 LANG_ENGLISH        "Отключить ручную отмену перезарядки"
@@ -339,7 +339,7 @@ REFERENCE           WEAPON_KIT_PAP
 LANG_ENGLISH     "Комплект оружия предназначен только для улучшения"
 
 REFERENCE           GRENADE_PREDICATION
-LANG_ENGLISH     "Прогнозирование гранаты"
+LANG_ENGLISH     "Прогноз. гранаты"
 
 REFERENCE           GRENADE_PREDICATION_OPTION1
 LANG_ENGLISH     "Прогноз. и предохранитель"
@@ -351,7 +351,7 @@ REFERENCE           GRENADE_PREDICATION_OPTION3
 LANG_ENGLISH     "Прогноз. траектории"
 
 REFERENCE           AIHP
-LANG_ENGLISH     "Шкала здоровья противника (требуется возрождение)"
+LANG_ENGLISH     "Отображение HP (требуется возрождение)"
 
 REFERENCE           AIHP_OPTIONS1
 LANG_ENGLISH     "Только особые"
