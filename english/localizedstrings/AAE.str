@@ -510,7 +510,7 @@ REFERENCE           CHOOSE_HERO
 LANG_ENGLISH     "Choose Crew Member"
 
 REFERENCE           CHOOSE_HERO_DESC
-LANG_ENGLISH     "If another player selects the same crew member as you, you will be automatically assigned a different crew member.\n\nChoose the crew members you want to use | ^5Current^7: ^3"
+LANG_ENGLISH     "If another player selects the same crew member as you, you will be automatically assigned a different crew member.\n\nChoose the crew members you want to use | ^3Current^7: "
 ///////////////////////////////////////////////////////////
 REFERENCE           CHOOSE_HERO_LIST0
 LANG_ENGLISH     "Tank Dempsey"
