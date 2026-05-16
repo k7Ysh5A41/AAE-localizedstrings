@@ -98,4 +98,13 @@ LANG_ENGLISH     "Pueblo Abandonado"
 REFERENCE           GENESIS_LINE1
 LANG_ENGLISH     "POR UN MAÑANA MEJOR"
 
+REFERENCE            ZM_TOMB_TITLE
+LANG_SPANISH         "SITIO DE EXCAVACIÓN 64"
+
+REFERENCE           COAST_TITLE
+LANG_ENGLISH     "CALL OF THE DEAD"
+
+REFERENCE           COAST_DESC
+LANG_ENGLISH     "Una tripulación náufraga de intrépidos exploradores queda atrapada sin esperanza en un abandonado puesto avanzado siberiano. Su sueño de descubrir los verdaderos orígenes del Elemento 115 se convierte en una pesadilla infernal."
+
 ENDMARKER

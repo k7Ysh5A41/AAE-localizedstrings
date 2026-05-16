@@ -368,4 +368,13 @@ LANG_ENGLISH     "Spéciaux seulement"
 REFERENCE           AIHP_OPTIONS2
 LANG_ENGLISH     "Uniquement les zombies"
 
+REFERENCE           HUDSIZE
+LANG_ENGLISH       "Taille du HUD"
+
+REFERENCE           INDICATOR_ICON
+LANG_ENGLISH       "Désactiver l'icône d'indicateur"
+
+REFERENCE           NO_TALK
+LANG_ENGLISH       "Désactiver les dialogues des personnages"
+
 ENDMARKER

@@ -336,7 +336,7 @@ REFERENCE           SHOTGUN_GIB
 LANG_ENGLISH        "Deshab. el desmembramiento cuando se usan las escopetas"
 
 REFERENCE           WEAPON_KIT_PAP
-LANG_ENGLISH        "El kit de armas solo funciona con las armas mejoradas"
+LANG_ENGLISH        "Solo con las armas mejoradas"
 
 REFERENCE           GRENADE_PREDICATION
 LANG_ENGLISH       "Predicción de granadas"
@@ -360,12 +360,21 @@ REFERENCE           WEAPON_OPTIONS4
 LANG_ENGLISH       "Accesorios Aleatorios"
 
 REFERENCE           AIHP
-LANG_ENGLISH       "Barra de vida enemiga (Req. reiniciar)"
+LANG_ENGLISH       "Barra de vida enemiga (Req. rein.)"
 
 REFERENCE           AIHP_OPTIONS1
 LANG_ENGLISH       "Solo especiales"
 
 REFERENCE           AIHP_OPTIONS2
 LANG_ENGLISH       "Solo zombis"
+
+REFERENCE           HUDSIZE
+LANG_ENGLISH     "Tamaño del HUD"
+
+REFERENCE           INDICATOR_ICON
+LANG_ENGLISH     "Desactivar el icono indicador"
+
+REFERENCE           NO_TALK
+LANG_ENGLISH     "Desactivar los diálogo de los personajes"
 
 ENDMARKER

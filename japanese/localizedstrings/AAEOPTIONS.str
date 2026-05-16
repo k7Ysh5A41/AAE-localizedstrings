@@ -383,4 +383,13 @@ LANG_ENGLISH     "スペシャルのみ"
 REFERENCE           AIHP_OPTIONS2
 LANG_ENGLISH     "ゾンビのみ"
 
+REFERENCE           HUDSIZE
+LANG_ENGLISH    "HUDサイズ"
+
+REFERENCE           INDICATOR_ICON
+LANG_ENGLISH    "インジケーターアイコンを無効化"
+
+REFERENCE           NO_TALK
+LANG_ENGLISH    "キャラクターの会話を無効化"
+
 ENDMARKER

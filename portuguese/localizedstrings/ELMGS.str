@@ -98,4 +98,13 @@ LANG_ENGLISH     "CIDADE ABANDONADA"
 REFERENCE           GENESIS_LINE1
 LANG_ENGLISH     "Um Amanhã Melhor"
 
+REFERENCE           COAST_TITLE
+LANG_ENGLISH  "Call of the Dead"
+
+REFERENCE           COAST_DESC
+LANG_ENGLISH  "Uma tripulação naufragada de exploradores destemidos fica presa sem esperança em um posto avançado abandonado na Sibéria. O sonho de descobrir as verdadeiras origens do Elemento 115 se transforma em um pesadelo infernal."
+
+REFERENCE            ZM_TOMB_TITLE
+LANG_ENGLISH     "SÍTIO DE ESCAVAÇÃO 64"
+
 ENDMARKER

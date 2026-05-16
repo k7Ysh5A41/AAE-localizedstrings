@@ -98,4 +98,13 @@ LANG_ENGLISH     "廃墟の町"
 REFERENCE           GENESIS_LINE1
 LANG_ENGLISH     "より良い明日"
 
+REFERENCE           COAST_TITLE
+LANG_ENGLISH    "Call of the Dead"
+
+REFERENCE           COAST_DESC
+LANG_ENGLISH    "勇敢な探検家たちの難破した一行は、廃墟と化したシベリアの前哨基地に取り残されてしまう。エレメント115の真の起源を解き明かそうとした彼らの夢は、やがて地獄の悪夢へと変わっていく。"
+
+REFERENCE            ZM_TOMB_TITLE
+LANG_ENGLISH       "発掘現場64"
+
 ENDMARKER

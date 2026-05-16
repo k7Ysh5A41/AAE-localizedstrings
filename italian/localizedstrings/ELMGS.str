@@ -98,4 +98,13 @@ LANG_ENGLISH     "CITTÀ ABBANDONATA"
 REFERENCE           GENESIS_LINE1
 LANG_ENGLISH     "Un domani migliore"
 
+REFERENCE           COAST_TITLE
+LANG_ENGLISH     "Call of the Dead"
+
+REFERENCE           COAST_DESC
+LANG_ENGLISH     "L'equipaggio naufragato di intrepidi esploratori è bloccato senza speranza in un avamposto siberiano abbandonato. Il loro sogno di scoprire le vere origini dell'Elemento 115 si trasforma in un incubo infernale."
+
+REFERENCE            ZM_TOMB_TITLE
+LANG_ENGLISH        "SITO DI SCAVO 64"
+
 ENDMARKER
