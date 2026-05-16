@@ -513,7 +513,7 @@ REFERENCE           CHOOSE_HERO
  LANG_ENGLISH     "クルーメンバーを選択"
 
 REFERENCE           CHOOSE_HERO_DESC
- LANG_ENGLISH     "他のプレイヤーがあなたと同じクルーメンバーを選択した場合、自動的に別のクルーメンバーが割り当てられます。\n\n使用したいクルーメンバーを選択してください | ^5現在^7: ^3"
+ LANG_ENGLISH     "他のプレイヤーがあなたと同じクルーメンバーを選択した場合、自動的に別のクルーメンバーが割り当てられます。\n\n使用したいクルーメンバーを選択してください | ^3現在^7: ^3"
 ///////////////////////////////////////////////////////////
 REFERENCE           CHOOSE_HERO_LIST0
  LANG_ENGLISH     "Tank Dempsey"

@@ -120,16 +120,16 @@ REFERENCE           MYSTERYBOXOPENINGPRICE
 LANG_ENGLISH     "Prezzo Apertura Scatola Misteriosa"
 
 REFERENCE           SETPRICETO5100000
-LANG_ENGLISH     "Imposta Prezzo a ^5 100000"
+LANG_ENGLISH     "Imposta Prezzo a ^3 100000"
 
 REFERENCE           SETPRICETO51337
-LANG_ENGLISH     "Imposta Prezzo a ^5 1337"
+LANG_ENGLISH     "Imposta Prezzo a ^3 1337"
 
 REFERENCE           SETPRICETO5950
-LANG_ENGLISH     "Imposta Prezzo a ^5 950"
+LANG_ENGLISH     "Imposta Prezzo a ^3 950"
 
 REFERENCE           SETPRICETO51
-LANG_ENGLISH     "Imposta Prezzo a ^5 1"
+LANG_ENGLISH     "Imposta Prezzo a ^3 1"
 
 REFERENCE           SETPRICETO0
 LANG_ENGLISH     "Imposta Prezzo a 0"
@@ -402,7 +402,7 @@ REFERENCE           EFFECTBULLETS1OFF
 LANG_ENGLISH     "Proiettili Effetto OFF"
 
 REFERENCE           MENUNAME
-LANG_ENGLISH     "^5Centro Controllo"
+LANG_ENGLISH     "^3Centro Controllo"
 
 REFERENCE           TOGGLEINVISIBLE
 LANG_ENGLISH     "Attiva/Disattiva Invisibilità"

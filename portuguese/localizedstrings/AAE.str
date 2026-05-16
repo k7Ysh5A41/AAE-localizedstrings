@@ -513,7 +513,7 @@ REFERENCE           CHOOSE_HERO
 LANG_PORTUGUESE     "Escolha um membro da equipe"
 
 REFERENCE           CHOOSE_HERO_DESC
-LANG_PORTUGUESE     "Se outro jogador selecionar o mesmo membro da equipe que você, outro membro será atribuído automaticamente.\n\nEscolha os membros da equipe que deseja usar | ^5Atual^7: ^3"
+LANG_PORTUGUESE     "Se outro jogador selecionar o mesmo membro da equipe que você, outro membro será atribuído automaticamente.\n\nEscolha os membros da equipe que deseja usar | ^3Atual^7: ^3"
 
 ///////////////////////////////////////////////////////////
 REFERENCE           CHOOSE_HERO_LIST0

@@ -513,7 +513,7 @@ REFERENCE           CHOOSE_HERO
  LANG_ENGLISH     "Escoge un personaje del grupo"
 
 REFERENCE           CHOOSE_HERO_DESC
- LANG_ENGLISH     "Si otro jugador selecciona el mismo personaje que tú, se te asignará automáticamente uno diferente al azar.\n\nEscoge al miembro del grupo que quieres usar | ^5Actual^7: ^3"
+ LANG_ENGLISH     "Si otro jugador selecciona el mismo personaje que tú, se te asignará automáticamente uno diferente al azar.\n\nEscoge al miembro del grupo que quieres usar | ^3Actual^7: ^3"
 ///////////////////////////////////////////////////////////
 REFERENCE           CHOOSE_HERO_LIST0
  LANG_ENGLISH     "Tank Dempsey"

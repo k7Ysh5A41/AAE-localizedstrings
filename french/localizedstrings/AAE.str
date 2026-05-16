@@ -513,7 +513,7 @@ REFERENCE           CHOOSE_HERO
  LANG_ENGLISH    "Choisir un membre de l’équipe"
 
 REFERENCE           CHOOSE_HERO_DESC
- LANG_ENGLISH    "Si un autre joueur sélectionne le même membre de l’équipe que vous, un autre membre vous sera automatiquement attribué.\n\nChoisissez les membres de l’équipe que vous souhaitez utiliser | ^5Actuel^7: ^3"
+ LANG_ENGLISH    "Si un autre joueur sélectionne le même membre de l’équipe que vous, un autre membre vous sera automatiquement attribué.\n\nChoisissez les membres de l’équipe que vous souhaitez utiliser | ^3Actuel^7: ^3"
 ///////////////////////////////////////////////////////////
 REFERENCE           CHOOSE_HERO_LIST0
  LANG_ENGLISH    "Tank Dempsey"

@@ -123,16 +123,16 @@ REFERENCE           MYSTERYBOXOPENINGPRICE
 LANG_ENGLISH      "Preis für Mystery Box-Öffnung"
 
 REFERENCE           SETPRICETO5100000
-LANG_ENGLISH      "Preis auf ^5 100000 setzen"
+LANG_ENGLISH      "Preis auf ^3 100000 setzen"
 
 REFERENCE           SETPRICETO51337
-LANG_ENGLISH      "Preis auf ^5 1337 setzen"
+LANG_ENGLISH      "Preis auf ^3 1337 setzen"
 
 REFERENCE           SETPRICETO5950
-LANG_ENGLISH      "Preis auf ^5 950 setzen"
+LANG_ENGLISH      "Preis auf ^3 950 setzen"
 
 REFERENCE           SETPRICETO51
-LANG_ENGLISH      "Preis auf ^5 1 setzen"
+LANG_ENGLISH      "Preis auf ^3 1 setzen"
 
 REFERENCE           SETPRICETO0
 LANG_ENGLISH      "Preis auf 0 setzen"
@@ -405,7 +405,7 @@ REFERENCE           EFFECTBULLETS1OFF
 LANG_ENGLISH      "Effekt-Mündungen AUS"
 
 REFERENCE           MENUNAME
-LANG_ENGLISH      "^5Center Control"
+LANG_ENGLISH      "^3Center Control"
 
 REFERENCE           TOGGLEINVISIBLE
 LANG_ENGLISH      "Unsichtbar umschalten"

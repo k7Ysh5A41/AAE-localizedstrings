@@ -513,7 +513,7 @@ REFERENCE           CHOOSE_HERO
  LANG_ENGLISH     "Wybierz członka załogi"
 
 REFERENCE           CHOOSE_HERO_DESC
- LANG_ENGLISH     "Jeśli inny gracz wybierze tego samego członka załogi co ty, automatycznie zostanie ci przypisany inny członek załogi.\n\nWybierz członków załogi, których chcesz używać | ^5Obecny^7: ^3"
+ LANG_ENGLISH     "Jeśli inny gracz wybierze tego samego członka załogi co ty, automatycznie zostanie ci przypisany inny członek załogi.\n\nWybierz członków załogi, których chcesz używać | ^3Obecny^7: ^3"
 
 ///////////////////////////////////////////////////////////
 REFERENCE           CHOOSE_HERO_LIST0
