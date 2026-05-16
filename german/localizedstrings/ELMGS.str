@@ -98,4 +98,13 @@ LANG_ENGLISH     "VERLASSENE STADT"
 REFERENCE           GENESIS_LINE1
 LANG_ENGLISH     "Eine bessere Zukunft"
 
+REFERENCE           COAST_TITLE
+LANG_ENGLISH      "Call of the Dead"
+
+REFERENCE           COAST_DESC
+LANG_ENGLISH      "Eine schiffbrüchige Crew furchtloser Entdecker sitzt hoffnungslos in einem verlassenen sibirischen Außenposten fest. Ihr Traum, die wahren Ursprünge von Element 115 zu entdecken, endet in einem höllischen Albtraum."
+
+REFERENCE            ZM_TOMB_TITLE
+LANG_ENGLISH         "AUSGRABUNGSSTÄTTE 64"
+
 ENDMARKER

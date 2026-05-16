@@ -368,4 +368,13 @@ LANG_ENGLISH     "Nur Specials"
 REFERENCE           AIHP_OPTIONS2
 LANG_ENGLISH     "Nur Zombies"
 
+REFERENCE           HUDSIZE
+LANG_ENGLISH      "HUD-Größe"
+
+REFERENCE           INDICATOR_ICON
+LANG_ENGLISH      "Indikatorsymbol deaktivieren"
+
+REFERENCE           NO_TALK
+LANG_ENGLISH      "Charakterdialoge deaktivieren"
+
 ENDMARKER

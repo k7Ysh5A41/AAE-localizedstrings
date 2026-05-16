@@ -9,7 +9,7 @@ REFERENCE            FOV_SCALE
 LANG_ENGLISH         "Skala pola widzenia (FoV)"
 
 REFERENCE            SHORTCUT_KEY
-LANG_ENGLISH         "^5Wszystkie skróty klawiszowe\n\n^7Latarka\nZnacznik\nUpuść punkty\nTryb nocny DNI\nWidok trzecioosobowy\nPełny widok mapy\nUkryj HUD\nSpraye\nAnuluj rzut\nUstaw broń Mulekick\nZmień kamuflaż\nZmień celownik"
+LANG_ENGLISH          "^3Rozszerzone Sterowanie\n\n^7Latarka\nPing\nUpuść 1000 Punktów\nNoktowizja DNI\nWidok z Trzeciej Osoby\nWidok Mapy z Góry\nUkryj HUD\nMalowanie Emblematem\nAnuluj Rzut\nUstaw Broń Mulekick\nZmień Kamuflaż\nZmień Celownik\nInspekcja/Przeładowanie Broni"
 
 REFERENCE            DRONE_KILL
 LANG_ENGLISH         "Eliminacja drona Valkyrie"

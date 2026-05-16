@@ -368,4 +368,13 @@ LANG_ENGLISH     "Apenas Especiais"
 REFERENCE           AIHP_OPTIONS2
 LANG_ENGLISH     "Apenas Zumbis"
 
+REFERENCE           HUDSIZE
+LANG_ENGLISH  "Tamanho do HUD"
+
+REFERENCE           INDICATOR_ICON
+LANG_ENGLISH  "Desativar ícone indicador"
+
+REFERENCE           NO_TALK
+LANG_ENGLISH  "Desativar diálogos dos personagens"
+
 ENDMARKER

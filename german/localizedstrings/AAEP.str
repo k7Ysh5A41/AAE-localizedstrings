@@ -9,7 +9,7 @@ REFERENCE            FOV_SCALE
 LANG_ENGLISH         "FoV-Skala"
 
 REFERENCE            SHORTCUT_KEY
-LANG_ENGLISH         "^5Alle Tastenkombinationen\n\n^7Taschenlampe\nMarkierung\nPunkte fallen lassen\nDNI-Nachtsicht\nDritte Person\nGesamtkartenansicht\nHUD ausblenden\nSprays\nWurf abbrechen\nMulekick-Waffe festlegen\nTarnung ändern\nFadenkreuz ändern"
+ LANG_ENGLISH          "^3Erweiterte Steuerung\n\n^7Taschenlampe\nPing\n1000 Punkte Fallenlassen\nDNI-Nachtsicht\nDritte-Person-Ansicht\nKartenübersicht\nHUD Ausblenden\nEmblem Sprühen\nWurf Abbrechen\nMulekick-Waffe Festlegen\nTarnung Ändern\nFadenkreuz Ändern\nWaffe Inspizieren/Neu Ziehen"
 
 REFERENCE            DRONE_KILL
 LANG_ENGLISH         "Valkyrie-Drohne Eliminierung"

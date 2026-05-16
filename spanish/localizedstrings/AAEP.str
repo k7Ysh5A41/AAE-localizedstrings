@@ -225,7 +225,7 @@ REFERENCE            INCP_MAP_DESC
 LANG_ENGLISH         "Aquí se mostrarán los mapas que no son compatibles con el mod de All Around Enhancement."
 
 REFERENCE            SHORTCUT_KEY
-LANG_ENGLISH         "^5Teclas de acceso rápido\n\n^7Linterna\nMarcar un punto\nSoltar algunos puntos\nVisión nocturna\nTercera persona\nVista completa del mapa\nOcultar el HUD\nPintar un grafiti\nCancelar arrojable\nCambia el Coz del arma\nCambiar de camuflaje\nCambiar la reticula"
+LANG_ENGLISH         "^3Teclas de acceso rápido\n\n^7Linterna\nMarcar un punto\nSoltar 1000 puntos\nVisión nocturna\nTercera persona\nVista completa del mapa\nOcultar el HUD\nPintar un grafiti\nCancelar arrojable\nCambia el Coz del arma\nCambiar de camuflaje\nCambiar la reticula\nInspeccionar el arma"
 
 REFERENCE            FOV_SCALE
 LANG_ENGLISH         "Escala del campo de visión"
