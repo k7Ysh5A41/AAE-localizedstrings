@@ -36,16 +36,16 @@ REFERENCE            PHD_FLOPPER
 LANG_ENGLISH         "Доктор Бумс"
 
 REFERENCE            SNAILS_PACE_SLURPEE
-LANG_ENGLISH         "Snail's Pace Slurpee"
+LANG_ENGLISH         "Слайм «Snail's Pace»"
 
 REFERENCE            CRYO_SLIDE_SODA
-LANG_ENGLISH         "Cryo Slide Soda"
+LANG_ENGLISH         "Газировка "Криослайд""
 
 REFERENCE            SALVAGE_SHAKE_
-LANG_ENGLISH         "Salvage Shake"
+LANG_ENGLISH         "Спасательный коктейль"
 
 REFERENCE            WINDRUNNER_WHISKEY
-LANG_ENGLISH         "Windrunner Whiskey"
+LANG_ENGLISH         "Виски Windrunner"
 
 REFERENCE            ATOMIC_LIQUEUR
 LANG_ENGLISH         "Атомный ликер"
@@ -57,10 +57,10 @@ REFERENCE            SECRET_SAUCE
 LANG_ENGLISH         "Тайный соус"
 
 REFERENCE            CRUSADERS_ALE
-LANG_ENGLISH         "Crusader's Ale"
+LANG_ENGLISH         "Эль крестоносца"
 
 REFERENCE            BULL_ICE_BLAST
-LANG_ENGLISH         "Bull Ice Blast"
+LANG_ENGLISH         "Взрыв бычьего льда"
 
 REFERENCE            VIGOR_RUSH
 LANG_ENGLISH         "Vigor Rush"
@@ -69,34 +69,34 @@ REFERENCE            MADGAZ_MOONSHINE
 LANG_ENGLISH         "Madgaz Moonshine"
 
 REFERENCE            BANDOLIER_BANDIT
-LANG_ENGLISH         "Bandolier Bandit"
+LANG_ENGLISH         "Бандит с патронташем"
 
 REFERENCE            ETHEREAL_RAZOR
 LANG_ENGLISH         "Эфирное лезвие"
 
 REFERENCE            PHD_SLIDER
-LANG_ENGLISH         "PhD Slider"
+LANG_ENGLISH         "Скользящий"
 
 REFERENCE            STONE_COLD_STRONGHOLD
-LANG_ENGLISH         "Stone Cold Stronghold"
+LANG_ENGLISH         "Несокрушимая твердыня"
 
 REFERENCE            TIMESLIP
-LANG_ENGLISH         "Timeslip"
+LANG_ENGLISH         "Скачок во времени"
 
 REFERENCE            VICTORIOUS_TORTOISE
-LANG_ENGLISH         "Victorious Tortoise"
+LANG_ENGLISH         "Победоносная черепаха"
 
 REFERENCE            WINTER_WAIL
-LANG_ENGLISH         "Winter Wail"
+LANG_ENGLISH         "Вой зимы"
 
 REFERENCE            ZOMBSHELL
-LANG_ENGLISH         "Zombshell"
+LANG_ENGLISH         "Зомбоубежище"
 
 REFERENCE            BLOOD_WOLF_BITE
-LANG_ENGLISH         "Укус кровавого волка"
+LANG_ENGLISH         "Кровавый волчий укус"
 
 REFERENCE            BLAZE_PHASE
-LANG_ENGLISH         "Blaze Phase"
+LANG_ENGLISH         "Фазовая вспышка"
 
 REFERENCE            DYING_WISH
 LANG_ENGLISH         "Последнее желание"
@@ -108,7 +108,7 @@ REFERENCE            BANANA_COLADA
 LANG_ENGLISH         "Banana Colada"
 
 REFERENCE            PERK_A_LOT
-LANG_ENGLISH         "Perk A Lot"
+LANG_ENGLISH         "Много перков"
 
 REFERENCE            GOT_A_WEAPON
 LANG_ENGLISH         "Получено оружие"

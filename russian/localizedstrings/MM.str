@@ -123,16 +123,16 @@ REFERENCE           MYSTERYBOXOPENINGPRICE
 LANG_ENGLISH     "Стоимость открытия Таинственного ящика"
 
 REFERENCE           SETPRICETO5100000
-LANG_ENGLISH     "Установить цену на ^5 100000"
+LANG_ENGLISH     "Установить цену на ^3 100000"
 
 REFERENCE           SETPRICETO51337
-LANG_ENGLISH     "Установить цену на ^5 1337"
+LANG_ENGLISH     "Установить цену на ^3 1337"
 
 REFERENCE           SETPRICETO5950
-LANG_ENGLISH     "Установить цену на ^5 950"
+LANG_ENGLISH     "Установить цену на ^3 950"
 
 REFERENCE           SETPRICETO51
-LANG_ENGLISH     "Установить цену на ^5 1"
+LANG_ENGLISH     "Установить цену на ^3 1"
 
 REFERENCE           SETPRICETO0
 LANG_ENGLISH     "Установить цену на 0"
@@ -405,7 +405,7 @@ REFERENCE           EFFECTBULLETS1OFF
 LANG_ENGLISH     "Отключить эффектные пули"
 
 REFERENCE           MENUNAME
-LANG_ENGLISH     "^5Центральное управление"
+LANG_ENGLISH     "^3Центральное управление"
 
 REFERENCE           TOGGLEINVISIBLE
 LANG_ENGLISH     "Переключить невидимость"
