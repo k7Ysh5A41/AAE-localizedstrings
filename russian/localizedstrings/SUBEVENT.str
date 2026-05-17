@@ -21,7 +21,7 @@ REFERENCE           GOT_PAP
 LANG_ENGLISH     "Я получил улучшение"
 
 REFERENCE           DROPSOME
-LANG_ENGLISH     "Я здесь сбросил немного очков!"
+LANG_ENGLISH     "Я тут сбросил немного очков!"
 
 REFERENCE           GOTPERK
 LANG_ENGLISH     "Я получил перк"
@@ -39,10 +39,10 @@ REFERENCE           GOTWP
 LANG_ENGLISH     "Я получил"
 
 REFERENCE           SHAREWP
-LANG_ENGLISH     "Я поделился"
+LANG_ENGLISH     "Я тут скинул"
 
 REFERENCE           SHAREWPHERE
-LANG_ENGLISH     "здесь"
+LANG_ENGLISH     ""
 
 REFERENCE           TRADEWP
 LANG_ENGLISH     "Я обменял"

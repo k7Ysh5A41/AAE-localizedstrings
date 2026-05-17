@@ -351,7 +351,7 @@ REFERENCE           GRENADE_PREDICATION_OPTION3
 LANG_ENGLISH     "Прогноз. траектории"
 
 REFERENCE           AIHP
-LANG_ENGLISH     "Отображение HP (требуется возрождение)"
+LANG_ENGLISH     "Показывать HP (после воскрешения)"
 
 REFERENCE           AIHP_OPTIONS1
 LANG_ENGLISH     "Только особые"
