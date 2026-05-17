@@ -78,7 +78,7 @@ REFERENCE            MARGWA
 LANG_ENGLISH         "Маргва"
 
 REFERENCE            MANGLER
-LANG_ENGLISH         "Солдат мяснит"
+LANG_ENGLISH         "Солдат мясник"
 
 REFERENCE            BUY_DRINK
 LANG_ENGLISH         "Вы можете купить другу напиток, нажав ^3[{+actionslot 3}] ^7у машины перков"
