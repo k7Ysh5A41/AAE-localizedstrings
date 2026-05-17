@@ -110,4 +110,7 @@ LANG_ENGLISH     "Hide AAE Exclusive Weapons"
 REFERENCE           ALLWALLBUY
 LANG_ENGLISH     "Add Low-Cost Wall Buy Weapons"
 
+REFERENCE           OMNIMOVEMENT
+LANG_ENGLISH     "Disable Omnimovement and Strafe Jump"
+
 ENDMARKER
