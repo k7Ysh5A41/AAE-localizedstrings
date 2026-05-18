@@ -110,4 +110,7 @@ LANG_ENGLISH     "Скрыть оружие из AAE в Таинственном
 REFERENCE           ALLWALLBUY
 LANG_ENGLISH        "Включить дешёвое настенное оружие в ящике"
 
+REFERENCE           OMNIMOVEMENT
+LANG_ENGLISH     "Отключить бег в разные стороны и Стрейф-джамп"
+
 ENDMARKER
