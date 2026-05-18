@@ -636,4 +636,10 @@ LANG_ENGLISH     "7. All maps from the workshop and The Giant will not be counte
 REFERENCE           REWARD_LINE17
 LANG_ENGLISH     "Higher chance of getting wonder weapon from the box after round 1"
 
+REFERENCE           INGAMECHAT
+LANG_ENGLISH     "Type here to send a message to the\n^BBUTTON_MOUSE_CLICK^^BBUTTON_MOUSE_EDIT^ #in-game-chat channel"
+
+REFERENCE           INGAMECHAT_FOOTER
+LANG_ENGLISH     "Chat Here"
+
 ENDMARKER
