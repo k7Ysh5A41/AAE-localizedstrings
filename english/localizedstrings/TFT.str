@@ -113,4 +113,7 @@ LANG_ENGLISH     "Add Low-Cost Wall Buy Weapons"
 REFERENCE           OMNIMOVEMENT
 LANG_ENGLISH     "Disable Omnimovement and Strafe Jump"
 
+REFERENCE           HOST5ROUND
+LANG_ENGLISH     "Host - Every 5 round"
+
 ENDMARKER
