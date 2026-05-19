@@ -113,4 +113,7 @@ LANG_ENGLISH        "Включить дешёвое настенное оруж
 REFERENCE           OMNIMOVEMENT
 LANG_ENGLISH     "Отключить бег в разные стороны и Стрейф-джамп"
 
+REFERENCE           HOST5ROUND
+LANG_ENGLISH     "Хост - каждые 5 раундов"
+
 ENDMARKER
