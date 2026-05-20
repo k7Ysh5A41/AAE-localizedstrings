@@ -637,7 +637,7 @@ REFERENCE           REWARD_LINE17
 LANG_ENGLISH     "Повышена вероятность получить чудо-оружие из таинственного ящика после 1-го раунда."
 
 REFERENCE           INGAMECHAT
-LANG_ENGLISH     "Введите здесь, чтобы отправить сообщение.\n^BBUTTON_MOUSE_CLICK^^BBUTTON_MOUSE_EDIT^ #канал внутриигрового чата"
+LANG_ENGLISH     "Введите здесь, чтобы отправить сообщение.\n^BBUTTON_MOUSE_CLICK^^BBUTTON_MOUSE_EDIT^ Канал #in-game-chat"
 
 REFERENCE           INGAMECHAT_FOOTER
 LANG_ENGLISH     "Здесь можно пообщаться в чате."
