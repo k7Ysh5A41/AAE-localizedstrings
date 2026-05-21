@@ -616,25 +616,75 @@ REFERENCE           EECOUNT_INFO_TITLE
 LANG_ENGLISH     "Detalles sobre las condiciones del contador de EE"
 
 REFERENCE           EECOUNT_INFO_LINE1
-LANG_ENGLISH     "1. Después de que el contador se haya actualizado una vez, vuelve al lobby para guardar tu progreso"
+LANG_ENGLISH     "1. Después de que el contador se haya actualizado una vez, vuelve al lobby para guardar tu progreso."
 
 REFERENCE           EECOUNT_INFO_LINE2
 LANG_ENGLISH     "2. No se permite ningún tipo de trampa (incluyendo las funciones avanzadas de AAE)"
 
 REFERENCE           EECOUNT_INFO_LINE3
-LANG_ENGLISH     "3. Solo cuenta el easter egg principal de la historia"
+LANG_ENGLISH     "3. Solo cuenta el easter egg principal de la historia."
 
 REFERENCE           EECOUNT_INFO_LINE4
-LANG_ENGLISH     "4. Tiempo de finalización legítimo"
+LANG_ENGLISH     "4. Tiempo de finalización legítimo."
 
 REFERENCE           EECOUNT_INFO_LINE5
-LANG_ENGLISH     "5. Mantén los valores predeterminados de salud, velocidad y puntuación; no deben ser mayores ni menores que los valores por defecto"
+LANG_ENGLISH     "5. Mantén los valores predeterminados de salud, velocidad y puntuación; no deben ser mayores ni menores que los valores por defecto."
 
 REFERENCE           EECOUNT_INFO_LINE6
-LANG_ENGLISH     "6. Sin movimientos exo"
+LANG_ENGLISH     "6. Sin movimientos exo."
 
 REFERENCE           EECOUNT_INFO_LINE7
-LANG_ENGLISH     "7. Los mapas de la workshop y The Giant no cuentan"
+LANG_ENGLISH     "7. Los mapas de la workshop y The Giant no cuentan."
+
+REFERENCE           DATE_ZM_ZOD
+LANG_ENGLISH    "25 de abril de 1944"
+
+REFERENCE           DATE_ZM_FACTORY
+LANG_ENGLISH    "13 de octubre de 1945"
+
+REFERENCE           DATE_ZM_CASTLE
+LANG_ENGLISH    "5 de noviembre de 1945"
+
+REFERENCE           DATE_ZM_ISLAND
+LANG_ENGLISH    "18 de octubre de 1945"
+
+REFERENCE           DATE_ZM_STALINGRAD
+LANG_ENGLISH    "6 de noviembre de 1945"
+
+REFERENCE           DATE_ZM_GENESIS
+LANG_ENGLISH    "Desconocido"
+
+REFERENCE           DATE_ZM_PROTOTYPE
+LANG_ENGLISH    "4 de junio de 1945"
+
+REFERENCE           DATE_ZM_ASYLUM
+LANG_ENGLISH    "6 de septiembre de 1945"
+
+REFERENCE           DATE_ZM_SUMPF
+LANG_ENGLISH    "21 de octubre de 1945"
+
+REFERENCE           DATE_ZM_THEATER
+LANG_ENGLISH    "28 de octubre de 1963"
+
+REFERENCE           DATE_ZM_COSMODROME
+LANG_ENGLISH    "6 de noviembre de 1963"
+
+REFERENCE           DATE_ZM_TEMPLE
+LANG_ENGLISH    "25 de abril de 1956"
+
+REFERENCE           DATE_ZM_MOON
+LANG_ENGLISH    "13 de octubre de 2025"
+
+REFERENCE           DATE_ZM_TOMB
+LANG_ENGLISH    "4 de junio de 1918"
+
+REFERENCE           INGAMECHAT
+LANG_ENGLISH     "Escribe aquí para enviar un mensaje al canal de\n^BBUTTON_MOUSE_CLICK^^BBUTTON_MOUSE_EDIT^ #in-game-chat"
+
+REFERENCE           INGAMECHAT_FOOTER
+LANG_ENGLISH     "Chatea aquí"
+
+REFERENCE           REWARD_LINE17
+LANG_ENGLISH     "Mayor probabilidad de obtener un arma especial de la caja después de la ronda 1"
 
 ENDMARKER
-

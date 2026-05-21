@@ -636,4 +636,55 @@ LANG_ENGLISH     "6. Keine Exo-Bewegungen"
 REFERENCE           EECOUNT_INFO_LINE7
 LANG_ENGLISH     "7. Alle Workshop-Karten sowie The Giant werden nicht zur Gesamtzahl gezählt"
 
+REFERENCE           DATE_ZM_ZOD
+LANG_ENGLISH      "25. April 1944"
+
+REFERENCE           DATE_ZM_FACTORY
+LANG_ENGLISH      "13. Oktober 1945"
+
+REFERENCE           DATE_ZM_CASTLE
+LANG_ENGLISH      "5. November 1945"
+
+REFERENCE           DATE_ZM_ISLAND
+LANG_ENGLISH      "18. Oktober 1945"
+
+REFERENCE           DATE_ZM_STALINGRAD
+LANG_ENGLISH      "6. November 1945"
+
+REFERENCE           DATE_ZM_GENESIS
+LANG_ENGLISH      "Unbekannt"
+
+REFERENCE           DATE_ZM_PROTOTYPE
+LANG_ENGLISH      "4. Juni 1945"
+
+REFERENCE           DATE_ZM_ASYLUM
+LANG_ENGLISH      "6. September 1945"
+
+REFERENCE           DATE_ZM_SUMPF
+LANG_ENGLISH      "21. Oktober 1945"
+
+REFERENCE           DATE_ZM_THEATER
+LANG_ENGLISH      "28. Oktober 1963"
+
+REFERENCE           DATE_ZM_COSMODROME
+LANG_ENGLISH      "6. November 1963"
+
+REFERENCE           DATE_ZM_TEMPLE
+LANG_ENGLISH      "25. April 1956"
+
+REFERENCE           DATE_ZM_MOON
+LANG_ENGLISH      "13. Oktober 2025"
+
+REFERENCE           DATE_ZM_TOMB
+LANG_ENGLISH      "4. Juni 1918"
+
+REFERENCE           INGAMECHAT
+LANG_ENGLISH      "Schreibe hier, um eine Nachricht an den\n^BBUTTON_MOUSE_CLICK^^BBUTTON_MOUSE_EDIT^ #in-game-chat Kanal zu senden"
+
+REFERENCE           INGAMECHAT_FOOTER
+LANG_ENGLISH      "Hier chatten"
+
+REFERENCE           REWARD_LINE17
+LANG_ENGLISH     "Höhere Chance, nach Runde 1 eine Wunderwaffe aus der Kiste zu erhalten"
+
 ENDMARKER

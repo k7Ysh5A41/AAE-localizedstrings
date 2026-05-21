@@ -110,4 +110,10 @@ LANG_ENGLISH     "Masquer les armes de l’AAE dans la boîte mystère"
 REFERENCE           ALLWALLBUY
 LANG_ENGLISH         "Activer les armes murales à bas prix dans la boîte"
 
+REFERENCE           HOST5ROUND
+LANG_ENGLISH      "Hôte - Toutes les 5 manches"
+
+REFERENCE           OMNIMOVEMENT
+LANG_ENGLISH      "Désactiver l'Omnimovement et le saut latéral"
+
 ENDMARKER
