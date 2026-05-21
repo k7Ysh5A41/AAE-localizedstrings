@@ -110,4 +110,10 @@ LANG_ENGLISH     "AAEの武器をミステリーボックスで非表示"
 REFERENCE           ALLWALLBUY
 LANG_ENGLISH       "ボックスで低コストの壁武器を有効にする"
 
+REFERENCE           HOST5ROUND
+LANG_ENGLISH    "ホスト - 5ラウンドごと"
+
+REFERENCE           OMNIMOVEMENT
+LANG_ENGLISH    "オムニムーブメントとストレイフジャンプを無効化"
+
 ENDMARKER

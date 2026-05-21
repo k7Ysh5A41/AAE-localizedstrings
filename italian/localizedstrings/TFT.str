@@ -110,4 +110,10 @@ LANG_ENGLISH     "Nascondi le armi di AAE nella Scatola Misteriosa"
 REFERENCE           ALLWALLBUY
 LANG_ENGLISH        "Abilita le armi da parete a basso costo nella scatola"
 
+REFERENCE           HOST5ROUND
+LANG_ENGLISH     "Host - Ogni 5 round"
+
+REFERENCE           OMNIMOVEMENT
+LANG_ENGLISH     "Disattiva Omnimovement e Strafe Jump"
+
 ENDMARKER

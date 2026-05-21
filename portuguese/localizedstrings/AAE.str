@@ -510,139 +510,189 @@ REFERENCE           DOWNLOAD_LITE
 LANG_ENGLISH     "Baixar a versão AAE Lite"
 
 REFERENCE           CHOOSE_HERO
-LANG_PORTUGUESE     "Escolha um membro da equipe"
+LANG_ENGLISH     "Escolha um membro da equipe"
 
 REFERENCE           CHOOSE_HERO_DESC
-LANG_PORTUGUESE     "Se outro jogador selecionar o mesmo membro da equipe que você, outro membro será atribuído automaticamente.\n\nEscolha os membros da equipe que deseja usar | ^3Atual^7: ^3"
+LANG_ENGLISH     "Se outro jogador selecionar o mesmo membro da equipe que você, outro membro será atribuído automaticamente.\n\nEscolha os membros da equipe que deseja usar | ^3Atual^7: ^3"
 
 ///////////////////////////////////////////////////////////
 REFERENCE           CHOOSE_HERO_LIST0
-LANG_PORTUGUESE     "Tank Dempsey"
+LANG_ENGLISH     "Tank Dempsey"
 
 REFERENCE           CHOOSE_HERO_LIST1
-LANG_PORTUGUESE     "Nikolai Belinski"
+LANG_ENGLISH     "Nikolai Belinski"
 
 REFERENCE           CHOOSE_HERO_LIST2
-LANG_PORTUGUESE     "Edward Richtofen"
+LANG_ENGLISH     "Edward Richtofen"
 
 REFERENCE           CHOOSE_HERO_LIST3
-LANG_PORTUGUESE     "Takeo Masaki"
+LANG_ENGLISH     "Takeo Masaki"
 
 ///////////////////////////////////////////////////////////
 REFERENCE           CHOOSE_HERO_LIST5
-LANG_PORTUGUESE     "Floyd Campbell"
+LANG_ENGLISH     "Floyd Campbell"
 
 REFERENCE           CHOOSE_HERO_LIST6
-LANG_PORTUGUESE     "Jack Vincent"
+LANG_ENGLISH     "Jack Vincent"
 
 REFERENCE           CHOOSE_HERO_LIST7
-LANG_PORTUGUESE     "Jessica Rose"
+LANG_ENGLISH     "Jessica Rose"
 
 REFERENCE           CHOOSE_HERO_LIST8
-LANG_PORTUGUESE     "Nero Blackstone"
+LANG_ENGLISH     "Nero Blackstone"
 
 ///////////////////////////////////////////////////////////
 REFERENCE           CHOOSE_HERO_LIST9
-LANG_PORTUGUESE     "Russman"
+LANG_ENGLISH     "Russman"
 
 REFERENCE           CHOOSE_HERO_LIST10
-LANG_PORTUGUESE     "Samuel J. Stuhlinger"
+LANG_ENGLISH     "Samuel J. Stuhlinger"
 
 REFERENCE           CHOOSE_HERO_LIST11
-LANG_PORTUGUESE     "Abigal “Misty” Briarton"
+LANG_ENGLISH     "Abigal “Misty” Briarton"
 
 REFERENCE           CHOOSE_HERO_LIST12
-LANG_PORTUGUESE     "Marlton Johnson"
+LANG_ENGLISH     "Marlton Johnson"
 
 ///////////////////////////////////////////////////////////
 REFERENCE           CHOOSE_HERO_LIST13
-LANG_PORTUGUESE     "Michael “Finn” O’Leary"
+LANG_ENGLISH     "Michael “Finn” O’Leary"
 
 REFERENCE           CHOOSE_HERO_LIST14
-LANG_PORTUGUESE     "Salvatore “Sal” DeLuca"
+LANG_ENGLISH     "Salvatore “Sal” DeLuca"
 
 REFERENCE           CHOOSE_HERO_LIST15
-LANG_PORTUGUESE     "Billy Handsome"
+LANG_ENGLISH     "Billy Handsome"
 
 REFERENCE           CHOOSE_HERO_LIST16
-LANG_PORTUGUESE     "Albert “Weasel” Arlington"
+LANG_ENGLISH     "Albert “Weasel” Arlington"
 
 ///////////////////////////////////////////////////////////
 REFERENCE           CHOOSE_HERO_LIST17
-LANG_PORTUGUESE     "Sarah Michelle Gellar"
+LANG_ENGLISH     "Sarah Michelle Gellar"
 
 REFERENCE           CHOOSE_HERO_LIST18
-LANG_PORTUGUESE     "Robert Englund"
+LANG_ENGLISH     "Robert Englund"
 
 REFERENCE           CHOOSE_HERO_LIST19
-LANG_PORTUGUESE     "Danny Trejo"
+LANG_ENGLISH     "Danny Trejo"
 
 REFERENCE           CHOOSE_HERO_LIST20
-LANG_PORTUGUESE     "Michael Rooker"
+LANG_ENGLISH     "Michael Rooker"
 
 ///////////////////////////////////////////////////////////
 REFERENCE           CHOOSE_HERO_LIST21
-LANG_PORTUGUESE     "Scarlett Rhodes"
+LANG_ENGLISH     "Scarlett Rhodes"
 
 REFERENCE           CHOOSE_HERO_LIST22
-LANG_PORTUGUESE     "Stanton Shaw"
+LANG_ENGLISH     "Stanton Shaw"
 
 REFERENCE           CHOOSE_HERO_LIST23
-LANG_PORTUGUESE     "Bruno Delacroix"
+LANG_ENGLISH     "Bruno Delacroix"
 
 REFERENCE           CHOOSE_HERO_LIST24
-LANG_PORTUGUESE     "Diego Necalli"
+LANG_ENGLISH     "Diego Necalli"
 
 ///////////////////////////////////////////////////////////
 REFERENCE           CHOOSE_HERO_LIST25
-LANG_PORTUGUESE     "Jonathan Warwick"
+LANG_ENGLISH     "Jonathan Warwick"
 
 REFERENCE           CHOOSE_HERO_LIST26
-LANG_PORTUGUESE     "Godfrey"
+LANG_ENGLISH     "Godfrey"
 
 REFERENCE           CHOOSE_HERO_LIST27
-LANG_PORTUGUESE     "Gideon Jones"
+LANG_ENGLISH     "Gideon Jones"
 
 REFERENCE           CHOOSE_HERO_LIST28
-LANG_PORTUGUESE     "Christina Fowler"
+LANG_ENGLISH     "Christina Fowler"
 
 /////////////////////////////////////////////////////////// 5-8
 REFERENCE           CHOOSE_HERO_LIST29
-LANG_PORTUGUESE     "Aaron “A.J.” Jordaniels"
+LANG_ENGLISH     "Aaron “A.J.” Jordaniels"
 
 REFERENCE           CHOOSE_HERO_LIST30
-LANG_PORTUGUESE     "Poindexter Zittermann"
+LANG_ENGLISH     "Poindexter Zittermann"
 
 REFERENCE           CHOOSE_HERO_LIST31
-LANG_PORTUGUESE     "Sally Simpson"
+LANG_ENGLISH     "Sally Simpson"
 
 REFERENCE           CHOOSE_HERO_LIST32
-LANG_PORTUGUESE     "Andre Wright"
+LANG_ENGLISH     "Andre Wright"
 
 ///////////////////////////////////////////////////////////
 
 REFERENCE           EECOUNT_INFO_TITLE
-LANG_PORTUGUESE     "Detalhes sobre as condições do contador de EE"
+LANG_ENGLISH     "Detalhes sobre as condições do contador de EE"
 
 REFERENCE           EECOUNT_INFO_LINE1
-LANG_PORTUGUESE     "1. Após o contador ser atualizado uma vez, volte ao lobby para salvar seu progresso"
+LANG_ENGLISH     "1. Após o contador ser atualizado uma vez, volte ao lobby para salvar seu progresso"
 
 REFERENCE           EECOUNT_INFO_LINE2
-LANG_PORTUGUESE     "2. Nenhum tipo de trapaça é permitido (incluindo recursos avançados do AAE)"
+LANG_ENGLISH     "2. Nenhum tipo de trapaça é permitido (incluindo recursos avançados do AAE)"
 
 REFERENCE           EECOUNT_INFO_LINE3
-LANG_PORTUGUESE     "3. Apenas o easter egg principal da história"
+LANG_ENGLISH     "3. Apenas o easter egg principal da história"
 
 REFERENCE           EECOUNT_INFO_LINE4
-LANG_PORTUGUESE     "4. Tempo de conclusão legítimo"
+LANG_ENGLISH     "4. Tempo de conclusão legítimo"
 
 REFERENCE           EECOUNT_INFO_LINE5
-LANG_PORTUGUESE     "5. Mantenha os valores padrão de vida, velocidade e pontuação — eles não podem ser maiores nem menores que os padrões"
+LANG_ENGLISH     "5. Mantenha os valores padrão de vida, velocidade e pontuação — eles não podem ser maiores nem menores que os padrões"
 
 REFERENCE           EECOUNT_INFO_LINE6
-LANG_PORTUGUESE     "6. Sem movimentos exo"
+LANG_ENGLISH     "6. Sem movimentos exo"
 
 REFERENCE           EECOUNT_INFO_LINE7
-LANG_PORTUGUESE     "7. Todos os mapas da oficina e The Giant não serão contados no total"
+LANG_ENGLISH     "7. Todos os mapas da oficina e The Giant não serão contados no total"
 
+REFERENCE           DATE_ZM_ZOD
+LANG_ENGLISH  "25 de abril de 1944"
+
+REFERENCE           DATE_ZM_FACTORY
+LANG_ENGLISH  "13 de outubro de 1945"
+
+REFERENCE           DATE_ZM_CASTLE
+LANG_ENGLISH  "5 de novembro de 1945"
+
+REFERENCE           DATE_ZM_ISLAND
+LANG_ENGLISH  "18 de outubro de 1945"
+
+REFERENCE           DATE_ZM_STALINGRAD
+LANG_ENGLISH  "6 de novembro de 1945"
+
+REFERENCE           DATE_ZM_GENESIS
+LANG_ENGLISH  "Desconhecido"
+
+REFERENCE           DATE_ZM_PROTOTYPE
+LANG_ENGLISH  "4 de junho de 1945"
+
+REFERENCE           DATE_ZM_ASYLUM
+LANG_ENGLISH  "6 de setembro de 1945"
+
+REFERENCE           DATE_ZM_SUMPF
+LANG_ENGLISH  "21 de outubro de 1945"
+
+REFERENCE           DATE_ZM_THEATER
+LANG_ENGLISH  "28 de outubro de 1963"
+
+REFERENCE           DATE_ZM_COSMODROME
+LANG_ENGLISH  "6 de novembro de 1963"
+
+REFERENCE           DATE_ZM_TEMPLE
+LANG_ENGLISH  "25 de abril de 1956"
+
+REFERENCE           DATE_ZM_MOON
+LANG_ENGLISH  "13 de outubro de 2025"
+
+REFERENCE           DATE_ZM_TOMB
+LANG_ENGLISH  "4 de junho de 1918"
+
+REFERENCE           INGAMECHAT
+LANG_ENGLISH  "Digite aqui para enviar uma mensagem para o canal\n^BBUTTON_MOUSE_CLICK^^BBUTTON_MOUSE_EDIT^ #in-game-chat"
+
+REFERENCE           INGAMECHAT_FOOTER
+LANG_ENGLISH  "Chat aqui"
+
+REFERENCE           REWARD_LINE17
+LANG_ENGLISH     "Maior chance de obter uma arma especial da caixa após a rodada 1"
 ENDMARKER
