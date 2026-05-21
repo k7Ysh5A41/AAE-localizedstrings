@@ -645,4 +645,55 @@ LANG_ENGLISH     "6. Bez ruchów exo"
 REFERENCE           EECOUNT_INFO_LINE7
 LANG_ENGLISH     "7. Wszystkie mapy z warsztatu oraz The Giant nie będą liczone do całkowitej liczby"
 
+REFERENCE           DATE_ZM_ZOD
+LANG_ENGLISH      "25 kwietnia 1944"
+
+REFERENCE           DATE_ZM_FACTORY
+LANG_ENGLISH      "13 października 1945"
+
+REFERENCE           DATE_ZM_CASTLE
+LANG_ENGLISH      "5 listopada 1945"
+
+REFERENCE           DATE_ZM_ISLAND
+LANG_ENGLISH      "18 października 1945"
+
+REFERENCE           DATE_ZM_STALINGRAD
+LANG_ENGLISH      "6 listopada 1945"
+
+REFERENCE           DATE_ZM_GENESIS
+LANG_ENGLISH      "Nieznana"
+
+REFERENCE           DATE_ZM_PROTOTYPE
+LANG_ENGLISH      "4 czerwca 1945"
+
+REFERENCE           DATE_ZM_ASYLUM
+LANG_ENGLISH      "6 września 1945"
+
+REFERENCE           DATE_ZM_SUMPF
+LANG_ENGLISH      "21 października 1945"
+
+REFERENCE           DATE_ZM_THEATER
+LANG_ENGLISH      "28 października 1963"
+
+REFERENCE           DATE_ZM_COSMODROME
+LANG_ENGLISH      "6 listopada 1963"
+
+REFERENCE           DATE_ZM_TEMPLE
+LANG_ENGLISH      "25 kwietnia 1956"
+
+REFERENCE           DATE_ZM_MOON
+LANG_ENGLISH      "13 października 2025"
+
+REFERENCE           DATE_ZM_TOMB
+LANG_ENGLISH      "4 czerwca 1918"
+
+REFERENCE           INGAMECHAT
+LANG_ENGLISH      "Wpisz tutaj, aby wysłać wiadomość na kanał\n^BBUTTON_MOUSE_CLICK^^BBUTTON_MOUSE_EDIT^ #in-game-chat"
+
+REFERENCE           INGAMECHAT_FOOTER
+LANG_ENGLISH      "Czat tutaj"
+
+REFERENCE           REWARD_LINE17
+LANG_ENGLISH     "Większa szansa na zdobycie Wonder Weapon ze skrzynki po 1 rundzie"
+
 ENDMARKER

@@ -110,4 +110,10 @@ LANG_ENGLISH     "Verstecke Waffen von AAE in der Mystery Box"
 REFERENCE           ALLWALLBUY
 LANG_ENGLISH         "Günstige Wandwaffen in der Box aktivieren"
 
+REFERENCE           HOST5ROUND
+LANG_ENGLISH      "Host - Alle 5 Runden"
+
+REFERENCE           OMNIMOVEMENT
+LANG_ENGLISH      "Omnimovement und Strafe Jump deaktivieren"
+
 ENDMARKER

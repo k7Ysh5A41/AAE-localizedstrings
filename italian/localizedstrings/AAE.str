@@ -636,4 +636,55 @@ LANG_ENGLISH     "6. Nessun movimento exo"
 REFERENCE           EECOUNT_INFO_LINE7
 LANG_ENGLISH     "7. Tutte le mappe del workshop e The Giant non verranno conteggiate nel totale"
 
+REFERENCE           DATE_ZM_ZOD
+LANG_ENGLISH     "25 aprile 1944"
+
+REFERENCE           DATE_ZM_FACTORY
+LANG_ENGLISH     "13 ottobre 1945"
+
+REFERENCE           DATE_ZM_CASTLE
+LANG_ENGLISH     "5 novembre 1945"
+
+REFERENCE           DATE_ZM_ISLAND
+LANG_ENGLISH     "18 ottobre 1945"
+
+REFERENCE           DATE_ZM_STALINGRAD
+LANG_ENGLISH     "6 novembre 1945"
+
+REFERENCE           DATE_ZM_GENESIS
+LANG_ENGLISH     "Sconosciuto"
+
+REFERENCE           DATE_ZM_PROTOTYPE
+LANG_ENGLISH     "4 giugno 1945"
+
+REFERENCE           DATE_ZM_ASYLUM
+LANG_ENGLISH     "6 settembre 1945"
+
+REFERENCE           DATE_ZM_SUMPF
+LANG_ENGLISH     "21 ottobre 1945"
+
+REFERENCE           DATE_ZM_THEATER
+LANG_ENGLISH     "28 ottobre 1963"
+
+REFERENCE           DATE_ZM_COSMODROME
+LANG_ENGLISH     "6 novembre 1963"
+
+REFERENCE           DATE_ZM_TEMPLE
+LANG_ENGLISH     "25 aprile 1956"
+
+REFERENCE           DATE_ZM_MOON
+LANG_ENGLISH     "13 ottobre 2025"
+
+REFERENCE           DATE_ZM_TOMB
+LANG_ENGLISH     "4 giugno 1918"
+
+REFERENCE           INGAMECHAT
+LANG_ENGLISH      "Schreibe hier, um eine Nachricht an den\n^BBUTTON_MOUSE_CLICK^^BBUTTON_MOUSE_EDIT^ #in-game-chat Kanal zu senden"
+
+REFERENCE           INGAMECHAT_FOOTER
+LANG_ENGLISH      "Hier chatten"
+
+REFERENCE           REWARD_LINE17
+LANG_ENGLISH     "Maggiore probabilità di ottenere un'arma speciale dalla scatola dopo il round 1"
+
 ENDMARKER

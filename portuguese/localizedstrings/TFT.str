@@ -110,4 +110,10 @@ LANG_ENGLISH     "Ocultar armas do AAE na Caixa Misteriosa"
 REFERENCE           ALLWALLBUY
 LANG_ENGLISH      "Ativar armas de parede de baixo custo na caixa"
 
+REFERENCE           HOST5ROUND
+LANG_ENGLISH  "Host - A cada 5 rodadas"
+
+REFERENCE           OMNIMOVEMENT
+LANG_ENGLISH  "Desativar Omnimovement e Strafe Jump"
+
 ENDMARKER

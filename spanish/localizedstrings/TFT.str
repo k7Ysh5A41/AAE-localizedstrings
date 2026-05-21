@@ -113,4 +113,7 @@ LANG_ENGLISH     "Habilitar las armas de pared economicas en la caja"
 REFERENCE           HOST5ROUND
 LANG_ENGLISH     "Host - Cada 5 rondas"
 
+REFERENCE           OMNIMOVEMENT
+LANG_ENGLISH     "Desactivar el Omnimovement y el Salto lateral"
+
 ENDMARKER

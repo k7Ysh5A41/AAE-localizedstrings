@@ -110,4 +110,10 @@ LANG_ENGLISH     "Ukryj bronie z AAE w Mystery Box"
 REFERENCE           ALLWALLBUY
 LANG_ENGLISH         "Włącz tanie bronie ze ściany w skrzyni"
 
+REFERENCE           HOST5ROUND
+LANG_ENGLISH      "Host - Co 5 rund"
+
+REFERENCE           OMNIMOVEMENT
+LANG_ENGLISH      "Wyłącz Omnimovement i Strafe Jump"
+
 ENDMARKER
