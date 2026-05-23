@@ -36,7 +36,7 @@ REFERENCE           SPAWNTYPE_DESC
 LANG_ENGLISH     "\nIncrease the number of special enemies, or disable special enemy rounds altogether in every applicable Standard map.
 
 REFERENCE           SPAWNTYPE_OPTION_DESC
-LANG_ENGLISH     "Increased Special Zombie Frequency"
+LANG_ENGLISH     "Additional Special Enemies"
 
 REFERENCE           ZOMBIE_H
 LANG_ENGLISH     "Maximum Zombie Health Round"
