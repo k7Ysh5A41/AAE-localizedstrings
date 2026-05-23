@@ -240,7 +240,7 @@ REFERENCE            ROUND_DESC
 LANG_ENGLISH         "Choose which round to start on."
 
 REFERENCE            ZC_DESC
-LANG_ENGLISH         "Adds an enemy counter to the HUD. This shows both the number of enemies remaining in a round, and the number of active enemies on the map."
+LANG_ENGLISH         "Adds an enemy counter to the HUD. This shows both the number of enemies remaining per round, and the number of active enemies on the map."
 
 REFERENCE            DELAY_DESC
 LANG_ENGLISH         "Removes the delay between rounds. Incompatible with Roamer."
