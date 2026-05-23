@@ -24,6 +24,6 @@ REFERENCE           RAINBOW
 LANG_ENGLISH     "Zombie Rainbow Eyes"
 
 REFERENCE           DUST
-LANG_ENGLISH     "Disable Zombie Spawn Dust"
+LANG_ENGLISH     "Disable Digging Zombie Dust"
 
 ENDMARKER
