@@ -30,13 +30,13 @@ REFERENCE           ZOMBIE_COUNT_DESC
 LANG_ENGLISH     "Change how the game calculates how many zombies need to be killed for a round to end. Dependent on round number and party size."
 
 REFERENCE           SPAWNTYPE
-LANG_ENGLISH     "Special Enemy Frequency"
+LANG_ENGLISH     "Special Enemy Modifiers"
 
 REFERENCE           SPAWNTYPE_DESC
-LANG_ENGLISH     "\nIncrease the number of special enemies, or disable special enemy rounds altogether in every applicable Standard map.
+LANG_ENGLISH     "\nModify how special enemies work.\n ^3Special Enemy Survival^7: One-third of the round's zombies have been upgraded to the map's special enemy type, and will keep respawning when killed. Kill all the round's zombies to change them back! Only works on Standard maps.\n ^3Disable Special Rounds^7: Removes all rounds dedicated to a unique enemy type (i.e. Hellhounds, Monkeys, Keepers)."
 
 REFERENCE           SPAWNTYPE_OPTION_DESC
-LANG_ENGLISH     "Increased Special Zombie Frequency"
+LANG_ENGLISH     "Special Enemy Survival"
 
 REFERENCE           ZOMBIE_H
 LANG_ENGLISH     "Maximum Zombie Health Round"
@@ -114,6 +114,6 @@ REFERENCE           OMNIMOVEMENT
 LANG_ENGLISH     "Disable Omnimovement and Strafe Jump"
 
 REFERENCE           HOST5ROUND
-LANG_ENGLISH     "Host - Every 5 round"
+LANG_ENGLISH     "Host - Every 5 Rounds"
 
 ENDMARKER

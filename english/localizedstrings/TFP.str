@@ -90,7 +90,7 @@ REFERENCE           JUKE
 LANG_ENGLISH     "Zombie Juke"
 
 REFERENCE           JUKE_DESC
-LANG_ENGLISH     "Similar to Ascension in Black Ops 1, zombies will randomly juke left and right instead of coming at you in a straight line."
+LANG_ENGLISH     "Similar to Ascension in Black Ops 1, zombies will randomly juke left and right when aiming at them."
 
 REFERENCE           AUTORUN
 LANG_ENGLISH     "Disable Super Sprinters After Round 40"

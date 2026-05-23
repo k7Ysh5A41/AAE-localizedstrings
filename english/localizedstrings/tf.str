@@ -240,7 +240,7 @@ REFERENCE            ROUND_DESC
 LANG_ENGLISH         "Choose which round to start on."
 
 REFERENCE            ZC_DESC
-LANG_ENGLISH         "Adds an enemy counter to the HUD. This shows the number of enemies remaining per round."
+LANG_ENGLISH         "Adds an enemy counter to the HUD. This shows both the number of enemies remaining per round, and the number of active enemies on the map."
 
 REFERENCE            DELAY_DESC
 LANG_ENGLISH         "Removes the delay between rounds. Incompatible with Roamer."
@@ -252,7 +252,7 @@ REFERENCE            SE_DESC
 LANG_ENGLISH         "Similar to Black Ops: Cold War, score events will appear next to the crosshair."
 
 REFERENCE            TIMEPLAY_DESC
-LANG_ENGLISH         "Zombies won't stop spawning, and grow stronger over time. Last as long as possible!\n\n^1Notice:^7 Not compatible with Roamer and Zombie Counter."
+LANG_ENGLISH         "Zombies won't stop spawning, and grow stronger over time. Last as long as possible!\n\n^1Notice:^7 Not compatible with Zombie Counter and Roamer."
 
 REFERENCE            DOOR_DESC
 LANG_ENGLISH         "Opens all doors on the map."
@@ -441,10 +441,10 @@ REFERENCE            ROAMERTIME
 LANG_ENGLISH         "Max Roamer Time"
 
 REFERENCE            ROMAER_DESC
-LANG_ENGLISH         "Roamer adds an intermission between every round. No more crawlers! To start the next round immediately, press ADS + Melee."
+LANG_ENGLISH         "Roamer adds an intermission between rounds. No more crawlers! To start the next round, press ADS and Melee."
 
 REFERENCE            ROAMERTIME_DESC
-LANG_ENGLISH         "Choose the maximum amount of time you have between rounds."
+LANG_ENGLISH         "Choose the maximum Roamer time between rounds."
 
 REFERENCE            ROAMER_TITLE
 LANG_ENGLISH         "ROAMER OPTIONS"
