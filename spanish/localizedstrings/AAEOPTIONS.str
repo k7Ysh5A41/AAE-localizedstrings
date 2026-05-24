@@ -377,4 +377,7 @@ LANG_ENGLISH     "Desactivar el icono indicador"
 REFERENCE           NO_TALK
 LANG_ENGLISH     "Desactivar los diálogo de los personajes"
 
+REFERENCE           WEAPON_OPTION
+LANG_ENGLISH        "Comportamiento del kit de armas"
+
 ENDMARKER
