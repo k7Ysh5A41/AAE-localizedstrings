@@ -377,4 +377,7 @@ LANG_ENGLISH     "Disable Perk Effect Indicators"
 REFERENCE           NO_TALK
 LANG_ENGLISH     "Disable Character Dialogue"
 
+REFERENCE           WEAPON_OPTION
+LANG_ENGLISH     "Weapon Kit Behavior"
+
 ENDMARKER
