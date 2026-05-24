@@ -138,13 +138,13 @@ REFERENCE          WW_MAP
 LANG_ENGLISH       "WORLD AT WAR"
 
 REFERENCE          WW_MAP_DESC
-LANG_ENGLISH       "Gritty maps reminiscent of the gruesome World at War era."
+LANG_ENGLISH       "Gritty maps reminiscent of the gruesome World at War mode."
 
 REFERENCE          B1_MAP
 LANG_ENGLISH       "BLACK OPS"
 
 REFERENCE          B1_MAP_DESC
-LANG_ENGLISH       "Action-packed maps guided by the original Black Ops era."
+LANG_ENGLISH       "Action-packed maps guided by the original Black Ops mode."
 
 REFERENCE          DS_MAP
 LANG_ENGLISH       "BLACK OPS DS"
@@ -156,25 +156,25 @@ REFERENCE          B2_MAP
 LANG_ENGLISH       "BLACK OPS II"
 
 REFERENCE          B2_MAP_DESC
-LANG_ENGLISH       "Intense maps based on the adventurous Black Ops II era."
+LANG_ENGLISH       "Intense maps based on the adventurous Black Ops II mode."
 
 REFERENCE          B4_MAP
 LANG_ENGLISH       "BLACK OPS 4"
 
 REFERENCE          B4_MAP_DESC
-LANG_ENGLISH       "Epic maps influenced by the concluding Black Ops 4 era."
+LANG_ENGLISH       "Epic maps influenced by the concluding Black Ops 4 mode."
 
 REFERENCE          CW_MAP
-LANG_ENGLISH       "COLD WAR"
+LANG_ENGLISH       "Modern Zombies"
 
 REFERENCE          CW_MAP_DESC
-LANG_ENGLISH       "Stunning maps shaped around the modern Cold War era and beyond."
+LANG_ENGLISH       "Stunning maps shaped around the contemporary Cold War era."
 
 REFERENCE          IW_MAP
 LANG_ENGLISH       "INFINITE WARFARE"
 
 REFERENCE          IW_MAP_DESC
-LANG_ENGLISH       "Wacky maps nostalgic for the groovy Infinite Warfare era."
+LANG_ENGLISH       "Wacky maps nostalgic for the zany Infinite Warfare mode."
 
 REFERENCE          MW_MAP
 LANG_ENGLISH       "MODERN WARFARE"
