@@ -21,7 +21,7 @@ REFERENCE           SMOKE
 LANG_ENGLISH     "Disable Muzzle Smoke Trails"
 
 REFERENCE           KICK
-LANG_ENGLISH     "Disable Extra Kickback For DLC Weapons"
+LANG_ENGLISH     "Disable Extra Gun Recoil"
 
 REFERENCE           DISABLE_AFK
 LANG_ENGLISH     "Disable AFK"
