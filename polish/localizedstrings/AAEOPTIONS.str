@@ -377,4 +377,7 @@ LANG_ENGLISH      "Wyłącz ikonę wskaźnika"
 REFERENCE           NO_TALK
 LANG_ENGLISH      "Wyłącz dialogi postaci"
 
+REFERENCE           WEAPON_OPTION
+LANG_ENGLISH         "Zachowanie zestawu broni"
+
 ENDMARKER
