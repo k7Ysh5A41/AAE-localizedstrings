@@ -359,6 +359,9 @@ LANG_ENGLISH     "Только особые"
 REFERENCE           AIHP_OPTIONS2
 LANG_ENGLISH     "Только зомби"
 
+REFERENCE           WEAPON_OPTION
+LANG_ENGLISH     "Поведение комплекта оружия"
+
 REFERENCE           WEAPON_OPTIONS3
 LANG_ENGLISH     "Случайный камуфляж"
 
