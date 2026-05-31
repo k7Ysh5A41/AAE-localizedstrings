@@ -336,7 +336,7 @@ REFERENCE           SHOTGUN_GIB
 LANG_ENGLISH        "Отключить дробление дробовика"
 
 REFERENCE           WEAPON_KIT_PAP
-LANG_ENGLISH     "Комплект оружия предназначен только для улучшения"
+LANG_ENGLISH     "Только улучшенное оружие"
 
 REFERENCE           GRENADE_PREDICATION
 LANG_ENGLISH     "Прогноз. гранаты"
@@ -351,7 +351,7 @@ REFERENCE           GRENADE_PREDICATION_OPTION3
 LANG_ENGLISH     "Прогноз. траектории"
 
 REFERENCE           AIHP
-LANG_ENGLISH     "Показывать HP (после воскрешения)"
+LANG_ENGLISH     "Показывать HP (респавн)"
 
 REFERENCE           AIHP_OPTIONS1
 LANG_ENGLISH     "Только особые"
