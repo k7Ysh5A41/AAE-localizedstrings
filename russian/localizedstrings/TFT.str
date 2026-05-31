@@ -6,7 +6,7 @@ CONFIG              "C:\projects\cod\t7\bin\StringEd.cfg"
 FILENOTES           ""
 
 REFERENCE           RANDOM_ATTACHMENTS
-LANG_ENGLISH     "Рандомные модули и камуфляжи"
+LANG_ENGLISH     "Рандомные модули и скины"
 
 REFERENCE           RANDOM_ATTACHMENTS_DESC
 LANG_ENGLISH     "Каждое новое оружие, которое вы получите, будет иметь случайные модификации, прицел и камуфляж"
