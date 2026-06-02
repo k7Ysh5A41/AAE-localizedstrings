@@ -18,10 +18,10 @@ REFERENCE           EE_COUNT
 LANG_ENGLISH     "^5Выполнено пасхальных яиц: ^7"
 
 REFERENCE           EE_COMPLETED_START
-LANG_ENGLISH     "Я выполнил "
+LANG_ENGLISH     "Я завершил пасхальных яиц -"
 
 REFERENCE           EE_COMPLETED_END
-LANG_ENGLISH     " пасхальных яиц всего"
+LANG_ENGLISH     ""
 
 REFERENCE           ROAMER_LABEL
 LANG_ENGLISH     "Нажмите ^3ADS^7 + ^3[{+melee}]^7 чтобы начать следующий раунд"

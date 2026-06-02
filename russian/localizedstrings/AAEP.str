@@ -159,10 +159,10 @@ REFERENCE          B2_MAP_DESC
 LANG_ENGLISH       "Таинственные и крутые карты, основанные на игре Black Ops 2."
 
 REFERENCE          CW_MAP
-LANG_ENGLISH       "Современные зомби"
+LANG_ENGLISH       "ЭПОХА ТЁМНОГО ЭФИРА"
 
 REFERENCE          CW_MAP_DESC
-LANG_ENGLISH       "Потрясающие карты, созданные в эпоху холодной войны и после неё."
+LANG_ENGLISH       "Потрясающие карты, созданные по мотивам саги о Тёмном Эфире."
 
 REFERENCE          IW_MAP
 LANG_ENGLISH       "КАРТЫ INFINITE WARFARE"
@@ -207,10 +207,10 @@ REFERENCE            NO_MAP_DESC
 LANG_ENGLISH         "Карты ужасов, где интенсивность кричит, а отчаяние пронизывает тело, испытывая ваши пределы каждую секунду."
 
 REFERENCE            MTV_MAP
-LANG_ENGLISH         "ВДОХНОВЛЕННЫЕ СМИ"
+LANG_ENGLISH         "ВДОХНОВЛЁННЫЕ КОНТЕНТОМ"
 
 REFERENCE            MTV_MAP_DESC
-LANG_ENGLISH         "Другие карты созданы по мотивам популярных фильмов, сериалов, видеоигр и многого другого."
+LANG_ENGLISH         "Эти карты созданы по мотивам популярных фильмов, сериалов, видеоигр и многого другого."
 
 REFERENCE            SEA_MAP
 LANG_ENGLISH         "КАРТЫ SEATOWN"
