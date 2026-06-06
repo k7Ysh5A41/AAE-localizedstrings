@@ -207,7 +207,7 @@ REFERENCE           SELFHP
 LANG_ENGLISH     "Отключить свою полоску здоровья"
 
 REFERENCE           LAUNCHER_LOCK
-LANG_ENGLISH     "Отключить блокировку ракетницы"
+LANG_ENGLISH     "Отключить автонаводку ракетницы"
 
 REFERENCE           POINTS_COLOR
 LANG_ENGLISH     "Заменить цвет очков на цвет интерфейса (рестарт)"
@@ -375,7 +375,7 @@ REFERENCE           HUDSIZE
 LANG_ENGLISH     "Размер HUD"
 
 REFERENCE           INDICATOR_ICON
-LANG_ENGLISH     "Отключить значок индикатора"
+LANG_ENGLISH     "Отключит индикатор эффектов перка"
 
 REFERENCE           NO_TALK
 LANG_ENGLISH     "Отключить диалоги персонажей"
