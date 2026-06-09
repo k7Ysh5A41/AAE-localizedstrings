@@ -282,7 +282,7 @@ REFERENCE           BGB_START
 LANG_ENGLISH     "Старт раунда губль-гам"
 
 REFERENCE           C4ENDING
-LANG_ENGLISH     "Покупаемок окончание C4 (150K+ / раунд 35)"
+LANG_ENGLISH     "Покупаемое окончание C4 (150K+ / раунд 35)"
 
 REFERENCE           GUNPOS
 LANG_ENGLISH     "Положение модели руки от первого лица"
