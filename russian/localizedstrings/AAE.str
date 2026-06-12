@@ -327,7 +327,7 @@ REFERENCE           RELOADING
 LANG_ENGLISH     "Перезарядка"
 
 REFERENCE           REWARD_TITLE
-LANG_ENGLISH     "Награды за выполнение пасхальных яиц"
+LANG_ENGLISH     "Награды за выполнение пасхальных яиц\nНекоторые награды начинают работать со второго раунда"
 
 REFERENCE           REWARD_15
 LANG_ENGLISH     "15 раз"
@@ -363,7 +363,7 @@ REFERENCE           REWARD_LINE8
 LANG_ENGLISH     "Каждый плотник даёт дополнительные ^BBUTTON_COD_POINT_ICON^200."
 
 REFERENCE           REWARD_LINE9
-LANG_ENGLISH     "Количество подобранной мелочи за улучшайзер увеличено до ^BBUTTON_COD_POINT_ICON^1000."
+LANG_ENGLISH     "Количество подобранной мелочи с улучшайзера увеличено до ^BBUTTON_COD_POINT_ICON^1000."
 
 REFERENCE           REWARD_LINE10
 LANG_ENGLISH     "Каждое улучшение оружия дает ^BBUTTON_COD_POINT_ICON^50."
@@ -378,10 +378,10 @@ REFERENCE           REWARD_LINE12
 LANG_ENGLISH     "Если у вас нет щита, игра автоматически выдаст вам его."
 
 REFERENCE           REWARD_LINE13
-LANG_ENGLISH     "Оборудование для вашего правого Dpad будет постоянно пополняться."
+LANG_ENGLISH     "Прыг. мины и клейморы будут постоянно восстанавливаться (если нет альтернативного оборудования)."
 
 REFERENCE           REWARD_LINE14
-LANG_ENGLISH     "Если у вас сейчас ровно 5 очков, вы получите 50000.\nПредметы экипировки из Revelations и Gorod Krovi будут автоматически разблокированы на 2 раунде"
+LANG_ENGLISH     "Если у вас сейчас ровно 5 очков, вы получите 50000.\nСекретная экипировка на картах Revelations и Gorod Krovi будет автоматически разблокирована"
 
 REFERENCE           CLICKHERE
 LANG_ENGLISH     "Кликните сюда"
@@ -634,7 +634,7 @@ REFERENCE           EECOUNT_INFO_LINE7
 LANG_ENGLISH     "7. Все карты из мастерской и карта «The Giant» не будут учитываться в счётчике пасхалок."
 
 REFERENCE           REWARD_LINE17
-LANG_ENGLISH     "Повышена вероятность получить чудо-оружие из таинственного ящика после 1-го раунда."
+LANG_ENGLISH     "Повышена вероятность получить чудо-оружие из таинственного ящика."
 
 REFERENCE           INGAMECHAT
 LANG_ENGLISH     "Введите здесь, чтобы отправить сообщение.\n^BBUTTON_MOUSE_CLICK^^BBUTTON_MOUSE_EDIT^ Канал #in-game-chat"
