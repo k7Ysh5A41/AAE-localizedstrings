@@ -690,4 +690,7 @@ LANG_ENGLISH     "Hold ^3[{+activate}]^7 to transmit the Giant Robot formation s
 REFERENCE           EE_COUNT_UPDATE
 LANG_ENGLISH     " ^7Easter Egg Counter Update^3 "
 
+REFERENCE           NEW_SONG
+LANG_ENGLISH     " ^7Ordered a Song^3 "
+
 ENDMARKER
