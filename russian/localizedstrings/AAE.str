@@ -684,4 +684,13 @@ LANG_ENGLISH     "13 октября 2025 года"
 REFERENCE           DATE_ZM_TOMB
 LANG_ENGLISH     "4 июня 1918 года" 
 
+REFERENCE           CALLING_GIANT_ROBOT
+LANG_ENGLISH     "Удерживайте ^3[{+activate}]^7 для передачи сигнала формирования гигантского робота." 
+
+REFERENCE           EE_COUNT_UPDATE
+LANG_ENGLISH     " ^7Обновление счётчика пасхальных яиц^3 "
+
+REFERENCE           NEW_SONG
+LANG_ENGLISH     " ^7Заказал песню^3 "
+
 ENDMARKER
