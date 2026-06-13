@@ -252,10 +252,10 @@ REFERENCE           OUTRO
 LANG_ENGLISH     "Аутро"
 
 REFERENCE           ISLAND_LOAD_AA_GUN
-LANG_ENGLISH     "Держите ^3[{+activate}]^7, чтобы зарядить зенитную установку"
+LANG_ENGLISH     "Удерживайте ^3[{+activate}]^7, чтобы зарядить зенитную установку"
 
 REFERENCE           ISLAND_FIRE_AA_GUN
-LANG_ENGLISH     "Держите ^3[{+activate}]^7, чтобы выстрелить из зенитной установки"
+LANG_ENGLISH     "Удерживайте ^3[{+activate}]^7, чтобы выстрелить из зенитной установки"
 
 REFERENCE           NEED_UPDATE
 LANG_ENGLISH     "Найдено новое обновление AAE!\nВам нужно заново подписаться на AAE, чтобы получать обновления и играть онлайн с другими игроками"
