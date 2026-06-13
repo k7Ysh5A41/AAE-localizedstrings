@@ -252,10 +252,10 @@ REFERENCE           OUTRO
 LANG_ENGLISH     "Аутро"
 
 REFERENCE           ISLAND_LOAD_AA_GUN
-LANG_ENGLISH     "Держите ^3[{+activate}]^7, чтобы зарядить зенитную установку"
+LANG_ENGLISH     "Удерживайте ^3[{+activate}]^7, чтобы зарядить зенитную установку"
 
 REFERENCE           ISLAND_FIRE_AA_GUN
-LANG_ENGLISH     "Держите ^3[{+activate}]^7, чтобы выстрелить из зенитной установки"
+LANG_ENGLISH     "Удерживайте ^3[{+activate}]^7, чтобы выстрелить из зенитной установки"
 
 REFERENCE           NEED_UPDATE
 LANG_ENGLISH     "Найдено новое обновление AAE!\nВам нужно заново подписаться на AAE, чтобы получать обновления и играть онлайн с другими игроками"
@@ -683,5 +683,14 @@ LANG_ENGLISH     "13 октября 2025 года"
 
 REFERENCE           DATE_ZM_TOMB
 LANG_ENGLISH     "4 июня 1918 года" 
+
+REFERENCE           CALLING_GIANT_ROBOT
+LANG_ENGLISH     "Удерживайте ^3[{+activate}]^7 для передачи сигнала формирования гигантского робота. [Цена: &&1]" 
+
+REFERENCE           EE_COUNT_UPDATE
+LANG_ENGLISH     " ^7Обновление счётчика пасхальных яиц^3 "
+
+REFERENCE           NEW_SONG
+LANG_ENGLISH     " ^7Заказал песню^3 "
 
 ENDMARKER
