@@ -687,4 +687,7 @@ LANG_ENGLISH     "June 4th, 1918"
 REFERENCE           CALLING_GIANT_ROBOT
 LANG_ENGLISH     "Hold ^3[{+activate}]^7 to transmit the Giant Robot formation signal [Cost: &&1]" 
 
+REFERENCE           EE_COUNT_UPDATE
+LANG_ENGLISH     " ^7Easter Egg Counter Update^3 "
+
 ENDMARKER
