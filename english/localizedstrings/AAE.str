@@ -684,4 +684,7 @@ LANG_ENGLISH     "October 13th, 2025"
 REFERENCE           DATE_ZM_TOMB
 LANG_ENGLISH     "June 4th, 1918" 
 
+REFERENCE           CALLING_GIANT_ROBOT
+LANG_ENGLISH     "Hold ^3[{+activate}]^7 to transmit the Giant Robot formation signal." 
+
 ENDMARKER
