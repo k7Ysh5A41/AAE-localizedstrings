@@ -688,9 +688,24 @@ REFERENCE           CALLING_GIANT_ROBOT
 LANG_ENGLISH     "Удерживайте ^3[{+activate}]^7 для передачи сигнала формирования гигантского робота. [Цена: &&1]" 
 
 REFERENCE           EE_COUNT_UPDATE
-LANG_ENGLISH     " ^7Обновление счётчика пасхальных яиц^3 "
+LANG_ENGLISH     " ^7Обновление счётчика пасхальных яиц^3"
 
 REFERENCE           NEW_SONG
-LANG_ENGLISH     " ^7Заказал песню^3 "
+LANG_ENGLISH     " ^7Заказал песню^3"
+
+REFERENCE           FILTER_GAMEPLAY
+LANG_ENGLISH     "Особенности игрового процесса"
+
+REFERENCE           FILTER_INGAME
+LANG_ENGLISH     "Внутриигровые эффекты"
+
+REFERENCE           FILTER_UI
+LANG_ENGLISH     "Пользовательский интерфейс - 2D HUD"
+
+REFERENCE           FILTER_UI3D
+LANG_ENGLISH     "Пользовательский интерфейс - 3D HUD"
+
+REFERENCE           FILTER_MENU
+LANG_ENGLISH     "Пользовательский интерфейс - Меню"
 
 ENDMARKER
