@@ -6,7 +6,7 @@ CONFIG              "C:\projects\cod\t7\bin\StringEd.cfg"
 FILENOTES           ""
 
 REFERENCE            TITLE
-LANG_ENGLISH         "^6TF'S ZOMBIE OPTIONS PRO"
+LANG_ENGLISH         "CUSTOM MUTATIONS"
 
 REFERENCE            SWITCH
 LANG_ENGLISH         "Включить TF Zombie Options Pro / Сбросить по умолчанию"
@@ -330,7 +330,7 @@ REFERENCE            REVIVE
 LANG_ENGLISH         "Начать с реаниматором"
 
 REFERENCE            ROUNDREVIVE
-LANG_ENGLISH         "Возрождение в конце раунда"
+LANG_ENGLISH         "Самолечение в конце раунда"
 
 REFERENCE            T8PERK
 LANG_ENGLISH         "Потеря перка по времени"
@@ -462,7 +462,7 @@ REFERENCE            BOXSHARE
 LANG_ENGLISH         "Делиться оружием с таинственной коробки"
 
 REFERENCE            LOADOUTSAVE
-LANG_ENGLISH         "Сохранение оружия"
+LANG_ENGLISH         "Восстановление оружия"
 
 REFERENCE            C4
 LANG_ENGLISH         "Отключить покупаемое окончание C4"

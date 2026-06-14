@@ -684,4 +684,29 @@ LANG_ENGLISH     "October 13th, 2025"
 REFERENCE           DATE_ZM_TOMB
 LANG_ENGLISH     "June 4th, 1918" 
 
+REFERENCE           CALLING_GIANT_ROBOT
+LANG_ENGLISH     "Hold ^3[{+activate}]^7 to transmit the Giant Robot formation signal [Cost: &&1]" 
+
+REFERENCE           EE_COUNT_UPDATE
+LANG_ENGLISH     " ^7Easter Egg Counter Update^3 "
+
+REFERENCE           NEW_SONG
+LANG_ENGLISH     " ^7Ordered a Song^3 "
+
+REFERENCE           FILTER_GAMEPLAY
+LANG_ENGLISH     "Gameplay Features"
+
+REFERENCE           FILTER_INGAME
+LANG_ENGLISH     "In-Game Effects"
+
+REFERENCE           FILTER_UI
+LANG_ENGLISH     "User Interface - 2D HUD"
+
+REFERENCE           FILTER_UI3D
+LANG_ENGLISH     "User Interface - 3D HUD"
+
+REFERENCE           FILTER_MENU
+LANG_ENGLISH     "User Interface - Menus"
+
+
 ENDMARKER

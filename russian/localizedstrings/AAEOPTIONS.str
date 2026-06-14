@@ -207,7 +207,7 @@ REFERENCE           SELFHP
 LANG_ENGLISH     "Отключить свою полоску здоровья"
 
 REFERENCE           LAUNCHER_LOCK
-LANG_ENGLISH     "Отключить блокировку ракетницы"
+LANG_ENGLISH     "Отключить автонаводку ракетницы"
 
 REFERENCE           POINTS_COLOR
 LANG_ENGLISH     "Заменить цвет очков на цвет интерфейса (рестарт)"
@@ -282,7 +282,7 @@ REFERENCE           BGB_START
 LANG_ENGLISH     "Старт раунда губль-гам"
 
 REFERENCE           C4ENDING
-LANG_ENGLISH     "Покупаемок окончание C4 (150K+ / раунд 35)"
+LANG_ENGLISH     "Покупаемое окончание C4 (150K+ / раунд 35)"
 
 REFERENCE           GUNPOS
 LANG_ENGLISH     "Положение модели руки от первого лица"
@@ -336,7 +336,7 @@ REFERENCE           SHOTGUN_GIB
 LANG_ENGLISH        "Отключить дробление дробовика"
 
 REFERENCE           WEAPON_KIT_PAP
-LANG_ENGLISH     "Комплект оружия предназначен только для улучшения"
+LANG_ENGLISH     "Только улучшенное оружие"
 
 REFERENCE           GRENADE_PREDICATION
 LANG_ENGLISH     "Прогноз. гранаты"
@@ -351,13 +351,16 @@ REFERENCE           GRENADE_PREDICATION_OPTION3
 LANG_ENGLISH     "Прогноз. траектории"
 
 REFERENCE           AIHP
-LANG_ENGLISH     "Показывать HP (после воскрешения)"
+LANG_ENGLISH     "Показывать HP (респавн)"
 
 REFERENCE           AIHP_OPTIONS1
 LANG_ENGLISH     "Только особые"
 
 REFERENCE           AIHP_OPTIONS2
 LANG_ENGLISH     "Только зомби"
+
+REFERENCE           WEAPON_OPTION
+LANG_ENGLISH     "Поведение комплекта оружия"
 
 REFERENCE           WEAPON_OPTIONS3
 LANG_ENGLISH     "Случайный камуфляж"
@@ -372,7 +375,7 @@ REFERENCE           HUDSIZE
 LANG_ENGLISH     "Размер HUD"
 
 REFERENCE           INDICATOR_ICON
-LANG_ENGLISH     "Отключить значок индикатора"
+LANG_ENGLISH     "Отключит индикатор эффектов перка"
 
 REFERENCE           NO_TALK
 LANG_ENGLISH     "Отключить диалоги персонажей"
