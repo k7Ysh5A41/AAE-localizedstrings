@@ -687,4 +687,28 @@ LANG_ENGLISH      "Hier chatten"
 REFERENCE           REWARD_LINE17
 LANG_ENGLISH     "Höhere Chance, nach Runde 1 eine Wunderwaffe aus der Kiste zu erhalten"
 
+REFERENCE           CALLING_GIANT_ROBOT
+LANG_ENGLISH         "Halten Sie ^3[{+activate}]^7 gedrückt, um das Formationssignal des Riesenroboters zu übertragen."
+
+REFERENCE           EE_COUNT_UPDATE
+LANG_ENGLISH         " ^7Aktualisierung des Easter-Egg-Zählers^3 "
+
+REFERENCE           NEW_SONG
+LANG_ENGLISH         " ^7Lied angefordert^3 "
+
+REFERENCE           FILTER_GAMEPLAY
+LANG_ENGLISH         "Gameplay-Funktionen"
+
+REFERENCE           FILTER_INGAME
+LANG_ENGLISH         "Effekte im Spiel"
+
+REFERENCE           FILTER_UI
+LANG_ENGLISH         "Benutzeroberfläche - 2D-HUD"
+
+REFERENCE           FILTER_UI3D
+LANG_ENGLISH         "Benutzeroberfläche - 3D-HUD"
+
+REFERENCE           FILTER_MENU
+LANG_ENGLISH         "Benutzeroberfläche - Menüs"
+
 ENDMARKER

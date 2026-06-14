@@ -695,4 +695,29 @@ LANG_ENGLISH  "Chat aqui"
 
 REFERENCE           REWARD_LINE17
 LANG_ENGLISH     "Maior chance de obter uma arma especial da caixa após a rodada 1"
+
+REFERENCE           CALLING_GIANT_ROBOT
+LANG_ENGLISH     "Mantenha ^3[{+activate}]^7 pressionado para transmitir o sinal de formação do Robô Gigante."
+
+REFERENCE           EE_COUNT_UPDATE
+LANG_ENGLISH     " ^7Atualização do contador do Easter Egg^3 "
+
+REFERENCE           NEW_SONG
+LANG_ENGLISH     " ^7Música solicitada^3 "
+
+REFERENCE           FILTER_GAMEPLAY
+LANG_ENGLISH     "Recursos de jogabilidade"
+
+REFERENCE           FILTER_INGAME
+LANG_ENGLISH     "Efeitos em jogo"
+
+REFERENCE           FILTER_UI
+LANG_ENGLISH     "Interface do usuário - HUD 2D"
+
+REFERENCE           FILTER_UI3D
+LANG_ENGLISH     "Interface do usuário - HUD 3D"
+
+REFERENCE           FILTER_MENU
+LANG_ENGLISH     "Interface do usuário - Menus"
+
 ENDMARKER

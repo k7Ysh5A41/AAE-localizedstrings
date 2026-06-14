@@ -339,16 +339,16 @@ REFERENCE           WEAPON_KIT_PAP
 LANG_ENGLISH        "Solo con las armas mejoradas"
 
 REFERENCE           GRENADE_PREDICATION
-LANG_ENGLISH       "Predicción de granadas"
+LANG_ENGLISH       "Forma visual de la granada"
 
 REFERENCE           GRENADE_PREDICATION_OPTION1
-LANG_ENGLISH       "Predicción y barra de fusible"
+LANG_ENGLISH       "Predicción y temporizador"
 
 REFERENCE           GRENADE_PREDICATION_OPTION2
-LANG_ENGLISH       "Barra de temporizador del fusible"
+LANG_ENGLISH       "Solo temporizador"
 
 REFERENCE           GRENADE_PREDICATION_OPTION3
-LANG_ENGLISH       "Predicción de la trayectoria"
+LANG_ENGLISH       "Solo Predicción"
 
 REFERENCE           SYSTIME
 LANG_ENGLISH       "Deshab. la hora visual del sistema"

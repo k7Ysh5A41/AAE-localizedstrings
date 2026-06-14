@@ -696,4 +696,28 @@ LANG_ENGLISH      "Czat tutaj"
 REFERENCE           REWARD_LINE17
 LANG_ENGLISH     "Większa szansa na zdobycie Wonder Weapon ze skrzynki po 1 rundzie"
 
+REFERENCE           CALLING_GIANT_ROBOT
+LANG_ENGLISH         "Przytrzymaj ^3[{+activate}]^7, aby nadać sygnał formacji Gigantycznego Robota."
+
+REFERENCE           EE_COUNT_UPDATE
+LANG_ENGLISH         " ^7Aktualizacja licznika Easter Egga^3 "
+
+REFERENCE           NEW_SONG
+LANG_ENGLISH         " ^7Zamówiono piosenkę^3 "
+
+REFERENCE           FILTER_GAMEPLAY
+LANG_ENGLISH         "Funkcje rozgrywki"
+
+REFERENCE           FILTER_INGAME
+LANG_ENGLISH         "Efekty w grze"
+
+REFERENCE           FILTER_UI
+LANG_ENGLISH         "Interfejs użytkownika - HUD 2D"
+
+REFERENCE           FILTER_UI3D
+LANG_ENGLISH         "Interfejs użytkownika - HUD 3D"
+
+REFERENCE           FILTER_MENU
+LANG_ENGLISH         "Interfejs użytkownika - Menu"
+
 ENDMARKER
