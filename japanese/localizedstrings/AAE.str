@@ -687,4 +687,28 @@ LANG_ENGLISH    "ここでチャット"
 REFERENCE           REWARD_LINE17
 LANG_ENGLISH     "ラウンド1以降、ボックスからワンダーウェポンを入手する確率が上昇"
 
+REFERENCE           CALLING_GIANT_ROBOT
+LANG_ENGLISH       "^3[{+activate}]^7を長押しして、巨大ロボットの編隊信号を送信する。"
+
+REFERENCE           EE_COUNT_UPDATE
+LANG_ENGLISH       " ^7イースターエッグカウンター更新^3 "
+
+REFERENCE           NEW_SONG
+LANG_ENGLISH       " ^7曲をリクエストしました^3 "
+
+REFERENCE           FILTER_GAMEPLAY
+LANG_ENGLISH       "ゲームプレイ機能"
+
+REFERENCE           FILTER_INGAME
+LANG_ENGLISH       "ゲーム内エフェクト"
+
+REFERENCE           FILTER_UI
+LANG_ENGLISH       "ユーザーインターフェース - 2D HUD"
+
+REFERENCE           FILTER_UI3D
+LANG_ENGLISH       "ユーザーインターフェース - 3D HUD"
+
+REFERENCE           FILTER_MENU
+LANG_ENGLISH       "ユーザーインターフェース - メニュー"
+
 ENDMARKER

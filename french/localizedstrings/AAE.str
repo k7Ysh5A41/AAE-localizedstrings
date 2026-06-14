@@ -687,4 +687,28 @@ LANG_ENGLISH      "Écrire ici"
 REFERENCE           REWARD_LINE17
 LANG_ENGLISH     "Plus de chances d'obtenir une arme spéciale dans la boîte après la manche 1"
 
+REFERENCE           CALLING_GIANT_ROBOT
+LANG_ENGLISH         "Maintenez ^3[{+activate}]^7 pour transmettre le signal de formation du Robot Géant."
+
+REFERENCE           EE_COUNT_UPDATE
+LANG_ENGLISH         " ^7Mise à jour du compteur d'Easter Egg^3 "
+
+REFERENCE           NEW_SONG
+LANG_ENGLISH         " ^7Chanson demandée^3 "
+
+REFERENCE           FILTER_GAMEPLAY
+LANG_ENGLISH         "Fonctionnalités de jeu"
+
+REFERENCE           FILTER_INGAME
+LANG_ENGLISH         "Effets en jeu"
+
+REFERENCE           FILTER_UI
+LANG_ENGLISH         "Interface utilisateur - HUD 2D"
+
+REFERENCE           FILTER_UI3D
+LANG_ENGLISH         "Interface utilisateur - HUD 3D"
+
+REFERENCE           FILTER_MENU
+LANG_ENGLISH         "Interface utilisateur - Menus"
+
 ENDMARKER

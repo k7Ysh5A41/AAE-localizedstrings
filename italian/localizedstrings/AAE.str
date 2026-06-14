@@ -687,4 +687,28 @@ LANG_ENGLISH      "Hier chatten"
 REFERENCE           REWARD_LINE17
 LANG_ENGLISH     "Maggiore probabilità di ottenere un'arma speciale dalla scatola dopo il round 1"
 
+REFERENCE           CALLING_GIANT_ROBOT
+LANG_ENGLISH        "Tieni premuto ^3[{+activate}]^7 per trasmettere il segnale di formazione del Robot Gigante."
+
+REFERENCE           EE_COUNT_UPDATE
+LANG_ENGLISH        " ^7Aggiornamento del contatore dell'Easter Egg^3 "
+
+REFERENCE           NEW_SONG
+LANG_ENGLISH        " ^7Canzone richiesta^3 "
+
+REFERENCE           FILTER_GAMEPLAY
+LANG_ENGLISH        "Funzionalità di gioco"
+
+REFERENCE           FILTER_INGAME
+LANG_ENGLISH        "Effetti in gioco"
+
+REFERENCE           FILTER_UI
+LANG_ENGLISH        "Interfaccia utente - HUD 2D"
+
+REFERENCE           FILTER_UI3D
+LANG_ENGLISH        "Interfaccia utente - HUD 3D"
+
+REFERENCE           FILTER_MENU
+LANG_ENGLISH        "Interfaccia utente - Menu"
+
 ENDMARKER

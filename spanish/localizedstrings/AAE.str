@@ -390,10 +390,10 @@ REFERENCE           REWARD_LINE14
 LANG_ENGLISH        "Si tus puntos son exactamente 5 puntos, recibirás 50,000."
 
 REFERENCE           RESTARTHINT
-LANG_ENGLISH        "(No uses fast_restart ni map_restart) Presiona &&1 ^2&&2^7 veces para reiniciar el mapa"
+LANG_ENGLISH        "(No uses fast_restart ni map_restart) Presiona &&1 ^2&&2^7 veces para reiniciar el mapa."
 
 REFERENCE           RESTARTHINT_BACK
-LANG_ENGLISH        "(No uses fast_restart ni map_restart) Presiona &&1 &&2 veces para reiniciar el mapa"
+LANG_ENGLISH        "(No uses fast_restart ni map_restart) Presiona &&1 &&2 veces para reiniciar el mapa."
 
 REFERENCE           TOTAL_PLAYTIME
 LANG_ENGLISH     "TIEMPO TOTAL JUGADO"
@@ -686,5 +686,29 @@ LANG_ENGLISH     "Chatea aquí"
 
 REFERENCE           REWARD_LINE17
 LANG_ENGLISH     "Mayor probabilidad de obtener un arma especial de la caja después de la ronda 1"
+
+REFERENCE           CALLING_GIANT_ROBOT
+LANG_ENGLISH        "Presiona ^3[{+activate}]^7 para llamar a los tres robots."
+
+REFERENCE           EE_COUNT_UPDATE
+LANG_ENGLISH        " ^7Contador de EE actualizado^3 "
+
+REFERENCE           NEW_SONG
+LANG_ENGLISH        " ^7puso la canción de^3 "
+
+REFERENCE           FILTER_GAMEPLAY
+LANG_ENGLISH        "Funciones de juego"
+
+REFERENCE           FILTER_INGAME
+LANG_ENGLISH        "Efectos en partida"
+
+REFERENCE           FILTER_UI
+LANG_ENGLISH        "Interfaz de usuario - HUD 2D"
+
+REFERENCE           FILTER_UI3D
+LANG_ENGLISH        "Interfaz de usuario - HUD 3D"
+
+REFERENCE           FILTER_MENU
+LANG_ENGLISH        "Interfaz de usuario - Menús"
 
 ENDMARKER

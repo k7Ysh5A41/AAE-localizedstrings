@@ -6,7 +6,7 @@ CONFIG              "C:\projects\cod\t7\bin\StringEd.cfg"
 FILENOTES           ""
 
 REFERENCE            TITLE
-LANG_ENGLISH         "CUSTOM MUTATIONS"
+LANG_ENGLISH         "MUTATIONS PERSONNALISÉES"
 
 REFERENCE            SWITCH
 LANG_ENGLISH         "Activer TF Zombie Options Pro / Réinitialiser par défaut"
