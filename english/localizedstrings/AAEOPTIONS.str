@@ -369,7 +369,7 @@ REFERENCE           AIHP_OPTIONS2
 LANG_ENGLISH     "Zombies and Keepers Only"
 
 REFERENCE           HUDSIZE
-LANG_ENGLISH     "Hud Size"
+LANG_ENGLISH     "HUD Scale"
 
 REFERENCE           INDICATOR_ICON
 LANG_ENGLISH     "Disable Perk Effect Indicators"
