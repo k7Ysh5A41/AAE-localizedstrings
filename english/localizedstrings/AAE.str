@@ -708,5 +708,7 @@ LANG_ENGLISH     "User Interface - 3D HUD"
 REFERENCE           FILTER_MENU
 LANG_ENGLISH     "User Interface - Menus"
 
+REFERENCE           MICROMISSILE_LAUNCHER_HINT
+LANG_ENGLISH     "Press ^3ADS^7 to Lock-On ( 5 max )"
 
 ENDMARKER
