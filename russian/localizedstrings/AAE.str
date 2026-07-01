@@ -708,4 +708,7 @@ LANG_ENGLISH     "Пользовательский интерфейс - 3D HUD"
 REFERENCE           FILTER_MENU
 LANG_ENGLISH     "Пользовательский интерфейс - Меню"
 
+REFERENCE           MICROMISSILE_LAUNCHER_HINT
+LANG_ENGLISH     "Удерживайте ^3ADS^7 чтобы захватить цель (до 5 целей)"
+
 ENDMARKER
