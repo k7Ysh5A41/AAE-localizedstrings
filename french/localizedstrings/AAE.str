@@ -711,4 +711,7 @@ LANG_ENGLISH         "Interface utilisateur - HUD 3D"
 REFERENCE           FILTER_MENU
 LANG_ENGLISH         "Interface utilisateur - Menus"
 
+REFERENCE           MICROMISSILE_LAUNCHER_HINT
+LANG_ENGLISH         "Appuyez sur ^3Visée^7 pour verrouiller ( 5 max )"
+
 ENDMARKER

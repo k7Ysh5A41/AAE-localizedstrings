@@ -720,4 +720,7 @@ LANG_ENGLISH         "Interfejs użytkownika - HUD 3D"
 REFERENCE           FILTER_MENU
 LANG_ENGLISH         "Interfejs użytkownika - Menu"
 
+REFERENCE           MICROMISSILE_LAUNCHER_HINT
+LANG_ENGLISH         "Naciśnij ^3Celowanie^7, aby namierzyć ( maks. 5 )"
+
 ENDMARKER

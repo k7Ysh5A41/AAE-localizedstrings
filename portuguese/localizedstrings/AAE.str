@@ -720,4 +720,7 @@ LANG_ENGLISH     "Interface do usuário - HUD 3D"
 REFERENCE           FILTER_MENU
 LANG_ENGLISH     "Interface do usuário - Menus"
 
+REFERENCE           MICROMISSILE_LAUNCHER_HINT
+LANG_ENGLISH     "Pressione ^3Mira^7 para travar o alvo ( máx. 5 )"
+
 ENDMARKER
