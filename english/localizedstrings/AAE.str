@@ -820,4 +820,7 @@ LANG_ENGLISH     "Richard Nixon"
 REFERENCE           CHOOSE_HERO_LIST36
 LANG_ENGLISH     "Fidel Castro"
 
+REFERENCE           EDITABLE_HELP
+LANG_ENGLISH     "Edit this in the Control menu"
+
 ENDMARKER
