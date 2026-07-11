@@ -823,4 +823,13 @@ LANG_ENGLISH     "Fidel Castro"
 REFERENCE           EDITABLE_HELP
 LANG_ENGLISH     "Edit this in the Control menu"
 
+REFERENCE           DATE_ZM_PENTAGON
+LANG_ENGLISH     "November 6th, 1963" 
+
+REFERENCE           DATE_ZM_PRISON
+LANG_ENGLISH     "Sometime after January 19th, 1934" 
+
+REFERENCE           DATE_ZM_COAST
+LANG_ENGLISH     "March 17th, 2011" 
+
 ENDMARKER
