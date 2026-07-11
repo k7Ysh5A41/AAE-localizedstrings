@@ -162,7 +162,7 @@ REFERENCE           PAP_AND_NORMAL
 LANG_ENGLISH     "Улучшайзер и обычный"
 
 REFERENCE           THROW_CANCLE
-LANG_ENGLISH     " / Отменить бросок"
+LANG_ENGLISH     "Отменить бросок"
 
 REFERENCE           IMMUNE
 LANG_ENGLISH     "Невосприимчивый"

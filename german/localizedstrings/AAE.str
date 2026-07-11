@@ -162,7 +162,7 @@ REFERENCE           PAP_AND_NORMAL
 LANG_ENGLISH     "PaP und Normal"
 
 REFERENCE           THROW_CANCLE
-LANG_ENGLISH     " / Wurfgegenstand Abbrechen"
+LANG_ENGLISH     "Wurfgegenstand Abbrechen"
 
 REFERENCE           IMMUNE
 LANG_ENGLISH     "Immun"

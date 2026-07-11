@@ -162,7 +162,7 @@ REFERENCE           PAP_AND_NORMAL
 LANG_ENGLISH     "PaP と 通常"
 
 REFERENCE           THROW_CANCLE
-LANG_ENGLISH     " / 投擲物キャンセル"
+LANG_ENGLISH     "投擲物キャンセル"
 
 REFERENCE           IMMUNE
 LANG_ENGLISH     "無敵"

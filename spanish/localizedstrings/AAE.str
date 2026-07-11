@@ -162,7 +162,7 @@ REFERENCE           PAP_AND_NORMAL
 LANG_ENGLISH     "PAP y Normal"
 
 REFERENCE           THROW_CANCLE
-LANG_ENGLISH     " / Cancelar arrojable"
+LANG_ENGLISH     "Cancelar arrojable"
 
 REFERENCE           IMMUNE
 LANG_ENGLISH     "Inmune"

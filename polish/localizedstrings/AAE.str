@@ -162,7 +162,7 @@ REFERENCE           PAP_AND_NORMAL
 LANG_ENGLISH     "PaP i Normalna"
 
 REFERENCE           THROW_CANCLE
-LANG_ENGLISH     " / Anuluj Rzucany"
+LANG_ENGLISH     "Anuluj Rzucany"
 
 REFERENCE           IMMUNE
 LANG_ENGLISH     "Odporny"

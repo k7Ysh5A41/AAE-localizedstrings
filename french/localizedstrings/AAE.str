@@ -162,7 +162,7 @@ REFERENCE           PAP_AND_NORMAL
 LANG_ENGLISH     "PaP et Normal"
 
 REFERENCE           THROW_CANCLE
-LANG_ENGLISH     " / Annuler Lancement"
+LANG_ENGLISH     "Annuler Lancement"
 
 REFERENCE           IMMUNE
 LANG_ENGLISH     "Immunisé"

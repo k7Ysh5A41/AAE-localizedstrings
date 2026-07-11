@@ -162,7 +162,7 @@ REFERENCE           PAP_AND_NORMAL
 LANG_ENGLISH     "PAP and Normal"
 
 REFERENCE           THROW_CANCLE
-LANG_ENGLISH     " / Throwable Cancel"
+LANG_ENGLISH     "Throwable Cancel"
 
 REFERENCE           IMMUNE
 LANG_ENGLISH     "Immune"
@@ -710,5 +710,114 @@ LANG_ENGLISH     "User Interface - Menus"
 
 REFERENCE           MICROMISSILE_LAUNCHER_HINT
 LANG_ENGLISH     "Press ^3ADS^7 to Lock-On ( 5 max )"
+
+REFERENCE            KEYBIND_FLASHLIGHT
+LANG_ENGLISH         "Flashlight"
+
+REFERENCE            KEYBIND_FLASHLIGHT_DESC
+LANG_ENGLISH         "Toggle flashlight."
+
+REFERENCE            KEYBIND_PING
+LANG_ENGLISH         "Ping"
+
+REFERENCE            KEYBIND_PING_DESC
+LANG_ENGLISH         "Ping or mark a position."
+
+REFERENCE            KEYBIND_DROP_POINTS
+LANG_ENGLISH         "Drop 1000 Points"
+
+REFERENCE            KEYBIND_DROP_POINTS_DESC
+LANG_ENGLISH         "Drop 1000 points."
+
+REFERENCE            KEYBIND_SHIELD_DEPLOY
+LANG_ENGLISH         "Deploy Shield"
+
+REFERENCE            KEYBIND_SHIELD_DEPLOY_DESC
+LANG_ENGLISH         "Place the shield on the ground."
+
+REFERENCE            KEYBIND_THIRD_PERSON
+LANG_ENGLISH         "Third Person"
+
+REFERENCE            KEYBIND_THIRD_PERSON_DESC
+LANG_ENGLISH         "Toggle third person view."
+
+REFERENCE            KEYBIND_DNI_NIGHTVISION
+LANG_ENGLISH         "DNI Nightvision"
+
+REFERENCE            KEYBIND_DNI_NIGHTVISION_DESC
+LANG_ENGLISH         "Toggle DNI nightvision."
+
+REFERENCE            KEYBIND_OVERHEAD_MAP_VIEW
+LANG_ENGLISH         "Overhead Map View"
+
+REFERENCE            KEYBIND_OVERHEAD_MAP_VIEW_DESC
+LANG_ENGLISH         "Toggle overhead map view."
+
+REFERENCE            KEYBIND_HIDE_HUD
+LANG_ENGLISH         "Hide Heads Up Display"
+
+REFERENCE            KEYBIND_HIDE_HUD_DESC
+LANG_ENGLISH         "Hide or show the heads up display."
+
+REFERENCE            KEYBIND_PAY_HALF_DOOR_COST
+LANG_ENGLISH         "Pay Half Door Cost"
+
+REFERENCE            KEYBIND_PAY_HALF_DOOR_COST_DESC
+LANG_ENGLISH         "Pay only half of the cost when opening a door."
+
+REFERENCE            KEYBIND_SPRAY_PAINT_EMBLEM
+LANG_ENGLISH         "Spray Paint Emblem"
+
+REFERENCE            KEYBIND_SPRAY_PAINT_EMBLEM_DESC
+LANG_ENGLISH         "Spray paint emblem."
+
+REFERENCE            KEYBIND_SET_MULEKICK_WEAPON
+LANG_ENGLISH         "Set Mulekick Weapon"
+
+REFERENCE            KEYBIND_SET_MULEKICK_WEAPON_DESC
+LANG_ENGLISH         "Set current weapon as Mulekick weapon."
+
+REFERENCE            KEYBIND_CHANGE_CAMO
+LANG_ENGLISH         "Change Camo"
+
+REFERENCE            KEYBIND_PREVIOUS_CAMO_DESC
+LANG_ENGLISH         "Switch to previous camo."
+
+REFERENCE            KEYBIND_NEXT_CAMO_DESC
+LANG_ENGLISH         "Switch to next camo."
+
+REFERENCE            KEYBIND_CHANGE_RETICLE
+LANG_ENGLISH         "Change Reticle"
+
+REFERENCE            KEYBIND_PREVIOUS_RETICLE_DESC
+LANG_ENGLISH         "Switch to previous reticle."
+
+REFERENCE            KEYBIND_NEXT_RETICLE_DESC
+LANG_ENGLISH         "Switch to next reticle."
+
+REFERENCE            KEYBIND_ENHANCED_CONTROLS
+LANG_ENGLISH         "Enhanced Controls"
+
+REFERENCE            KEYBIND_WEAPON_INSPECT_REDRAW
+LANG_ENGLISH         "Weapon Inspect / Redraw"
+
+REFERENCE            CHATCMD_HELP
+LANG_ENGLISH         "Press ^3&&1^7 on your keyboard, then type ^3/?^7 in the chat box to see all chat commands"
+
+REFERENCE            PAYHALF_DOOR
+LANG_ENGLISH         "&&1 ^7Pay Half"
+
+///////////////////////////////////////////////////////////
+REFERENCE           CHOOSE_HERO_LIST33
+LANG_ENGLISH     "John F. Kennedy"
+
+REFERENCE           CHOOSE_HERO_LIST34
+LANG_ENGLISH     "Robert McNamara"
+
+REFERENCE           CHOOSE_HERO_LIST35
+LANG_ENGLISH     "Richard Nixon"
+
+REFERENCE           CHOOSE_HERO_LIST36
+LANG_ENGLISH     "Fidel Castro"
 
 ENDMARKER
