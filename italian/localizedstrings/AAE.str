@@ -711,4 +711,7 @@ LANG_ENGLISH        "Interfaccia utente - HUD 3D"
 REFERENCE           FILTER_MENU
 LANG_ENGLISH        "Interfaccia utente - Menu"
 
+REFERENCE           MICROMISSILE_LAUNCHER_HINT
+LANG_ENGLISH        "Premi ^3Mira^7 per agganciare ( max 5 )"
+
 ENDMARKER

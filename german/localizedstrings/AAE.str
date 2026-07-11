@@ -711,4 +711,7 @@ LANG_ENGLISH         "Benutzeroberfläche - 3D-HUD"
 REFERENCE           FILTER_MENU
 LANG_ENGLISH         "Benutzeroberfläche - Menüs"
 
+REFERENCE           MICROMISSILE_LAUNCHER_HINT
+LANG_ENGLISH         "Drücke ^3Zielen^7 zum Aufschalten ( max. 5 )"
+
 ENDMARKER

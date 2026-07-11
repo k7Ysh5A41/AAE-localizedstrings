@@ -711,4 +711,7 @@ LANG_ENGLISH        "Interfaz de usuario - HUD 3D"
 REFERENCE           FILTER_MENU
 LANG_ENGLISH        "Interfaz de usuario - Menús"
 
+REFERENCE           MICROMISSILE_LAUNCHER_HINT
+LANG_ENGLISH        "Presiona ^3apuntar^7 para fijar un objetivo ( máx. 5 )"
+
 ENDMARKER

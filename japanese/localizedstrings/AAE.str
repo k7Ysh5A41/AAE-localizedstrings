@@ -711,4 +711,7 @@ LANG_ENGLISH       "ユーザーインターフェース - 3D HUD"
 REFERENCE           FILTER_MENU
 LANG_ENGLISH       "ユーザーインターフェース - メニュー"
 
+REFERENCE           MICROMISSILE_LAUNCHER_HINT
+LANG_ENGLISH       "^3照準^7を押してロックオン（最大5）"
+
 ENDMARKER
