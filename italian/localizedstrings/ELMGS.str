@@ -107,4 +107,15 @@ LANG_ENGLISH     "L'equipaggio naufragato di intrepidi esploratori è bloccato s
 REFERENCE            ZM_TOMB_TITLE
 LANG_ENGLISH        "SITO DI SCAVO 64"
 
+LANG_ENGLISH         "Il Pentagono è sotto attacco! Washington sta per raggiungere il DEFCON 1 in questo capitolo di "Zombies"."
+
+REFERENCE            FIVE_LINE1
+LANG_ENGLISH         "Il Pentagono"
+
+REFERENCE            FIVE_LINE2
+LANG_ENGLISH         "Virginia, USA"
+
+REFERENCE            FIVE_LINE3
+LANG_ENGLISH         ""FIVE""
+
 ENDMARKER

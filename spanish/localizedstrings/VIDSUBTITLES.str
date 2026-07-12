@@ -497,4 +497,70 @@ LANG_ENGLISH         "^1Dempsey^7: ¡ESPERA! Si realmente tiene que morir para s
 REFERENCE            CASTLE_OUTRO_14
 LANG_ENGLISH         "^1Dempsey^7: Me alegro de verte, Tank."
 
+REFERENCE           PENTAGON_INTRO_1
+LANG_ENGLISH     "^1Kennedy^7: El cambio es ley de vida."
+
+REFERENCE           PENTAGON_INTRO_2
+LANG_ENGLISH     "^1Kennedy^7: Y los que solo miran al pasado o al presente se perderán el futuro."
+
+REFERENCE           PENTAGON_INTRO_3
+LANG_ENGLISH     "^1Kennedy^7: ¡He dicho que se perderá en el futuro!"
+
+REFERENCE           PENTAGON_INTRO_4
+LANG_ENGLISH     "^1Castro^7: ¡Me lo he perdido!"
+
+REFERENCE           PENTAGON_INTRO_5
+LANG_ENGLISH     "^1McNamara^7: Primer Ministro Castro, la crisis de los misiles fue la gota que colmó el vaso."
+
+REFERENCE           PENTAGON_INTRO_6_1
+LANG_ENGLISH     "^1McNamara^7: Casi nos volamos por los aires, lo hemos invitado hoy."
+
+REFERENCE           PENTAGON_INTRO_6_2
+LANG_ENGLISH     "^1Kennedy^7: ¡De buena fe!"
+
+REFERENCE           PENTAGON_INTRO_6_3
+LANG_ENGLISH     "^1McNamara^7: ¡De buena fe!"
+
+REFERENCE           PENTAGON_INTRO_8
+LANG_ENGLISH     "^1McNamara^7: Para solucionar esto."
+
+REFERENCE           PENTAGON_INTRO_9
+LANG_ENGLISH     "^1Castro^7: ¿Y qué hace él aquí? ¡Perdió!"
+
+REFERENCE           PENTAGON_INTRO_10
+LANG_ENGLISH     "^1Kennedy^7: Como siempre digo, perdona a tus enemigos, pero no olvides sus nombres."
+
+REFERENCE           PENTAGON_INTRO_11
+LANG_ENGLISH     "^1Kennedy^7: Caballeros, me gusta pensar que en la larga historia del mundo, solo unas pocas generaciones han..."
+
+REFERENCE           PENTAGON_INTRO_12
+LANG_ENGLISH     "^1Nixon^7: ¡Parece que alguien está entrando!"
+
+REFERENCE           PENTAGON_INTRO_13
+LANG_ENGLISH     "^1Kennedy^7: La tormenta Dick, siéntese."
+
+REFERENCE           PENTAGON_INTRO_14
+LANG_ENGLISH     "^1Nixon^7: ¡Dios mío!"
+
+REFERENCE           PENTAGON_INTRO_15
+LANG_ENGLISH     "^1McNamara^7: Parece que han entrado en el Pentágono."
+
+REFERENCE           PENTAGON_INTRO_16
+LANG_ENGLISH     "^1Kennedy^7: Zombis. Caballeros, en estos momentos tenemos que responder de manera contundente y rechazar todas las agresiones."
+
+REFERENCE           PENTAGON_INTRO_17
+LANG_ENGLISH     "^1Kennedy^7: Caballeros, ¡prepárense!"
+
+REFERENCE           PENTAGON_INTRO_18
+LANG_ENGLISH     "^1Castro^7: Viva la Revolución."
+
+REFERENCE           PENTAGON_INTRO_19
+LANG_ENGLISH     "^1McNamara^7: ¿Señor presidente, quiere decirnos algo?"
+
+REFERENCE           PENTAGON_INTRO_20
+LANG_ENGLISH     "^1Nixon^7: Sí, Jack, ¿tiene palabras inspiradoras y superlativas para sus humildes tropas?"
+
+REFERENCE           PENTAGON_INTRO_21
+LANG_ENGLISH     "^1Kennedy^7: No recen para tener vidas sencillas, amigos, recen para ser más fuertes."
+
 ENDMARKER

@@ -69,7 +69,7 @@ REFERENCE           ITEM_DUPE_RENDER_OPTIONS
 LANG_ENGLISH     "Verlos solo por destellos"
 
 REFERENCE           MODGAMES
-LANG_ENGLISH     "MINI JUEGOS"
+LANG_ENGLISH     "MINIJUEGOS"
 
 REFERENCE           ROULETTE
 LANG_ENGLISH     "Ruleta del caos"
@@ -84,7 +84,7 @@ REFERENCE           SNAIL_DESC
 LANG_ENGLISH     "Este modo de juego, llamado 'Toque mortal', si un enemigo logra golpearte, estarás muerto al instante. A medida que subes de ronda, te moverás cada vez más rápido, y los enemigos incrementan su velocidad y fuerza. El más mínimo toque será mortal, ^1¡así que esquiva y resiste si quieres sobrevivir!^7"
 
 REFERENCE           DUCK
-LANG_ENGLISH     "Pato al ataque"
+LANG_ENGLISH     "Cosmetico de Pato"
 
 REFERENCE           DUCK_DESC
 LANG_ENGLISH     "¡Todos los jugadores llevan un flotador de pato, añadiendo un toque divertido en tu partida!"

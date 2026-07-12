@@ -714,4 +714,125 @@ LANG_ENGLISH        "Interfaz de usuario - Menús"
 REFERENCE           MICROMISSILE_LAUNCHER_HINT
 LANG_ENGLISH        "Presiona ^3apuntar^7 para fijar un objetivo ( máx. 5 )"
 
+REFERENCE            KEYBIND_FLASHLIGHT
+LANG_ENGLISH         "Linterna"
+
+REFERENCE            KEYBIND_FLASHLIGHT_DESC
+LANG_ENGLISH         "Podrás prender una linterna en tu arma y así iluminar las zonas oscuras del mapa.\n\n^3Se activa y desactiva pulsando la misma tecla asignada."
+
+REFERENCE            KEYBIND_PING
+LANG_ENGLISH         "Marcar un punto"
+
+REFERENCE            KEYBIND_PING_DESC
+LANG_ENGLISH         "Podrás marcar desde un punto específico hasta una máquina de ventajas o un enemigo.\n\n^3Se activa y desactiva pulsando la misma tecla asignada."
+
+REFERENCE            KEYBIND_DROP_POINTS
+LANG_ENGLISH         "Soltar 1000 puntos"
+
+REFERENCE            KEYBIND_DROP_POINTS_DESC
+LANG_ENGLISH         "Podrás soltar puntos para tus compañeros de 1000 en 1000.\n\n^3Cada vez que presiones la tecla que asignada, soltarás 1000 puntos."
+
+REFERENCE            KEYBIND_SHIELD_DEPLOY
+LANG_ENGLISH         "Plantar tu escudo"
+
+REFERENCE            KEYBIND_SHIELD_DEPLOY_DESC
+LANG_ENGLISH         "Podrás plantar tu escudo en el suelo para crear una barricada. Y a veces atraerá a los zombis.\n\n^3El escudo se plantara con la tecla asignada."
+
+REFERENCE            KEYBIND_THIRD_PERSON
+LANG_ENGLISH         "Tercera persona"
+
+REFERENCE            KEYBIND_THIRD_PERSON_DESC
+LANG_ENGLISH         "Podrás jugar tu partida en tercera persona, como en los Call of Duty más recientes.\n\n^3Se activa y desactiva pulsando la misma tecla asignada."
+
+REFERENCE            KEYBIND_DNI_NIGHTVISION
+LANG_ENGLISH         "Visión nocturna"
+
+REFERENCE            KEYBIND_DNI_NIGHTVISION_DESC
+LANG_ENGLISH         "Podrás activar un filtro de visión nocturna durante la partida.\n\n^3Se activa y desactiva pulsando la misma tecla asignada."
+
+REFERENCE            KEYBIND_OVERHEAD_MAP_VIEW
+LANG_ENGLISH         "Vista completa del mapa"
+
+REFERENCE            KEYBIND_OVERHEAD_MAP_VIEW_DESC
+LANG_ENGLISH         "Podrás ver el mapa completo desde el cielo durante unos minutos.\n\n^3Cada vez que presiones la tecla asignada, se repetirá la vista aérea."
+
+REFERENCE            KEYBIND_HIDE_HUD
+LANG_ENGLISH         "Ocultar el HUD"
+
+REFERENCE            KEYBIND_HIDE_HUD_DESC
+LANG_ENGLISH         "Oculta todos los elementos del HUD para obtener una vista despejada de la partida.\n\n^3Se activa y desactiva pulsando la misma tecla asignada."
+
+REFERENCE            KEYBIND_PAY_HALF_DOOR_COST
+LANG_ENGLISH         "Pagar la mitad de la puerta"
+
+REFERENCE            KEYBIND_PAY_HALF_DOOR_COST_DESC
+LANG_ENGLISH         "Tú y tus compañeros podrán colaborar para comprar una puerta compartiendo su costo.\n\n^3Una vez que presiones la tecla asignada, compraras la mitad de la puerta."
+
+REFERENCE            KEYBIND_SPRAY_PAINT_EMBLEM
+LANG_ENGLISH         "Pintar un grafiti"
+
+REFERENCE            KEYBIND_SPRAY_PAINT_EMBLEM_DESC
+LANG_ENGLISH         "Podrás pintar tu emblema de Black Ops 3 como un grafiti en cualquier superficie.\n\n^3Una vez que presiones la tecla asignada, pintaras tu emblema."
+
+REFERENCE            KEYBIND_SET_MULEKICK_WEAPON
+LANG_ENGLISH         "Cambia el Coz del arma"
+
+REFERENCE            KEYBIND_SET_MULEKICK_WEAPON_DESC
+LANG_ENGLISH         "Podrás cambiar el arma de Coz por cualquiera de tus armas disponibles.\n\n^3Una vez que presiones la tecla asignada, el arma que tengas en tus manos sera la nueva arma de Coz."
+
+REFERENCE            KEYBIND_CHANGE_CAMO
+LANG_ENGLISH         "Cambiar camuflaje"
+
+REFERENCE            KEYBIND_PREVIOUS_CAMO_DESC
+LANG_ENGLISH         "Podrás cambiar el diseño del camuflaje de tu arma.\n\n^3Cada vez que presiones la tecla asignada, avanzara al siguiente camuflaje."
+
+REFERENCE            KEYBIND_NEXT_CAMO_DESC
+LANG_ENGLISH         "Podrás cambiar el diseño del camuflaje de tu arma.\n\n^3Cada vez que presiones la tecla asignada, volvera al camuflaje anterior."
+
+REFERENCE            KEYBIND_CHANGE_RETICLE
+LANG_ENGLISH         "Cambiar la reticula"
+
+REFERENCE            KEYBIND_PREVIOUS_RETICLE_DESC
+LANG_ENGLISH         "Podrás cambiar el diseño de la reticula de tu arma.\n\n^3Cada vez que presiones la tecla asignada, avanzara a la siguiente reticula."
+
+REFERENCE            KEYBIND_NEXT_RETICLE_DESC
+LANG_ENGLISH         "Podrás cambiar el diseño de la reticula de tu arma.\n\n^3Cada vez que presiones la tecla asignada, volvera a la reticula anterior."
+
+REFERENCE            KEYBIND_ENHANCED_CONTROLS
+LANG_ENGLISH         "Teclas de acceso rápido"
+
+REFERENCE            KEYBIND_WEAPON_INSPECT_REDRAW
+LANG_ENGLISH         "Inspeccionar el arma"
+
+REFERENCE            CHATCMD_HELP
+LANG_ENGLISH         "Presiona ^3&&1^7 en tu teclado y luego escribe ^3/?^7 en el chat del juego para ver todos los comandos."
+
+REFERENCE            PAYHALF_DOOR
+LANG_ENGLISH         "Presiona &&1 ^7 Para pagar la mitad del costo de esta puerta."
+
+///////////////////////////////////////////////////////////
+REFERENCE           CHOOSE_HERO_LIST33
+LANG_ENGLISH     "John F. Kennedy"
+
+REFERENCE           CHOOSE_HERO_LIST34
+LANG_ENGLISH     "Robert McNamara"
+
+REFERENCE           CHOOSE_HERO_LIST35
+LANG_ENGLISH     "Richard Nixon"
+
+REFERENCE           CHOOSE_HERO_LIST36
+LANG_ENGLISH     "Fidel Castro"
+
+REFERENCE           EDITABLE_HELP
+LANG_ENGLISH     "Edita las teclas en el menú de Controles"
+
+REFERENCE           DATE_ZM_PENTAGON
+LANG_ENGLISH     "6 de noviembre de 1963"
+
+REFERENCE           DATE_ZM_PRISON
+LANG_ENGLISH     "Algún momento después del 19 de enero de 1934"
+
+REFERENCE           DATE_ZM_COAST
+LANG_ENGLISH     "17 de marzo de 2011"
+
 ENDMARKER

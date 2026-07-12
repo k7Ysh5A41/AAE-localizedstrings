@@ -243,7 +243,7 @@ REFERENCE            ZC_DESC
 LANG_ENGLISH         "Añade un contador de enemigos en la esquina superior derecha de la pantalla para indicar cuántos enemigos quedan en la ronda."
 
 REFERENCE            DELAY_DESC
-LANG_ENGLISH         "Este modo de juego, llamado 'Rondas basadas en la velocidad', mantiene la esencia del juego clásico, pero introduce una novedad significativa: los zombis aparecen de manera instantánea, sin demora alguna. Esta característica garantiza una experiencia intensa y continua, donde ^1¡no tendrás ni un momento de descanso!^7"
+LANG_ENGLISH         "Este modo de juego, llamado 'Rondas basadas en la velocidad', mantiene la esencia del juego clásico, pero introduce una novedad significativa: los zombis aparecen de manera instantánea, sin demora alguna. Esta característica garantiza una experiencia intensa y continua, donde \n\n^1¡No tendrás ni un momento de descanso!^7"
 
 REFERENCE            HITMARKER_DESC
 LANG_ENGLISH         "Mostrará Hitmarkers al dañar a los zombis o a los enemigos especiales."
@@ -252,7 +252,7 @@ REFERENCE            SE_DESC
 LANG_ENGLISH         "Al igual que en los zombis de (^1Cold War^7) y en los juegos más recientes de la saga CoD, se mostrará en pantalla un texto blanco o amarillo al eliminar a un enemigo, describiendo cómo lo mataste."
 
 REFERENCE            TIMEPLAY_DESC
-LANG_ENGLISH         "Este modo de juego, llamado 'Rondas basadas en el tiempo', los zombis aparecen de manera constante, aumentando en número con el paso del tiempo. El desafío consiste en sobrevivir el mayor tiempo posible a medida que la oleada de zombis crece progresivamente. ^1¡Intenta mantenerte con vida mientras la cantidad de zombis aumenta continuamente!^7"
+LANG_ENGLISH         "Este modo de juego, llamado 'Rondas basadas en el tiempo', los zombis aparecen de manera constante, aumentando en número con el paso del tiempo. El desafío consiste en sobrevivir el mayor tiempo posible a medida que la oleada de zombis crece progresivamente.\n\n^1¡Intenta mantenerte con vida mientras la cantidad de zombis aumenta continuamente!^7"
 
 REFERENCE            DOOR_DESC
 LANG_ENGLISH         "Todas las puertas del mapa estarán abiertas."

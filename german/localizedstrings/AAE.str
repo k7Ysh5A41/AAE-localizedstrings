@@ -714,4 +714,122 @@ LANG_ENGLISH         "Benutzeroberfläche - Menüs"
 REFERENCE           MICROMISSILE_LAUNCHER_HINT
 LANG_ENGLISH         "Drücke ^3Zielen^7 zum Aufschalten ( max. 5 )"
 
+REFERENCE            KEYBIND_FLASHLIGHT
+LANG_ENGLISH          "Taschenlampe"
+
+REFERENCE            KEYBIND_FLASHLIGHT_DESC
+LANG_ENGLISH          "Taschenlampe ein- oder ausschalten."
+
+REFERENCE            KEYBIND_PING
+LANG_ENGLISH          "Markierung"
+
+REFERENCE            KEYBIND_PING_DESC
+LANG_ENGLISH          "Eine Position markieren oder kennzeichnen."
+
+REFERENCE            KEYBIND_DROP_POINTS
+LANG_ENGLISH          "1000 Punkte abwerfen"
+
+REFERENCE            KEYBIND_DROP_POINTS_DESC
+LANG_ENGLISH          "Wirft 1000 Punkte ab."
+
+REFERENCE            KEYBIND_SHIELD_DEPLOY
+LANG_ENGLISH          "Schild aufstellen"
+
+REFERENCE            KEYBIND_SHIELD_DEPLOY_DESC
+LANG_ENGLISH          "Platziert das Schild auf dem Boden."
+
+REFERENCE            KEYBIND_THIRD_PERSON
+LANG_ENGLISH          "Dritte Person"
+
+REFERENCE            KEYBIND_THIRD_PERSON_DESC
+LANG_ENGLISH          "Dritte-Person-Ansicht ein- oder ausschalten."
+
+REFERENCE            KEYBIND_DNI_NIGHTVISION
+LANG_ENGLISH          "DNI-Nachtsicht"
+
+REFERENCE            KEYBIND_DNI_NIGHTVISION_DESC
+LANG_ENGLISH          "DNI-Nachtsicht ein- oder ausschalten."
+
+REFERENCE            KEYBIND_OVERHEAD_MAP_VIEW
+LANG_ENGLISH          "Kartenansicht von oben"
+
+REFERENCE            KEYBIND_OVERHEAD_MAP_VIEW_DESC
+LANG_ENGLISH          "Kartenansicht von oben ein- oder ausschalten."
+
+REFERENCE            KEYBIND_HIDE_HUD
+LANG_ENGLISH          "HUD ausblenden"
+
+REFERENCE            KEYBIND_HIDE_HUD_DESC
+LANG_ENGLISH          "HUD aus- oder einblenden."
+
+REFERENCE            KEYBIND_PAY_HALF_DOOR_COST
+LANG_ENGLISH          "Halbe Türkosten bezahlen"
+
+REFERENCE            KEYBIND_PAY_HALF_DOOR_COST_DESC
+LANG_ENGLISH          "Bezahle nur die Hälfte der Kosten zum Öffnen einer Tür."
+
+REFERENCE            KEYBIND_SPRAY_PAINT_EMBLEM
+LANG_ENGLISH          "Emblem aufsprühen"
+
+REFERENCE            KEYBIND_SPRAY_PAINT_EMBLEM_DESC
+LANG_ENGLISH          "Sprüht das Emblem auf."
+
+REFERENCE            KEYBIND_SET_MULEKICK_WEAPON
+LANG_ENGLISH          "Mule-Kick-Waffe festlegen"
+
+REFERENCE            KEYBIND_SET_MULEKICK_WEAPON_DESC
+LANG_ENGLISH          "Legt die aktuelle Waffe als Mule-Kick-Waffe fest."
+
+REFERENCE            KEYBIND_CHANGE_CAMO
+LANG_ENGLISH          "Tarnung ändern"
+
+REFERENCE            KEYBIND_PREVIOUS_CAMO_DESC
+LANG_ENGLISH          "Zur vorherigen Tarnung wechseln."
+
+REFERENCE            KEYBIND_NEXT_CAMO_DESC
+LANG_ENGLISH          "Zur nächsten Tarnung wechseln."
+
+REFERENCE            KEYBIND_CHANGE_RETICLE
+LANG_ENGLISH          "Fadenkreuz ändern"
+
+REFERENCE            KEYBIND_PREVIOUS_RETICLE_DESC
+LANG_ENGLISH          "Zum vorherigen Fadenkreuz wechseln."
+
+REFERENCE            KEYBIND_NEXT_RETICLE_DESC
+LANG_ENGLISH          "Zum nächsten Fadenkreuz wechseln."
+
+REFERENCE            KEYBIND_ENHANCED_CONTROLS
+LANG_ENGLISH          "Erweiterte Steuerung"
+
+REFERENCE            KEYBIND_WEAPON_INSPECT_REDRAW
+LANG_ENGLISH          "Waffeninspektion / Neu zeichnen"
+
+REFERENCE            CHATCMD_HELP
+LANG_ENGLISH          "Drücke ^3&&1^7 auf deiner Tastatur und gib dann ^3/?^7 im Chat ein, um alle Chatbefehle anzuzeigen"
+
+REFERENCE            PAYHALF_DOOR
+LANG_ENGLISH          "&&1 ^7Hälfte bezahlen"
+
+///////////////////////////////////////////////////////////
+REFERENCE           CHOOSE_HERO_LIST33
+LANG_ENGLISH     "John F. Kennedy"
+
+REFERENCE           CHOOSE_HERO_LIST34
+LANG_ENGLISH     "Robert McNamara"
+
+REFERENCE           CHOOSE_HERO_LIST35
+LANG_ENGLISH     "Richard Nixon"
+
+REFERENCE           CHOOSE_HERO_LIST36
+LANG_ENGLISH     "Fidel Castro"
+
+REFERENCE           DATE_ZM_PENTAGON
+LANG_ENGLISH     "6. November 1963"
+
+REFERENCE           DATE_ZM_PRISON
+LANG_ENGLISH     "Irgendwann nach dem 19. Januar 1934"
+
+REFERENCE           DATE_ZM_COAST
+LANG_ENGLISH     "17. März 2011"
+
 ENDMARKER
