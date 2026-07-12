@@ -714,4 +714,123 @@ LANG_ENGLISH         "Interface utilisateur - Menus"
 REFERENCE           MICROMISSILE_LAUNCHER_HINT
 LANG_ENGLISH         "Appuyez sur ^3Visée^7 pour verrouiller ( 5 max )"
 
+REFERENCE            KEYBIND_FLASHLIGHT
+LANG_ENGLISH          "Lampe torche"
+
+REFERENCE            KEYBIND_FLASHLIGHT_DESC
+LANG_ENGLISH          "Activer ou désactiver la lampe torche."
+
+REFERENCE            KEYBIND_PING
+LANG_ENGLISH          "Signal"
+
+REFERENCE            KEYBIND_PING_DESC
+LANG_ENGLISH          "Signaler ou marquer une position."
+
+REFERENCE            KEYBIND_DROP_POINTS
+LANG_ENGLISH          "Lâcher 1000 points"
+
+REFERENCE            KEYBIND_DROP_POINTS_DESC
+LANG_ENGLISH          "Lâche 1000 points."
+
+REFERENCE            KEYBIND_SHIELD_DEPLOY
+LANG_ENGLISH          "Déployer le bouclier"
+
+REFERENCE            KEYBIND_SHIELD_DEPLOY_DESC
+LANG_ENGLISH          "Place le bouclier au sol."
+
+REFERENCE            KEYBIND_THIRD_PERSON
+LANG_ENGLISH          "Troisième personne"
+
+REFERENCE            KEYBIND_THIRD_PERSON_DESC
+LANG_ENGLISH          "Activer ou désactiver la vue à la troisième personne."
+
+REFERENCE            KEYBIND_DNI_NIGHTVISION
+LANG_ENGLISH          "Vision nocturne DNI"
+
+REFERENCE            KEYBIND_DNI_NIGHTVISION_DESC
+LANG_ENGLISH          "Activer ou désactiver la vision nocturne DNI."
+
+REFERENCE            KEYBIND_OVERHEAD_MAP_VIEW
+LANG_ENGLISH          "Vue aérienne de la carte"
+
+REFERENCE            KEYBIND_OVERHEAD_MAP_VIEW_DESC
+LANG_ENGLISH          "Activer ou désactiver la vue aérienne de la carte."
+
+REFERENCE            KEYBIND_HIDE_HUD
+LANG_ENGLISH          "Masquer l'ATH"
+
+REFERENCE            KEYBIND_HIDE_HUD_DESC
+LANG_ENGLISH          "Masquer ou afficher l'ATH."
+
+REFERENCE            KEYBIND_PAY_HALF_DOOR_COST
+LANG_ENGLISH          "Payer la moitié du coût de la porte"
+
+REFERENCE            KEYBIND_PAY_HALF_DOOR_COST_DESC
+LANG_ENGLISH          "Paye seulement la moitié du coût pour ouvrir une porte."
+
+REFERENCE            KEYBIND_SPRAY_PAINT_EMBLEM
+LANG_ENGLISH          "Peindre l'emblème"
+
+REFERENCE            KEYBIND_SPRAY_PAINT_EMBLEM_DESC
+LANG_ENGLISH          "Peint l'emblème."
+
+REFERENCE            KEYBIND_SET_MULEKICK_WEAPON
+LANG_ENGLISH          "Définir l'arme Mule Kick"
+
+REFERENCE            KEYBIND_SET_MULEKICK_WEAPON_DESC
+LANG_ENGLISH          "Définit l'arme actuelle comme arme Mule Kick."
+
+REFERENCE            KEYBIND_CHANGE_CAMO
+LANG_ENGLISH          "Changer le camouflage"
+
+REFERENCE            KEYBIND_PREVIOUS_CAMO_DESC
+LANG_ENGLISH          "Passer au camouflage précédent."
+
+REFERENCE            KEYBIND_NEXT_CAMO_DESC
+LANG_ENGLISH          "Passer au camouflage suivant."
+
+REFERENCE            KEYBIND_CHANGE_RETICLE
+LANG_ENGLISH          "Changer le réticule"
+
+REFERENCE            KEYBIND_PREVIOUS_RETICLE_DESC
+LANG_ENGLISH          "Passer au réticule précédent."
+
+REFERENCE            KEYBIND_NEXT_RETICLE_DESC
+LANG_ENGLISH          "Passer au réticule suivant."
+
+REFERENCE            KEYBIND_ENHANCED_CONTROLS
+LANG_ENGLISH          "Commandes avancées"
+
+REFERENCE            KEYBIND_WEAPON_INSPECT_REDRAW
+LANG_ENGLISH          "Inspection d'arme / Redessiner"
+
+REFERENCE            CHATCMD_HELP
+LANG_ENGLISH          "Appuyez sur ^3&&1^7 sur votre clavier, puis tapez ^3/?^7 dans la boîte de discussion pour voir toutes les commandes disponibles"
+
+REFERENCE            PAYHALF_DOOR
+LANG_ENGLISH          "&&1 ^7Payer la moitié"
+
+///////////////////////////////////////////////////////////
+REFERENCE           CHOOSE_HERO_LIST33
+LANG_ENGLISH     "John F. Kennedy"
+
+REFERENCE           CHOOSE_HERO_LIST34
+LANG_ENGLISH     "Robert McNamara"
+
+REFERENCE           CHOOSE_HERO_LIST35
+LANG_ENGLISH     "Richard Nixon"
+
+REFERENCE           CHOOSE_HERO_LIST36
+LANG_ENGLISH     "Fidel Castro"
+
+REFERENCE           DATE_ZM_PENTAGON
+LANG_ENGLISH     "6 novembre 1963"
+
+REFERENCE           DATE_ZM_PRISON
+LANG_ENGLISH     "Quelque temps après le 19 janvier 1934"
+
+REFERENCE           DATE_ZM_COAST
+LANG_ENGLISH     "17 mars 2011"
+
+
 ENDMARKER

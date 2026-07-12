@@ -723,4 +723,122 @@ LANG_ENGLISH     "Interface do usuário - Menus"
 REFERENCE           MICROMISSILE_LAUNCHER_HINT
 LANG_ENGLISH     "Pressione ^3Mira^7 para travar o alvo ( máx. 5 )"
 
+REFERENCE            KEYBIND_FLASHLIGHT
+LANG_ENGLISH      "Lanterna"
+
+REFERENCE            KEYBIND_FLASHLIGHT_DESC
+LANG_ENGLISH      "Ativar ou desativar a lanterna."
+
+REFERENCE            KEYBIND_PING
+LANG_ENGLISH      "Marcação"
+
+REFERENCE            KEYBIND_PING_DESC
+LANG_ENGLISH      "Marcar ou indicar uma posição."
+
+REFERENCE            KEYBIND_DROP_POINTS
+LANG_ENGLISH      "Soltar 1000 pontos"
+
+REFERENCE            KEYBIND_DROP_POINTS_DESC
+LANG_ENGLISH      "Solta 1000 pontos."
+
+REFERENCE            KEYBIND_SHIELD_DEPLOY
+LANG_ENGLISH      "Posicionar escudo"
+
+REFERENCE            KEYBIND_SHIELD_DEPLOY_DESC
+LANG_ENGLISH      "Coloca o escudo no chão."
+
+REFERENCE            KEYBIND_THIRD_PERSON
+LANG_ENGLISH      "Terceira pessoa"
+
+REFERENCE            KEYBIND_THIRD_PERSON_DESC
+LANG_ENGLISH      "Ativar ou desativar a visão em terceira pessoa."
+
+REFERENCE            KEYBIND_DNI_NIGHTVISION
+LANG_ENGLISH      "Visão noturna DNI"
+
+REFERENCE            KEYBIND_DNI_NIGHTVISION_DESC
+LANG_ENGLISH      "Ativar ou desativar a visão noturna DNI."
+
+REFERENCE            KEYBIND_OVERHEAD_MAP_VIEW
+LANG_ENGLISH      "Visão aérea do mapa"
+
+REFERENCE            KEYBIND_OVERHEAD_MAP_VIEW_DESC
+LANG_ENGLISH      "Ativar ou desativar a visão aérea do mapa."
+
+REFERENCE            KEYBIND_HIDE_HUD
+LANG_ENGLISH      "Ocultar HUD"
+
+REFERENCE            KEYBIND_HIDE_HUD_DESC
+LANG_ENGLISH      "Ocultar ou mostrar o HUD."
+
+REFERENCE            KEYBIND_PAY_HALF_DOOR_COST
+LANG_ENGLISH      "Pagar metade da porta"
+
+REFERENCE            KEYBIND_PAY_HALF_DOOR_COST_DESC
+LANG_ENGLISH      "Paga apenas metade do custo para abrir uma porta."
+
+REFERENCE            KEYBIND_SPRAY_PAINT_EMBLEM
+LANG_ENGLISH      "Pintar emblema"
+
+REFERENCE            KEYBIND_SPRAY_PAINT_EMBLEM_DESC
+LANG_ENGLISH      "Pinta o emblema."
+
+REFERENCE            KEYBIND_SET_MULEKICK_WEAPON
+LANG_ENGLISH      "Definir arma Mule Kick"
+
+REFERENCE            KEYBIND_SET_MULEKICK_WEAPON_DESC
+LANG_ENGLISH      "Define a arma atual como arma do Mule Kick."
+
+REFERENCE            KEYBIND_CHANGE_CAMO
+LANG_ENGLISH      "Alterar camuflagem"
+
+REFERENCE            KEYBIND_PREVIOUS_CAMO_DESC
+LANG_ENGLISH      "Alternar para a camuflagem anterior."
+
+REFERENCE            KEYBIND_NEXT_CAMO_DESC
+LANG_ENGLISH      "Alternar para a próxima camuflagem."
+
+REFERENCE            KEYBIND_CHANGE_RETICLE
+LANG_ENGLISH      "Alterar retículo"
+
+REFERENCE            KEYBIND_PREVIOUS_RETICLE_DESC
+LANG_ENGLISH      "Alternar para o retículo anterior."
+
+REFERENCE            KEYBIND_NEXT_RETICLE_DESC
+LANG_ENGLISH      "Alternar para o próximo retículo."
+
+REFERENCE            KEYBIND_ENHANCED_CONTROLS
+LANG_ENGLISH      "Controles avançados"
+
+REFERENCE            KEYBIND_WEAPON_INSPECT_REDRAW
+LANG_ENGLISH      "Inspecionar arma / Redesenhar"
+
+REFERENCE            CHATCMD_HELP
+LANG_ENGLISH      "Pressione ^3&&1^7 no teclado e depois digite ^3/?^7 na caixa de chat para ver todos os comandos de chat"
+
+REFERENCE            PAYHALF_DOOR
+LANG_ENGLISH      "&&1 ^7Pagar metade"
+
+///////////////////////////////////////////////////////////
+REFERENCE           CHOOSE_HERO_LIST33
+LANG_ENGLISH      "John F. Kennedy"
+
+REFERENCE           CHOOSE_HERO_LIST34
+LANG_ENGLISH      "Robert McNamara"
+
+REFERENCE           CHOOSE_HERO_LIST35
+LANG_ENGLISH      "Richard Nixon"
+
+REFERENCE           CHOOSE_HERO_LIST36
+LANG_ENGLISH      "Fidel Castro"
+
+REFERENCE           DATE_ZM_PENTAGON
+LANG_ENGLISH     "6 de novembro de 1963"
+
+REFERENCE           DATE_ZM_PRISON
+LANG_ENGLISH     "Algum momento após 19 de janeiro de 1934"
+
+REFERENCE           DATE_ZM_COAST
+LANG_ENGLISH     "17 de março de 2011"
+
 ENDMARKER

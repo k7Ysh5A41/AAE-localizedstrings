@@ -498,4 +498,70 @@ REFERENCE           CASTLE_OUTRO_14
 LANG_ENGLISH         "^1Dempsey^7 : Content de te revoir, Tank."
 
 
+REFERENCE           PENTAGON_INTRO_1
+LANG_ENGLISH     "^1Kennedy^7: For time and the world do not stand still. Change is the law of life."
+
+REFERENCE           PENTAGON_INTRO_2
+LANG_ENGLISH     "^1Kennedy^7: And those who only look to the past or the present are certain to miss the future."
+
+REFERENCE           PENTAGON_INTRO_3
+LANG_ENGLISH     "^1Kennedy^7: I said, 'are certain to miss the future'!"
+
+REFERENCE           PENTAGON_INTRO_4
+LANG_ENGLISH     "^1Castro^7: Coño... I missed that."
+
+REFERENCE           PENTAGON_INTRO_5
+LANG_ENGLISH     "^1McNamara^7: Prime Minister Castro, this missile crisis was the last straw."
+
+REFERENCE           PENTAGON_INTRO_6_1
+LANG_ENGLISH     "^1McNamara^7: We almost blew ourselves up. Now we invited you here today..."
+
+REFERENCE           PENTAGON_INTRO_6_2
+LANG_ENGLISH     "^1Kennedy^7: In good faith!\n^1McNamara^7: We almost blew ourselves up. Now we invited you here today..."
+
+REFERENCE           PENTAGON_INTRO_6_3
+LANG_ENGLISH     "^1Kennedy^7: In good faith!\n^1"
+
+REFERENCE           PENTAGON_INTRO_8
+LANG_ENGLISH     "^1McNamara^7: ... in good faith, to sort this thing out."
+
+REFERENCE           PENTAGON_INTRO_9
+LANG_ENGLISH     "^1Castro^7: And why is he here? He lost!"
+
+REFERENCE           PENTAGON_INTRO_10
+LANG_ENGLISH     "^1Kennedy^7: As I always say, forgive your enemies, but remember their names."
+
+REFERENCE           PENTAGON_INTRO_11
+LANG_ENGLISH     "^1Kennedy^7: Now gentlemen, as I like to think, in the long history of the world, that there are only a few generations..."
+
+REFERENCE           PENTAGON_INTRO_12
+LANG_ENGLISH     "^1Nixon^7: Sounds like someone breaking in!"
+
+REFERENCE           PENTAGON_INTRO_13
+LANG_ENGLISH     "^1Kennedy^7: Just the storm, Dick. Sit down."
+
+REFERENCE           PENTAGON_INTRO_14
+LANG_ENGLISH     "^1Nixon^7: Oh my God!"
+
+REFERENCE           PENTAGON_INTRO_15
+LANG_ENGLISH     "^1McNamara^7: It appears the Pentagon has been breached."
+
+REFERENCE           PENTAGON_INTRO_16
+LANG_ENGLISH     "^1Kennedy^7: Zombies. Gentlemen, at times like these our capacity to retaliate must be and has to be massive, to deter all forms of aggression."
+
+REFERENCE           PENTAGON_INTRO_17
+LANG_ENGLISH     "^1Kennedy^7: Gentlemen, lock and load!"
+
+REFERENCE           PENTAGON_INTRO_18
+LANG_ENGLISH     "^1Castro^7: Viva la Revolución."
+
+REFERENCE           PENTAGON_INTRO_19
+LANG_ENGLISH     "^1McNamara^7: Any last words, Mr. President?"
+
+REFERENCE           PENTAGON_INTRO_20
+LANG_ENGLISH     "^1Nixon^7: Yes Jack, any superlative words of inspiration for our humble troops?"
+
+REFERENCE           PENTAGON_INTRO_21
+LANG_ENGLISH     "^1Kennedy^7: Do not pray for easy lives, my friends. Pray to be stronger men."
+
 ENDMARKER

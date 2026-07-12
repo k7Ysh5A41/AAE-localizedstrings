@@ -107,4 +107,15 @@ LANG_ENGLISH      "L'équipage naufragé d'explorateurs intrépides se retrouve 
 REFERENCE            ZM_TOMB_TITLE
 LANG_ENGLISH         "SITE D'EXCAVATION 64"
 
+LANG_ENGLISH          "Le Pentagone est attaqué ! Washington va passer en DEFCON 1 dans cet épisode de "Zombies"."
+
+REFERENCE            FIVE_LINE1
+LANG_ENGLISH          "Le Pentagone"
+
+REFERENCE            FIVE_LINE2
+LANG_ENGLISH          "Virginie, États-Unis"
+
+REFERENCE            FIVE_LINE3
+LANG_ENGLISH          ""FIVE""
+
 ENDMARKER

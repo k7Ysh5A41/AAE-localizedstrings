@@ -107,4 +107,15 @@ LANG_ENGLISH      "Rozbitkowa załoga nieustraszonych odkrywców zostaje bez nad
 REFERENCE            ZM_TOMB_TITLE
 LANG_ENGLISH         "STANOWISKO WYKOPALISKOWE 64"
 
+LANG_POLISH          "Pentagon jest atakowany! Waszyngton przechodzi w stan DEFCON 1 w tej odsłonie "Zombies"."
+
+REFERENCE            FIVE_LINE1
+LANG_POLISH          "Pentagon"
+
+REFERENCE            FIVE_LINE2
+LANG_POLISH          "Wirginia, USA"
+
+REFERENCE            FIVE_LINE3
+LANG_POLISH          ""FIVE""
+
 ENDMARKER
