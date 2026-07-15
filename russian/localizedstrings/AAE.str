@@ -711,4 +711,125 @@ LANG_ENGLISH     "Пользовательский интерфейс - Меню
 REFERENCE           MICROMISSILE_LAUNCHER_HINT
 LANG_ENGLISH     "Удерживайте ^3ADS^7 чтобы захватить цель (до 5 целей)"
 
+REFERENCE            KEYBIND_FLASHLIGHT
+LANG_ENGLISH         "Фонарик"
+
+REFERENCE            KEYBIND_FLASHLIGHT_DESC
+LANG_ENGLISH         "Включите фонарик, установленный на вашем оружии, чтобы освещать тёмные участки карты.\n\n^3Нажмите назначенную клавишу, чтобы включить или выключить его."
+
+REFERENCE            KEYBIND_PING
+LANG_ENGLISH         "Метка"
+
+REFERENCE            KEYBIND_PING_DESC
+LANG_ENGLISH         "Отметьте определённое место на карте, автомат с перками или врага.\n\n^3Нажмите назначенную клавишу, чтобы установить метку."
+
+REFERENCE            KEYBIND_DROP_POINTS
+LANG_ENGLISH         "Бросить 1000 очков"
+
+REFERENCE            KEYBIND_DROP_POINTS_DESC
+LANG_ENGLISH         "Передавайте очки своим товарищам по 1000 за раз.\n\n^3Каждый раз при нажатии назначенной клавиши вы сбрасываете 1000 очков."
+
+REFERENCE            KEYBIND_SHIELD_DEPLOY
+LANG_ENGLISH         "Установить щит"
+
+REFERENCE            KEYBIND_SHIELD_DEPLOY_DESC
+LANG_ENGLISH         "Установите щит на землю, чтобы создать баррикаду. Иногда он также может привлекать зомби.\n\n^3Нажмите назначенную клавишу, чтобы установить щит."
+
+REFERENCE            KEYBIND_THIRD_PERSON
+LANG_ENGLISH         "Вид от третьего лица"
+
+REFERENCE            KEYBIND_THIRD_PERSON_DESC
+LANG_ENGLISH         "Играйте с видом от третьего лица, как в последних играх серии Call of Duty.\n\n^3Нажмите назначенную клавишу, чтобы включить или выключить этот режим."
+
+REFERENCE            KEYBIND_DNI_NIGHTVISION
+LANG_ENGLISH         "Ночное видение DNI"
+
+REFERENCE            KEYBIND_DNI_NIGHTVISION_DESC
+LANG_ENGLISH         "Включите фильтр ночного видения во время игры.\n\n^3Нажмите назначенную клавишу, чтобы включить или выключить его."
+
+REFERENCE            KEYBIND_OVERHEAD_MAP_VIEW
+LANG_ENGLISH         "Вид карты сверху"
+
+REFERENCE            KEYBIND_OVERHEAD_MAP_VIEW_DESC
+LANG_ENGLISH         "Просмотрите всю карту сверху в течение нескольких секунд.\n\n^3Каждый раз при нажатии назначенной клавиши вид сверху будет снова активирован."
+
+REFERENCE            KEYBIND_HIDE_HUD
+LANG_ENGLISH         "Скрыть интерфейс"
+
+REFERENCE            KEYBIND_HIDE_HUD_DESC
+LANG_ENGLISH         "Скрывает все элементы интерфейса для более чистого обзора игры.\n\n^3Нажмите назначенную клавишу, чтобы включить или выключить эту функцию."
+
+REFERENCE            KEYBIND_PAY_HALF_DOOR_COST
+LANG_ENGLISH         "Оплатить половину двери"
+
+REFERENCE            KEYBIND_PAY_HALF_DOOR_COST_DESC
+LANG_ENGLISH         "Покупайте двери вместе с товарищами, разделяя их стоимость.\n\n^3Нажмите назначенную клавишу, чтобы оплатить половину стоимости двери."
+
+REFERENCE            KEYBIND_SPRAY_PAINT_EMBLEM
+LANG_ENGLISH         "Нанести эмблему"
+
+REFERENCE            KEYBIND_SPRAY_PAINT_EMBLEM_DESC
+LANG_ENGLISH         "Нанесите свою эмблему Black Ops 3 в виде граффити почти на любую поверхность.\n\n^3Нажмите назначенную клавишу, чтобы распылить свою эмблему."
+
+REFERENCE            KEYBIND_SET_MULEKICK_WEAPON
+LANG_ENGLISH         "Назначить оружие Mule Kick"
+
+REFERENCE            KEYBIND_SET_MULEKICK_WEAPON_DESC
+LANG_ENGLISH         "Замените оружие Mule Kick на любое оружие, которое вы сейчас держите.\n\n^3Нажмите назначенную клавишу, чтобы сделать текущее оружие оружием Mule Kick."
+
+REFERENCE            KEYBIND_CHANGE_CAMO
+LANG_ENGLISH         "Сменить камуфляж"
+
+REFERENCE            KEYBIND_PREVIOUS_CAMO_DESC
+LANG_ENGLISH         "Измените камуфляж вашего оружия.\n\n^3Каждый раз при нажатии назначенной клавиши будет выбран следующий камуфляж."
+
+REFERENCE            KEYBIND_NEXT_CAMO_DESC
+LANG_ENGLISH         "Измените камуфляж вашего оружия.\n\n^3Каждый раз при нажатии назначенной клавиши будет выбран предыдущий камуфляж."
+
+REFERENCE            KEYBIND_CHANGE_RETICLE
+LANG_ENGLISH         "Сменить прицел"
+
+REFERENCE            KEYBIND_PREVIOUS_RETICLE_DESC
+LANG_ENGLISH         "Измените сетку прицела вашего оружия.\n\n^3Каждый раз при нажатии назначенной клавиши будет выбрана следующая сетка прицела."
+
+REFERENCE            KEYBIND_NEXT_RETICLE_DESC
+LANG_ENGLISH         "Измените сетку прицела вашего оружия.\n\n^3Каждый раз при нажатии назначенной клавиши будет выбрана предыдущая сетка прицела."
+
+REFERENCE            KEYBIND_ENHANCED_CONTROLS
+LANG_ENGLISH         "Расширенное управление"
+
+REFERENCE            KEYBIND_WEAPON_INSPECT_REDRAW
+LANG_ENGLISH         "Осмотреть оружие / Перехватить"
+
+REFERENCE            CHATCMD_HELP
+LANG_ENGLISH         "Нажмите ^3&&1^7 на клавиатуре, затем введите ^3/?^7 в чате, чтобы увидеть все доступные команды"
+
+REFERENCE            PAYHALF_DOOR
+LANG_ENGLISH         "&&1 ^7Оплатить половину"
+
+///////////////////////////////////////////////////////////
+REFERENCE           CHOOSE_HERO_LIST33
+LANG_ENGLISH     "Джон Ф. Кеннеди"
+
+REFERENCE           CHOOSE_HERO_LIST34
+LANG_ENGLISH     "Роберт Макнамара"
+
+REFERENCE           CHOOSE_HERO_LIST35
+LANG_ENGLISH     "Ричард Никсон"
+
+REFERENCE           CHOOSE_HERO_LIST36
+LANG_ENGLISH     "Фидель Кастро"
+
+REFERENCE           EDITABLE_HELP
+LANG_ENGLISH     "Измените этот параметр в меню управления"
+
+REFERENCE           DATE_ZM_PENTAGON
+LANG_ENGLISH     "6 ноября 1963 г."
+
+REFERENCE           DATE_ZM_PRISON
+LANG_ENGLISH     "Спустя некоторое время после 19 января 1934 г."
+
+REFERENCE           DATE_ZM_COAST
+LANG_ENGLISH     "17 марта 2011 г."
+
 ENDMARKER

@@ -727,91 +727,91 @@ REFERENCE            KEYBIND_FLASHLIGHT
 LANG_ENGLISH          "Latarka"
 
 REFERENCE            KEYBIND_FLASHLIGHT_DESC
-LANG_ENGLISH          "Włącz lub wyłącz latarkę."
+LANG_ENGLISH          "Włącz latarkę zamontowaną na broni, aby oświetlić ciemne obszary mapy.\n\n^3Naciśnij przypisany klawisz, aby ją włączyć lub wyłączyć."
 
 REFERENCE            KEYBIND_PING
-LANG_ENGLISH          "Znacznik"
+LANG_ENGLISH          "Oznacz"
 
 REFERENCE            KEYBIND_PING_DESC
-LANG_ENGLISH          "Oznacz lub zaznacz pozycję."
+LANG_ENGLISH          "Oznacz wybrane miejsce, automat z atutami lub przeciwnika.\n\n^3Naciśnij przypisany klawisz, aby postawić znacznik."
 
 REFERENCE            KEYBIND_DROP_POINTS
 LANG_ENGLISH          "Upuść 1000 punktów"
 
 REFERENCE            KEYBIND_DROP_POINTS_DESC
-LANG_ENGLISH          "Upuszcza 1000 punktów."
+LANG_ENGLISH          "Upuszczaj punkty dla członków drużyny po 1000.\n\n^3Za każdym razem, gdy naciśniesz przypisany klawisz, upuścisz 1000 punktów."
 
 REFERENCE            KEYBIND_SHIELD_DEPLOY
 LANG_ENGLISH          "Rozstaw tarczę"
 
 REFERENCE            KEYBIND_SHIELD_DEPLOY_DESC
-LANG_ENGLISH          "Umieść tarczę na ziemi."
+LANG_ENGLISH          "Rozstaw swoją tarczę na ziemi, aby stworzyć barykadę. Czasami będzie ona również przyciągać zombie.\n\n^3Naciśnij przypisany klawisz, aby rozstawić tarczę."
 
 REFERENCE            KEYBIND_THIRD_PERSON
-LANG_ENGLISH          "Widok trzecioosobowy"
+LANG_ENGLISH          "Widok z trzeciej osoby"
 
 REFERENCE            KEYBIND_THIRD_PERSON_DESC
-LANG_ENGLISH          "Przełącz widok trzecioosobowy."
+LANG_ENGLISH          "Graj w widoku z trzeciej osoby, tak jak w najnowszych grach Call of Duty.\n\n^3Naciśnij przypisany klawisz, aby włączyć lub wyłączyć ten tryb."
 
 REFERENCE            KEYBIND_DNI_NIGHTVISION
-LANG_ENGLISH          "Noktowizor DNI"
+LANG_ENGLISH          "Noktowizja"
 
 REFERENCE            KEYBIND_DNI_NIGHTVISION_DESC
-LANG_ENGLISH          "Włącz lub wyłącz noktowizor DNI."
+LANG_ENGLISH          "Włącz filtr noktowizji podczas gry.\n\n^3Naciśnij przypisany klawisz, aby go włączyć lub wyłączyć."
 
 REFERENCE            KEYBIND_OVERHEAD_MAP_VIEW
 LANG_ENGLISH          "Widok mapy z góry"
 
 REFERENCE            KEYBIND_OVERHEAD_MAP_VIEW_DESC
-LANG_ENGLISH          "Przełącz widok mapy z góry."
+LANG_ENGLISH          "Wyświetl całą mapę z lotu ptaka przez kilka chwil.\n\n^3Za każdym razem, gdy naciśniesz przypisany klawisz, widok z góry zostanie ponownie aktywowany."
 
 REFERENCE            KEYBIND_HIDE_HUD
 LANG_ENGLISH          "Ukryj HUD"
 
 REFERENCE            KEYBIND_HIDE_HUD_DESC
-LANG_ENGLISH          "Ukryj lub pokaż HUD."
+LANG_ENGLISH          "Ukrywa wszystkie elementy HUD, aby zapewnić czysty widok podczas gry.\n\n^3Naciśnij przypisany klawisz, aby włączyć lub wyłączyć tę opcję."
 
 REFERENCE            KEYBIND_PAY_HALF_DOOR_COST
-LANG_ENGLISH          "Zapłać połowę kosztu drzwi"
+LANG_ENGLISH          "Zapłać połowę ceny drzwi"
 
 REFERENCE            KEYBIND_PAY_HALF_DOOR_COST_DESC
-LANG_ENGLISH          "Zapłać tylko połowę kosztu otwarcia drzwi."
+LANG_ENGLISH          "Współpracuj z drużyną, aby kupować drzwi, dzieląc ich koszt.\n\n^3Naciśnij przypisany klawisz, aby zapłacić połowę ceny drzwi."
 
 REFERENCE            KEYBIND_SPRAY_PAINT_EMBLEM
-LANG_ENGLISH          "Namaluj emblemat"
+LANG_ENGLISH          "Spryskaj emblemat"
 
 REFERENCE            KEYBIND_SPRAY_PAINT_EMBLEM_DESC
-LANG_ENGLISH          "Namaluj emblemat."
+LANG_ENGLISH          "Namaluj swój emblemat z Black Ops 3 jako graffiti na niemal każdej powierzchni.\n\n^3Naciśnij przypisany klawisz, aby namalować swój emblemat."
 
 REFERENCE            KEYBIND_SET_MULEKICK_WEAPON
-LANG_ENGLISH          "Ustaw broń Mule Kick"
+LANG_ENGLISH          "Zmień broń Mule Kick"
 
 REFERENCE            KEYBIND_SET_MULEKICK_WEAPON_DESC
-LANG_ENGLISH          "Ustaw aktualną broń jako broń Mule Kick."
+LANG_ENGLISH          "Zastąp broń Mule Kick dowolną bronią, którą aktualnie posiadasz.\n\n^3Naciśnij przypisany klawisz, aby ustawić aktualnie trzymaną broń jako broń Mule Kick."
 
 REFERENCE            KEYBIND_CHANGE_CAMO
 LANG_ENGLISH          "Zmień kamuflaż"
 
 REFERENCE            KEYBIND_PREVIOUS_CAMO_DESC
-LANG_ENGLISH          "Przełącz na poprzedni kamuflaż."
+LANG_ENGLISH          "Zmień kamuflaż swojej broni.\n\n^3Za każdym razem, gdy naciśniesz przypisany klawisz, przełączysz się na następny kamuflaż."
 
 REFERENCE            KEYBIND_NEXT_CAMO_DESC
-LANG_ENGLISH          "Przełącz na następny kamuflaż."
+LANG_ENGLISH          "Zmień kamuflaż swojej broni.\n\n^3Za każdym razem, gdy naciśniesz przypisany klawisz, wrócisz do poprzedniego kamuflażu."
 
 REFERENCE            KEYBIND_CHANGE_RETICLE
 LANG_ENGLISH          "Zmień celownik"
 
 REFERENCE            KEYBIND_PREVIOUS_RETICLE_DESC
-LANG_ENGLISH          "Przełącz na poprzedni celownik."
+LANG_ENGLISH          "Zmień celownik swojej broni.\n\n^3Za każdym razem, gdy naciśniesz przypisany klawisz, przełączysz się na następny celownik."
 
 REFERENCE            KEYBIND_NEXT_RETICLE_DESC
-LANG_ENGLISH          "Przełącz na następny celownik."
+LANG_ENGLISH          "Zmień celownik swojej broni.\n\n^3Za każdym razem, gdy naciśniesz przypisany klawisz, wrócisz do poprzedniego celownika."
 
 REFERENCE            KEYBIND_ENHANCED_CONTROLS
-LANG_ENGLISH          "Ulepszone sterowanie"
+LANG_ENGLISH          "Skróty klawiszowe"
 
 REFERENCE            KEYBIND_WEAPON_INSPECT_REDRAW
-LANG_ENGLISH          "Inspekcja broni / Rysowanie od nowa"
+LANG_ENGLISH          "Sprawdź broń"
 
 REFERENCE            CHATCMD_HELP
 LANG_ENGLISH          "Naciśnij ^3&&1^7 na klawiaturze, a następnie wpisz ^3/?^7 w oknie czatu, aby zobaczyć wszystkie komendy czatu"

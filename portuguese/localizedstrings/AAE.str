@@ -727,91 +727,91 @@ REFERENCE            KEYBIND_FLASHLIGHT
 LANG_ENGLISH      "Lanterna"
 
 REFERENCE            KEYBIND_FLASHLIGHT_DESC
-LANG_ENGLISH      "Ativar ou desativar a lanterna."
+LANG_ENGLISH      "Ligue uma lanterna acoplada à sua arma para iluminar áreas escuras do mapa.\n\n^3Pressione a tecla atribuída para ativá-la ou desativá-la."
 
 REFERENCE            KEYBIND_PING
-LANG_ENGLISH      "Marcação"
+LANG_ENGLISH      "Marcar"
 
 REFERENCE            KEYBIND_PING_DESC
-LANG_ENGLISH      "Marcar ou indicar uma posição."
+LANG_ENGLISH      "Marque um local específico, uma máquina de vantagens ou um inimigo.\n\n^3Pressione a tecla atribuída para colocar uma marcação."
 
 REFERENCE            KEYBIND_DROP_POINTS
 LANG_ENGLISH      "Soltar 1000 pontos"
 
 REFERENCE            KEYBIND_DROP_POINTS_DESC
-LANG_ENGLISH      "Solta 1000 pontos."
+LANG_ENGLISH      "Solte pontos para seus companheiros em quantidades de 1000.\n\n^3Sempre que pressionar a tecla atribuída, você soltará 1000 pontos."
 
 REFERENCE            KEYBIND_SHIELD_DEPLOY
 LANG_ENGLISH      "Posicionar escudo"
 
 REFERENCE            KEYBIND_SHIELD_DEPLOY_DESC
-LANG_ENGLISH      "Coloca o escudo no chão."
+LANG_ENGLISH      "Posicione seu escudo no chão para criar uma barricada. Às vezes ele também atrairá zumbis.\n\n^3Pressione a tecla atribuída para posicionar seu escudo."
 
 REFERENCE            KEYBIND_THIRD_PERSON
 LANG_ENGLISH      "Terceira pessoa"
 
 REFERENCE            KEYBIND_THIRD_PERSON_DESC
-LANG_ENGLISH      "Ativar ou desativar a visão em terceira pessoa."
+LANG_ENGLISH      "Jogue sua partida em terceira pessoa, como nos Call of Duty mais recentes.\n\n^3Pressione a tecla atribuída para ativá-la ou desativá-la."
 
 REFERENCE            KEYBIND_DNI_NIGHTVISION
-LANG_ENGLISH      "Visão noturna DNI"
+LANG_ENGLISH      "Visão noturna"
 
 REFERENCE            KEYBIND_DNI_NIGHTVISION_DESC
-LANG_ENGLISH      "Ativar ou desativar a visão noturna DNI."
+LANG_ENGLISH      "Ative um filtro de visão noturna durante a partida.\n\n^3Pressione a tecla atribuída para ativá-lo ou desativá-lo."
 
 REFERENCE            KEYBIND_OVERHEAD_MAP_VIEW
 LANG_ENGLISH      "Visão aérea do mapa"
 
 REFERENCE            KEYBIND_OVERHEAD_MAP_VIEW_DESC
-LANG_ENGLISH      "Ativar ou desativar a visão aérea do mapa."
+LANG_ENGLISH      "Veja o mapa inteiro de cima por alguns instantes.\n\n^3Sempre que pressionar a tecla atribuída, a visão aérea será ativada novamente."
 
 REFERENCE            KEYBIND_HIDE_HUD
 LANG_ENGLISH      "Ocultar HUD"
 
 REFERENCE            KEYBIND_HIDE_HUD_DESC
-LANG_ENGLISH      "Ocultar ou mostrar o HUD."
+LANG_ENGLISH      "Oculta todos os elementos do HUD para obter uma visão limpa da partida.\n\n^3Pressione a tecla atribuída para ativá-lo ou desativá-lo."
 
 REFERENCE            KEYBIND_PAY_HALF_DOOR_COST
 LANG_ENGLISH      "Pagar metade da porta"
 
 REFERENCE            KEYBIND_PAY_HALF_DOOR_COST_DESC
-LANG_ENGLISH      "Paga apenas metade do custo para abrir uma porta."
+LANG_ENGLISH      "Colabore com seus companheiros para comprar uma porta dividindo o custo.\n\n^3Pressione a tecla atribuída para pagar metade do custo da porta."
 
 REFERENCE            KEYBIND_SPRAY_PAINT_EMBLEM
 LANG_ENGLISH      "Pintar emblema"
 
 REFERENCE            KEYBIND_SPRAY_PAINT_EMBLEM_DESC
-LANG_ENGLISH      "Pinta o emblema."
+LANG_ENGLISH      "Pinte seu emblema do Black Ops 3 como um grafite em praticamente qualquer superfície.\n\n^3Pressione a tecla atribuída para pintar seu emblema."
 
 REFERENCE            KEYBIND_SET_MULEKICK_WEAPON
-LANG_ENGLISH      "Definir arma Mule Kick"
+LANG_ENGLISH      "Trocar arma do Mule Kick"
 
 REFERENCE            KEYBIND_SET_MULEKICK_WEAPON_DESC
-LANG_ENGLISH      "Define a arma atual como arma do Mule Kick."
+LANG_ENGLISH      "Substitua a arma do Mule Kick por qualquer arma que você esteja carregando.\n\n^3Pressione a tecla atribuída para definir sua arma atual como a arma do Mule Kick."
 
 REFERENCE            KEYBIND_CHANGE_CAMO
 LANG_ENGLISH      "Alterar camuflagem"
 
 REFERENCE            KEYBIND_PREVIOUS_CAMO_DESC
-LANG_ENGLISH      "Alternar para a camuflagem anterior."
+LANG_ENGLISH      "Altere a camuflagem da sua arma.\n\n^3Sempre que pressionar a tecla atribuída, ela mudará para a próxima camuflagem."
 
 REFERENCE            KEYBIND_NEXT_CAMO_DESC
-LANG_ENGLISH      "Alternar para a próxima camuflagem."
+LANG_ENGLISH      "Altere a camuflagem da sua arma.\n\n^3Sempre que pressionar a tecla atribuída, ela voltará para a camuflagem anterior."
 
 REFERENCE            KEYBIND_CHANGE_RETICLE
-LANG_ENGLISH      "Alterar retículo"
+LANG_ENGLISH      "Alterar retícula"
 
 REFERENCE            KEYBIND_PREVIOUS_RETICLE_DESC
-LANG_ENGLISH      "Alternar para o retículo anterior."
+LANG_ENGLISH      "Altere a retícula da sua arma.\n\n^3Sempre que pressionar a tecla atribuída, ela mudará para a próxima retícula."
 
 REFERENCE            KEYBIND_NEXT_RETICLE_DESC
-LANG_ENGLISH      "Alternar para o próximo retículo."
+LANG_ENGLISH      "Altere a retícula da sua arma.\n\n^3Sempre que pressionar a tecla atribuída, ela voltará para a retícula anterior."
 
 REFERENCE            KEYBIND_ENHANCED_CONTROLS
-LANG_ENGLISH      "Controles avançados"
+LANG_ENGLISH      "Teclas de atalho"
 
 REFERENCE            KEYBIND_WEAPON_INSPECT_REDRAW
-LANG_ENGLISH      "Inspecionar arma / Redesenhar"
+LANG_ENGLISH      "Inspecionar arma"
 
 REFERENCE            CHATCMD_HELP
 LANG_ENGLISH      "Pressione ^3&&1^7 no teclado e depois digite ^3/?^7 na caixa de chat para ver todos os comandos de chat"
