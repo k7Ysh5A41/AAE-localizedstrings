@@ -116,4 +116,7 @@ LANG_ENGLISH        "Zombieblut"
 REFERENCE           INSTA_KILL
 LANG_ENGLISH        "Sofortiger Kill"
 
+REFERENCE           FIRE_SALE
+LANG_ENGLISH      "Räumungsverkauf"
+
 ENDMARKER

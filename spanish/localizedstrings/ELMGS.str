@@ -107,6 +107,7 @@ LANG_ENGLISH     "CALL OF THE DEAD"
 REFERENCE           COAST_DESC
 LANG_ENGLISH     "Una tripulación náufraga de intrépidos exploradores queda atrapada sin esperanza en un abandonado puesto avanzado siberiano. Su sueño de descubrir los verdaderos orígenes del Elemento 115 se convierte en una pesadilla infernal."
 
+REFERENCE            FIVE_DESC
 LANG_ENGLISH         "¡El Pentágono está bajo ataque! Washington está a punto de llegar a DEFCON 1 en esta entrega de "Zombis"."
 
 REFERENCE            FIVE_LINE1
@@ -116,6 +117,6 @@ REFERENCE            FIVE_LINE2
 LANG_ENGLISH         "Virginia, EE. UU."
 
 REFERENCE            FIVE_LINE3
-LANG_ENGLISH         ""FIVE""
+LANG_ENGLISH         "FIVE"
 
 ENDMARKER

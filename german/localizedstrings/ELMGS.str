@@ -107,6 +107,7 @@ LANG_ENGLISH      "Eine schiffbrüchige Crew furchtloser Entdecker sitzt hoffnun
 REFERENCE            ZM_TOMB_TITLE
 LANG_ENGLISH         "AUSGRABUNGSSTÄTTE 64"
 
+REFERENCE            FIVE_DESC
 LANG_ENGLISH          "Das Pentagon wird angegriffen! Washington erreicht in diesem Teil von "Zombies" DEFCON 1."
 
 REFERENCE            FIVE_LINE1

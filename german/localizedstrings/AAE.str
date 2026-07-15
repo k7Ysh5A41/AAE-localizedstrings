@@ -718,91 +718,91 @@ REFERENCE            KEYBIND_FLASHLIGHT
 LANG_ENGLISH          "Taschenlampe"
 
 REFERENCE            KEYBIND_FLASHLIGHT_DESC
-LANG_ENGLISH          "Taschenlampe ein- oder ausschalten."
+LANG_ENGLISH          "Schalte eine an deiner Waffe montierte Taschenlampe ein, um dunkle Bereiche der Karte zu beleuchten.\n\n^3Drücke die zugewiesene Taste, um sie ein- oder auszuschalten."
 
 REFERENCE            KEYBIND_PING
-LANG_ENGLISH          "Markierung"
+LANG_ENGLISH          "Markieren"
 
 REFERENCE            KEYBIND_PING_DESC
-LANG_ENGLISH          "Eine Position markieren oder kennzeichnen."
+LANG_ENGLISH          "Markiere einen bestimmten Ort, einen Perk-Automaten oder einen Gegner.\n\n^3Drücke die zugewiesene Taste, um eine Markierung zu setzen."
 
 REFERENCE            KEYBIND_DROP_POINTS
-LANG_ENGLISH          "1000 Punkte abwerfen"
+LANG_ENGLISH          "1000 Punkte fallen lassen"
 
 REFERENCE            KEYBIND_DROP_POINTS_DESC
-LANG_ENGLISH          "Wirft 1000 Punkte ab."
+LANG_ENGLISH          "Lass Punkte für deine Teamkameraden in 1000er-Schritten fallen.\n\n^3Jedes Mal, wenn du die zugewiesene Taste drückst, lässt du 1000 Punkte fallen."
 
 REFERENCE            KEYBIND_SHIELD_DEPLOY
 LANG_ENGLISH          "Schild aufstellen"
 
 REFERENCE            KEYBIND_SHIELD_DEPLOY_DESC
-LANG_ENGLISH          "Platziert das Schild auf dem Boden."
+LANG_ENGLISH          "Stelle dein Schild auf dem Boden auf, um eine Barrikade zu errichten. Manchmal zieht es auch Zombies an.\n\n^3Drücke die zugewiesene Taste, um dein Schild aufzustellen."
 
 REFERENCE            KEYBIND_THIRD_PERSON
 LANG_ENGLISH          "Dritte Person"
 
 REFERENCE            KEYBIND_THIRD_PERSON_DESC
-LANG_ENGLISH          "Dritte-Person-Ansicht ein- oder ausschalten."
+LANG_ENGLISH          "Spiele in der Third-Person-Perspektive, genau wie in den neuesten Call of Duty-Titeln.\n\n^3Drücke die zugewiesene Taste, um sie ein- oder auszuschalten."
 
 REFERENCE            KEYBIND_DNI_NIGHTVISION
-LANG_ENGLISH          "DNI-Nachtsicht"
+LANG_ENGLISH          "Nachtsicht"
 
 REFERENCE            KEYBIND_DNI_NIGHTVISION_DESC
-LANG_ENGLISH          "DNI-Nachtsicht ein- oder ausschalten."
+LANG_ENGLISH          "Aktiviere während des Spiels einen Nachtsichtfilter.\n\n^3Drücke die zugewiesene Taste, um ihn ein- oder auszuschalten."
 
 REFERENCE            KEYBIND_OVERHEAD_MAP_VIEW
-LANG_ENGLISH          "Kartenansicht von oben"
+LANG_ENGLISH          "Kartenübersicht"
 
 REFERENCE            KEYBIND_OVERHEAD_MAP_VIEW_DESC
-LANG_ENGLISH          "Kartenansicht von oben ein- oder ausschalten."
+LANG_ENGLISH          "Zeige die gesamte Karte für kurze Zeit aus der Vogelperspektive an.\n\n^3Jedes Mal, wenn du die zugewiesene Taste drückst, wird die Luftansicht erneut aktiviert."
 
 REFERENCE            KEYBIND_HIDE_HUD
 LANG_ENGLISH          "HUD ausblenden"
 
 REFERENCE            KEYBIND_HIDE_HUD_DESC
-LANG_ENGLISH          "HUD aus- oder einblenden."
+LANG_ENGLISH          "Blendet alle HUD-Elemente aus, um eine freie Sicht auf das Spiel zu erhalten.\n\n^3Drücke die zugewiesene Taste, um es ein- oder auszuschalten."
 
 REFERENCE            KEYBIND_PAY_HALF_DOOR_COST
-LANG_ENGLISH          "Halbe Türkosten bezahlen"
+LANG_ENGLISH          "Halbe Türkosten zahlen"
 
 REFERENCE            KEYBIND_PAY_HALF_DOOR_COST_DESC
-LANG_ENGLISH          "Bezahle nur die Hälfte der Kosten zum Öffnen einer Tür."
+LANG_ENGLISH          "Arbeite mit deinen Teamkameraden zusammen, um Türen zu kaufen, indem ihr euch die Kosten teilt.\n\n^3Drücke die zugewiesene Taste, um die Hälfte der Türkosten zu bezahlen."
 
 REFERENCE            KEYBIND_SPRAY_PAINT_EMBLEM
-LANG_ENGLISH          "Emblem aufsprühen"
+LANG_ENGLISH          "Emblem sprayen"
 
 REFERENCE            KEYBIND_SPRAY_PAINT_EMBLEM_DESC
-LANG_ENGLISH          "Sprüht das Emblem auf."
+LANG_ENGLISH          "Sprühe dein Black Ops 3-Emblem als Graffiti auf nahezu jede Oberfläche.\n\n^3Drücke die zugewiesene Taste, um dein Emblem zu sprayen."
 
 REFERENCE            KEYBIND_SET_MULEKICK_WEAPON
-LANG_ENGLISH          "Mule-Kick-Waffe festlegen"
+LANG_ENGLISH          "Mule-Kick-Waffe wechseln"
 
 REFERENCE            KEYBIND_SET_MULEKICK_WEAPON_DESC
-LANG_ENGLISH          "Legt die aktuelle Waffe als Mule-Kick-Waffe fest."
+LANG_ENGLISH          "Ersetze deine Mule-Kick-Waffe durch eine deiner aktuell getragenen Waffen.\n\n^3Drücke die zugewiesene Taste, um deine aktuelle Waffe als Mule-Kick-Waffe festzulegen."
 
 REFERENCE            KEYBIND_CHANGE_CAMO
-LANG_ENGLISH          "Tarnung ändern"
+LANG_ENGLISH          "Tarnung wechseln"
 
 REFERENCE            KEYBIND_PREVIOUS_CAMO_DESC
-LANG_ENGLISH          "Zur vorherigen Tarnung wechseln."
+LANG_ENGLISH          "Ändere die Tarnung deiner Waffe.\n\n^3Jedes Mal, wenn du die zugewiesene Taste drückst, wird zur nächsten Tarnung gewechselt."
 
 REFERENCE            KEYBIND_NEXT_CAMO_DESC
-LANG_ENGLISH          "Zur nächsten Tarnung wechseln."
+LANG_ENGLISH          "Ändere die Tarnung deiner Waffe.\n\n^3Jedes Mal, wenn du die zugewiesene Taste drückst, wird zur vorherigen Tarnung gewechselt."
 
 REFERENCE            KEYBIND_CHANGE_RETICLE
-LANG_ENGLISH          "Fadenkreuz ändern"
+LANG_ENGLISH          "Fadenkreuz wechseln"
 
 REFERENCE            KEYBIND_PREVIOUS_RETICLE_DESC
-LANG_ENGLISH          "Zum vorherigen Fadenkreuz wechseln."
+LANG_ENGLISH          "Ändere das Fadenkreuz deiner Waffe.\n\n^3Jedes Mal, wenn du die zugewiesene Taste drückst, wird zum nächsten Fadenkreuz gewechselt."
 
 REFERENCE            KEYBIND_NEXT_RETICLE_DESC
-LANG_ENGLISH          "Zum nächsten Fadenkreuz wechseln."
+LANG_ENGLISH          "Ändere das Fadenkreuz deiner Waffe.\n\n^3Jedes Mal, wenn du die zugewiesene Taste drückst, wird zum vorherigen Fadenkreuz gewechselt."
 
 REFERENCE            KEYBIND_ENHANCED_CONTROLS
-LANG_ENGLISH          "Erweiterte Steuerung"
+LANG_ENGLISH          "Schnelltasten"
 
 REFERENCE            KEYBIND_WEAPON_INSPECT_REDRAW
-LANG_ENGLISH          "Waffeninspektion / Neu zeichnen"
+LANG_ENGLISH          "Waffe inspizieren"
 
 REFERENCE            CHATCMD_HELP
 LANG_ENGLISH          "Drücke ^3&&1^7 auf deiner Tastatur und gib dann ^3/?^7 im Chat ein, um alle Chatbefehle anzuzeigen"

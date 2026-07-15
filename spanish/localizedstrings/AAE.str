@@ -724,7 +724,7 @@ REFERENCE            KEYBIND_PING
 LANG_ENGLISH         "Marcar un punto"
 
 REFERENCE            KEYBIND_PING_DESC
-LANG_ENGLISH         "Podrás marcar desde un punto específico hasta una máquina de ventajas o un enemigo.\n\n^3Se activa y desactiva pulsando la misma tecla asignada."
+LANG_ENGLISH         "Podrás marcar desde un punto específico del mapa hasta una máquina de ventajas o un enemigo.\n\n^3Se activa y desactiva pulsando la misma tecla asignada."
 
 REFERENCE            KEYBIND_DROP_POINTS
 LANG_ENGLISH         "Soltar 1000 puntos"
@@ -808,7 +808,7 @@ REFERENCE            CHATCMD_HELP
 LANG_ENGLISH         "Presiona ^3&&1^7 en tu teclado y luego escribe ^3/?^7 en el chat del juego para ver todos los comandos."
 
 REFERENCE            PAYHALF_DOOR
-LANG_ENGLISH         "Presiona &&1 ^7 Para pagar la mitad del costo de esta puerta."
+LANG_ENGLISH         "Presiona ^3&&1^7 Para pagar la mitad del costo de esta puerta."
 
 ///////////////////////////////////////////////////////////
 REFERENCE           CHOOSE_HERO_LIST33
@@ -824,7 +824,7 @@ REFERENCE           CHOOSE_HERO_LIST36
 LANG_ENGLISH     "Fidel Castro"
 
 REFERENCE           EDITABLE_HELP
-LANG_ENGLISH     "Edita las teclas en el menú de Controles"
+LANG_ENGLISH     "Podras edita las teclas en el menú de Controles"
 
 REFERENCE           DATE_ZM_PENTAGON
 LANG_ENGLISH     "6 de noviembre de 1963"

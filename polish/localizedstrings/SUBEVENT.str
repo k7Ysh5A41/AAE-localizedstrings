@@ -116,4 +116,7 @@ LANG_ENGLISH        "Krew zombie"
 REFERENCE           INSTA_KILL
 LANG_ENGLISH        "Natychmiastowe zabicie"
 
+REFERENCE           FIRE_SALE
+LANG_ENGLISH      "Wyprzedaż"
+
 ENDMARKER
