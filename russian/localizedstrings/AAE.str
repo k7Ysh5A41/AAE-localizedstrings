@@ -162,7 +162,7 @@ REFERENCE           PAP_AND_NORMAL
 LANG_ENGLISH     "Улучшайзер и обычный"
 
 REFERENCE           THROW_CANCLE
-LANG_ENGLISH     " / Отменить бросок"
+LANG_ENGLISH     "Отменить бросок"
 
 REFERENCE           IMMUNE
 LANG_ENGLISH     "Невосприимчивый"
@@ -710,5 +710,123 @@ LANG_ENGLISH     "Пользовательский интерфейс - Меню
 
 REFERENCE           MICROMISSILE_LAUNCHER_HINT
 LANG_ENGLISH     "Удерживайте ^3ADS^7 чтобы захватить цель (до 5 целей)"
+
+REFERENCE            KEYBIND_FLASHLIGHT
+LANG_ENGLISH         "Фонарик"
+
+REFERENCE            KEYBIND_FLASHLIGHT_DESC
+LANG_ENGLISH         "Включить фонарик."
+
+REFERENCE            KEYBIND_PING
+LANG_ENGLISH         "Отметить"
+
+REFERENCE            KEYBIND_PING_DESC
+LANG_ENGLISH         "Отметьте позицию маркером. Маркер видят все игроки."
+
+REFERENCE            KEYBIND_DROP_POINTS
+LANG_ENGLISH         "Сбросить 1000 очков"
+
+REFERENCE            KEYBIND_DROP_POINTS_DESC
+LANG_ENGLISH         "Сбросить 1000 очков."
+
+REFERENCE            KEYBIND_SHIELD_DEPLOY
+LANG_ENGLISH         "Развернуть щит"
+
+REFERENCE            KEYBIND_SHIELD_DEPLOY_DESC
+LANG_ENGLISH         "Положить щит на землю."
+
+REFERENCE            KEYBIND_THIRD_PERSON
+LANG_ENGLISH         "Вид от третьего лица"
+
+REFERENCE            KEYBIND_THIRD_PERSON_DESC
+LANG_ENGLISH         "Переключить вид от третьего лица."
+
+REFERENCE            KEYBIND_DNI_NIGHTVISION
+LANG_ENGLISH         "Ночное виденье ПНИ"
+
+REFERENCE            KEYBIND_DNI_NIGHTVISION_DESC
+LANG_ENGLISH         "Переключить режим ночного видения ПНИ."
+
+REFERENCE            KEYBIND_OVERHEAD_MAP_VIEW
+LANG_ENGLISH         "Вид сверху"
+
+REFERENCE            KEYBIND_OVERHEAD_MAP_VIEW_DESC
+LANG_ENGLISH         "Переключить режим просмотра карты с птичьего полёт."
+
+REFERENCE            KEYBIND_HIDE_HUD
+LANG_ENGLISH         "Скрыть HUD"
+
+REFERENCE            KEYBIND_HIDE_HUD_DESC
+LANG_ENGLISH         "Скрыть или показать HUD."
+
+REFERENCE            KEYBIND_PAY_HALF_DOOR_COST
+LANG_ENGLISH         "Заплатить половину"
+
+REFERENCE            KEYBIND_PAY_HALF_DOOR_COST_DESC
+LANG_ENGLISH         "При открытии двери вы платите только половину стоимости."
+
+REFERENCE            KEYBIND_SPRAY_PAINT_EMBLEM
+LANG_ENGLISH         "Нарисовать эмблему"
+
+REFERENCE            KEYBIND_SPRAY_PAINT_EMBLEM_DESC
+LANG_ENGLISH         "Нарисовать эмблему."
+
+REFERENCE            KEYBIND_SET_MULEKICK_WEAPON
+LANG_ENGLISH         "Выбрать третье оружие (перк пинок мула)"
+
+REFERENCE            KEYBIND_SET_MULEKICK_WEAPON_DESC
+LANG_ENGLISH         "Установить выбранное оружие третьим."
+
+REFERENCE            KEYBIND_CHANGE_CAMO
+LANG_ENGLISH         "Изменить камуфляж"
+
+REFERENCE            KEYBIND_PREVIOUS_CAMO_DESC
+LANG_ENGLISH         "Переключиться на предыдущий камуфляж."
+
+REFERENCE            KEYBIND_NEXT_CAMO_DESC
+LANG_ENGLISH         "Переключиться на следующий камуфляж."
+
+REFERENCE            KEYBIND_CHANGE_RETICLE
+LANG_ENGLISH         "Изменить прицел"
+
+REFERENCE            KEYBIND_PREVIOUS_RETICLE_DESC
+LANG_ENGLISH         "Переключиться на предыдущую прицельную сетку."
+
+REFERENCE            KEYBIND_NEXT_RETICLE_DESC
+LANG_ENGLISH         "Переключиться на следующую прицельную сетку."
+
+REFERENCE            KEYBIND_ENHANCED_CONTROLS
+LANG_ENGLISH         "Расширенные возможности управления"
+
+REFERENCE            KEYBIND_WEAPON_INSPECT_REDRAW
+LANG_ENGLISH         "Осмотр оружия / Передёргивание"
+
+REFERENCE            CHATCMD_HELP
+LANG_ENGLISH         "Нажмите ^3&&1^7 на клавиатуре, затем введите ^3/?^7 в поле чата, чтобы увидеть все команды чата."
+
+REFERENCE            PAYHALF_DOOR
+LANG_ENGLISH         "&&1 ^7Заплатить половину"
+
+///////////////////////////////////////////////////////////
+REFERENCE           CHOOSE_HERO_LIST33
+LANG_ENGLISH     "Джон Кеннеди"
+
+REFERENCE           CHOOSE_HERO_LIST34
+LANG_ENGLISH     "Роберт Макнамара"
+
+REFERENCE           CHOOSE_HERO_LIST35
+LANG_ENGLISH     "Ричард Никсон"
+
+REFERENCE           CHOOSE_HERO_LIST36
+LANG_ENGLISH     "Фидель Кастро"
+
+REFERENCE           DATE_ZM_PENTAGON
+LANG_ENGLISH     "6 ноября 1963 года" 
+
+REFERENCE           DATE_ZM_PRISON
+LANG_ENGLISH     "Примерно после 19 января 1934 года" 
+
+REFERENCE           DATE_ZM_COAST
+LANG_ENGLISH     "17 марта 2011 г." 
 
 ENDMARKER
