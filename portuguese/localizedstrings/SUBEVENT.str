@@ -116,4 +116,7 @@ LANG_ENGLISH        "Sangue de zumbi"
 REFERENCE           INSTA_KILL
 LANG_ENGLISH        "Morte instantânea"
 
+REFERENCE           FIRE_SALE
+LANG_ENGLISH  "Liquidação"
+
 ENDMARKER

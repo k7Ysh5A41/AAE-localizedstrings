@@ -162,7 +162,7 @@ REFERENCE           PAP_AND_NORMAL
 LANG_ENGLISH     "PAP and Normal"
 
 REFERENCE           THROW_CANCLE
-LANG_ENGLISH     " / Throwable Cancel"
+LANG_ENGLISH     "Throwable Cancel"
 
 REFERENCE           IMMUNE
 LANG_ENGLISH     "Immune"
@@ -710,5 +710,126 @@ LANG_ENGLISH     "User Interface - Menus"
 
 REFERENCE           MICROMISSILE_LAUNCHER_HINT
 LANG_ENGLISH     "Press ^3ADS^7 to Lock-On ( 5 max )"
+
+REFERENCE            KEYBIND_FLASHLIGHT
+LANG_ENGLISH         "Flashlight"
+
+REFERENCE            KEYBIND_FLASHLIGHT_DESC
+LANG_ENGLISH         "Turn on a flashlight mounted on your weapon to illuminate dark areas of the map.\n\n^3Press the assigned key to toggle it on or off."
+
+REFERENCE            KEYBIND_PING
+LANG_ENGLISH         "Ping"
+
+REFERENCE            KEYBIND_PING_DESC
+LANG_ENGLISH         "Mark a specific location in the map, a Perk Machine, or an enemy.\n\n^3Press the assigned key to place a marker."
+
+REFERENCE            KEYBIND_DROP_POINTS
+LANG_ENGLISH         "Drop 1000 Points"
+
+REFERENCE            KEYBIND_DROP_POINTS_DESC
+LANG_ENGLISH         "Drop points for your teammates in increments of 1000.\n\n^3Each time you press the assigned key, you will drop 1000 points."
+
+REFERENCE            KEYBIND_SHIELD_DEPLOY
+LANG_ENGLISH         "Deploy Shield"
+
+REFERENCE            KEYBIND_SHIELD_DEPLOY_DESC
+LANG_ENGLISH         "Deploy your shield on the ground to create a barricade. It may also attract zombies.\n\n^3Press the assigned key to deploy your shield."
+
+REFERENCE            KEYBIND_THIRD_PERSON
+LANG_ENGLISH         "Third Person"
+
+REFERENCE            KEYBIND_THIRD_PERSON_DESC
+LANG_ENGLISH         "Play your game in third-person, just like in the latest Call of Duty titles.\n\n^3Press the assigned key to toggle it on or off."
+
+REFERENCE            KEYBIND_DNI_NIGHTVISION
+LANG_ENGLISH         "DNI Nightvision"
+
+REFERENCE            KEYBIND_DNI_NIGHTVISION_DESC
+LANG_ENGLISH         "Enable a night vision filter during gameplay.\n\n^3Press the assigned key to toggle it on or off."
+
+REFERENCE            KEYBIND_OVERHEAD_MAP_VIEW
+LANG_ENGLISH         "Overhead Map View"
+
+REFERENCE            KEYBIND_OVERHEAD_MAP_VIEW_DESC
+LANG_ENGLISH         "View the entire map from above for a few moments.\n\n^3Each time you press the assigned key, the aerial view will be activated again."
+
+REFERENCE            KEYBIND_HIDE_HUD
+LANG_ENGLISH         "Hide Heads Up Display"
+
+REFERENCE            KEYBIND_HIDE_HUD_DESC
+LANG_ENGLISH         "Hide all HUD elements for a clear view of the game.\n\n^3Press the assigned key to toggle it on or off."
+
+REFERENCE            KEYBIND_PAY_HALF_DOOR_COST
+LANG_ENGLISH         "Pay Half Door Cost"
+
+REFERENCE            KEYBIND_PAY_HALF_DOOR_COST_DESC
+LANG_ENGLISH         "Work together with your teammates to buy doors by splitting the cost.\n\n^3Press the assigned key to pay half of the door's cost."
+
+REFERENCE            KEYBIND_SPRAY_PAINT_EMBLEM
+LANG_ENGLISH         "Spray Paint Emblem"
+
+REFERENCE            KEYBIND_SPRAY_PAINT_EMBLEM_DESC
+LANG_ENGLISH         "Spray your Black Ops 3 emblem onto almost any surface.\n\n^3Press the assigned key to spray your emblem."
+
+REFERENCE            KEYBIND_SET_MULEKICK_WEAPON
+LANG_ENGLISH         "Set Mulekick Weapon"
+
+REFERENCE            KEYBIND_SET_MULEKICK_WEAPON_DESC
+LANG_ENGLISH         "Replace your Mule Kick weapon with any weapon you're currently carrying.\n\n^3Press the assigned key to set your current weapon as your Mule Kick weapon."
+
+REFERENCE            KEYBIND_CHANGE_CAMO
+LANG_ENGLISH         "Change Camo"
+
+REFERENCE            KEYBIND_PREVIOUS_CAMO_DESC
+LANG_ENGLISH         "Change your weapon's camouflage.\n\n^3Each time you press the assigned key, it will switch to the next camo."
+
+REFERENCE            KEYBIND_NEXT_CAMO_DESC
+LANG_ENGLISH         "Change your weapon's camouflage.\n\n^3Each time you press the assigned key, it will switch to the previous camo."
+
+REFERENCE            KEYBIND_CHANGE_RETICLE
+LANG_ENGLISH         "Change Reticle"
+
+REFERENCE            KEYBIND_PREVIOUS_RETICLE_DESC
+LANG_ENGLISH         "Change your weapon's reticle.\n\n^3Each time you press the assigned key, it will switch to the next reticle."
+
+REFERENCE            KEYBIND_NEXT_RETICLE_DESC
+LANG_ENGLISH         "Change your weapon's reticle.\n\n^3Each time you press the assigned key, it will switch to the previous reticle."
+
+REFERENCE            KEYBIND_ENHANCED_CONTROLS
+LANG_ENGLISH         "Enhanced Controls"
+
+REFERENCE            KEYBIND_WEAPON_INSPECT_REDRAW
+LANG_ENGLISH         "Weapon Inspect / Redraw"
+
+REFERENCE            CHATCMD_HELP
+LANG_ENGLISH         "Press ^3&&1^7 on your keyboard, then type ^3/?^7 in the chat box to see all chat commands"
+
+REFERENCE            PAYHALF_DOOR
+LANG_ENGLISH         "&&1 ^7Pay Half"
+
+///////////////////////////////////////////////////////////
+REFERENCE           CHOOSE_HERO_LIST33
+LANG_ENGLISH     "John F. Kennedy"
+
+REFERENCE           CHOOSE_HERO_LIST34
+LANG_ENGLISH     "Robert McNamara"
+
+REFERENCE           CHOOSE_HERO_LIST35
+LANG_ENGLISH     "Richard Nixon"
+
+REFERENCE           CHOOSE_HERO_LIST36
+LANG_ENGLISH     "Fidel Castro"
+
+REFERENCE           EDITABLE_HELP
+LANG_ENGLISH     "Edit this in the Control menu"
+
+REFERENCE           DATE_ZM_PENTAGON
+LANG_ENGLISH     "November 6th, 1963" 
+
+REFERENCE           DATE_ZM_PRISON
+LANG_ENGLISH     "Sometime after January 19th, 1934" 
+
+REFERENCE           DATE_ZM_COAST
+LANG_ENGLISH     "March 17th, 2011" 
 
 ENDMARKER

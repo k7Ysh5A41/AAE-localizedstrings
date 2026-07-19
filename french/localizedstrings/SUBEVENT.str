@@ -116,4 +116,7 @@ LANG_ENGLISH        "Sang de zombie"
 REFERENCE           INSTA_KILL
 LANG_ENGLISH        "Élimination instantanée"
 
+REFERENCE           FIRE_SALE
+LANG_ENGLISH      "Soldes"
+
 ENDMARKER

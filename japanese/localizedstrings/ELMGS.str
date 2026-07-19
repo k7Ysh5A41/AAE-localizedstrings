@@ -107,4 +107,16 @@ LANG_ENGLISH    "勇敢な探検家たちの難破した一行は、廃墟と化
 REFERENCE            ZM_TOMB_TITLE
 LANG_ENGLISH       "発掘現場64"
 
+REFERENCE            FIVE_DESC
+LANG_ENGLISH        "ペンタゴンが攻撃を受けている！「Zombies」のこの作品で、ワシントンはDEFCON 1へ移行する。"
+
+REFERENCE            FIVE_LINE1
+LANG_ENGLISH        "ペンタゴン"
+
+REFERENCE            FIVE_LINE2
+LANG_ENGLISH        "アメリカ合衆国 バージニア州"
+
+REFERENCE            FIVE_LINE3
+LANG_ENGLISH        ""FIVE""
+
 ENDMARKER

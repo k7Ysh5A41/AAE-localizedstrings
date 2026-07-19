@@ -162,7 +162,7 @@ REFERENCE           PAP_AND_NORMAL
 LANG_ENGLISH     "PaP と 通常"
 
 REFERENCE           THROW_CANCLE
-LANG_ENGLISH     " / 投擲物キャンセル"
+LANG_ENGLISH     "投擲物キャンセル"
 
 REFERENCE           IMMUNE
 LANG_ENGLISH     "無敵"
@@ -710,5 +710,126 @@ LANG_ENGLISH       "ユーザーインターフェース - 3D HUD"
 
 REFERENCE           FILTER_MENU
 LANG_ENGLISH       "ユーザーインターフェース - メニュー"
+
+REFERENCE           MICROMISSILE_LAUNCHER_HINT
+LANG_ENGLISH       "^3照準^7を押してロックオン（最大5）"
+
+REFERENCE            KEYBIND_FLASHLIGHT
+LANG_ENGLISH        "フラッシュライト"
+
+REFERENCE            KEYBIND_FLASHLIGHT_DESC
+LANG_ENGLISH        "武器に取り付けられたフラッシュライトを点灯し、マップの暗い場所を照らします。\n\n^3割り当てられたキーを押すとオン・オフを切り替えます。"
+
+REFERENCE            KEYBIND_PING
+LANG_ENGLISH        "マーカー"
+
+REFERENCE            KEYBIND_PING_DESC
+LANG_ENGLISH        "特定の場所、パークマシン、または敵をマークできます。\n\n^3割り当てられたキーを押すとマーカーを設置します。"
+
+REFERENCE            KEYBIND_DROP_POINTS
+LANG_ENGLISH        "1000ポイントを落とす"
+
+REFERENCE            KEYBIND_DROP_POINTS_DESC
+LANG_ENGLISH        "1000ポイント単位で仲間にポイントを渡せます。\n\n^3割り当てられたキーを押すたびに1000ポイントを落とします。"
+
+REFERENCE            KEYBIND_SHIELD_DEPLOY
+LANG_ENGLISH        "シールドを設置"
+
+REFERENCE            KEYBIND_SHIELD_DEPLOY_DESC
+LANG_ENGLISH        "シールドを地面に設置してバリケードを作ります。時にはゾンビを引き寄せることもあります。\n\n^3割り当てられたキーを押すとシールドを設置します。"
+
+REFERENCE            KEYBIND_THIRD_PERSON
+LANG_ENGLISH        "三人称視点"
+
+REFERENCE            KEYBIND_THIRD_PERSON_DESC
+LANG_ENGLISH        "最新のCall of Dutyシリーズのように、三人称視点でプレイできます。\n\n^3割り当てられたキーを押すとオン・オフを切り替えます。"
+
+REFERENCE            KEYBIND_DNI_NIGHTVISION
+LANG_ENGLISH        "ナイトビジョン"
+
+REFERENCE            KEYBIND_DNI_NIGHTVISION_DESC
+LANG_ENGLISH        "ゲーム中にナイトビジョンフィルターを有効にできます。\n\n^3割り当てられたキーを押すとオン・オフを切り替えます。"
+
+REFERENCE            KEYBIND_OVERHEAD_MAP_VIEW
+LANG_ENGLISH        "マップ全体表示"
+
+REFERENCE            KEYBIND_OVERHEAD_MAP_VIEW_DESC
+LANG_ENGLISH        "一定時間、マップ全体を上空から表示します。\n\n^3割り当てられたキーを押すたびに上空視点が再表示されます。"
+
+REFERENCE            KEYBIND_HIDE_HUD
+LANG_ENGLISH        "HUDを非表示"
+
+REFERENCE            KEYBIND_HIDE_HUD_DESC
+LANG_ENGLISH        "HUDのすべての要素を非表示にして、ゲーム画面をすっきり表示します。\n\n^3割り当てられたキーを押すとオン・オフを切り替えます。"
+
+REFERENCE            KEYBIND_PAY_HALF_DOOR_COST
+LANG_ENGLISH        "ドア代を半分支払う"
+
+REFERENCE            KEYBIND_PAY_HALF_DOOR_COST_DESC
+LANG_ENGLISH        "仲間と協力してドアの費用を分担して購入できます。\n\n^3割り当てられたキーを押すとドア代の半額を支払います。"
+
+REFERENCE            KEYBIND_SPRAY_PAINT_EMBLEM
+LANG_ENGLISH        "エンブレムをスプレー"
+
+REFERENCE            KEYBIND_SPRAY_PAINT_EMBLEM_DESC
+LANG_ENGLISH        "Black Ops 3のエンブレムをほぼすべての壁にグラフィティとして描けます。\n\n^3割り当てられたキーを押すとエンブレムをスプレーします。"
+
+REFERENCE            KEYBIND_SET_MULEKICK_WEAPON
+LANG_ENGLISH        "ミュールキック武器を変更"
+
+REFERENCE            KEYBIND_SET_MULEKICK_WEAPON_DESC
+LANG_ENGLISH        "現在所持している武器をミュールキック武器として設定できます。\n\n^3割り当てられたキーを押すと現在の武器がミュールキック武器になります。"
+
+REFERENCE            KEYBIND_CHANGE_CAMO
+LANG_ENGLISH        "迷彩を変更"
+
+REFERENCE            KEYBIND_PREVIOUS_CAMO_DESC
+LANG_ENGLISH        "武器の迷彩デザインを変更できます。\n\n^3割り当てられたキーを押すたびに次の迷彩へ切り替わります。"
+
+REFERENCE            KEYBIND_NEXT_CAMO_DESC
+LANG_ENGLISH        "武器の迷彩デザインを変更できます。\n\n^3割り当てられたキーを押すたびに前の迷彩へ戻ります。"
+
+REFERENCE            KEYBIND_CHANGE_RETICLE
+LANG_ENGLISH        "レティクルを変更"
+
+REFERENCE            KEYBIND_PREVIOUS_RETICLE_DESC
+LANG_ENGLISH        "武器のレティクルデザインを変更できます。\n\n^3割り当てられたキーを押すたびに次のレティクルへ切り替わります。"
+
+REFERENCE            KEYBIND_NEXT_RETICLE_DESC
+LANG_ENGLISH        "武器のレティクルデザインを変更できます。\n\n^3割り当てられたキーを押すたびに前のレティクルへ戻ります。"
+
+REFERENCE            KEYBIND_ENHANCED_CONTROLS
+LANG_ENGLISH        "ショートカットキー"
+
+REFERENCE            KEYBIND_WEAPON_INSPECT_REDRAW
+LANG_ENGLISH        "武器を確認"
+
+REFERENCE            CHATCMD_HELP
+LANG_ENGLISH        "キーボードで ^3&&1^7 を押してから、チャット欄に ^3/?^7 と入力すると、すべてのチャットコマンドを確認できます"
+
+REFERENCE            PAYHALF_DOOR
+LANG_ENGLISH        "&&1 ^7半額支払い"
+
+///////////////////////////////////////////////////////////
+REFERENCE           CHOOSE_HERO_LIST33
+LANG_ENGLISH     "ジョン・F・ケネディ"
+
+REFERENCE           CHOOSE_HERO_LIST34
+LANG_ENGLISH     "ロバート・マクナマラ"
+
+REFERENCE           CHOOSE_HERO_LIST35
+LANG_ENGLISH     "リチャード・ニクソン"
+
+REFERENCE           CHOOSE_HERO_LIST36
+LANG_ENGLISH     "フィデル・カストロ"
+
+REFERENCE           DATE_ZM_PENTAGON
+LANG_ENGLISH     "1963年11月6日"
+
+REFERENCE           DATE_ZM_PRISON
+LANG_ENGLISH     "1934年1月19日以降のある時点"
+
+REFERENCE           DATE_ZM_COAST
+LANG_ENGLISH     "2011年3月17日"
 
 ENDMARKER

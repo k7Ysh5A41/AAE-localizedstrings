@@ -162,7 +162,7 @@ REFERENCE           PAP_AND_NORMAL
 LANG_ENGLISH     "PaP e Normale"
 
 REFERENCE           THROW_CANCLE
-LANG_ENGLISH     " / Annulla Lanciabile"
+LANG_ENGLISH     "Annulla Lanciabile"
 
 REFERENCE           IMMUNE
 LANG_ENGLISH     "Immune"
@@ -710,5 +710,126 @@ LANG_ENGLISH        "Interfaccia utente - HUD 3D"
 
 REFERENCE           FILTER_MENU
 LANG_ENGLISH        "Interfaccia utente - Menu"
+
+REFERENCE           MICROMISSILE_LAUNCHER_HINT
+LANG_ENGLISH        "Premi ^3Mira^7 per agganciare ( max 5 )"
+
+REFERENCE            KEYBIND_FLASHLIGHT
+LANG_ENGLISH         "Torcia"
+
+REFERENCE            KEYBIND_FLASHLIGHT_DESC
+LANG_ENGLISH         "Accendi una torcia montata sulla tua arma per illuminare le aree buie della mappa.\n\n^3Premi il tasto assegnato per attivarla o disattivarla."
+
+REFERENCE            KEYBIND_PING
+LANG_ENGLISH         "Segnala"
+
+REFERENCE            KEYBIND_PING_DESC
+LANG_ENGLISH         "Segna una posizione specifica, una macchina Perk o un nemico.\n\n^3Premi il tasto assegnato per piazzare un indicatore."
+
+REFERENCE            KEYBIND_DROP_POINTS
+LANG_ENGLISH         "Lascia 1000 punti"
+
+REFERENCE            KEYBIND_DROP_POINTS_DESC
+LANG_ENGLISH         "Lascia punti ai tuoi compagni a gruppi di 1000.\n\n^3Ogni volta che premi il tasto assegnato lascerai 1000 punti."
+
+REFERENCE            KEYBIND_SHIELD_DEPLOY
+LANG_ENGLISH         "Posiziona lo scudo"
+
+REFERENCE            KEYBIND_SHIELD_DEPLOY_DESC
+LANG_ENGLISH         "Posiziona il tuo scudo a terra per creare una barricata. A volte attirerà anche gli zombi.\n\n^3Premi il tasto assegnato per posizionare lo scudo."
+
+REFERENCE            KEYBIND_THIRD_PERSON
+LANG_ENGLISH         "Terza persona"
+
+REFERENCE            KEYBIND_THIRD_PERSON_DESC
+LANG_ENGLISH         "Gioca la partita in terza persona, proprio come nei più recenti Call of Duty.\n\n^3Premi il tasto assegnato per attivarla o disattivarla."
+
+REFERENCE            KEYBIND_DNI_NIGHTVISION
+LANG_ENGLISH         "Visione notturna"
+
+REFERENCE            KEYBIND_DNI_NIGHTVISION_DESC
+LANG_ENGLISH         "Attiva un filtro di visione notturna durante la partita.\n\n^3Premi il tasto assegnato per attivarlo o disattivarlo."
+
+REFERENCE            KEYBIND_OVERHEAD_MAP_VIEW
+LANG_ENGLISH         "Vista aerea"
+
+REFERENCE            KEYBIND_OVERHEAD_MAP_VIEW_DESC
+LANG_ENGLISH         "Visualizza l'intera mappa dall'alto per alcuni istanti.\n\n^3Ogni volta che premi il tasto assegnato, la vista aerea verrà riattivata."
+
+REFERENCE            KEYBIND_HIDE_HUD
+LANG_ENGLISH         "Nascondi HUD"
+
+REFERENCE            KEYBIND_HIDE_HUD_DESC
+LANG_ENGLISH         "Nasconde tutti gli elementi dell'HUD per ottenere una visuale pulita della partita.\n\n^3Premi il tasto assegnato per attivarlo o disattivarlo."
+
+REFERENCE            KEYBIND_PAY_HALF_DOOR_COST
+LANG_ENGLISH         "Paga metà porta"
+
+REFERENCE            KEYBIND_PAY_HALF_DOOR_COST_DESC
+LANG_ENGLISH         "Collabora con i tuoi compagni per acquistare una porta condividendone il costo.\n\n^3Premi il tasto assegnato per pagare metà del costo della porta."
+
+REFERENCE            KEYBIND_SPRAY_PAINT_EMBLEM
+LANG_ENGLISH         "Spruzza emblema"
+
+REFERENCE            KEYBIND_SPRAY_PAINT_EMBLEM_DESC
+LANG_ENGLISH         "Spruzza il tuo emblema di Black Ops 3 come un graffito su quasi qualsiasi superficie.\n\n^3Premi il tasto assegnato per spruzzare il tuo emblema."
+
+REFERENCE            KEYBIND_SET_MULEKICK_WEAPON
+LANG_ENGLISH         "Cambia arma Mule Kick"
+
+REFERENCE            KEYBIND_SET_MULEKICK_WEAPON_DESC
+LANG_ENGLISH         "Sostituisci l'arma del Mule Kick con una qualsiasi delle armi che stai trasportando.\n\n^3Premi il tasto assegnato per impostare l'arma corrente come arma del Mule Kick."
+
+REFERENCE            KEYBIND_CHANGE_CAMO
+LANG_ENGLISH         "Cambia mimetica"
+
+REFERENCE            KEYBIND_PREVIOUS_CAMO_DESC
+LANG_ENGLISH         "Cambia la mimetica della tua arma.\n\n^3Ogni volta che premi il tasto assegnato passerai alla mimetica successiva."
+
+REFERENCE            KEYBIND_NEXT_CAMO_DESC
+LANG_ENGLISH         "Cambia la mimetica della tua arma.\n\n^3Ogni volta che premi il tasto assegnato tornerai alla mimetica precedente."
+
+REFERENCE            KEYBIND_CHANGE_RETICLE
+LANG_ENGLISH         "Cambia reticolo"
+
+REFERENCE            KEYBIND_PREVIOUS_RETICLE_DESC
+LANG_ENGLISH         "Cambia il reticolo della tua arma.\n\n^3Ogni volta che premi il tasto assegnato passerai al reticolo successivo."
+
+REFERENCE            KEYBIND_NEXT_RETICLE_DESC
+LANG_ENGLISH         "Cambia il reticolo della tua arma.\n\n^3Ogni volta che premi il tasto assegnato tornerai al reticolo precedente."
+
+REFERENCE            KEYBIND_ENHANCED_CONTROLS
+LANG_ENGLISH         "Tasti rapidi"
+
+REFERENCE            KEYBIND_WEAPON_INSPECT_REDRAW
+LANG_ENGLISH         "Ispeziona arma"
+
+REFERENCE            CHATCMD_HELP
+LANG_ENGLISH         "Premi ^3&&1^7 sulla tastiera, poi digita ^3/?^7 nella chat per vedere tutti i comandi disponibili"
+
+REFERENCE            PAYHALF_DOOR
+LANG_ENGLISH         "&&1 ^7Paga metà"
+
+///////////////////////////////////////////////////////////
+REFERENCE           CHOOSE_HERO_LIST33
+LANG_ENGLISH     "John F. Kennedy"
+
+REFERENCE           CHOOSE_HERO_LIST34
+LANG_ENGLISH     "Robert McNamara"
+
+REFERENCE           CHOOSE_HERO_LIST35
+LANG_ENGLISH     "Richard Nixon"
+
+REFERENCE           CHOOSE_HERO_LIST36
+LANG_ENGLISH     "Fidel Castro"
+
+REFERENCE           DATE_ZM_PENTAGON
+LANG_ENGLISH     "6 novembre 1963"
+
+REFERENCE           DATE_ZM_PRISON
+LANG_ENGLISH     "Qualche tempo dopo il 19 gennaio 1934"
+
+REFERENCE           DATE_ZM_COAST
+LANG_ENGLISH     "17 marzo 2011"
 
 ENDMARKER

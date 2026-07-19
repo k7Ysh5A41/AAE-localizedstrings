@@ -162,7 +162,7 @@ REFERENCE           PAP_AND_NORMAL
 LANG_ENGLISH     "PaP et Normal"
 
 REFERENCE           THROW_CANCLE
-LANG_ENGLISH     " / Annuler Lancement"
+LANG_ENGLISH     "Annuler Lancement"
 
 REFERENCE           IMMUNE
 LANG_ENGLISH     "Immunisé"
@@ -710,5 +710,127 @@ LANG_ENGLISH         "Interface utilisateur - HUD 3D"
 
 REFERENCE           FILTER_MENU
 LANG_ENGLISH         "Interface utilisateur - Menus"
+
+REFERENCE           MICROMISSILE_LAUNCHER_HINT
+LANG_ENGLISH         "Appuyez sur ^3Visée^7 pour verrouiller ( 5 max )"
+
+REFERENCE            KEYBIND_FLASHLIGHT
+LANG_ENGLISH          "Lampe torche"
+
+REFERENCE            KEYBIND_FLASHLIGHT_DESC
+LANG_ENGLISH          "Allumez une lampe torche fixée à votre arme pour éclairer les zones sombres de la carte.\n\n^3Appuyez sur la touche assignée pour l'activer ou la désactiver."
+
+REFERENCE            KEYBIND_PING
+LANG_ENGLISH          "Marquer"
+
+REFERENCE            KEYBIND_PING_DESC
+LANG_ENGLISH          "Marquez un emplacement précis, une machine d'atout ou un ennemi.\n\n^3Appuyez sur la touche assignée pour placer un marqueur."
+
+REFERENCE            KEYBIND_DROP_POINTS
+LANG_ENGLISH          "Déposer 1000 points"
+
+REFERENCE            KEYBIND_DROP_POINTS_DESC
+LANG_ENGLISH          "Déposez des points pour vos coéquipiers par tranche de 1000.\n\n^3Chaque pression sur la touche assignée déposera 1000 points."
+
+REFERENCE            KEYBIND_SHIELD_DEPLOY
+LANG_ENGLISH          "Déployer le bouclier"
+
+REFERENCE            KEYBIND_SHIELD_DEPLOY_DESC
+LANG_ENGLISH          "Déployez votre bouclier au sol pour créer une barricade. Il peut également attirer les zombies.\n\n^3Appuyez sur la touche assignée pour déployer votre bouclier."
+
+REFERENCE            KEYBIND_THIRD_PERSON
+LANG_ENGLISH          "Troisième personne"
+
+REFERENCE            KEYBIND_THIRD_PERSON_DESC
+LANG_ENGLISH          "Jouez votre partie à la troisième personne, comme dans les derniers Call of Duty.\n\n^3Appuyez sur la touche assignée pour l'activer ou la désactiver."
+
+REFERENCE            KEYBIND_DNI_NIGHTVISION
+LANG_ENGLISH          "Vision nocturne"
+
+REFERENCE            KEYBIND_DNI_NIGHTVISION_DESC
+LANG_ENGLISH          "Activez un filtre de vision nocturne pendant la partie.\n\n^3Appuyez sur la touche assignée pour l'activer ou le désactiver."
+
+REFERENCE            KEYBIND_OVERHEAD_MAP_VIEW
+LANG_ENGLISH          "Vue aérienne"
+
+REFERENCE            KEYBIND_OVERHEAD_MAP_VIEW_DESC
+LANG_ENGLISH          "Affichez la carte complète vue du ciel pendant quelques instants.\n\n^3Chaque pression sur la touche assignée réactive la vue aérienne."
+
+REFERENCE            KEYBIND_HIDE_HUD
+LANG_ENGLISH          "Masquer le HUD"
+
+REFERENCE            KEYBIND_HIDE_HUD_DESC
+LANG_ENGLISH          "Masquez tous les éléments du HUD pour profiter d'une vue dégagée.\n\n^3Appuyez sur la touche assignée pour l'activer ou le désactiver."
+
+REFERENCE            KEYBIND_PAY_HALF_DOOR_COST
+LANG_ENGLISH          "Payer la moitié de la porte"
+
+REFERENCE            KEYBIND_PAY_HALF_DOOR_COST_DESC
+LANG_ENGLISH          "Collaborez avec vos coéquipiers pour acheter une porte en partageant son coût.\n\n^3Appuyez sur la touche assignée pour payer la moitié du prix de la porte."
+
+REFERENCE            KEYBIND_SPRAY_PAINT_EMBLEM
+LANG_ENGLISH          "Peindre un graffiti"
+
+REFERENCE            KEYBIND_SPRAY_PAINT_EMBLEM_DESC
+LANG_ENGLISH          "Peignez votre emblème Black Ops 3 sous forme de graffiti sur presque n'importe quelle surface.\n\n^3Appuyez sur la touche assignée pour peindre votre emblème."
+
+REFERENCE            KEYBIND_SET_MULEKICK_WEAPON
+LANG_ENGLISH          "Changer l'arme Mule Kick"
+
+REFERENCE            KEYBIND_SET_MULEKICK_WEAPON_DESC
+LANG_ENGLISH          "Remplacez votre arme Mule Kick par n'importe laquelle de vos armes actuelles.\n\n^3Appuyez sur la touche assignée pour définir votre arme actuelle comme arme Mule Kick."
+
+REFERENCE            KEYBIND_CHANGE_CAMO
+LANG_ENGLISH          "Changer le camouflage"
+
+REFERENCE            KEYBIND_PREVIOUS_CAMO_DESC
+LANG_ENGLISH          "Changez le camouflage de votre arme.\n\n^3Chaque pression sur la touche assignée passe au camouflage suivant."
+
+REFERENCE            KEYBIND_NEXT_CAMO_DESC
+LANG_ENGLISH          "Changez le camouflage de votre arme.\n\n^3Chaque pression sur la touche assignée revient au camouflage précédent."
+
+REFERENCE            KEYBIND_CHANGE_RETICLE
+LANG_ENGLISH          "Changer le réticule"
+
+REFERENCE            KEYBIND_PREVIOUS_RETICLE_DESC
+LANG_ENGLISH          "Changez le réticule de votre arme.\n\n^3Chaque pression sur la touche assignée passe au réticule suivant."
+
+REFERENCE            KEYBIND_NEXT_RETICLE_DESC
+LANG_ENGLISH          "Changez le réticule de votre arme.\n\n^3Chaque pression sur la touche assignée revient au réticule précédent."
+
+REFERENCE            KEYBIND_ENHANCED_CONTROLS
+LANG_ENGLISH          "Raccourcis clavier"
+
+REFERENCE            KEYBIND_WEAPON_INSPECT_REDRAW
+LANG_ENGLISH          "Inspecter l'arme"
+
+REFERENCE            CHATCMD_HELP
+LANG_ENGLISH          "Appuyez sur ^3&&1^7 sur votre clavier, puis tapez ^3/?^7 dans la boîte de discussion pour voir toutes les commandes disponibles"
+
+REFERENCE            PAYHALF_DOOR
+LANG_ENGLISH          "&&1 ^7Payer la moitié"
+
+///////////////////////////////////////////////////////////
+REFERENCE           CHOOSE_HERO_LIST33
+LANG_ENGLISH     "John F. Kennedy"
+
+REFERENCE           CHOOSE_HERO_LIST34
+LANG_ENGLISH     "Robert McNamara"
+
+REFERENCE           CHOOSE_HERO_LIST35
+LANG_ENGLISH     "Richard Nixon"
+
+REFERENCE           CHOOSE_HERO_LIST36
+LANG_ENGLISH     "Fidel Castro"
+
+REFERENCE           DATE_ZM_PENTAGON
+LANG_ENGLISH     "6 novembre 1963"
+
+REFERENCE           DATE_ZM_PRISON
+LANG_ENGLISH     "Quelque temps après le 19 janvier 1934"
+
+REFERENCE           DATE_ZM_COAST
+LANG_ENGLISH     "17 mars 2011"
+
 
 ENDMARKER

@@ -107,4 +107,16 @@ LANG_ENGLISH  "Uma tripulação naufragada de exploradores destemidos fica presa
 REFERENCE            ZM_TOMB_TITLE
 LANG_ENGLISH     "SÍTIO DE ESCAVAÇÃO 64"
 
+REFERENCE            FIVE_DESC
+LANG_ENGLISH      "O Pentágono está sob ataque! Washington vai entrar em DEFCON 1 nesta edição de "Zombies"."
+
+REFERENCE            FIVE_LINE1
+LANG_ENGLISH      "O Pentágono"
+
+REFERENCE            FIVE_LINE2
+LANG_ENGLISH      "Virgínia, EUA"
+
+REFERENCE            FIVE_LINE3
+LANG_ENGLISH      ""FIVE""
+
 ENDMARKER

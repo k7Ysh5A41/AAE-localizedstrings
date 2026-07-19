@@ -116,4 +116,7 @@ LANG_ENGLISH     "Zombie Blood"
 REFERENCE           INSTA_KILL
 LANG_ENGLISH     "Insta-Kill"
 
+REFERENCE           FIRE_SALE
+LANG_ENGLISH     "Fire Sale"
+
 ENDMARKER

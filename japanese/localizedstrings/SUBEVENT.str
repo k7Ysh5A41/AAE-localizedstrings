@@ -116,4 +116,7 @@ LANG_ENGLISH        "ゾンビブラッド"
 REFERENCE           INSTA_KILL
 LANG_ENGLISH        "インスタキル"
 
+REFERENCE           FIRE_SALE
+LANG_ENGLISH    "ファイアセール"
+
 ENDMARKER

@@ -107,4 +107,19 @@ LANG_ENGLISH     "A Better Tomorrow"
 REFERENCE            ZM_TOMB_TITLE
 LANG_ENGLISH         "EXCAVATION SITE 64"
 
+REFERENCE            ZM_TOMB_TITLE
+LANG_ENGLISH         "EXCAVATION SITE 64"
+
+REFERENCE            FIVE_DESC
+LANG_ENGLISH         "The Pentagon is under attack! Washington is going to DEFCON 1 in this installment of "Zombies"."
+
+REFERENCE            FIVE_LINE1
+LANG_ENGLISH         "The Pentagon"
+
+REFERENCE            FIVE_LINE2
+LANG_ENGLISH         "Virginia, USA"
+
+REFERENCE            FIVE_LINE3
+LANG_ENGLISH         ""FIVE""
+
 ENDMARKER

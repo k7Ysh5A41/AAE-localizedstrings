@@ -243,7 +243,7 @@ REFERENCE            ZC_DESC
 LANG_ENGLISH         "Adds an enemy counter to the HUD. This shows both the number of enemies remaining per round, and the number of active enemies on the map."
 
 REFERENCE            DELAY_DESC
-LANG_ENGLISH         "Removes the delay between rounds. Incompatible with Roamer."
+LANG_ENGLISH         "Removes the delay between rounds.\n\n^1Notice:^7 Incompatible with Roamer."
 
 REFERENCE            HITMARKER_DESC
 LANG_ENGLISH         "Show hitmarkers when damaging zombies."
@@ -252,7 +252,7 @@ REFERENCE            SE_DESC
 LANG_ENGLISH         "Similar to Black Ops: Cold War, score events will appear next to the crosshair."
 
 REFERENCE            TIMEPLAY_DESC
-LANG_ENGLISH         "Zombies won't stop spawning, and grow stronger over time. Last as long as possible!\n\n^1Notice:^7 Not compatible with Zombie Counter and Roamer."
+LANG_ENGLISH         "Zombies won't stop spawning, and grow stronger over time. Last as long as possible!\n\n^1Notice:^7 Incompatible with Zombie Counter and Roamer."
 
 REFERENCE            DOOR_DESC
 LANG_ENGLISH         "Opens all doors on the map."
@@ -318,7 +318,7 @@ REFERENCE            T9
 LANG_ENGLISH         "Disable BOCW Weapons"
 
 REFERENCE            ELMG_WEAPON
-LANG_ENGLISH         "Disable Weapons from this mod"
+LANG_ENGLISH         "Disable Weapons from this mod."
 
 REFERENCE            MYSTERYBOX_TITLE
 LANG_ENGLISH         "MYSTERY BOX FILTERS"
