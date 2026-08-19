@@ -832,4 +832,10 @@ LANG_ENGLISH     "Sometime after January 19th, 1934"
 REFERENCE           DATE_ZM_COAST
 LANG_ENGLISH     "March 17th, 2011" 
 
+REFERENCE           KEYBIND_EMOTE
+LANG_ENGLISH     "Emotes" 
+
+REFERENCE           KEYBIND_EMOTE_DESC
+LANG_ENGLISH     "Open a menu to select player emotes" 
+
 ENDMARKER
