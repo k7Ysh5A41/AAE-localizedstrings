@@ -727,13 +727,13 @@ REFERENCE            KEYBIND_DROP_POINTS
 LANG_ENGLISH         "Бросить 1000 очков"
 
 REFERENCE            KEYBIND_DROP_POINTS_DESC
-LANG_ENGLISH         "Передавайте очки своим товарищам по 1000 за раз.\n\n^3Каждый раз при нажатии назначенной клавиши вы сбрасываете 1000 очков."
+LANG_ENGLISH         "Передавайте очки своим напаникам по 1000 за раз.\n\n^3Каждый раз при нажатии назначенной клавиши вы сбрасываете 1000 очков."
 
 REFERENCE            KEYBIND_SHIELD_DEPLOY
 LANG_ENGLISH         "Установить щит"
 
 REFERENCE            KEYBIND_SHIELD_DEPLOY_DESC
-LANG_ENGLISH         "Установите щит на землю, чтобы создать баррикаду. Иногда он также может привлекать зомби.\n\n^3Нажмите назначенную клавишу, чтобы установить щит."
+LANG_ENGLISH         "Установите щит на землю, чтобы создать баррикаду. Иногда он может привлекать зомби.\n\n^3Нажмите назначенную клавишу, чтобы установить щит."
 
 REFERENCE            KEYBIND_THIRD_PERSON
 LANG_ENGLISH         "Вид от третьего лица"
@@ -742,7 +742,7 @@ REFERENCE            KEYBIND_THIRD_PERSON_DESC
 LANG_ENGLISH         "Играйте с видом от третьего лица, как в последних играх серии Call of Duty.\n\n^3Нажмите назначенную клавишу, чтобы включить или выключить этот режим."
 
 REFERENCE            KEYBIND_DNI_NIGHTVISION
-LANG_ENGLISH         "Ночное видение DNI"
+LANG_ENGLISH         "Ночное видение ПНИ"
 
 REFERENCE            KEYBIND_DNI_NIGHTVISION_DESC
 LANG_ENGLISH         "Включите фильтр ночного видения во время игры.\n\n^3Нажмите назначенную клавишу, чтобы включить или выключить его."
@@ -760,10 +760,10 @@ REFERENCE            KEYBIND_HIDE_HUD_DESC
 LANG_ENGLISH         "Скрывает все элементы интерфейса для более чистого обзора игры.\n\n^3Нажмите назначенную клавишу, чтобы включить или выключить эту функцию."
 
 REFERENCE            KEYBIND_PAY_HALF_DOOR_COST
-LANG_ENGLISH         "Оплатить половину двери"
+LANG_ENGLISH         "Заплатить половину за дверь"
 
 REFERENCE            KEYBIND_PAY_HALF_DOOR_COST_DESC
-LANG_ENGLISH         "Покупайте двери вместе с товарищами, разделяя их стоимость.\n\n^3Нажмите назначенную клавишу, чтобы оплатить половину стоимости двери."
+LANG_ENGLISH         "Покупайте двери вместе с напарниками, разделяя их стоимость.\n\n^3Нажмите назначенную клавишу, чтобы оплатить половину стоимости двери."
 
 REFERENCE            KEYBIND_SPRAY_PAINT_EMBLEM
 LANG_ENGLISH         "Нанести эмблему"
@@ -772,10 +772,10 @@ REFERENCE            KEYBIND_SPRAY_PAINT_EMBLEM_DESC
 LANG_ENGLISH         "Нанесите свою эмблему Black Ops 3 в виде граффити почти на любую поверхность.\n\n^3Нажмите назначенную клавишу, чтобы распылить свою эмблему."
 
 REFERENCE            KEYBIND_SET_MULEKICK_WEAPON
-LANG_ENGLISH         "Назначить оружие Mule Kick"
+LANG_ENGLISH         "Назначить третье оружие (Пинок мула)"
 
 REFERENCE            KEYBIND_SET_MULEKICK_WEAPON_DESC
-LANG_ENGLISH         "Замените оружие Mule Kick на любое оружие, которое вы сейчас держите.\n\n^3Нажмите назначенную клавишу, чтобы сделать текущее оружие оружием Mule Kick."
+LANG_ENGLISH         "Замените третье оружие на любое другое, которое вы сейчас держите в руках.\n\n^3Нажмите назначенную клавишу, чтобы сделать текущее оружие третьим."
 
 REFERENCE            KEYBIND_CHANGE_CAMO
 LANG_ENGLISH         "Сменить камуфляж"
@@ -831,5 +831,11 @@ LANG_ENGLISH     "Спустя некоторое время после 19 ян�
 
 REFERENCE           DATE_ZM_COAST
 LANG_ENGLISH     "17 марта 2011 г."
+
+REFERENCE           KEYBIND_EMOTE
+LANG_ENGLISH     "Эмоции" 
+
+REFERENCE           KEYBIND_EMOTE_DESC
+LANG_ENGLISH     "Откройте меню, чтобы выбрать эмоцию." 
 
 ENDMARKER
