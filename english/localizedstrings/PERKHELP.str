@@ -50,4 +50,13 @@ LANG_ENGLISH     "Hold ^3[{+activate}]^7 Upgrade Speed Cola [Cost: &&1]\n^8Incre
 REFERENCE           STAMINUP3
 LANG_ENGLISH     "Hold ^3[{+activate}]^7 Upgrade Stamin-Up [Cost: &&1]\n^8Infinite stamina, Do actions while sprinting\nMove quicker while aiming, Fall damage won't kill you"
 
+REFERENCE           ENABLED
+LANG_ENGLISH     "Enabled with cost"
+
+REFERENCE           ENABLED_FREE
+LANG_ENGLISH     "Enabled with no cost"
+
+REFERENCE           SWITCH_NAME
+LANG_ENGLISH     "Perk Upgrade"
+
 ENDMARKER

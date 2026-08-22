@@ -838,4 +838,16 @@ LANG_ENGLISH     "Emotes"
 REFERENCE           KEYBIND_EMOTE_DESC
 LANG_ENGLISH     "Open a menu to select player emotes" 
 
+REFERENCE           PRESENT_TITLE
+LANG_ENGLISH     "AAE Options and Mutations Presets" 
+
+REFERENCE           PRESENT_DESC
+LANG_ENGLISH     "Click the options below to switch and reload presets\nCurrent: &&1" 
+
+REFERENCE           PRESENT_LIST_DEFAULT
+LANG_ENGLISH     "Default Preset" 
+
+REFERENCE           PRESENT_LIST
+LANG_ENGLISH     "Preset &&1" 
+
 ENDMARKER
