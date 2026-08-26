@@ -832,4 +832,22 @@ LANG_ENGLISH     "Qualche tempo dopo il 19 gennaio 1934"
 REFERENCE           DATE_ZM_COAST
 LANG_ENGLISH     "17 marzo 2011"
 
+REFERENCE           KEYBIND_EMOTE
+LANG_ENGLISH        "Emote"
+
+REFERENCE           KEYBIND_EMOTE_DESC
+LANG_ENGLISH        "Apre un menu per selezionare le emote del giocatore"
+
+REFERENCE           PRESENT_TITLE
+LANG_ENGLISH     "Opzioni AAE e preimpostazioni delle mutazioni"
+
+REFERENCE           PRESENT_DESC
+LANG_ENGLISH     "Fai clic sulle opzioni qui sotto per cambiare e ricaricare le preimpostazioni\nAttuale: &&1"
+
+REFERENCE           PRESENT_LIST_DEFAULT
+LANG_ENGLISH     "Preimpostazione predefinita"
+
+REFERENCE           PRESENT_LIST
+LANG_ENGLISH     "Preimpostazione &&1"
+
 ENDMARKER

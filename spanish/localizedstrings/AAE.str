@@ -835,4 +835,22 @@ LANG_ENGLISH     "Algún momento después del 19 de enero de 1934"
 REFERENCE           DATE_ZM_COAST
 LANG_ENGLISH     "17 de marzo de 2011"
 
+REFERENCE           KEYBIND_EMOTE
+LANG_ENGLISH        "Gestos"
+
+REFERENCE           KEYBIND_EMOTE_DESC
+LANG_ENGLISH        "Abre un menú para seleccionar algun gesto"
+
+REFERENCE           PRESENT_TITLE
+LANG_ENGLISH     "Opciones y preajustes de mutaciones del AAE"
+
+REFERENCE           PRESENT_DESC
+LANG_ENGLISH     "Haz clic en las opciones de abajo para cambiar y recargar los preajustes\nActual: &&1"
+
+REFERENCE           PRESENT_LIST_DEFAULT
+LANG_ENGLISH     "Preajuste predeterminado"
+
+REFERENCE           PRESENT_LIST
+LANG_ENGLISH     "Preajuste &&1"
+
 ENDMARKER

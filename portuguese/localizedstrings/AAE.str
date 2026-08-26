@@ -841,4 +841,22 @@ LANG_ENGLISH     "Algum momento após 19 de janeiro de 1934"
 REFERENCE           DATE_ZM_COAST
 LANG_ENGLISH     "17 de março de 2011"
 
+REFERENCE           KEYBIND_EMOTE
+LANG_ENGLISH        "Emotes"
+
+REFERENCE           KEYBIND_EMOTE_DESC
+LANG_ENGLISH        "Abre um menu para selecionar os emotes do jogador"
+
+REFERENCE           PRESENT_TITLE
+LANG_ENGLISH     "Opções AAE e predefinições de mutações"
+
+REFERENCE           PRESENT_DESC
+LANG_ENGLISH     "Clique nas opções abaixo para alterar e recarregar as predefinições\nAtual: &&1"
+
+REFERENCE           PRESENT_LIST_DEFAULT
+LANG_ENGLISH     "Predefinição padrão"
+
+REFERENCE           PRESENT_LIST
+LANG_ENGLISH     "Predefinição &&1"
+
 ENDMARKER

@@ -832,4 +832,22 @@ LANG_ENGLISH     "1934年1月19日以降のある時点"
 REFERENCE           DATE_ZM_COAST
 LANG_ENGLISH     "2011年3月17日"
 
+REFERENCE           KEYBIND_EMOTE
+LANG_ENGLISH        "エモート"
+
+REFERENCE           KEYBIND_EMOTE_DESC
+LANG_ENGLISH        "プレイヤーのエモートを選択するメニューを開きます"
+
+REFERENCE           PRESENT_TITLE
+LANG_ENGLISH     "AAEオプションと変異プリセット"
+
+REFERENCE           PRESENT_DESC
+LANG_ENGLISH     "以下のオプションをクリックしてプリセットを切り替え、再読み込みします\n現在: &&1"
+
+REFERENCE           PRESENT_LIST_DEFAULT
+LANG_ENGLISH     "デフォルトプリセット"
+
+REFERENCE           PRESENT_LIST
+LANG_ENGLISH     "プリセット &&1"
+
 ENDMARKER

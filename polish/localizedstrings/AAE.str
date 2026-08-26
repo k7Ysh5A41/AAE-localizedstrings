@@ -841,4 +841,22 @@ LANG_ENGLISH     "Jakiś czas po 19 stycznia 1934"
 REFERENCE           DATE_ZM_COAST
 LANG_ENGLISH     "17 marca 2011"
 
+REFERENCE           KEYBIND_EMOTE
+LANG_ENGLISH        "Emotki"
+
+REFERENCE           KEYBIND_EMOTE_DESC
+LANG_ENGLISH        "Otwiera menu wyboru emotek gracza"
+
+REFERENCE           PRESENT_TITLE
+LANG_ENGLISH     "Opcje AAE i zestawy mutacji"
+
+REFERENCE           PRESENT_DESC
+LANG_ENGLISH     "Kliknij poniższe opcje, aby zmienić i ponownie załadować zestawy\nObecny: &&1"
+
+REFERENCE           PRESENT_LIST_DEFAULT
+LANG_ENGLISH     "Domyślny zestaw"
+
+REFERENCE           PRESENT_LIST
+LANG_ENGLISH     "Zestaw &&1"
+
 ENDMARKER
