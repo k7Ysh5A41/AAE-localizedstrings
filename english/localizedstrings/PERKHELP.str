@@ -33,7 +33,7 @@ REFERENCE           WINE
 LANG_ENGLISH     "Increases melee damage\nGrenades slow zombies and auto-detonate when hit\nSlowed zombies may drop grenades when killed"
 
 REFERENCE           DEADSHOT3
-LANG_ENGLISH     "Hold ^3[{+activate}]^7 Upgrade Speed Cola [Cost: &&1]\n^8Consecutive headshot kills grant better accuracy, headshot damage, and enemy visibility"
+LANG_ENGLISH     "Hold ^3[{+activate}]^7 Upgrade Deadshot [Cost: &&1]\n^8Consecutive headshot kills grant better accuracy, headshot damage, and enemy visibility"
 
 REFERENCE           DOUBLETAP3
 LANG_ENGLISH     "Hold ^3[{+activate}]^7 Upgrade Double Tap Root Beer [Cost: &&1]\n^8Recharges special weapons and equipment faster"
