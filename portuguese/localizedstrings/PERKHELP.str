@@ -6,30 +6,57 @@ CONFIG              "C:\projects\cod\t7\bin\StringEd.cfg"
 FILENOTES           ""
 
 REFERENCE           DEADSHOT
-LANG_ENGLISH     "Melhora a precisão de tiro a partir do quadril e mira automaticamente na cabeça dos zumbis ao mirar pela mira\n^5Bônus AAE^7: Após 5 tiros consecutivos na cabeça, a precisão de tiro a partir do quadril é maximizada, o dano na cabeça é 1,5x maior e é possível ver zumbis através das paredes"
+LANG_ENGLISH     "Melhora a precisão de tiro a partir do quadril e mira automaticamente na cabeça dos zumbis ao mirar pela mira"
 
 REFERENCE           DOUBLETAP
-LANG_ENGLISH     "Aumenta a cadência de tiro das armas e dobra cada bala disparada\n^5Bônus AAE^7: Armas especiais recarregam mais rápido"
+LANG_ENGLISH     "Aumenta a cadência de tiro das armas e dobra cada bala disparada"
 
 REFERENCE           JUGGER
 LANG_ENGLISH     "Dobra sua vida, permitindo que o jogador caia após 5 golpes em vez de 3"
 
 REFERENCE           MULEKICK
-LANG_ENGLISH     "Permite carregar 3 armas em vez de 2\n^5Bônus AAE^7: Após perder o Mulekick, da próxima vez que o obtiver você recuperará a arma perdida"
+LANG_ENGLISH     "Permite carregar 3 armas em vez de 2"
 
 REFERENCE           REVIVE_SOLO
-LANG_ENGLISH     "Revive-se sozinho quando derrubado\n^5Bônus AAE^7: Reduz o tempo de atraso para regeneração de vida em 40%"
+LANG_ENGLISH     "Revive-se sozinho quando derrubado"
 
 REFERENCE           REVIVE
-LANG_ENGLISH     "Revive um companheiro derrubado mais rapidamente\n^5Bônus AAE^7: Reduz o tempo de atraso para regeneração de vida em 40%\nCompanheiros revividos não poderão receber dano de zumbis, e se a reanimação for interrompida, prolongará o tempo de sangramento do jogador derrubado"
+LANG_ENGLISH     "Revive um companheiro derrubado mais rapidamente"
 
 REFERENCE           FASTRELOAD
-LANG_ENGLISH     "Aumenta a velocidade de recarga\n^5Bônus AAE^7: Troca de armas mais rápida, mira (ADS) mais rápida, arremesso de equipamentos mais rápido, beber perks mais rápido, mastigar gobblegum mais rápido, subir escadas mais rápido, sem a animação inicial ao pegar uma nova arma, subir no tanque mais rápido"
+LANG_ENGLISH     "Aumenta a velocidade de recarga"
 
 REFERENCE           STAMINUP
-LANG_ENGLISH     "Permite correr por períodos mais longos\n^5Bônus AAE^7: Atirar enquanto corre, levantar a arma mais rápido ao final da corrida, lançar equipamentos enquanto corre, mira (ADS) mais rápida em movimento, corrida infinita"
+LANG_ENGLISH     "Permite correr por períodos mais longos"
 
 REFERENCE           WINE
-LANG_ENGLISH     "Você recebe a faca do Widow's Wine para aumentar o dano corpo a corpo. Substitui granadas por granadas de Widow's Wine que envolvem os zumbis em teias de aranha. Um power-up de aranha cairá para reabastecer as granadas. Quando os zumbis o atacam, ocorre uma pequena explosão que prende o zumbi em teias.\n^5Bônus AAE^7: Imunidade a explosões"
+LANG_ENGLISH     "Você recebe a faca do Widow's Wine para aumentar o dano corpo a corpo. Substitui granadas por granadas de Widow's Wine que envolvem os zumbis em teias de aranha. Um power-up de aranha cairá para reabastecer as granadas. Quando os zumbis o atacam, ocorre uma pequena explosão que prende o zumbi em teias."
+
+REFERENCE           DEADSHOT3
+LANG_ENGLISH     "Segure ^3[{+activate}]^7 para melhorar Deadshot Daiquiri [Custo: &&1]\n^8Abates consecutivos com tiros na cabeça concedem maior precisão, dano de tiro na cabeça e visibilidade dos inimigos."
+
+REFERENCE           DOUBLETAP3
+LANG_ENGLISH     "Segure ^3[{+activate}]^7 para melhorar Double Tap Root Beer [Custo: &&1]\n^8Recarrega armas especiais e equipamentos mais rapidamente."
+
+REFERENCE           MULEKICK3
+LANG_ENGLISH     "Segure ^3[{+activate}]^7 para melhorar Mule Kick [Custo: &&1]\n^8Armazena uma arma extra caso você perca o Mule Kick. Recupere a arma extra se adquirir o Mule Kick novamente."
+
+REFERENCE           REVIVE3
+LANG_ENGLISH     "Segure ^3[{+activate}]^7 para melhorar Revive [Custo: &&1]\n^8Reduz o atraso da regeneração de vida.\nAumenta o tempo de sangramento de um aliado quando a reanimação é interrompida.\nImune a todos os danos enquanto reanima um companheiro."
+
+REFERENCE           FASTRELOAD3
+LANG_ENGLISH     "Segure ^3[{+activate}]^7 para melhorar Speed Cola [Custo: &&1]\n^8Aumenta a velocidade das animações.\nCancela a animação de recarga excedente enquanto corre."
+
+REFERENCE           STAMINUP3
+LANG_ENGLISH     "Segure ^3[{+activate}]^7 para melhorar Stamin-Up [Custo: &&1]\n^8Vigor infinito.\nRealiza ações enquanto corre.\nMova-se mais rápido enquanto mira.\nO dano de queda não poderá matar você."
+
+REFERENCE           ENABLED
+LANG_ENGLISH     "Ativado com custo"
+
+REFERENCE           ENABLED_FREE
+LANG_ENGLISH     "Ativado sem custo"
+
+REFERENCE           SWITCH_NAME
+LANG_ENGLISH     "Melhoria da vantagem"
 
 ENDMARKER

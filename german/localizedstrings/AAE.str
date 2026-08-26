@@ -832,4 +832,22 @@ LANG_ENGLISH     "Irgendwann nach dem 19. Januar 1934"
 REFERENCE           DATE_ZM_COAST
 LANG_ENGLISH     "17. März 2011"
 
+REFERENCE           KEYBIND_EMOTE
+LANG_ENGLISH        "Emotes"
+
+REFERENCE           KEYBIND_EMOTE_DESC
+LANG_ENGLISH        "Öffnet ein Menü zur Auswahl der Spieler-Emotes"
+
+REFERENCE           PRESENT_TITLE
+LANG_ENGLISH     "AAE-Optionen und Mutations-Voreinstellungen"
+
+REFERENCE           PRESENT_DESC
+LANG_ENGLISH     "Klicke auf die Optionen unten, um Voreinstellungen zu wechseln und neu zu laden\nAktuell: &&1"
+
+REFERENCE           PRESENT_LIST_DEFAULT
+LANG_ENGLISH     "Standardvoreinstellung"
+
+REFERENCE           PRESENT_LIST
+LANG_ENGLISH     "Voreinstellung &&1"
+
 ENDMARKER
