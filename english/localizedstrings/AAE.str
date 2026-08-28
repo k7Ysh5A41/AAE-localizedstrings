@@ -805,7 +805,7 @@ REFERENCE            CHATCMD_HELP
 LANG_ENGLISH         "Press ^3&&1^7 on your keyboard, then type ^3/?^7 in the chat box to see all chat commands"
 
 REFERENCE            PAYHALF_DOOR
-LANG_ENGLISH         "&&1 ^7Pay Half"
+LANG_ENGLISH         "^3&&1 ^7Pay Half"
 
 ///////////////////////////////////////////////////////////
 REFERENCE           CHOOSE_HERO_LIST33
@@ -842,7 +842,7 @@ REFERENCE           PRESENT_TITLE
 LANG_ENGLISH     "AAE Options and Mutations Presets" 
 
 REFERENCE           PRESENT_DESC
-LANG_ENGLISH     "Click the options below to switch and reload presets\nCurrent: &&1" 
+LANG_ENGLISH     "Select a preset below to quickly change your AAE Options and Custom Mutations. Presets are automatically saved when updated.\nCurrent: ^3&&1^7" 
 
 REFERENCE           PRESENT_LIST_DEFAULT
 LANG_ENGLISH     "Default Preset" 
