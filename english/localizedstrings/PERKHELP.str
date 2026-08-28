@@ -33,22 +33,22 @@ REFERENCE           WINE
 LANG_ENGLISH     "Increases melee damage.\nGrenades slow zombies and auto-detonate when hit.\nSlowed zombies may drop grenades when killed."
 
 REFERENCE           DEADSHOT3
-LANG_ENGLISH     "Hold ^3[{+activate}]^7 Enhance Deadshot Daiquiri [Cost: &&1]\nConsecutive headshot kills grant better accuracy, headshot damage, and enemy visibility."
+LANG_ENGLISH     "Hold ^3[{+activate}]^7 to enhance Deadshot Daiquiri [Cost: &&1]\nConsecutive headshot kills grant better accuracy, headshot damage, and enemy visibility."
 
 REFERENCE           DOUBLETAP3
-LANG_ENGLISH     "Hold ^3[{+activate}]^7 Enhance Double Tap Root Beer [Cost: &&1]\nRecharges special weapons and equipment faster."
+LANG_ENGLISH     "Hold ^3[{+activate}]^7 to enhance Double Tap Root Beer [Cost: &&1]\nRecharges special weapons and equipment faster."
 
 REFERENCE           MULEKICK3
-LANG_ENGLISH     "Hold ^3[{+activate}]^7 Enhance Mule Kick [Cost: &&1]\nSaves extra weapon if Mule Kick is lost.\nRestores extra weapon if Mule Kick is reacquired."
+LANG_ENGLISH     "Hold ^3[{+activate}]^7 to enhance Mule Kick [Cost: &&1]\nSaves extra weapon if Mule Kick is lost.\nRestores extra weapon if Mule Kick is reacquired."
 
 REFERENCE           REVIVE3
-LANG_ENGLISH     "Hold ^3[{+activate}]^7 Enhance Quick Revive [Cost: &&1]\nReduces health regen delay.\nExtends ally bleed-out timer when interrupted.\nInvulnerable while reviving an ally."
+LANG_ENGLISH     "Hold ^3[{+activate}]^7 to enhance Quick Revive [Cost: &&1]\nReduces health regen delay.\nExtends ally bleed-out timer when interrupted.\nInvulnerable while reviving an ally."
 
 REFERENCE           FASTRELOAD3
-LANG_ENGLISH     "Hold ^3[{+activate}]^7 Enhance Speed Cola [Cost: &&1]\nIncreases all animation speed.\nCancels excess reload animation while sprinting."
+LANG_ENGLISH     "Hold ^3[{+activate}]^7 to enhance Speed Cola [Cost: &&1]\nIncreases all animation speed.\nCancels excess reload animation while sprinting."
 
 REFERENCE           STAMINUP3
-LANG_ENGLISH     "Hold ^3[{+activate}]^7 Enhance Stamin-Up [Cost: &&1]\nInfinite stamina. Do actions while sprinting.\nMove quicker while aiming.\nFall damage invincibility."
+LANG_ENGLISH     "Hold ^3[{+activate}]^7 to enhance Stamin-Up [Cost: &&1]\nInfinite stamina. Do actions while sprinting.\nMove quicker while aiming.\nFall damage invincibility."
 
 REFERENCE           ENABLED
 LANG_ENGLISH     "Enabled - Upgrade Cost"

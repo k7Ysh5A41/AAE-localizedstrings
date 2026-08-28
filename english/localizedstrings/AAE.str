@@ -129,7 +129,7 @@ REFERENCE           RAINBOW_EYE_DESC
 LANG_ENGLISH     "Zombie eyes turn into rainbows"
 
 REFERENCE           CHAT_HELP
-LANG_ENGLISH     "Type ^3/?^7 in chat to get all available chat commands."
+LANG_ENGLISH     "Type ^3/?^7 in the chat box to view available chat commands."
 
 REFERENCE           OUT_OF_BOUNDS
 LANG_ENGLISH     "^1OUT OF BOUNDS"
@@ -802,10 +802,10 @@ REFERENCE            KEYBIND_WEAPON_INSPECT_REDRAW
 LANG_ENGLISH         "Weapon Inspect / Redraw"
 
 REFERENCE            CHATCMD_HELP
-LANG_ENGLISH         "Press ^3&&1^7 on your keyboard, then type ^3/?^7 in the chat box to see all chat commands"
+LANG_ENGLISH         "Press ^3&&1^7 to view the chat box, then type ^3/?^7 to view all chat commands."
 
 REFERENCE            PAYHALF_DOOR
-LANG_ENGLISH         "^3&&1 ^7Pay Half"
+LANG_ENGLISH         "Hold ^3&&1 ^7 to pay half."
 
 ///////////////////////////////////////////////////////////
 REFERENCE           CHOOSE_HERO_LIST33
@@ -842,7 +842,7 @@ REFERENCE           PRESENT_TITLE
 LANG_ENGLISH     "AAE Options and Mutations Presets" 
 
 REFERENCE           PRESENT_DESC
-LANG_ENGLISH     "Select a preset below to quickly change your AAE Options and Custom Mutations. Presets are automatically saved when updated.\nCurrent: ^3&&1^7" 
+LANG_ENGLISH     "Select a preset below to quickly change your AAE Options and Custom Mutations. Presets are automatically saved when updated.\nCurrent:^3 &&1^7" 
 
 REFERENCE           PRESENT_LIST_DEFAULT
 LANG_ENGLISH     "Default Preset" 
