@@ -87,7 +87,7 @@ REFERENCE            SWORD_FLAY_DESC
 LANG_ENGLISH         "Activates Immediately (Lasts 2.5 minutes)\nMelee attacks deal infinite damage, affecting up to X zombies within range(X is 2 for stabbing, X is 4 for swiping)"
 
 REFERENCE            SHARE
-LANG_ENGLISH         "Press ^3[{+melee}] ^7to share this GobbleGum"
+LANG_ENGLISH         "Press ^3[{+melee}] ^7to share this GobbleGum."
 
 REFERENCE            ANYWHERE_BUT_HERE_DESC
 LANG_ENGLISH         "Activated (5x Activations)\nTeleport to a random location. A concussive blast will knock away any nearby zombies upon teleporting."
