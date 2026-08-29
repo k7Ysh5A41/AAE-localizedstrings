@@ -115,4 +115,8 @@ LANG_ENGLISH     "Кровь зомби"
 
 REFERENCE           INSTA_KILL
 LANG_ENGLISH     "Мгновенная смерть"
+
+REFERENCE           FIRE_SALE
+LANG_ENGLISH     "Срочная распродажа"
+
 ENDMARKER

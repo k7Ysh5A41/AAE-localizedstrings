@@ -327,7 +327,7 @@ REFERENCE           RELOADING
 LANG_ENGLISH     "Перезарядка"
 
 REFERENCE           REWARD_TITLE
-LANG_ENGLISH     "Награды за выполнение пасхальных яиц\nНекоторые награды начинают работать со второго раунда"
+LANG_ENGLISH     "Награды за выполнение пасхальных яиц"
 
 REFERENCE           REWARD_15
 LANG_ENGLISH     "15 раз"
@@ -837,5 +837,17 @@ LANG_ENGLISH     "Эмоции"
 
 REFERENCE           KEYBIND_EMOTE_DESC
 LANG_ENGLISH     "Откройте меню, чтобы выбрать эмоцию." 
+
+REFERENCE           PRESENT_TITLE
+LANG_ENGLISH     "Предустановки параметров и мутаций AAE" 
+
+REFERENCE           PRESENT_DESC
+LANG_ENGLISH     "Выберите один из предустановленных параметров ниже, чтобы быстро изменить параметры AAE и пользовательские мутации. Предустановленные параметры автоматически сохраняются при обновлении.\nТекущий:^3 &&1^7" 
+
+REFERENCE           PRESENT_LIST_DEFAULT
+LANG_ENGLISH     "Предварительные настройки по умолчанию" 
+
+REFERENCE           PRESENT_LIST
+LANG_ENGLISH     "Профиль &&1" 
 
 ENDMARKER
