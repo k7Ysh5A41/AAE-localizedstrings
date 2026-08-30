@@ -805,7 +805,7 @@ REFERENCE            CHATCMD_HELP
 LANG_ENGLISH         "Press ^3&&1^7 to view the chat box, then type ^3/?^7 to view all chat commands."
 
 REFERENCE            PAYHALF_DOOR
-LANG_ENGLISH         "Hold ^3&&1 ^7 to pay half."
+LANG_ENGLISH         "Hold ^3&&1^7 to pay half."
 
 ///////////////////////////////////////////////////////////
 REFERENCE           CHOOSE_HERO_LIST33
