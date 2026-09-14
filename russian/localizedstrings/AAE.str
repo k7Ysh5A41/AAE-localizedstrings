@@ -850,4 +850,7 @@ LANG_ENGLISH     "Предварительные настройки по умо�
 REFERENCE           PRESENT_LIST
 LANG_ENGLISH     "Профиль &&1" 
 
+REFERENCE           EEREWARD_NOTICE
+LANG_ENGLISH     "^3Награды за пасхальные яйца временно отключены\n^7Чтобы включить их, перейдите в меню настройки пользовательских мутаций" 
+
 ENDMARKER
