@@ -850,4 +850,7 @@ LANG_ENGLISH     "Default Preset"
 REFERENCE           PRESENT_LIST
 LANG_ENGLISH     "Preset &&1" 
 
+REFERENCE           EEREWARD_NOTICE
+LANG_ENGLISH     "^3Easter Egg Rewards Are Currently Disabled\n^7To Enable Them, Go To Custom Mutations Menu" 
+
 ENDMARKER
