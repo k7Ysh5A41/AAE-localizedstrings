@@ -157,6 +157,12 @@ LANG_ENGLISH       "COD BO2マップ"
 
 REFERENCE          B2_MAP_DESC
 LANG_ENGLISH       "Black Ops 2をベースにした神秘的でかっこいいマップ。"
+REFERENCE           IW_MAP
+LANG_ENGLISH     "INFINITE WARFAREマップ"
+
+REFERENCE           IW_MAP_DESC
+LANG_ENGLISH     "Infinite Warfareの奇想天外なモードを思い出させる、愉快なマップ。"
+
 
 REFERENCE          MW_MAP
 LANG_ENGLISH       "COD MWマップ"
@@ -181,6 +187,12 @@ LANG_ENGLISH         "ICEGRENADEマップ"
 
 REFERENCE            ICE_MAP_DESC
 LANG_ENGLISH         "人気制作者IceGrenadeによる素晴らしいマップ、一部はLiteバージョンでのみ動作します。"
+REFERENCE           WD_MAP
+LANG_ENGLISH     "THE WALKING DEADマップ"
+
+REFERENCE           WD_MAP_DESC
+LANG_ENGLISH     "フランク・ダラボンによるAMCの人気ドラマ「ウォーキング・デッド」の名場面を体験。itsbrodesによるマップシリーズ。"
+
 
 REFERENCE            WEE_MAP
 LANG_ENGLISH         "LOGICALマップ"
@@ -217,6 +229,12 @@ LANG_ENGLISH         "SAWマップ"
 
 REFERENCE            SAW_MAP_DESC
 LANG_ENGLISH         "Sawに匹敵する恐怖マップ、陰惨な環境で試されます。"
+REFERENCE           HLW_MAP
+LANG_ENGLISH     "ハロウィーンマップ"
+
+REFERENCE           HLW_MAP_DESC
+LANG_ENGLISH     "カボチャ、クモの巣、ガイコツがいっぱい。恐ろしい夜を描いた不気味なマップにご用心。"
+
 
 REFERENCE            XMA_MAP
 LANG_ENGLISH         "クリスマスマップ"

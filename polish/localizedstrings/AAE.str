@@ -831,6 +831,9 @@ LANG_ENGLISH     "Richard Nixon"
 
 REFERENCE           CHOOSE_HERO_LIST36
 LANG_ENGLISH     "Fidel Castro"
+REFERENCE           EDITABLE_HELP
+LANG_ENGLISH     "Zmień to w menu Sterowanie"
+
 
 REFERENCE           DATE_ZM_PENTAGON
 LANG_ENGLISH     "6 listopada 1963"

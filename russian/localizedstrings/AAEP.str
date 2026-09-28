@@ -187,6 +187,12 @@ LANG_ENGLISH         "КАРТЫ СЕРИИ QUIET"
 
 REFERENCE            QU_MAP_DESC
 LANG_ENGLISH         "Потрясающие карты от популярного создателя Markus Darius. ПРИМЕЧАНИЕ: эти карты будут работать только в облегчённой версии этого мода."
+REFERENCE           WD_MAP
+LANG_ENGLISH     "КАРТЫ THE WALKING DEAD"
+
+REFERENCE           WD_MAP_DESC
+LANG_ENGLISH     "Переживите культовые сцены из популярного сериала AMC «Ходячие мертвецы» Фрэнка Дарабонта. Серия карт от itsbrodes."
+
 
 REFERENCE            WEE_MAP
 LANG_ENGLISH         "КАРТЫ LOGICAL"
@@ -223,6 +229,12 @@ LANG_ENGLISH         "КАРТЫ SAW"
 
 REFERENCE            SAW_MAP_DESC
 LANG_ENGLISH         "Ужасные карты на уровне Saw, где вы будете проверены в тревожных локациях с мрачными поворотами."
+REFERENCE           HLW_MAP
+LANG_ENGLISH     "КАРТЫ ХЭЛЛОУИНА"
+
+REFERENCE           HLW_MAP_DESC
+LANG_ENGLISH     "Тыквы, паутина и скелеты повсюду. Остерегайтесь жуткой ночи на этих пугающих картах."
+
 
 REFERENCE            XMA_MAP
 LANG_ENGLISH         "КАРТЫ РОЖДЕСТВА"

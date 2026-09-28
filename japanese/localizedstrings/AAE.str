@@ -822,6 +822,9 @@ LANG_ENGLISH     "リチャード・ニクソン"
 
 REFERENCE           CHOOSE_HERO_LIST36
 LANG_ENGLISH     "フィデル・カストロ"
+REFERENCE           EDITABLE_HELP
+LANG_ENGLISH     "操作設定メニューで変更できます"
+
 
 REFERENCE           DATE_ZM_PENTAGON
 LANG_ENGLISH     "1963年11月6日"

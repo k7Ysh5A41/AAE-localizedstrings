@@ -43,6 +43,9 @@ LANG_ENGLISH         "Газировка "Криослайд""
 
 REFERENCE            SALVAGE_SHAKE_
 LANG_ENGLISH         "Спасательный коктейль"
+REFERENCE           SALVAGE_SHAKE
+LANG_ENGLISH     "Коктейль утиля"
+
 
 REFERENCE            WINDRUNNER_WHISKEY
 LANG_ENGLISH         "Виски Windrunner"

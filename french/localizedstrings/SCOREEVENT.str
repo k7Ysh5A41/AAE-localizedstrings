@@ -43,6 +43,9 @@ LANG_ENGLISH         "Soda Glissade Cryo"
 
 REFERENCE            SALVAGE_SHAKE_
 LANG_ENGLISH         "Secouement Récupération"
+REFERENCE           SALVAGE_SHAKE
+LANG_ENGLISH     "Milk-shake de récupération"
+
 
 REFERENCE            WINDRUNNER_WHISKEY
 LANG_ENGLISH         "Whiskey Coureur de Vent"

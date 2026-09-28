@@ -43,6 +43,9 @@ LANG_ENGLISH         "Cryo Slide Soda"
  
 REFERENCE            SALVAGE_SHAKE_
 LANG_ENGLISH         "Salvage Shake"
+REFERENCE           SALVAGE_SHAKE
+LANG_ENGLISH     "Frullato di recupero"
+
  
 REFERENCE            WINDRUNNER_WHISKEY
 LANG_ENGLISH         "Windrunner Whiskey"
