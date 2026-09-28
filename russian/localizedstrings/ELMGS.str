@@ -55,6 +55,12 @@ LANG_ENGLISH     "КРАСНОЯРСКИЙ КРАЙ"
 
 REFERENCE           COAST_LINE3
 LANG_ENGLISH     "ЗОВ МЁРТВЫХ"
+REFERENCE           COAST_TITLE
+LANG_ENGLISH     "Зов мертвецов"
+
+REFERENCE           COAST_DESC
+LANG_ENGLISH     "Потерпевшая кораблекрушение команда бесстрашных исследователей застряла на заброшенном сибирском аванпосту. Их попытка раскрыть истинное происхождение Элемента 115 оборачивается кошмаром."
+
 
 REFERENCE           TEMPLE_LINE1
 LANG_ENGLISH     "Время покажет"
@@ -73,6 +79,15 @@ LANG_ENGLISH     "ОСТРОВ АЛЬКАТРАС"
 
 REFERENCE           MOB_LINE2
 LANG_ENGLISH     "Залив Сан-Франциско, США"
+REFERENCE           MOB_LINE3
+LANG_ENGLISH     "ТОЛПА МЕРТВЕЦОВ"
+
+REFERENCE           MOB_TITLE
+LANG_ENGLISH     "Толпа мертвецов"
+
+REFERENCE           MOB_DESC
+LANG_ENGLISH     "Сражайтесь с нежитью, пытаясь выбраться из реального и символического заточения в тюрьме Алькатрас."
+
 
 REFERENCE           LEV_LINE1
 LANG_ENGLISH     "Левиафан"
@@ -91,5 +106,17 @@ LANG_ENGLISH     "Светлое будущее"
 
 REFERENCE            ZM_TOMB_TITLE
 LANG_ENGLISH         "МЕСТО РАСКОПОК 64"
+
+REFERENCE           FIVE_DESC
+LANG_ENGLISH     "Пентагон атакован! В этом эпизоде режима «Зомби» Вашингтон переходит на уровень готовности DEFCON 1."
+
+REFERENCE           FIVE_LINE1
+LANG_ENGLISH     "Пентагон"
+
+REFERENCE           FIVE_LINE2
+LANG_ENGLISH     "Вирджиния, США"
+
+REFERENCE           FIVE_LINE3
+LANG_ENGLISH     ""ПЯТЬ""
 
 ENDMARKER

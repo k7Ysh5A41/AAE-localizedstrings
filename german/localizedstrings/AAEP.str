@@ -157,6 +157,12 @@ LANG_ENGLISH       "COD BO2 KARTEN"
 
 REFERENCE          B2_MAP_DESC
 LANG_ENGLISH       "Mysteriöse und coole Karten basierend auf Black Ops 2."
+REFERENCE           IW_MAP
+LANG_ENGLISH     "INFINITE WARFARE KARTEN"
+
+REFERENCE           IW_MAP_DESC
+LANG_ENGLISH     "Verrückte Karten, die an den abgedrehten Infinite-Warfare-Modus erinnern."
+
 
 REFERENCE          MW_MAP
 LANG_ENGLISH       "COD MW KARTEN"
@@ -181,6 +187,12 @@ LANG_ENGLISH         "ICEGRENADE KARTEN"
 
 REFERENCE            ICE_MAP_DESC
 LANG_ENGLISH         "Fantastische Karten vom populären Ersteller IceGrenade, einige funktionieren nur in der Lite-Version dieses Mods."
+REFERENCE           WD_MAP
+LANG_ENGLISH     "THE WALKING DEAD KARTEN"
+
+REFERENCE           WD_MAP_DESC
+LANG_ENGLISH     "Erlebe legendäre Szenen aus Frank Darabonts AMC-Hitserie The Walking Dead. Kartenreihe von itsbrodes."
+
 
 REFERENCE            WEE_MAP
 LANG_ENGLISH         "LOGICAL KARTEN"
@@ -217,6 +229,12 @@ LANG_ENGLISH         "SAW KARTEN"
 
 REFERENCE            SAW_MAP_DESC
 LANG_ENGLISH         "Terror-Karten vergleichbar mit Saw, die den Spieler in makabren und verstörenden Umgebungen testen."
+REFERENCE           HLW_MAP
+LANG_ENGLISH     "HALLOWEENKARTEN"
+
+REFERENCE           HLW_MAP_DESC
+LANG_ENGLISH     "Kürbisse, Spinnweben und Skelette überall. Hüte dich vor der Schreckensnacht auf diesen gruseligen Karten."
+
 
 REFERENCE            XMA_MAP
 LANG_ENGLISH         "WEIHNACHTSKARTEN"

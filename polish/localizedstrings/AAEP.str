@@ -157,6 +157,12 @@ LANG_ENGLISH       "MAPY COD BO2"
 
 REFERENCE          B2_MAP_DESC
 LANG_ENGLISH       "Tajemnicze i fajne mapy oparte na grze Black Ops 2."
+REFERENCE           IW_MAP
+LANG_ENGLISH     "MAPY INFINITE WARFARE"
+
+REFERENCE           IW_MAP_DESC
+LANG_ENGLISH     "Zwariowane mapy przywołujące szaloną rozgrywkę z Infinite Warfare."
+
 
 REFERENCE          MW_MAP
 LANG_ENGLISH       "MAPY COD MW"
@@ -181,6 +187,12 @@ LANG_ENGLISH         "MAPY ICEGRENADE"
 
 REFERENCE            ICE_MAP_DESC
 LANG_ENGLISH         "Niesamowite mapy od popularnego twórcy: IceGrenade, niektóre działają tylko w wersji lite tego moda."
+REFERENCE           WD_MAP
+LANG_ENGLISH     "MAPY THE WALKING DEAD"
+
+REFERENCE           WD_MAP_DESC
+LANG_ENGLISH     "Przeżyj kultowe sceny z przebojowego serialu AMC The Walking Dead Franka Darabonta. Seria map autorstwa itsbrodes."
+
 
 REFERENCE            WEE_MAP
 LANG_ENGLISH         "MAPY LOGICAL"
@@ -217,6 +229,12 @@ LANG_ENGLISH         "MAPY SAW"
 
 REFERENCE            SAW_MAP_DESC
 LANG_ENGLISH         "Mapy grozy na poziomie Saw, gdzie testowani jesteś w makabrycznych i niepokojących środowiskach."
+REFERENCE           HLW_MAP
+LANG_ENGLISH     "MAPY HALLOWEEN"
+
+REFERENCE           HLW_MAP_DESC
+LANG_ENGLISH     "Dynie, pajęczyny i szkielety na każdym kroku. Strzeż się przerażającej nocy na tych upiornych mapach."
+
 
 REFERENCE            XMA_MAP
 LANG_ENGLISH         "MAPY BOŻONARODZENIOWE"

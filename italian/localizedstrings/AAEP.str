@@ -157,6 +157,12 @@ LANG_ENGLISH       "MAPPE COD BO2"
 
 REFERENCE          B2_MAP_DESC
 LANG_ENGLISH       "Mappe misteriose e interessanti basate su Black Ops 2."
+REFERENCE           IW_MAP
+LANG_ENGLISH     "MAPPE INFINITE WARFARE"
+
+REFERENCE           IW_MAP_DESC
+LANG_ENGLISH     "Mappe stravaganti che richiamano la folle modalità di Infinite Warfare."
+
 
 REFERENCE          MW_MAP
 LANG_ENGLISH       "MAPPE COD MW"
@@ -181,6 +187,12 @@ LANG_ENGLISH         "MAPPE ICEGRENADE"
 
 REFERENCE            ICE_MAP_DESC
 LANG_ENGLISH         "Mappe incredibili del popolare creatore IceGrenade, alcune funzionano solo nella versione lite di questa mod."
+REFERENCE           WD_MAP
+LANG_ENGLISH     "MAPPE THE WALKING DEAD"
+
+REFERENCE           WD_MAP_DESC
+LANG_ENGLISH     "Rivivi le scene iconiche della serie di successo The Walking Dead di Frank Darabont su AMC. Serie di mappe di itsbrodes."
+
 
 REFERENCE            WEE_MAP
 LANG_ENGLISH         "MAPPE LOGICAL"
@@ -217,6 +229,12 @@ LANG_ENGLISH         "MAPPE SAW"
 
 REFERENCE            SAW_MAP_DESC
 LANG_ENGLISH         "Mappe terroristiche paragonabili a Saw, dove sarai testato in ambienti macabri e disturbanti."
+REFERENCE           HLW_MAP
+LANG_ENGLISH     "MAPPE HALLOWEEN"
+
+REFERENCE           HLW_MAP_DESC
+LANG_ENGLISH     "Zucche, ragnatele e scheletri ovunque. Preparati a una notte di paura in queste mappe spettrali."
+
 
 REFERENCE            XMA_MAP
 LANG_ENGLISH         "MAPPE NATALE"

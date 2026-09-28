@@ -46,6 +46,9 @@ LANG_ENGLISH         "Cryo Slide Soda"
  
 REFERENCE            SALVAGE_SHAKE_
 LANG_ENGLISH         "Salvage Shake"
+REFERENCE           SALVAGE_SHAKE
+LANG_ENGLISH     "Batido de salvamento"
+
  
 REFERENCE            WINDRUNNER_WHISKEY
 LANG_ENGLISH         "Windrunner Whiskey"
@@ -61,6 +64,9 @@ LANG_ENGLISH         "Salsa Secreta"
  
 REFERENCE            CRUSADER'S_ALE
 LANG_ENGLISH         "Crusader's Ale"
+REFERENCE           CRUSADERS_ALE
+LANG_ENGLISH     "Cerveza del cruzado"
+
  
 REFERENCE            BULL_ICE_BLAST
 LANG_ENGLISH         "Bull Ice Blast"
@@ -130,6 +136,9 @@ LANG_ENGLISH         "Escudo reparado"
  
 REFERENCE            BRO,_NEXT_ROUND
 LANG_ENGLISH         "Ronda Siguiente"
+REFERENCE           BRO_NEXT_ROUND
+LANG_ENGLISH     "Hermano, siguiente ronda"
+
  
 REFERENCE            HIT
 LANG_ENGLISH         "Golpe(s)"

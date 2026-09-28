@@ -43,6 +43,9 @@ LANG_ENGLISH        "クライオスライドソーダ"
 
 REFERENCE            SALVAGE_SHAKE_
 LANG_ENGLISH        "サルベージシェイク"
+REFERENCE           SALVAGE_SHAKE
+LANG_ENGLISH     "サルベージ・シェイク"
+
 
 REFERENCE            WINDRUNNER_WHISKEY
 LANG_ENGLISH        "ウィンドランナーウイスキー"

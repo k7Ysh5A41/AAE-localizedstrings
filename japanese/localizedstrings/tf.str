@@ -415,6 +415,15 @@ LANG_ENGLISH         "ゾンビごとにどれだけのポイントを得るか�
 
 REFERENCE            CARPENTER_DESC
 LANG_ENGLISH         "カーペンターがシールドを修理します。"
+REFERENCE           FREEPERK_DESC
+LANG_ENGLISH     "ゾンビがパークボトルのパワーアップを落とすようになります。"
+
+REFERENCE           POWERUP_TITLE
+LANG_ENGLISH     "パワーアップ設定"
+
+REFERENCE           MAXAMMO
+LANG_ENGLISH     "BO4マックスアモ"
+
 
 REFERENCE            MAXAMMO_DESC
 LANG_ENGLISH         "マックスアモはクリップも補充します。"
