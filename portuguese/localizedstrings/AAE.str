@@ -1078,4 +1078,409 @@ LANG_ENGLISH     "CORTE O CHEFE FINAL RAPIDAMENTE!"
 REFERENCE           GAME_VERSION
 LANG_ENGLISH     "Versão do jogo &&1"
 
+REFERENCE           SC_ACCEPT_MISSION
+LANG_ENGLISH     "Acerte a rampa de lançamento para aceitar a missão &&1"
+
+REFERENCE           SC_ALIENS_REPELLED
+LANG_ENGLISH     "Alienígenas repelidos"
+
+REFERENCE           SC_ATTACK_BUMPERS_HITS_LEFT
+LANG_ENGLISH     "Acertos nos rebatedores de ataque\nRestantes: &&1"
+
+REFERENCE           SC_AWAITING_DEPLOYMENT
+LANG_ENGLISH     "Aguardando mobilização"
+
+REFERENCE           SC_BALL_LAUNCHED
+LANG_ENGLISH     "BOLA LANÇADA"
+
+REFERENCE           SC_BALL_LOST
+LANG_ENGLISH     "BOLA PERDIDA"
+
+REFERENCE           SC_BALL_RELAUNCHED
+LANG_ENGLISH     "BOLA RELANÇADA"
+
+REFERENCE           SC_BALL_SAVED
+LANG_ENGLISH     "BOLA SALVA"
+
+REFERENCE           SC_BLACK_HOLE
+LANG_ENGLISH     "BURACO NEGRO"
+
+REFERENCE           SC_BLACK_HOLE_ELIMINATED
+LANG_ENGLISH     "Buraco negro eliminado"
+
+REFERENCE           SC_BONUS_NEXT_BALL
+LANG_ENGLISH     "Bônus &&1  /  lance a próxima bola"
+
+REFERENCE           SC_CENTER_WELL_ACTIVE
+LANG_ENGLISH     "O poço central está ativo"
+
+REFERENCE           SC_COMET_DESTROYED
+LANG_ENGLISH     "Cometa destruído"
+
+REFERENCE           SC_CONTROLS
+LANG_ENGLISH     "&&1  FLIPPER ESQUERDO     &&2  FLIPPER DIREITO     &&3  LANÇAR"
+
+REFERENCE           SC_DEBUG_DEVICE_KBM
+LANG_ENGLISH     "TECLADO/MOUSE"
+
+REFERENCE           SC_DEBUG_DEVICE_PAD
+LANG_ENGLISH     "CONTROLE"
+
+REFERENCE           SC_DEBUG_GRAVITY_DESC
+LANG_ENGLISH     "WASD OU ANALÓGICO DIREITO CONTROLAM A GRAVIDADE  /  INÍCIO EM 0G  /  COLISÕES ATIVAS"
+
+REFERENCE           SC_DEBUG_GRAVITY_TITLE
+LANG_ENGLISH     "DEPURAÇÃO DE GRAVIDADE"
+
+REFERENCE           SC_DEBUG_HUD_HELP
+LANG_ENGLISH     "WASD / ANALÓGICO DIREITO   GX &&1G   GY &&2G   &&3"
+
+REFERENCE           SC_DEBUG_HUD_TITLE
+LANG_ENGLISH     "F  DEPURAÇÃO DE GRAVIDADE  ATIVA"
+
+REFERENCE           SC_DEMOTION_TO
+LANG_ENGLISH     "Rebaixado a &&1"
+
+REFERENCE           SC_DOOMSDAY_MACHINE_DESTROYED
+LANG_ENGLISH     "Máquina do apocalipse destruída"
+
+REFERENCE           SC_DRAIN_TIMER
+LANG_ENGLISH     "Temporizador de perda da bola"
+
+REFERENCE           SC_DROP_TARGETS_LEFT
+LANG_ENGLISH     "Alvos rebatíveis\nRestantes: &&1"
+
+REFERENCE           SC_DROP_TARGET_HITS_LEFT
+LANG_ENGLISH     "Acertos em alvos rebatíveis\nRestantes: &&1"
+
+REFERENCE           SC_ENTER_BLACK_HOLE
+LANG_ENGLISH     "Entre no buraco negro"
+
+REFERENCE           SC_ENTER_WORMHOLE
+LANG_ENGLISH     "Entre no buraco de minhoca"
+
+REFERENCE           SC_ESCAPE_CHUTE
+LANG_ENGLISH     "CANALETA DE FUGA"
+
+REFERENCE           SC_EXTRA_BALL
+LANG_ENGLISH     "BOLA EXTRA"
+
+REFERENCE           SC_FILL_LEFT_HAZARD_BANKS
+LANG_ENGLISH     "Complete os grupos de alvos de perigo à esquerda"
+
+REFERENCE           SC_FILL_RIGHT_HAZARD_BANKS
+LANG_ENGLISH     "Complete os grupos de alvos de perigo à direita"
+
+REFERENCE           SC_GAME_OVER
+LANG_ENGLISH     "FIM DE JOGO"
+
+REFERENCE           SC_GAME_OVER_RESTART
+LANG_ENGLISH     "PRESSIONE ESPAÇO / A NO CONTROLE PARA REINICIAR"
+
+REFERENCE           SC_GRAVITY_WELL
+LANG_ENGLISH     "POÇO GRAVITACIONAL"
+
+REFERENCE           SC_GRAVITY_WELL_LIT
+LANG_ENGLISH     "POÇO GRAVITACIONAL ACESO"
+
+REFERENCE           SC_HIT_FLAGS
+LANG_ENGLISH     "Acerte as bandeiras"
+
+REFERENCE           SC_HIT_GREEN_WORMHOLE
+LANG_ENGLISH     "Acerte o buraco de minhoca verde"
+
+REFERENCE           SC_HIT_HYPERSPACE_OR_RAMP
+LANG_ENGLISH     "Acerte a canaleta do hiperespaço ou a rampa de lançamento"
+
+REFERENCE           SC_HIT_LAUNCH_RAMP
+LANG_ENGLISH     "Acerte a rampa de lançamento"
+
+REFERENCE           SC_HIT_RED_WORMHOLE
+LANG_ENGLISH     "Acerte o buraco de minhoca vermelho"
+
+REFERENCE           SC_HIT_SPACE_WARP_ROLLOVER
+LANG_ENGLISH     "Passe pelo sensor de dobra espacial"
+
+REFERENCE           SC_HIT_WORM_HOLE
+LANG_ENGLISH     "Acerte o buraco de minhoca"
+
+REFERENCE           SC_HIT_YELLOW_WORMHOLE
+LANG_ENGLISH     "Acerte o buraco de minhoca amarelo"
+
+REFERENCE           SC_HOLD_LAUNCH
+LANG_ENGLISH     "Segure ESPAÇO / A e solte"
+
+REFERENCE           SC_HYPERSPACE
+LANG_ENGLISH     "HIPERESPAÇO"
+
+REFERENCE           SC_HYPERSPACE_AWARD
+LANG_ENGLISH     "Prêmio do hiperespaço"
+
+REFERENCE           SC_HYPERSPACE_END_MAELSTROM
+LANG_ENGLISH     "Canaleta do hiperespaço para encerrar o Turbilhão"
+
+REFERENCE           SC_HYPERSPACE_LAUNCH
+LANG_ENGLISH     "Lançamento no hiperespaço"
+
+REFERENCE           SC_LANES_PASSES_LEFT
+LANG_ENGLISH     "Passagens pelas pistas\nRestantes: &&1"
+
+REFERENCE           SC_LANE_PASSES_LEFT
+LANG_ENGLISH     "Passagens pela pista\nRestantes: &&1"
+
+REFERENCE           SC_LANE_SEQUENCE_COMPLETE
+LANG_ENGLISH     "Sequência de pistas concluída"
+
+REFERENCE           SC_LAUNCHES_LEFT
+LANG_ENGLISH     "Lançamentos restantes: &&1"
+
+REFERENCE           SC_LAUNCH_AGAIN
+LANG_ENGLISH     "LANCE NOVAMENTE"
+
+REFERENCE           SC_LAUNCH_AGAIN_SHORT
+LANG_ENGLISH     "Lance novamente"
+
+REFERENCE           SC_LAUNCH_RAMP
+LANG_ENGLISH     "RAMPA DE LANÇAMENTO"
+
+REFERENCE           SC_LAUNCH_TRAINING_PASSED
+LANG_ENGLISH     "Treinamento de lançamento concluído"
+
+REFERENCE           SC_MAELSTROM_COMPLETED
+LANG_ENGLISH     "Turbilhão concluído"
+
+REFERENCE           SC_MISSION_ABORTED
+LANG_ENGLISH     "Missão abortada"
+
+REFERENCE           SC_MISSION_ACCEPTED
+LANG_ENGLISH     "Missão aceita\n&&1"
+
+REFERENCE           SC_MISSION_NAME_ALIEN_MENACE
+LANG_ENGLISH     "Ameaça alienígena"
+
+REFERENCE           SC_MISSION_NAME_BLACK_HOLE
+LANG_ENGLISH     "Buraco negro"
+
+REFERENCE           SC_MISSION_NAME_BUG_HUNT
+LANG_ENGLISH     "Caça aos insetos"
+
+REFERENCE           SC_MISSION_NAME_COSMIC_PLAGUE
+LANG_ENGLISH     "Praga cósmica"
+
+REFERENCE           SC_MISSION_NAME_DOOMSDAY_MACHINE
+LANG_ENGLISH     "Máquina do apocalipse"
+
+REFERENCE           SC_MISSION_NAME_LAUNCH_TRAINING
+LANG_ENGLISH     "Treinamento de lançamento"
+
+REFERENCE           SC_MISSION_NAME_MAELSTROM
+LANG_ENGLISH     "Turbilhão"
+
+REFERENCE           SC_MISSION_NAME_RECON
+LANG_ENGLISH     "Reconhecimento"
+
+REFERENCE           SC_MISSION_NAME_REENTRY_TRAINING
+LANG_ENGLISH     "Treinamento de reentrada"
+
+REFERENCE           SC_MISSION_NAME_RESCUE
+LANG_ENGLISH     "Resgate"
+
+REFERENCE           SC_MISSION_NAME_SATELLITE_RETRIEVAL
+LANG_ENGLISH     "Recuperação de satélite"
+
+REFERENCE           SC_MISSION_NAME_SCIENCE
+LANG_ENGLISH     "Ciência"
+
+REFERENCE           SC_MISSION_NAME_SECRET
+LANG_ENGLISH     "Segredo"
+
+REFERENCE           SC_MISSION_NAME_SPACE_RADIATION
+LANG_ENGLISH     "Radiação espacial"
+
+REFERENCE           SC_MISSION_NAME_STRAY_COMET
+LANG_ENGLISH     "Cometa errante"
+
+REFERENCE           SC_MISSION_NAME_TARGET_PRACTICE
+LANG_ENGLISH     "Treino de tiro"
+
+REFERENCE           SC_MISSION_NAME_TIME_WARP
+LANG_ENGLISH     "Dobra temporal"
+
+REFERENCE           SC_MISSION_SELECTED
+LANG_ENGLISH     "Missão &&1 selecionada"
+
+REFERENCE           SC_MULTIPLIER_X
+LANG_ENGLISH     "MULTIPLICADOR &&1X"
+
+REFERENCE           SC_OUTLANE_AWARD
+LANG_ENGLISH     "Prêmio da pista externa"
+
+REFERENCE           SC_OUT_LANE_PASSES_LEFT
+LANG_ENGLISH     "Passagens pela pista externa\nRestantes: &&1"
+
+REFERENCE           SC_PLAGUE_ELIMINATED
+LANG_ENGLISH     "Praga eliminada"
+
+REFERENCE           SC_PLANS_RECOVERED
+LANG_ENGLISH     "Planos recuperados"
+
+REFERENCE           SC_PLUNGER_ARMED
+LANG_ENGLISH     "LANÇADOR ARMADO"
+
+REFERENCE           SC_PLUNGER_RELEASED
+LANG_ENGLISH     "Lançador liberado"
+
+REFERENCE           SC_PRE_GAME_LIGHT_SHOW
+LANG_ENGLISH     "Show de luzes antes do jogo"
+
+REFERENCE           SC_PROMOTION_TO
+LANG_ENGLISH     "Promovido a &&1"
+
+REFERENCE           SC_RADIATION_ELIMINATED
+LANG_ENGLISH     "Radiação eliminada"
+
+REFERENCE           SC_RAMP_HOLE
+LANG_ENGLISH     "Buraco da rampa"
+
+REFERENCE           SC_RANK_ADMIRAL
+LANG_ENGLISH     "Almirante"
+
+REFERENCE           SC_RANK_CADET
+LANG_ENGLISH     "Cadete"
+
+REFERENCE           SC_RANK_CAPTAIN
+LANG_ENGLISH     "Capitão de mar e guerra"
+
+REFERENCE           SC_RANK_COMMANDER
+LANG_ENGLISH     "Capitão de fragata"
+
+REFERENCE           SC_RANK_COMMODORE
+LANG_ENGLISH     "Comodoro"
+
+REFERENCE           SC_RANK_ENSIGN
+LANG_ENGLISH     "Guarda-marinha"
+
+REFERENCE           SC_RANK_FLEET_ADMIRAL
+LANG_ENGLISH     "Almirante da frota"
+
+REFERENCE           SC_RANK_LIEUTENANT
+LANG_ENGLISH     "Tenente"
+
+REFERENCE           SC_RANK_LT_COMMANDER
+LANG_ENGLISH     "Capitão de corveta"
+
+REFERENCE           SC_READY_FOR_LAUNCH
+LANG_ENGLISH     "PRONTO PARA LANÇAR"
+
+REFERENCE           SC_REBOUND_HITS_LEFT
+LANG_ENGLISH     "Rebotes\nRestantes: &&1"
+
+REFERENCE           SC_RECOVERED_STUCK
+LANG_ENGLISH     "Bola destravada"
+
+REFERENCE           SC_REENTRIES_LEFT
+LANG_ENGLISH     "Reentradas restantes: &&1"
+
+REFERENCE           SC_REENTRY_TRAINING_PASSED
+LANG_ENGLISH     "Treinamento de reentrada concluído"
+
+REFERENCE           SC_REFUEL_SHIP
+LANG_ENGLISH     "Reabasteça a nave"
+
+REFERENCE           SC_REMOTE_ATTACK_BUMPER_HITS_LEFT
+LANG_ENGLISH     "Acertos no rebatedor de ataque remoto\nRestantes: &&1"
+
+REFERENCE           SC_RESTART_HINT
+LANG_ENGLISH     "&&1  REINICIAR"
+
+REFERENCE           SC_RESULT_WITH_SCORE
+LANG_ENGLISH     "&&1\n&&2"
+
+REFERENCE           SC_RETURN_TO_PLAYFIELD
+LANG_ENGLISH     "Voltar ao campo de jogo"
+
+REFERENCE           SC_ROLL_FLAGS
+LANG_ENGLISH     "Bandeiras giratórias: &&1"
+
+REFERENCE           SC_SATELLITE_REPAIRED
+LANG_ENGLISH     "Satélite reparado"
+
+REFERENCE           SC_SCIENCE_MISSION_COMPLETED
+LANG_ENGLISH     "Missão científica concluída"
+
+REFERENCE           SC_SCORE_5000
+LANG_ENGLISH     "5,000 PONTOS"
+
+REFERENCE           SC_SCORE_KICKOUT_20000
+LANG_ENGLISH     "20,000  /  ejeção"
+
+REFERENCE           SC_SCORE_KICKOUT_50000
+LANG_ENGLISH     "50,000  /  ejeção"
+
+REFERENCE           SC_SCORE_TRANSFER_2500
+LANG_ENGLISH     "2,500  /  transferência"
+
+REFERENCE           SC_SELECT_MISSION
+LANG_ENGLISH     "Acerte os alvos de missão para selecionar uma missão"
+
+REFERENCE           SC_SHOOT_FUEL_CHUTE
+LANG_ENGLISH     "Lance a bola pela canaleta de combustível"
+
+REFERENCE           SC_SPACE_CADET
+LANG_ENGLISH     "CADETE ESPACIAL"
+
+REFERENCE           SC_SPOT_TARGET_HITS_LEFT
+LANG_ENGLISH     "Acertos em alvos fixos\nRestantes: &&1"
+
+REFERENCE           SC_STAGE_OF_FIVE
+LANG_ENGLISH     "Etapa &&1 / 5"
+
+REFERENCE           SC_STOCK_GRAVITY_RESTORED
+LANG_ENGLISH     "Gravidade original restaurada"
+
+REFERENCE           SC_STOCK_PHYSICS
+LANG_ENGLISH     "FÍSICA ORIGINAL"
+
+REFERENCE           SC_SURVEY_COMPLETE
+LANG_ENGLISH     "Levantamento concluído"
+
+REFERENCE           SC_SURVIVORS_RESCUED
+LANG_ENGLISH     "Sobreviventes resgatados"
+
+REFERENCE           SC_TARGETS_LEFT
+LANG_ENGLISH     "Alvos\nRestantes: &&1"
+
+REFERENCE           SC_TARGET_TRAINING_PASSED
+LANG_ENGLISH     "Treinamento de tiro concluído"
+
+REFERENCE           SC_TIME_WARP_BACKWARD
+LANG_ENGLISH     "Dobra temporal para o passado"
+
+REFERENCE           SC_TIME_WARP_FORWARD
+LANG_ENGLISH     "Dobra temporal para o futuro"
+
+REFERENCE           SC_UPGRADE_ATTACK_BUMPERS
+LANG_ENGLISH     "Melhore os rebatedores de ataque"
+
+REFERENCE           SC_UPGRADE_FLAGS
+LANG_ENGLISH     "Melhore as bandeiras"
+
+REFERENCE           SC_UPGRADE_LAUNCH_BUMPERS
+LANG_ENGLISH     "Melhore os rebatedores de lançamento"
+
+REFERENCE           SC_WAITING_BALL_CONTACT
+LANG_ENGLISH     "Aguardando contato da bola"
+
+REFERENCE           SC_WARNING_LOW_FUEL
+LANG_ENGLISH     "Aviso -- Pouco combustível"
+
+REFERENCE           SC_WORM_HOLE
+LANG_ENGLISH     "BURACO DE MINHOCA"
+
+REFERENCE           SC_XENOMORPHS_DESTROYED
+LANG_ENGLISH     "Xenomorfos destruídos"
+
+REFERENCE           SC_TITLE
+LANG_ENGLISH     "3D Pinball Space Cadet"
+
 ENDMARKER
