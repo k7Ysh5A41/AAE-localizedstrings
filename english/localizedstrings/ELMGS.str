@@ -122,4 +122,49 @@ LANG_ENGLISH         "Virginia, USA"
 REFERENCE            FIVE_LINE3
 LANG_ENGLISH         ""FIVE""
 
+REFERENCE            GLOBE_TOMB_HIGHLIGHT
+LANG_ENGLISH         "DIG SITE"
+
+REFERENCE            GLOBE_TRANZIT_DINER
+LANG_ENGLISH         "DINER"
+
+REFERENCE            GLOBE_NUKED_BUTTON_DESC
+LANG_ENGLISH         "Mass-energy equivalence, secret tests, crash landing perks. Survive in the iconic Nuketown, where the past and the future come together."
+
+REFERENCE            GLOBE_DIERISE_HIGHLIGHT
+LANG_ENGLISH         "SKYSCARAPER"
+
+REFERENCE            GLOBE_DIERISE_BUTTON_DESC
+LANG_ENGLISH         "Watch your step! Fight for survival atop the towers of doom, where dizzying heights and the relentless undead make a deadly combination."
+
+REFERENCE            GLOBE_PRISON_ICON
+LANG_ENGLISH         "ALCATRAZ PRISON"
+
+REFERENCE            GLOBE_PRISON_HIGHLIGHT
+LANG_ENGLISH         "SUNSET STRIP"
+
+REFERENCE            GLOBE_PRISON_BUTTON_DESC
+LANG_ENGLISH         "Battle the undead as you attempt to break free from the physical and metaphorical incarceration of Alcatraz Prison."
+
+REFERENCE            GLOBE_BURIED_ICON
+LANG_ENGLISH         "RESOLUTION 1295"
+
+REFERENCE            GLOBE_BURIED_HIGHLIGHT
+LANG_ENGLISH         "PROCESSING"
+
+REFERENCE            GLOBE_TOWN_BUTTON_DESC
+LANG_ENGLISH         "Survive in Town with various perks, wall weapons, and the Pack-a-Punch."
+
+REFERENCE            GLOBE_FARM_BUTTON_DESC
+LANG_ENGLISH         "Survive in Farm with limited wall weapons, perks, and the Mystery Box."
+
+REFERENCE            GLOBE_DINER_BUTTON_DESC
+LANG_ENGLISH         "Survive in Diner with limited wall weapons, perks, and the Mystery Box."
+
+REFERENCE            GLOBE_BUS_BUTTON_DESC
+LANG_ENGLISH         "Survive with limited weapons and without the Pack-a-Punch or any perks. It's a masochist's dream. Go on, we dare you!"
+
+REFERENCE            GLOBE_BURIED_BUTTON_DESC
+LANG_ENGLISH         "Are you afraid of dark, tight spaces? Confront your deepest fears as you battle the undead in an underground obstacle course of mental challenges. You are now... "Buried""
+
 ENDMARKER

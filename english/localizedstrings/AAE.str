@@ -1471,4 +1471,19 @@ LANG_ENGLISH     "Xenomorphs Destroyed"
 REFERENCE           SC_TITLE
 LANG_ENGLISH     "3D Pinball Space Cadet"
 
+REFERENCE           BOX_PAGE
+LANG_ENGLISH     "Mystery Box Properties"
+
+REFERENCE           BOX_DONT_MOVE
+LANG_ENGLISH     "Box never moves"
+
+REFERENCE           BOX_OPTIONS
+LANG_ENGLISH     "Box Location"
+
+REFERENCE           SAVEGAME_DESC
+LANG_ENGLISH     "Save and load your progress in Zombies mode, with 6 independent save slots per map and the save date displayed for each slot. After quitting or restarting the game, return to the same map to resume a saved session.\n^3This feature is experimental. Loading may cause temporary freezes, unexpected behavior, or game crashes.^7"
+ 
+REFERENCE           SAVEGAME_SAVE
+LANG_ENGLISH     "Save and Overwrite To The Current Slot"
+
 ENDMARKER
