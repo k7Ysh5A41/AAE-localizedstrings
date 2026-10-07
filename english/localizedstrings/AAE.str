@@ -613,28 +613,28 @@ REFERENCE           EECOUNT_INFO_TITLE
 LANG_ENGLISH     "Details on the Conditions for the EE Counter"
 
 REFERENCE           EECOUNT_INFO_LINE1
-LANG_ENGLISH     "1. After the counter has been updated once, please return to the lobby to save your progress"
+LANG_ENGLISH     "1. After the counter has been updated, please return to the lobby to save your progress."
 
 REFERENCE           EECOUNT_INFO_LINE2
-LANG_ENGLISH     "2. No cheating of any kind (including AAE advanced features)"
+LANG_ENGLISH     "2. No cheating of any kind (including AAE Advanced Features)."
 
 REFERENCE           EECOUNT_INFO_LINE3
-LANG_ENGLISH     "3. Main story easter egg only"
+LANG_ENGLISH     "3. Main-story easter eggs only."
 
 REFERENCE           EECOUNT_INFO_LINE4
-LANG_ENGLISH     "4. Legitimate completion time"
+LANG_ENGLISH     "4. Legitimate completion time required."
 
 REFERENCE           EECOUNT_INFO_LINE5
-LANG_ENGLISH     "5. Keep the default values for health, speed, and score, they must not be higher or lower than the defaults"
+LANG_ENGLISH     "5. Default values for Health, Speed, and Score."
 
 REFERENCE           EECOUNT_INFO_LINE6
-LANG_ENGLISH     "6. No exo movements"
+LANG_ENGLISH     "6. No Exo Movement."
 
 REFERENCE           EECOUNT_INFO_LINE7
-LANG_ENGLISH     "7. All maps from the workshop and The Giant will not be counted toward the total"
+LANG_ENGLISH     "7. All custom maps and The Giant will not count towards the total."
 
 REFERENCE           REWARD_LINE17
-LANG_ENGLISH     "Higher chance of getting wonder weapon from the box after round 1"
+LANG_ENGLISH     "Higher chance of getting the wonder weapon from the box after round 1."
 
 REFERENCE           INGAMECHAT
 LANG_ENGLISH     "Type here to send a message to the\n^BBUTTON_MOUSE_CLICK^^BBUTTON_MOUSE_EDIT^ #in-game-chat channel"
