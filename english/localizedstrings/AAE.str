@@ -839,10 +839,10 @@ REFERENCE           KEYBIND_EMOTE_DESC
 LANG_ENGLISH     "Open a menu to select player emotes" 
 
 REFERENCE           PRESENT_TITLE
-LANG_ENGLISH     "AAE Options and Mutations Presets" 
+LANG_ENGLISH     "Option and Mutation Presets" 
 
 REFERENCE           PRESENT_DESC
-LANG_ENGLISH     "Select a preset below to quickly change your AAE Options and Custom Mutations. Presets are automatically saved when updated.\nCurrent:^3 &&1^7" 
+LANG_ENGLISH     "Select a preset below to quickly change the applied AAE Options and Custom Mutations. Presets are automatically saved when updated.\nCurrent:^3 &&1^7" 
 
 REFERENCE           PRESENT_LIST_DEFAULT
 LANG_ENGLISH     "Default Preset" 
