@@ -167,4 +167,7 @@ LANG_ENGLISH         "Survive with limited weapons and without the Pack-a-Punch 
 REFERENCE            GLOBE_BURIED_BUTTON_DESC
 LANG_ENGLISH         "Are you afraid of dark, tight spaces? Confront your deepest fears as you battle the undead in an underground obstacle course of mental challenges. You are now... "Buried""
 
+REFERENCE            GLOBE_FACTORY_ICON
+LANG_ENGLISH         "935 Facilities"
+
 ENDMARKER
