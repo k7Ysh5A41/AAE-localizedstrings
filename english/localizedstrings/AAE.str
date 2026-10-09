@@ -1480,10 +1480,13 @@ LANG_ENGLISH     "Box never moves"
 REFERENCE           BOX_OPTIONS
 LANG_ENGLISH     "Box Location"
 
-REFERENCE           SAVEGAME_DESC
-LANG_ENGLISH     "Save and load your progress in Zombies mode, with 6 independent save slots per map and the save date displayed for each slot. After quitting or restarting the game, return to the same map to resume a saved session.\n^3This feature is experimental. Loading may cause temporary freezes, unexpected behavior, or game crashes.^7"
- 
-REFERENCE           SAVEGAME_SAVE
-LANG_ENGLISH     "Save and Overwrite To The Current Slot"
+REFERENCE           CATALOG_LOADED
+LANG_ENGLISH     "MAP CATALOG: ^5ONLINE ^7| ^2SYNCED"
+
+REFERENCE           CATALOG_LOCAL
+LANG_ENGLISH     "MAP CATALOG: ^3BUILT-IN ^7| ^3ACTIVE"
+
+REFERENCE           CATALOG_WEBSITE
+LANG_ENGLISH     "Explore the ^3AAE Online Map Catalog"
 
 ENDMARKER
