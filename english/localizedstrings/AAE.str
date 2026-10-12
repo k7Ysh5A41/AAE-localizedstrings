@@ -1508,6 +1508,6 @@ REFERENCE           GLOBE_OFF
 LANG_ENGLISH     "Globe Map List: Deactivated"
 
 REFERENCE           AFK_REMOVED
-LANG_ENGLISH     "AFK Mode Has Been Removed\nYou'll Need To Have The Host Press ^3[{toggle}]^7 To Pause The Game"
+LANG_ENGLISH     "AFK Mode Has Been Removed\nYou'll Need To Have The Host Press ^3[{togglemenu}]^7 To Pause The Game"
 
 ENDMARKER
