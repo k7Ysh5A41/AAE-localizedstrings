@@ -117,6 +117,54 @@ REFERENCE           FIVE_LINE2
 LANG_ENGLISH     "Вирджиния, США"
 
 REFERENCE           FIVE_LINE3
-LANG_ENGLISH     ""ПЯТЬ""
+LANG_ENGLISH     "ПЯТЬ"
+
+REFERENCE            GLOBE_TOMB_HIGHLIGHT
+LANG_ENGLISH         "МЕСТО РАСКОПОК"
+
+REFERENCE            GLOBE_TRANZIT_DINER
+LANG_ENGLISH         "ЗАКУСОЧНАЯ"
+
+REFERENCE            GLOBE_NUKED_BUTTON_DESC
+LANG_ENGLISH         "Эквивалентность массы и энергии, секретные испытания и упавшие с неба перки. Выживите в Неваде, где будущее и прошлое слились воедино."
+
+REFERENCE            GLOBE_DIERISE_HIGHLIGHT
+LANG_ENGLISH         "Высотка"
+
+REFERENCE            GLOBE_DIERISE_BUTTON_DESC
+LANG_ENGLISH         "Смотрите под ноги! Жуткое сочетание головокружительной высоты и неумолимость нежити может стать причиной вашего падения."
+
+REFERENCE            GLOBE_PRISON_ICON
+LANG_ENGLISH         "ТЮРЬМА АЛЬКАТРАС"
+
+REFERENCE            GLOBE_PRISON_HIGHLIGHT
+LANG_ENGLISH         "Сансет-Стрип"
+
+REFERENCE            GLOBE_PRISON_BUTTON_DESC
+LANG_ENGLISH         "Сразитесь с метрвецами, пытаясь сбежать из физического и метафорического заключения в тюрьме Алькатрас."
+
+REFERENCE            GLOBE_BURIED_ICON
+LANG_ENGLISH         "Резолюция 1295"
+
+REFERENCE            GLOBE_BURIED_HIGHLIGHT
+LANG_ENGLISH         "Перерабатывающий цех"
+
+REFERENCE            GLOBE_TOWN_BUTTON_DESC
+LANG_ENGLISH         "Выживите в городе с полным набором перков и оружия, а также с улучшайзером."
+
+REFERENCE            GLOBE_FARM_BUTTON_DESC
+LANG_ENGLISH         "Выживите на ферме с ограниченным набором оружия, перков и волшебным ящиком."
+
+REFERENCE            GLOBE_DINER_BUTTON_DESC
+LANG_ENGLISH         "Выживите в закусочной с ограниченным набором оружия, перков и волшебным ящиком."
+
+REFERENCE            GLOBE_BUS_BUTTON_DESC
+LANG_ENGLISH         "Без перков, улучшайзера, волшебного ящика и с ограниченным оружием - мечта мазохиста. Слабо?"
+
+REFERENCE            GLOBE_BURIED_BUTTON_DESC
+LANG_ENGLISH         "Боитесь тьмы, узких мест? Сразитесь со своими потаенными страхами и дайте отпор нежити на подземной полосе ментальных препятствий. Вы теперь 'похоронены'."
+
+REFERENCE            GLOBE_FACTORY_ICON
+LANG_ENGLISH         "Объекты «935»"
 
 ENDMARKER
