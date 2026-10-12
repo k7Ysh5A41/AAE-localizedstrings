@@ -1489,4 +1489,25 @@ LANG_ENGLISH     "MAP CATALOG SOURCE: ^3AAE BUILT-IN"
 REFERENCE           CATALOG_WEBSITE
 LANG_ENGLISH     "Explore the ^3AAE Online Map Catalog"
 
+REFERENCE           SAVEGAME_DESC
+LANG_ENGLISH     "^3WARNING: The savegame system is currently severely unstable!\nMay cause corrupted saves, game-breaking bugs, or crashes."
+
+REFERENCE           SAVEGAME_SAVE
+LANG_ENGLISH     "Press and save the savegame to current slot"
+
+REFERENCE           GLOBE_REAL
+LANG_ENGLISH     "Globe Style: Satellite"
+
+REFERENCE           GLOBE_BO2
+LANG_ENGLISH     "Globe Style: BO2"
+
+REFERENCE           GLOBE_ON
+LANG_ENGLISH     "Globe Map List: Activate"
+
+REFERENCE           GLOBE_OFF
+LANG_ENGLISH     "Globe Map List: Deactivated"
+
+REFERENCE           AFK_REMOVED
+LANG_ENGLISH     "AFK Mode Has Been Removed\nYou'll Need To Have The Host Press ^3[{toggle}]^7 To Pause The Game"
+
 ENDMARKER
