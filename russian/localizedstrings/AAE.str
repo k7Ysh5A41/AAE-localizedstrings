@@ -688,7 +688,7 @@ REFERENCE           CALLING_GIANT_ROBOT
 LANG_ENGLISH     "Удерживайте ^3[{+activate}]^7 для передачи сигнала формирования гигантского робота. [Цена: &&1]" 
 
 REFERENCE           EE_COUNT_UPDATE
-LANG_ENGLISH     " ^7Обновление счётчика пасхальных яиц^3"
+LANG_ENGLISH     " ^7Обновление счётчика пасхальных яиц^3 "
 
 REFERENCE           NEW_SONG
 LANG_ENGLISH     " ^7Заказал песню^3"
