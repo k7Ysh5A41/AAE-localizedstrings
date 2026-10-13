@@ -1471,4 +1471,43 @@ LANG_ENGLISH     "Ксеноморфы уничтожены"
 REFERENCE           SC_TITLE
 LANG_ENGLISH     "3D Pinball Space Cadet"
 
+REFERENCE           BOX_PAGE
+LANG_ENGLISH     "Параметры таинственного ящика"
+
+REFERENCE           BOX_DONT_MOVE
+LANG_ENGLISH     "Только в одном месте"
+
+REFERENCE           BOX_OPTIONS
+LANG_ENGLISH     "Расположение таинственного ящика"
+
+REFERENCE           CATALOG_LOADED
+LANG_ENGLISH     "ИСТОЧНИК КАТАЛОГА КАРТ: ^2GITHUB"
+
+REFERENCE           CATALOG_LOCAL
+LANG_ENGLISH     "ИСТОЧНИК КАТАЛОГА КАРТ: ^3ВСТРОЕННЫЙ AAE"
+
+REFERENCE           CATALOG_WEBSITE
+LANG_ENGLISH     "Исследуйте ^3Онлайн-каталог карт AAE"
+
+REFERENCE           SAVEGAME_DESC
+LANG_ENGLISH     "^3ВНИМАНИЕ: Система сохранений крайне нестабильна!\nМожет привести к повреждению сохранений, критическим багам или вылетам."
+
+REFERENCE           SAVEGAME_SAVE
+LANG_ENGLISH     "Нажмите, чтобы сохранить игру в текущий слот"
+
+REFERENCE           GLOBE_REAL
+LANG_ENGLISH     "Стиль глобуса: Спутник"
+
+REFERENCE           GLOBE_BO2
+LANG_ENGLISH     "Стиль глобуса: BO2"
+
+REFERENCE           GLOBE_ON
+LANG_ENGLISH     "Список карт глобуса: Включен"
+
+REFERENCE           GLOBE_OFF
+LANG_ENGLISH     "Список карт глобуса: Отключен"
+
+REFERENCE           AFK_REMOVED
+LANG_ENGLISH     "AFK-режим был удален\nХосту необходимо нажать ^3[{togglemenu}]^7, чтобы поставить игру на паузу"
+
 ENDMARKER
