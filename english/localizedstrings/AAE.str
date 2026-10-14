@@ -1510,4 +1510,10 @@ LANG_ENGLISH     "Globe Map List: Deactivated"
 REFERENCE           AFK_REMOVED
 LANG_ENGLISH     "AFK Mode Has Been Removed\nYou'll Need To Have The Host Press ^3[{togglemenu}]^7 To Pause The Game"
 
+REFERENCE            KEYBIND_THIRD_PERSON_MODE
+LANG_ENGLISH         "Third Person Over-the-Shoulder Camera Switch"
+
+REFERENCE            KEYBIND_THIRD_PERSON_MODE_DESC
+LANG_ENGLISH         "Used to switch whether the third-person camera is positioned on the left or right side of the shoulder."
+
 ENDMARKER
