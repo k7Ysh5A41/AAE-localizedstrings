@@ -167,4 +167,11 @@ LANG_ENGLISH         "Боитесь тьмы, узких мест? Сразит
 REFERENCE            GLOBE_FACTORY_ICON
 LANG_ENGLISH         "Объекты «935»"
 
+REFERENCE            GLOBE_BURIED_BOX_HIGHLIGHT
+LANG_ENGLISH         "РАЙОН"
+
+REFERENCE            GLOBE_CELLBLOCK_HIGHLIGHT
+LANG_ENGLISH         "ТЮРЕМНЫЙ БЛОК"
+
+
 ENDMARKER
