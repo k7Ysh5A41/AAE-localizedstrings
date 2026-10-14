@@ -772,7 +772,7 @@ REFERENCE            KEYBIND_SPRAY_PAINT_EMBLEM_DESC
 LANG_ENGLISH         "Нанесите свою эмблему Black Ops 3 в виде граффити почти на любую поверхность.\n\n^3Нажмите назначенную клавишу, чтобы распылить свою эмблему."
 
 REFERENCE            KEYBIND_SET_MULEKICK_WEAPON
-LANG_ENGLISH         "Назначить третье оружие (Пинок мула)"
+LANG_ENGLISH         "Назначить третье оружие"
 
 REFERENCE            KEYBIND_SET_MULEKICK_WEAPON_DESC
 LANG_ENGLISH         "Замените третье оружие на любое другое, которое вы сейчас держите в руках.\n\n^3Нажмите назначенную клавишу, чтобы сделать текущее оружие третьим."
@@ -1509,5 +1509,12 @@ LANG_ENGLISH     "Список карт глобуса: Отключен"
 
 REFERENCE           AFK_REMOVED
 LANG_ENGLISH     "AFK-режим был удален\nХосту необходимо нажать ^3[{togglemenu}]^7, чтобы поставить игру на паузу"
+
+REFERENCE            KEYBIND_THIRD_PERSON_MODE
+LANG_ENGLISH         "Переключение камеры от третьего лица между плечами"
+
+REFERENCE            KEYBIND_THIRD_PERSON_MODE_DESC
+LANG_ENGLISH         "Используется для переключения положения камеры от третьего лица между левым и правым плечом."
+
 
 ENDMARKER
