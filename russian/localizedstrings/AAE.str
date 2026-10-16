@@ -1501,6 +1501,9 @@ LANG_ENGLISH     "Стиль глобуса: Спутник"
 REFERENCE           GLOBE_BO2
 LANG_ENGLISH     "Стиль глобуса: BO2"
 
+REFERENCE           GLOBE_NIGHT
+LANG_ENGLISH     "Стиль глобуса: Ночной"
+
 REFERENCE           GLOBE_ON
 LANG_ENGLISH     "Список карт глобуса: Включен"
 
