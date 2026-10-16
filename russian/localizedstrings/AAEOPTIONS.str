@@ -381,6 +381,6 @@ REFERENCE           NO_TALK
 LANG_ENGLISH     "Отключить диалоги персонажей"
 
 REFERENCE           SLIDE_DIRT
-LANG_ENGLISH     "Отключить грязь при скольжении"
+LANG_ENGLISH     "Отключить эффект грязи при скольжении"
 
 ENDMARKER
