@@ -1474,4 +1474,58 @@ LANG_ENGLISH     "Xénomorphes détruits"
 REFERENCE           SC_TITLE
 LANG_ENGLISH     "3D Pinball Space Cadet"
 
+REFERENCE           BOX_PAGE
+LANG_ENGLISH        "Propriétés de la boîte mystère"
+
+REFERENCE           BOX_DONT_MOVE
+LANG_ENGLISH        "La boîte ne bouge jamais"
+
+REFERENCE           BOX_OPTIONS
+LANG_ENGLISH        "Emplacement de la boîte"
+
+REFERENCE           SAVEGAME_DESC
+LANG_ENGLISH        "Sauvegardez et chargez votre progression dans le mode Zombies, avec 6 emplacements de sauvegarde indépendants par carte et la date de sauvegarde affichée pour chaque emplacement. Après avoir quitté ou redémarré le jeu, revenez sur la même carte pour reprendre une session sauvegardée.\n^3Cette fonctionnalité est expérimentale. Le chargement peut entraîner des blocages temporaires, des comportements inattendus ou des plantages du jeu.^7"
+
+REFERENCE           SAVEGAME_SAVE
+LANG_ENGLISH        "Sauvegarder et écraser l'emplacement actuel"
+
+REFERENCE           CATALOG_LOADED
+LANG_ENGLISH        "MAP CATALOG SOURCE: ^2GITHUB"
+
+REFERENCE           CATALOG_LOCAL
+LANG_ENGLISH        "MAP CATALOG SOURCE: ^3AAE BUILT-IN"
+
+REFERENCE           CATALOG_WEBSITE
+LANG_ENGLISH        "Explorez le ^3catalogue de cartes en ligne AAE"
+
+REFERENCE           SAVEGAME_DESC
+LANG_ENGLISH        "^3ATTENTION : Le système de sauvegarde est actuellement très instable !\nPeut entraîner des sauvegardes corrompues, des bugs majeurs ou des plantages du jeu."
+
+REFERENCE           SAVEGAME_SAVE
+LANG_ENGLISH        "Appuyez pour enregistrer la sauvegarde dans l'emplacement actuel"
+
+REFERENCE           GLOBE_REAL
+LANG_ENGLISH        "Style du globe : Satellite"
+
+REFERENCE           GLOBE_BO2
+LANG_ENGLISH        "Style du globe : BO2"
+
+REFERENCE           GLOBE_ON
+LANG_ENGLISH        "Liste des cartes du globe : Activée"
+
+REFERENCE           GLOBE_OFF
+LANG_ENGLISH        "Liste des cartes du globe : Désactivée"
+
+REFERENCE           AFK_REMOVED
+LANG_ENGLISH        "Le mode AFK a été supprimé\nL'hôte devra appuyer sur ^3[{togglemenu}]^7 pour mettre le jeu en pause"
+
+REFERENCE            KEYBIND_THIRD_PERSON_MODE
+LANG_ENGLISH         "Position de la 3e personne"
+
+REFERENCE            KEYBIND_THIRD_PERSON_MODE_DESC
+LANG_ENGLISH         "Permet de choisir si la caméra à la troisième personne est positionnée sur l'épaule gauche ou droite."
+
+REFERENCE           GLOBE_NIGHT
+LANG_ENGLISH        "Style du globe : Nuit"
+
 ENDMARKER

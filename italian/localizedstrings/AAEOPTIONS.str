@@ -380,4 +380,7 @@ LANG_ENGLISH     "Disattiva dialoghi personaggi"
 REFERENCE           WEAPON_OPTION
 LANG_ENGLISH        "Comportamento del kit armi"
 
+REFERENCE           SLIDE_DIRT
+LANG_ENGLISH        "Disattiva sporco sulla telecamera durante la scivolata"
+
 ENDMARKER

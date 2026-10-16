@@ -1474,4 +1474,52 @@ LANG_ENGLISH     "Xenomorfi distrutti"
 REFERENCE           SC_TITLE
 LANG_ENGLISH     "3D Pinball Space Cadet"
 
+REFERENCE           BOX_PAGE
+LANG_ENGLISH        "Proprietà della cassa misteriosa"
+
+REFERENCE           BOX_DONT_MOVE
+LANG_ENGLISH        "La cassa non si sposta mai"
+
+REFERENCE           BOX_OPTIONS
+LANG_ENGLISH        "Posizione della cassa"
+
+REFERENCE           CATALOG_LOADED
+LANG_ENGLISH        "FONTE CATALOGO MAPPE: ^2GITHUB"
+
+REFERENCE           CATALOG_LOCAL
+LANG_ENGLISH        "FONTE CATALOGO MAPPE: ^3INTEGRATO AAE"
+
+REFERENCE           CATALOG_WEBSITE
+LANG_ENGLISH        "Esplora il ^3catalogo mappe online AAE"
+
+REFERENCE           SAVEGAME_DESC
+LANG_ENGLISH        "^3ATTENZIONE: Il sistema di salvataggio è attualmente fortemente instabile!\nPuò causare salvataggi corrotti, bug critici o crash del gioco."
+
+REFERENCE           SAVEGAME_SAVE
+LANG_ENGLISH        "Premi per salvare la partita nello slot corrente"
+
+REFERENCE           GLOBE_REAL
+LANG_ENGLISH        "Stile globo: Satellite"
+
+REFERENCE           GLOBE_BO2
+LANG_ENGLISH        "Stile globo: BO2"
+
+REFERENCE           GLOBE_ON
+LANG_ENGLISH        "Elenco mappe globo: Attiva"
+
+REFERENCE           GLOBE_OFF
+LANG_ENGLISH        "Elenco mappe globo: Disattivata"
+
+REFERENCE           AFK_REMOVED
+LANG_ENGLISH        "La modalità AFK è stata rimossa\nL'host dovrà premere ^3[{togglemenu}]^7 per mettere il gioco in pausa"
+
+REFERENCE            KEYBIND_THIRD_PERSON_MODE
+LANG_ENGLISH         "Posizione 3ª persona"
+
+REFERENCE            KEYBIND_THIRD_PERSON_MODE_DESC
+LANG_ENGLISH         "Utilizzato per posizionare la telecamera in terza persona sulla spalla sinistra o destra."
+
+REFERENCE           GLOBE_NIGHT
+LANG_ENGLISH        "Stile globo: Notte"
+
 ENDMARKER

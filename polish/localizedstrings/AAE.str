@@ -1483,4 +1483,52 @@ LANG_ENGLISH     "Ksenomorfy zniszczone"
 REFERENCE           SC_TITLE
 LANG_ENGLISH     "3D Pinball Space Cadet"
 
+REFERENCE           BOX_PAGE
+LANG_ENGLISH        "Właściwości tajemniczej skrzynki"
+
+REFERENCE           BOX_DONT_MOVE
+LANG_ENGLISH        "Skrzynka nigdy się nie przemieszcza"
+
+REFERENCE           BOX_OPTIONS
+LANG_ENGLISH        "Lokalizacja skrzynki"
+
+REFERENCE           CATALOG_LOADED
+LANG_ENGLISH        "ŹRÓDŁO KATALOGU MAP: ^2GITHUB"
+
+REFERENCE           CATALOG_LOCAL
+LANG_ENGLISH        "ŹRÓDŁO KATALOGU MAP: ^3WBUDOWANY AAE"
+
+REFERENCE           CATALOG_WEBSITE
+LANG_ENGLISH        "Odkryj ^3internetowy katalog map AAE"
+
+REFERENCE           SAVEGAME_DESC
+LANG_ENGLISH        "^3OSTRZEŻENIE: System zapisu gry jest obecnie wysoce niestabilny!\nMoże powodować uszkodzenie zapisów, błędy uniemożliwiające grę lub awarie gry."
+
+REFERENCE           SAVEGAME_SAVE
+LANG_ENGLISH        "Naciśnij, aby zapisać stan gry w bieżącym slocie"
+
+REFERENCE           GLOBE_REAL
+LANG_ENGLISH        "Styl globu: Satelita"
+
+REFERENCE           GLOBE_BO2
+LANG_ENGLISH        "Styl globu: BO2"
+
+REFERENCE           GLOBE_ON
+LANG_ENGLISH        "Lista map globu: Włączona"
+
+REFERENCE           GLOBE_OFF
+LANG_ENGLISH        "Lista map globu: Wyłączona"
+
+REFERENCE           AFK_REMOVED
+LANG_ENGLISH        "Tryb AFK został usunięty\nHost musi nacisnąć ^3[{togglemenu}]^7, aby wstrzymać grę"
+
+REFERENCE            KEYBIND_THIRD_PERSON_MODE
+LANG_ENGLISH         "Pozycja 3. osoby"
+
+REFERENCE            KEYBIND_THIRD_PERSON_MODE_DESC
+LANG_ENGLISH         "Służy do zmiany pozycji kamery w trzeciej osobie między lewym a prawym ramieniem."
+
+REFERENCE           GLOBE_NIGHT
+LANG_ENGLISH        "Styl globu: Noc"
+
 ENDMARKER

@@ -1474,4 +1474,52 @@ LANG_ENGLISH     "Xenomorphe zerstört"
 REFERENCE           SC_TITLE
 LANG_ENGLISH     "3D Pinball Space Cadet"
 
+REFERENCE           BOX_PAGE
+LANG_ENGLISH        "Eigenschaften der Mysteriösen Kiste"
+
+REFERENCE           BOX_DONT_MOVE
+LANG_ENGLISH        "Kiste bewegt sich nie"
+
+REFERENCE           BOX_OPTIONS
+LANG_ENGLISH        "Kistenstandort"
+
+REFERENCE           CATALOG_LOADED
+LANG_ENGLISH        "KARTENKATALOG-QUELLE: ^2GITHUB"
+
+REFERENCE           CATALOG_LOCAL
+LANG_ENGLISH        "KARTENKATALOG-QUELLE: ^3AAE INTEGRIERT"
+
+REFERENCE           CATALOG_WEBSITE
+LANG_ENGLISH        "Erkunden Sie den ^3AAE Online-Kartenkatalog"
+
+REFERENCE           SAVEGAME_DESC
+LANG_ENGLISH        "^3WARNUNG: Das Speichersystem ist derzeit extrem instabil!\nKann zu beschädigten Speicherständen, schwerwiegenden Fehlern oder Spielabstürzen führen."
+
+REFERENCE           SAVEGAME_SAVE
+LANG_ENGLISH        "Drücken zum Speichern auf dem aktuellen Speicherplatz"
+
+REFERENCE           GLOBE_REAL
+LANG_ENGLISH        "Globus-Stil: Satellit"
+
+REFERENCE           GLOBE_BO2
+LANG_ENGLISH        "Globus-Stil: BO2"
+
+REFERENCE           GLOBE_ON
+LANG_ENGLISH        "Globus-Kartenliste: Aktivieren"
+
+REFERENCE           GLOBE_OFF
+LANG_ENGLISH        "Globus-Kartenliste: Deaktiviert"
+
+REFERENCE           AFK_REMOVED
+LANG_ENGLISH        "AFK-Modus wurde entfernt\nDer Host muss ^3[{togglemenu}]^7 drücken, um das Spiel zu pausieren"
+
+REFERENCE            KEYBIND_THIRD_PERSON_MODE
+LANG_ENGLISH         "3. Person Position"
+
+REFERENCE            KEYBIND_THIRD_PERSON_MODE_DESC
+LANG_ENGLISH         "Dient zum Wechseln der Schulterperspektive (links oder rechts) für die Kamera in der 3. Person."
+
+REFERENCE           GLOBE_NIGHT
+LANG_ENGLISH        "Globus-Stil: Nacht"
+
 ENDMARKER

@@ -380,4 +380,7 @@ LANG_ENGLISH  "Desativar diálogos dos personagens"
 REFERENCE           WEAPON_OPTION
 LANG_ENGLISH     "Comportamento do Kit de Armas"
 
+REFERENCE           SLIDE_DIRT
+LANG_ENGLISH        "Desativar sujeira na câmera ao deslizar"
+
 ENDMARKER

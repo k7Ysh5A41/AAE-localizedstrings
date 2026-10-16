@@ -119,4 +119,58 @@ LANG_ENGLISH         "Virginia, USA"
 REFERENCE            FIVE_LINE3
 LANG_ENGLISH         ""FIVE""
 
+REFERENCE            GLOBE_TOMB_HIGHLIGHT
+LANG_ENGLISH         "SITO DI SCAVO"
+
+REFERENCE            GLOBE_TRANZIT_DINER
+LANG_ENGLISH         "DINER"
+
+REFERENCE            GLOBE_NUKED_BUTTON_DESC
+LANG_ENGLISH         "Equivalenza massa-energia, test segreti, specialty di fortuna. Sopravvivi nell'iconica Nuketown, dove il passato e il futuro si incontrano."
+
+REFERENCE            GLOBE_DIERISE_HIGHLIGHT
+LANG_ENGLISH         "GRATTACIELO"
+
+REFERENCE            GLOBE_DIERISE_BUTTON_DESC
+LANG_ENGLISH         "Guarda dove metti i piedi! Lotta per la sopravvivenza in cima alle torri del destino, dove altezze vertiginose e spietati non-morti creano una combinazione mortale."
+
+REFERENCE            GLOBE_PRISON_ICON
+LANG_ENGLISH         "PRIGIONE DI ALCATRAZ"
+
+REFERENCE            GLOBE_PRISON_HIGHLIGHT
+LANG_ENGLISH         "SUNSET STRIP"
+
+REFERENCE            GLOBE_PRISON_BUTTON_DESC
+LANG_ENGLISH         "Combatte i non-morti mentre cerchi di fuggire dalla prigionia fisica e metaforica della prigione di Alcatraz."
+
+REFERENCE            GLOBE_BURIED_ICON
+LANG_ENGLISH         "RISOLUZIONE 1295"
+
+REFERENCE            GLOBE_BURIED_HIGHLIGHT
+LANG_ENGLISH         "ELABORAZIONE"
+
+REFERENCE            GLOBE_TOWN_BUTTON_DESC
+LANG_ENGLISH         "Sopravvivi in Città con varie specialty, armi da parete e il Pack-a-Punch."
+
+REFERENCE            GLOBE_FARM_BUTTON_DESC
+LANG_ENGLISH         "Sopravvivi nella Fattoria con armi da parete limitate, specialty e la Cassa Misteriosa."
+
+REFERENCE            GLOBE_DINER_BUTTON_DESC
+LANG_ENGLISH         "Sopravvivi nel Diner con armi da parete limitate, specialty e la Cassa Misteriosa."
+
+REFERENCE            GLOBE_BUS_BUTTON_DESC
+LANG_ENGLISH         "Sopravvivi con armi limitate e senza Pack-a-Punch né specialty. È il sogno di ogni masochista. Forza, ti sfidiamo!"
+
+REFERENCE            GLOBE_BURIED_BUTTON_DESC
+LANG_ENGLISH         "Hai paura degli spazi bui e stretti? Affronta le tue paure più profonde combattendo i non-morti in un percorso ad ostacoli sotterraneo. Ora sei... "Buried""
+
+REFERENCE            GLOBE_FACTORY_ICON
+LANG_ENGLISH         "Strutture 935"
+
+REFERENCE            GLOBE_BURIED_BOX_HIGHLIGHT
+LANG_ENGLISH         "QUARTIERE"
+
+REFERENCE            GLOBE_CELLBLOCK_HIGHLIGHT
+LANG_ENGLISH         "BLOCCO CELLE"
+
 ENDMARKER

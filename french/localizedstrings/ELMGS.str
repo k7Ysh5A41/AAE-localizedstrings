@@ -119,4 +119,58 @@ LANG_ENGLISH          "Virginie, États-Unis"
 REFERENCE            FIVE_LINE3
 LANG_ENGLISH          ""FIVE""
 
+REFERENCE            GLOBE_TOMB_HIGHLIGHT
+LANG_ENGLISH         "SITE DE FOUILLES"
+
+REFERENCE            GLOBE_TRANZIT_DINER
+LANG_ENGLISH         "DINER"
+
+REFERENCE            GLOBE_NUKED_BUTTON_DESC
+LANG_ENGLISH         "Équivalence masse-énergie, essais secrets, atouts en atterrissage d'urgence. Survivez dans l'emblématique Nuketown, où le passé et le futur se rejoignent."
+
+REFERENCE            GLOBE_DIERISE_HIGHLIGHT
+LANG_ENGLISH         "GRATTE-CIEL"
+
+REFERENCE            GLOBE_DIERISE_BUTTON_DESC
+LANG_ENGLISH         "Ouvrez l'œil ! Battez-vous pour survivre au sommet des tours du destin, où les hauteurs vertigineuses et les morts-vivants forment un combo mortel."
+
+REFERENCE            GLOBE_PRISON_ICON
+LANG_ENGLISH         "PRISON D'ALCATRAZ"
+
+REFERENCE            GLOBE_PRISON_HIGHLIGHT
+LANG_ENGLISH         "SUNSET STRIP"
+
+REFERENCE            GLOBE_PRISON_BUTTON_DESC
+LANG_ENGLISH         "Affrontez les morts-vivants tout en essayant de vous évader de l'incarcération physique et métaphorique de la prison d'Alcatraz."
+
+REFERENCE            GLOBE_BURIED_ICON
+LANG_ENGLISH         "RÉSOLUTION 1295"
+
+REFERENCE            GLOBE_BURIED_HIGHLIGHT
+LANG_ENGLISH         "TRAITEMENT"
+
+REFERENCE            GLOBE_TOWN_BUTTON_DESC
+LANG_ENGLISH         "Survivez dans la Ville avec divers atouts, armes murales et le Pack-a-Punch."
+
+REFERENCE            GLOBE_FARM_BUTTON_DESC
+LANG_ENGLISH         "Survivez dans la Ferme avec des armes murales limitées, des atouts et la Boîte Mystère."
+
+REFERENCE            GLOBE_DINER_BUTTON_DESC
+LANG_ENGLISH         "Survivez dans le Diner avec des armes murales limitées, des atouts et la Boîte Mystère."
+
+REFERENCE            GLOBE_BUS_BUTTON_DESC
+LANG_ENGLISH         "Survivez avec des armes limitées et sans Pack-a-Punch ni atouts. C'est le rêve de tout masochiste. Allez-y, on vous défie !"
+
+REFERENCE            GLOBE_BURIED_BUTTON_DESC
+LANG_ENGLISH         "Peur du noir et des espaces étroits ? Affrontez vos peurs les plus profondes en combattant les morts-vivants dans un parcours d'obstacles souterrain. Vous voilà... "Buried""
+
+REFERENCE            GLOBE_FACTORY_ICON
+LANG_ENGLISH         "Installations 935"
+
+REFERENCE            GLOBE_BURIED_BOX_HIGHLIGHT
+LANG_ENGLISH         "BOURG"
+
+REFERENCE            GLOBE_CELLBLOCK_HIGHLIGHT
+LANG_ENGLISH         "BLOC CELLULAIRE"
+
 ENDMARKER

@@ -380,4 +380,7 @@ LANG_ENGLISH      "Wyłącz dialogi postaci"
 REFERENCE           WEAPON_OPTION
 LANG_ENGLISH         "Zachowanie zestawu broni"
 
+REFERENCE           SLIDE_DIRT
+LANG_ENGLISH        "Wyłącz zabrudzenie kamery podczas wślizgu"
+
 ENDMARKER
