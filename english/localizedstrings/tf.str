@@ -216,7 +216,7 @@ REFERENCE            DOOR
 LANG_ENGLISH         "Start With All Doors Opened"
 
 REFERENCE            BOX_ALL
-LANG_ENGLISH         "Mystery Box Active At All Locations"
+LANG_ENGLISH         "Active At All Locations"
 
 REFERENCE            POWER
 LANG_ENGLISH         "Start With Power Enabled"
