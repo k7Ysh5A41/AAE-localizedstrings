@@ -480,7 +480,7 @@ REFERENCE           MAP_NOT_SUPPORT_TITLE2
 LANG_ENGLISH     "AAE LITE REQUIRED"
 
 REFERENCE           MAP_NOT_SUPPORT_DESC
-LANG_ENGLISH     "The selected map is incompatible with All-around Enhancement. This will cause the game to crash."
+LANG_ENGLISH     "The selected map is incompatible with All-around Enhancement. Continuing will cause the game to crash."
 
 REFERENCE           MAP_NOT_SUPPORT_DESC2
 LANG_ENGLISH     "The selected map only supports the Lite version of All-around Enhancement. Please switch before trying again."
@@ -495,7 +495,7 @@ REFERENCE           MAP_NOT_SUPPORT_TITLE3
 LANG_ENGLISH     "GAME CRASH WARNING"
 
 REFERENCE           MAP_NOT_SUPPORT_DESC3
-LANG_ENGLISH     "The selected map does not support the party size. Continuing will cause the game to ^1crash! ^7"
+LANG_ENGLISH     "The selected map does not support the party size. Continuing will cause the game to crash."
 
 REFERENCE           MAP_NOT_SUPPORT_TITLE4
 LANG_ENGLISH     "GOBBLEGUMS DISABLED"
@@ -1475,22 +1475,22 @@ REFERENCE           BOX_PAGE
 LANG_ENGLISH     "Mystery Box Properties"
 
 REFERENCE           BOX_DONT_MOVE
-LANG_ENGLISH     "Box never moves"
+LANG_ENGLISH     "Doesn't Move"
 
 REFERENCE           BOX_OPTIONS
 LANG_ENGLISH     "Box Location"
 
 REFERENCE           CATALOG_LOADED
-LANG_ENGLISH     "MAP CATALOG SOURCE: ^2GITHUB"
+LANG_ENGLISH     "MAP CATALOG SOURCE: ^2ONLINE"
 
 REFERENCE           CATALOG_LOCAL
-LANG_ENGLISH     "MAP CATALOG SOURCE: ^3AAE BUILT-IN"
+LANG_ENGLISH     "MAP CATALOG SOURCE: ^3BUILT-IN"
 
 REFERENCE           CATALOG_WEBSITE
-LANG_ENGLISH     "Explore the ^3AAE Online Map Catalog"
+LANG_ENGLISH     "Explore the Online Map Catalog"
 
 REFERENCE           SAVEGAME_DESC
-LANG_ENGLISH     "^3WARNING: The savegame system is currently severely unstable!\nMay cause corrupted saves, game-breaking bugs, or crashes."
+LANG_ENGLISH     "^3WARNING: The savegame system is severely unstable!\nMay cause corrupted saves, game-breaking bugs, or crashes."
 
 REFERENCE           SAVEGAME_SAVE
 LANG_ENGLISH     "Press and save the savegame to current slot"
@@ -1502,18 +1502,18 @@ REFERENCE           GLOBE_BO2
 LANG_ENGLISH     "Globe Style: BO2"
 
 REFERENCE           GLOBE_ON
-LANG_ENGLISH     "Globe Map List: Activate"
+LANG_ENGLISH     "Globe Map: Activated"
 
 REFERENCE           GLOBE_OFF
-LANG_ENGLISH     "Globe Map List: Deactivated"
+LANG_ENGLISH     "Globe Map: Deactivated"
 
 REFERENCE           AFK_REMOVED
-LANG_ENGLISH     "AFK Mode Has Been Removed\nYou'll Need To Have The Host Press ^3[{togglemenu}]^7 To Pause The Game"
+LANG_ENGLISH     "AFK Mode Has Been Removed\nUse The Roamer Mutation Or Have The Host Press ^3[{togglemenu}]^7 To Pause The Game"
 
 REFERENCE            KEYBIND_THIRD_PERSON_MODE
 LANG_ENGLISH         "3rd-Person Position"
 
 REFERENCE            KEYBIND_THIRD_PERSON_MODE_DESC
-LANG_ENGLISH         "Used to switch whether the third-person camera is positioned on the left or right side of the shoulder."
+LANG_ENGLISH         "Switch the third-person camera to the left or right side of the character's shoulder."
 
 ENDMARKER
