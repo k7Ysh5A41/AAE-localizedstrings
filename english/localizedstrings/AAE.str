@@ -1516,4 +1516,7 @@ LANG_ENGLISH         "3rd-Person Position"
 REFERENCE            KEYBIND_THIRD_PERSON_MODE_DESC
 LANG_ENGLISH         "Switch the third-person camera to the left or right side of the character's shoulder."
 
+REFERENCE           GLOBE_BO2
+LANG_ENGLISH     "Globe Style: Night"
+
 ENDMARKER
