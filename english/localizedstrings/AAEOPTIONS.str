@@ -380,4 +380,7 @@ LANG_ENGLISH     "Disable Character Dialogue"
 REFERENCE           WEAPON_OPTION
 LANG_ENGLISH     "Weapon Kit Behavior"
 
+REFERENCE           SLIDE_DIRT
+LANG_ENGLISH     "Disable Sliding Camera Dirt"
+
 ENDMARKER
