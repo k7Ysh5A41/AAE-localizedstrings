@@ -213,7 +213,7 @@ REFERENCE            DOOR
 LANG_ENGLISH         "Начать со всеми открытыми дверями"
 
 REFERENCE            BOX_ALL
-LANG_ENGLISH         "Таинственный ящик во всех локациях"
+LANG_ENGLISH         "Во всех локациях"
 
 REFERENCE            POWER
 LANG_ENGLISH         "Начать с включенным питанием"
