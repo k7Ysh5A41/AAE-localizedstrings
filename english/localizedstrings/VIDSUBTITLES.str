@@ -606,31 +606,31 @@ REFERENCE           BURIED_LOAD_02
 LANG_ENGLISH     "^1Russman^7: We set up camp here."
 
 REFERENCE           BURIED_LOAD_03
-LANG_ENGLISH     "^1Russman^7: In case you boneheads have forgotten,"
+LANG_ENGLISH     "^1Russman^7: In case you boneheads have forgotten..."
 
 REFERENCE           BURIED_LOAD_04
-LANG_ENGLISH     "^1Russman^7: the world is broken."
+LANG_ENGLISH     "^1Russman^7: In case you boneheads have forgotten,\nthe world is broken."
 
 REFERENCE           BURIED_LOAD_05
 LANG_ENGLISH     "^1Russman^7: Very broken."
 
 REFERENCE           BURIED_LOAD_06
-LANG_ENGLISH     "^1Russman^7: The dead walk the Earth,"
+LANG_ENGLISH     "^1Russman^7: The dead walk the Earth..."
 
 REFERENCE           BURIED_LOAD_07_1
-LANG_ENGLISH     "^1Russman^7: and what remains of civilization"
+LANG_ENGLISH     "^1Russman^7: The dead walk the Earth,\nand what remains of civilization..."
 
 REFERENCE           BURIED_LOAD_07_2
 LANG_ENGLISH     "^1Russman^7: and what remains of civilization\nis at the mercy of forces we barely understand."
 
 REFERENCE           BURIED_LOAD_08
-LANG_ENGLISH     "^1Misty^7: What makes you think we're gonna find something different at this new place?"
+LANG_ENGLISH     "^1Misty^7: What makes you think we're gonna find\nsomething different at this new place?"
 
 REFERENCE           BURIED_LOAD_09
-LANG_ENGLISH     "^1Russman^7: I don't know that we will,"
+LANG_ENGLISH     "^1Russman^7: I don't know that we will..."
 
 REFERENCE           BURIED_LOAD_10
-LANG_ENGLISH     "^1Russman^7: but at least we'll be sure."
+LANG_ENGLISH     "^1Russman^7: I don't know that we will,\nbut at least we'll be sure."
 
 REFERENCE           BURIED_LOAD_11
 LANG_ENGLISH     "^1Stuhlinger^7: Uh, sure of what, exactly?"
@@ -654,7 +654,7 @@ REFERENCE           BURIED_LOAD_17
 LANG_ENGLISH     "^1Marlton^7: We don't know. You're just Russman."
 
 REFERENCE           BURIED_LOAD_18
-LANG_ENGLISH     "^1Marlton^7: Yeah, anyway, you're a former operative from Broken Arrow."
+LANG_ENGLISH     "^1Marlton^7: Yeah, anyway, you're a former operative\nfrom Broken Arrow."
 
 REFERENCE           BURIED_LOAD_19
 LANG_ENGLISH     "^1Marlton^7: You've been walking the Earth since the, uh... incident."
@@ -678,7 +678,7 @@ REFERENCE           BURIED_LOAD_25
 LANG_ENGLISH     "^1Misty^7: When we met, you already had your lap dog in tow."
 
 REFERENCE           BURIED_LOAD_26
-LANG_ENGLISH     "^1Stuhlinger^7: What do you mean, lap dog, huh? I'm the only one who knows what to do!"
+LANG_ENGLISH     "^1Stuhlinger^7: What do you mean, lap dog, huh?\nI'm the only one who knows what to do!"
 
 REFERENCE           BURIED_LOAD_27
 LANG_ENGLISH     "^1Russman^7: Don't talk stupid, Stu."
@@ -690,7 +690,7 @@ REFERENCE           BURIED_LOAD_28_2
 LANG_ENGLISH     "^1Russman^7: All you know is whatever\nthe German tells you to think."
 
 REFERENCE           BURIED_LOAD_29
-LANG_ENGLISH     "^1Marlton^7: I don't think you're in any position to ridicule Mr. Stuhlinger,"
+LANG_ENGLISH     "^1Marlton^7: I don't think you're in any position\nto ridicule Mr. Stuhlinger..."
 
 REFERENCE           BURIED_LOAD_30
 LANG_ENGLISH     "^1Marlton^7: particularly given your own proclivities."
@@ -705,7 +705,7 @@ REFERENCE           BURIED_LOAD_32
 LANG_ENGLISH     "^1Misty^7: Enough! We need to remember why we're here."
 
 REFERENCE           BURIED_LOAD_33
-LANG_ENGLISH     "^1Misty^7: We've all been jumping through hoops for reasons we don't fully understand."
+LANG_ENGLISH     "^1Misty^7: We've all been jumping through hoops\nfor reasons we don't fully understand."
 
 REFERENCE           BURIED_LOAD_34
 LANG_ENGLISH     "^1Stuhlinger^7: Fully understand?"
@@ -714,37 +714,37 @@ REFERENCE           BURIED_LOAD_35
 LANG_ENGLISH     "^1Misty^7: All right, for reasons we don't understand at all!"
 
 REFERENCE           BURIED_LOAD_36
-LANG_ENGLISH     "^1Misty^7: Point is,"
+LANG_ENGLISH     "^1Misty^7: Point is..."
 
 REFERENCE           BURIED_LOAD_37
-LANG_ENGLISH     "^1Misty^7: we do it."
+LANG_ENGLISH     "^1Misty^7: Point is,\nwe do it."
 
 REFERENCE           BURIED_LOAD_38
-LANG_ENGLISH     "^1Misty^7: We keep moving,"
+LANG_ENGLISH     "^1Misty^7: We keep moving..."
 
 REFERENCE           BURIED_LOAD_39
-LANG_ENGLISH     "^1Misty^7: we keep fighting."
+LANG_ENGLISH     "^1Misty^7: We keep moving,\nwe keep fighting."
 
 REFERENCE           BURIED_LOAD_40
 LANG_ENGLISH     "^1Misty^7: It's what we do."
 
 REFERENCE           BURIED_LOAD_41
-LANG_ENGLISH     "^1Misty^7: Day in,"
+LANG_ENGLISH     "^1Misty^7: Day in..."
 
 REFERENCE           BURIED_LOAD_42
-LANG_ENGLISH     "^1Misty^7: day out."
+LANG_ENGLISH     "^1Misty^7: Day in, day out."
 
 REFERENCE           BURIED_LOAD_43
-LANG_ENGLISH     "^1Misty^7: If you really need a reason why we do this, I'll give you one."
+LANG_ENGLISH     "^1Misty^7: If you really need a reason why we do this,\nI'll give you one."
 
 REFERENCE           BURIED_LOAD_44
 LANG_ENGLISH     "^1Misty^7: We do it because doing something..."
 
 REFERENCE           BURIED_LOAD_45
-LANG_ENGLISH     "^1Misty^7: Anything..."
+LANG_ENGLISH     "^1Misty^7: We do it because doing something...\nAnything..."
 
 REFERENCE           BURIED_LOAD_46
-LANG_ENGLISH     "^1Misty^7: is better than doing nothing."
+LANG_ENGLISH     "^1Misty^7: Anything...\nis better than doing nothing."
 
 REFERENCE           BURIED_LOAD_47
 LANG_ENGLISH     "^1Russman^7: The rift is less than one day's travel."
