@@ -1474,4 +1474,52 @@ LANG_ENGLISH     "ゼノモーフを撃破"
 REFERENCE           SC_TITLE
 LANG_ENGLISH     "3Dピンボール Space Cadet"
 
+REFERENCE           BOX_PAGE
+LANG_ENGLISH        "ミステリーボックスの属性"
+
+REFERENCE           BOX_DONT_MOVE
+LANG_ENGLISH        "ボックスは移動しない"
+
+REFERENCE           BOX_OPTIONS
+LANG_ENGLISH        "ボックスの位置"
+
+REFERENCE           CATALOG_LOADED
+LANG_ENGLISH        "マップカタログソース: ^2GITHUB"
+
+REFERENCE           CATALOG_LOCAL
+LANG_ENGLISH        "マップカタログソース: ^3AAE 内蔵"
+
+REFERENCE           CATALOG_WEBSITE
+LANG_ENGLISH        "^3AAE オンラインマップカタログを見る"
+
+REFERENCE           SAVEGAME_DESC
+LANG_ENGLISH        "^3警告: セーブ機能は現在非常に不安定です！\nセーブデータの破損、致命的なバグ、またはゲームのクラッシュが発生する可能性があります。"
+
+REFERENCE           SAVEGAME_SAVE
+LANG_ENGLISH        "押して現在のスロットにセーブデータを保存"
+
+REFERENCE           GLOBE_REAL
+LANG_ENGLISH        "地球儀のスタイル: 衛星"
+
+REFERENCE           GLOBE_BO2
+LANG_ENGLISH        "地球儀のスタイル: BO2"
+
+REFERENCE           GLOBE_ON
+LANG_ENGLISH        "地球儀マップリスト: 有効"
+
+REFERENCE           GLOBE_OFF
+LANG_ENGLISH        "地球儀マップリスト: 無効"
+
+REFERENCE           AFK_REMOVED
+LANG_ENGLISH        "AFKモードは削除されました\nゲームを一時停止するにはホストが ^3[{togglemenu}]^7 を押す必要があります"
+
+REFERENCE            KEYBIND_THIRD_PERSON_MODE
+LANG_ENGLISH         "三人称視点の位置"
+
+REFERENCE            KEYBIND_THIRD_PERSON_MODE_DESC
+LANG_ENGLISH         "三人称視点時のカメラの位置を左右の肩のどちらかに切り替えるために使用します。"
+
+REFERENCE           GLOBE_NIGHT
+LANG_ENGLISH        "地球儀のスタイル: 夜"
+
 ENDMARKER

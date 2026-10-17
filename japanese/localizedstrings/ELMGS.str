@@ -119,4 +119,58 @@ LANG_ENGLISH        "アメリカ合衆国 バージニア州"
 REFERENCE            FIVE_LINE3
 LANG_ENGLISH        ""FIVE""
 
+REFERENCE            GLOBE_TOMB_HIGHLIGHT
+LANG_ENGLISH         "発掘現場"
+
+REFERENCE            GLOBE_TRANZIT_DINER
+LANG_ENGLISH         "ダイナー"
+
+REFERENCE            GLOBE_NUKED_BUTTON_DESC
+LANG_ENGLISH         "質量とエネルギーの等価性、秘密実験、不時着したパーク。過去と未来が交錯する象徴的なニュークタウンで生き残れ。"
+
+REFERENCE            GLOBE_DIERISE_HIGHLIGHT
+LANG_ENGLISH         "超高層ビル"
+
+REFERENCE            GLOBE_DIERISE_BUTTON_DESC
+LANG_ENGLISH         "足元に気をつけろ！眩暈がするような高所と容赦ないアンデッドが織りなす致命的な組合せの中、破滅のタワー頂上で生き残るために戦え。"
+
+REFERENCE            GLOBE_PRISON_ICON
+LANG_ENGLISH         "アルカトラズ刑務所"
+
+REFERENCE            GLOBE_PRISON_HIGHLIGHT
+LANG_ENGLISH         "サンセット・ストリップ"
+
+REFERENCE            GLOBE_PRISON_BUTTON_DESC
+LANG_ENGLISH         "アルカトラズ刑務所という物理的かつ比喩的な投獄からの脱出を試みながら、アンデッドと戦え。"
+
+REFERENCE            GLOBE_BURIED_ICON
+LANG_ENGLISH         "決議 1295"
+
+REFERENCE            GLOBE_BURIED_HIGHLIGHT
+LANG_ENGLISH         "処理施設"
+
+REFERENCE            GLOBE_TOWN_BUTTON_DESC
+LANG_ENGLISH         "様々なパーク、壁の武器、パック・ア・パンチが存在するタウンで生き残れ。"
+
+REFERENCE            GLOBE_FARM_BUTTON_DESC
+LANG_ENGLISH         "限られた壁の武器、パーク、ミステリーボックスが存在するファームで生き残れ。"
+
+REFERENCE            GLOBE_DINER_BUTTON_DESC
+LANG_ENGLISH         "限られた壁の武器、パーク、ミステリーボックスが存在するダイナーで生き残れ。"
+
+REFERENCE            GLOBE_BUS_BUTTON_DESC
+LANG_ENGLISH         "限られた武器のみで、パック・ア・パンチもパークもなしで生き残れ。マゾヒストには夢のような状況だ。さあ、挑んでみろ！"
+
+REFERENCE            GLOBE_BURIED_BUTTON_DESC
+LANG_ENGLISH         "暗く狭い場所が怖いか？精神的試練が待ち受ける地下の障害物コースでアンデッドと戦い、心の底にある恐怖に立ち向かえ。お前は今... "Buried" にいる。"
+
+REFERENCE            GLOBE_FACTORY_ICON
+LANG_ENGLISH         "935施設"
+
+REFERENCE            GLOBE_BURIED_BOX_HIGHLIGHT
+LANG_ENGLISH         "ボロウ"
+
+REFERENCE            GLOBE_CELLBLOCK_HIGHLIGHT
+LANG_ENGLISH         "独房棟"
+
 ENDMARKER

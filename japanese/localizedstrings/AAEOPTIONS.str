@@ -395,4 +395,7 @@ LANG_ENGLISH    "キャラクターの会話を無効化"
 REFERENCE           WEAPON_OPTION
 LANG_ENGLISH       "武器キットの動作"
 
+REFERENCE           SLIDE_DIRT
+LANG_ENGLISH        "スライディング時のカメラの汚れを無効化"
+
 ENDMARKER

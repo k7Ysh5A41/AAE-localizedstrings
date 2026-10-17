@@ -119,4 +119,58 @@ LANG_ENGLISH          "Virginia, USA"
 REFERENCE            FIVE_LINE3
 LANG_ENGLISH          ""FIVE""
 
+REFERENCE            GLOBE_TOMB_HIGHLIGHT
+LANG_ENGLISH         "AUSGRABUNGSSTÄTTE"
+
+REFERENCE            GLOBE_TRANZIT_DINER
+LANG_ENGLISH         "DINER"
+
+REFERENCE            GLOBE_NUKED_BUTTON_DESC
+LANG_ENGLISH         "Masse-Energie-Äquivalenz, Geheimtests, Notlandungs-Extras. Überleben Sie im kultigen Nuketown, wo Vergangenheit und Zukunft aufeinandertreffen."
+
+REFERENCE            GLOBE_DIERISE_HIGHLIGHT
+LANG_ENGLISH         "WOLKENKRATZER"
+
+REFERENCE            GLOBE_DIERISE_BUTTON_DESC
+LANG_ENGLISH         "Passen Sie gut auf! Kämpfen Sie auf den Türmen des Verderbens ums Überleben, wo schwindelerregende Höhen und unerbittliche Untote eine tödliche Kombination bilden."
+
+REFERENCE            GLOBE_PRISON_ICON
+LANG_ENGLISH         "GEFÄNGNIS ALCATRAZ"
+
+REFERENCE            GLOBE_PRISON_HIGHLIGHT
+LANG_ENGLISH         "SUNSET STRIP"
+
+REFERENCE            GLOBE_PRISON_BUTTON_DESC
+LANG_ENGLISH         "Kämpfen Sie gegen die Untoten, während Sie versuchen, der physischen und metaphorischen Haft im Gefängnis von Alcatraz zu entkommen."
+
+REFERENCE            GLOBE_BURIED_ICON
+LANG_ENGLISH         "RESOLUTION 1295"
+
+REFERENCE            GLOBE_BURIED_HIGHLIGHT
+LANG_ENGLISH         "VERARBEITUNG"
+
+REFERENCE            GLOBE_TOWN_BUTTON_DESC
+LANG_ENGLISH         "Überleben Sie in der Stadt mit verschiedenen Extras, Wandwaffen und dem Pack-a-Punch."
+
+REFERENCE            GLOBE_FARM_BUTTON_DESC
+LANG_ENGLISH         "Überleben Sie auf dem Bauernhof mit begrenzten Wandwaffen, Extras und der Mysteriösen Kiste."
+
+REFERENCE            GLOBE_DINER_BUTTON_DESC
+LANG_ENGLISH         "Überleben Sie im Diner mit begrenzten Wandwaffen, Extras und der Mysteriösen Kiste."
+
+REFERENCE            GLOBE_BUS_BUTTON_DESC
+LANG_ENGLISH         "Überleben Sie mit begrenzten Waffen und ohne Pack-a-Punch oder Extras. Ein Masochistentraum. Los, wir fordern Sie heraus!"
+
+REFERENCE            GLOBE_BURIED_BUTTON_DESC
+LANG_ENGLISH         "Haben Sie Angst vor dunklen, engen Räumen? Stellen Sie sich Ihren tiefsten Ängsten im Kampf gegen die Untoten in einem unterirdischen Hindernisparcours. Sie sind jetzt... "Buried""
+
+REFERENCE            GLOBE_FACTORY_ICON
+LANG_ENGLISH         "Einrichtungen 935"
+
+REFERENCE            GLOBE_BURIED_BOX_HIGHLIGHT
+LANG_ENGLISH         "STADTBEZIRK"
+
+REFERENCE            GLOBE_CELLBLOCK_HIGHLIGHT
+LANG_ENGLISH         "ZELLENBLOCK"
+
 ENDMARKER

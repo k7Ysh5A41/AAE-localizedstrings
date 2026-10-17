@@ -1483,4 +1483,52 @@ LANG_ENGLISH     "Xenomorfos destruídos"
 REFERENCE           SC_TITLE
 LANG_ENGLISH     "3D Pinball Space Cadet"
 
+REFERENCE           BOX_PAGE
+LANG_ENGLISH        "Propriedades da Caixa Mistério"
+
+REFERENCE           BOX_DONT_MOVE
+LANG_ENGLISH        "A caixa nunca se move"
+
+REFERENCE           BOX_OPTIONS
+LANG_ENGLISH        "Localização da Caixa"
+
+REFERENCE           CATALOG_LOADED
+LANG_ENGLISH        "FONTE DO CATÁLOGO DE MAPAS: ^2GITHUB"
+
+REFERENCE           CATALOG_LOCAL
+LANG_ENGLISH        "FONTE DO CATÁLOGO DE MAPAS: ^3INTEGRADO AAE"
+
+REFERENCE           CATALOG_WEBSITE
+LANG_ENGLISH        "Explore o ^3Catálogo de Mapas Online AAE"
+
+REFERENCE           SAVEGAME_DESC
+LANG_ENGLISH        "^3AVISO: O sistema de salvamento está altamente instável no momento!\nPode causar corrupção de saves, bugs graves ou fechamento do jogo."
+
+REFERENCE           SAVEGAME_SAVE
+LANG_ENGLISH        "Pressione para salvar o jogo no slot atual"
+
+REFERENCE           GLOBE_REAL
+LANG_ENGLISH        "Estilo do Globo: Satélite"
+
+REFERENCE           GLOBE_BO2
+LANG_ENGLISH        "Estilo do Globo: BO2"
+
+REFERENCE           GLOBE_ON
+LANG_ENGLISH        "Lista de Mapas do Globo: Ativar"
+
+REFERENCE           GLOBE_OFF
+LANG_ENGLISH        "Lista de Mapas do Globo: Desativado"
+
+REFERENCE           AFK_REMOVED
+LANG_ENGLISH        "O Modo AFK foi removido\nO host precisará pressionar ^3[{togglemenu}]^7 para pausar o jogo"
+
+REFERENCE            KEYBIND_THIRD_PERSON_MODE
+LANG_ENGLISH         "Posição em 3ª Pessoa"
+
+REFERENCE            KEYBIND_THIRD_PERSON_MODE_DESC
+LANG_ENGLISH         "Usado para alternar se a câmera em terceira pessoa fica posicionada sobre o ombro esquerdo ou direito."
+
+REFERENCE           GLOBE_NIGHT
+LANG_ENGLISH        "Styl globu: Noc"
+
 ENDMARKER

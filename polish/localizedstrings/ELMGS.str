@@ -119,4 +119,58 @@ LANG_POLISH          "Wirginia, USA"
 REFERENCE            FIVE_LINE3
 LANG_POLISH          ""FIVE""
 
+REFERENCE            GLOBE_TOMB_HIGHLIGHT
+LANG_ENGLISH         "WYKOPALISKA"
+
+REFERENCE            GLOBE_TRANZIT_DINER
+LANG_ENGLISH         "BAR"
+
+REFERENCE            GLOBE_NUKED_BUTTON_DESC
+LANG_ENGLISH         "Równoważność masy i energii, tajne testy, atuty z katastrofy. Przetrwaj w kultowym Nuketown, gdzie przeszłość łączy się z przyszłością."
+
+REFERENCE            GLOBE_DIERISE_HIGHLIGHT
+LANG_ENGLISH         "WIEŻOWIEC"
+
+REFERENCE            GLOBE_DIERISE_BUTTON_DESC
+LANG_ENGLISH         "Uważaj pod nogi! Walcz o przetrwanie na szczycie wież zagłady, gdzie zawrotne wysokości i bezwzględni nieumarli tworzą zabójczą kombinację."
+
+REFERENCE            GLOBE_PRISON_ICON
+LANG_ENGLISH         "WIĘZIENIE ALCATRAZ"
+
+REFERENCE            GLOBE_PRISON_HIGHLIGHT
+LANG_ENGLISH         "SUNSET STRIP"
+
+REFERENCE            GLOBE_PRISON_BUTTON_DESC
+LANG_ENGLISH         "Walcz z nieumarłymi, próbując uwolnić się z fizycznego i metaforycznego uwięzienia w więzieniu Alcatraz."
+
+REFERENCE            GLOBE_BURIED_ICON
+LANG_ENGLISH         "REZOLUCJA 1295"
+
+REFERENCE            GLOBE_BURIED_HIGHLIGHT
+LANG_ENGLISH         "PRZETWARZANIE"
+
+REFERENCE            GLOBE_TOWN_BUTTON_DESC
+LANG_ENGLISH         "Przetrwaj w Mieście dzięki różnym atutom, broniom na ścianach i Pack-a-Punchowi."
+
+REFERENCE            GLOBE_FARM_BUTTON_DESC
+LANG_ENGLISH         "Przetrwaj na Farmie z ograniczonymi broniami na ścianach, atutami i Tajemniczą Skrzynką."
+
+REFERENCE            GLOBE_DINER_BUTTON_DESC
+LANG_ENGLISH         "Przetrwaj w Barze z ograniczonymi broniami na ścianach, atutami i Tajemniczą Skrzynką."
+
+REFERENCE            GLOBE_BUS_BUTTON_DESC
+LANG_ENGLISH         "Przetrwaj z ograniczoną bronią, bez Pack-a-Puncha i jakichkolwiek atutów. To marzenie masochisty. No dalej, wyzywamy cię!"
+
+REFERENCE            GLOBE_BURIED_BUTTON_DESC
+LANG_ENGLISH         "Boisz się ciemnych, ciasnych przestrzeni? Staw czoła swoim najgłębszym lękom, walcząc z nieumarłymi na podziemnym torze przeszkód. Jesteś teraz... "Buried""
+
+REFERENCE            GLOBE_FACTORY_ICON
+LANG_ENGLISH         "Placówki 935"
+
+REFERENCE            GLOBE_BURIED_BOX_HIGHLIGHT
+LANG_ENGLISH         "MIASTECZKO"
+
+REFERENCE            GLOBE_CELLBLOCK_HIGHLIGHT
+LANG_ENGLISH         "BLOK WIĘZIENNY"
+
 ENDMARKER

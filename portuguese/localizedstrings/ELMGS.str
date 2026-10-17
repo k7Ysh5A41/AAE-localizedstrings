@@ -119,4 +119,58 @@ LANG_ENGLISH      "Virgínia, EUA"
 REFERENCE            FIVE_LINE3
 LANG_ENGLISH      ""FIVE""
 
+REFERENCE            GLOBE_TOMB_HIGHLIGHT
+LANG_ENGLISH         "SÍTIO DE ESCAVAÇÃO"
+
+REFERENCE            GLOBE_TRANZIT_DINER
+LANG_ENGLISH         "LANCHONETE"
+
+REFERENCE            GLOBE_NUKED_BUTTON_DESC
+LANG_ENGLISH         "Equivalência massa-energia, testes secretos, vantagens de queda. Sobreviva na icônica Nuketown, onde o passado e o futuro se encontram."
+
+REFERENCE            GLOBE_DIERISE_HIGHLIGHT
+LANG_ENGLISH         "ARANHA-CÉU"
+
+REFERENCE            GLOBE_DIERISE_BUTTON_DESC
+LANG_ENGLISH         "Cuidado onde pisa! Lute pela sobrevivência no topo das torres da perdição, onde alturas estonteantes e mortos-vivos implacáveis formam uma combinação mortal."
+
+REFERENCE            GLOBE_PRISON_ICON
+LANG_ENGLISH         "PRISÃO DE ALCATRAZ"
+
+REFERENCE            GLOBE_PRISON_HIGHLIGHT
+LANG_ENGLISH         "SUNSET STRIP"
+
+REFERENCE            GLOBE_PRISON_DESC
+LANG_ENGLISH         "Batalhe contra os mortos-vivos enquanto tenta se libertar do encarceramento físico e metafórico da Prisão de Alcatraz."
+
+REFERENCE            GLOBE_BURIED_ICON
+LANG_ENGLISH         "RESOLUÇÃO 1295"
+
+REFERENCE            GLOBE_BURIED_HIGHLIGHT
+LANG_ENGLISH         "PROCESSAMENTO"
+
+REFERENCE            GLOBE_TOWN_BUTTON_DESC
+LANG_ENGLISH         "Sobreviva na Cidade com várias vantagens, armas de parede e o Pack-a-Punch."
+
+REFERENCE            GLOBE_FARM_BUTTON_DESC
+LANG_ENGLISH         "Sobreviva na Fazenda com armas de parede limitadas, vantagens e a Caixa Mistério."
+
+REFERENCE            GLOBE_DINER_BUTTON_DESC
+LANG_ENGLISH         "Sobreviva na Lanchonete com armas de parede limitadas, vantagens e a Caixa Mistério."
+
+REFERENCE            GLOBE_BUS_BUTTON_DESC
+LANG_ENGLISH         "Sobreviva com armas limitadas e sem o Pack-a-Punch ou qualquer vantagem. É o sonho de um masoquista. Vai encarar?"
+
+REFERENCE            GLOBE_BURIED_BUTTON_DESC
+LANG_ENGLISH         "Tem medo de espaços escuros e apertados? Enfrente seus medos mais profundos enquanto batalha contra os mortos-vivos em um circuito de obstáculos subterrâneo. Você está agora... "Buried""
+
+REFERENCE            GLOBE_FACTORY_ICON
+LANG_ENGLISH         "Instalações 935"
+
+REFERENCE            GLOBE_BURIED_BOX_HIGHLIGHT
+LANG_ENGLISH         "VILAREJO"
+
+REFERENCE            GLOBE_CELLBLOCK_HIGHLIGHT
+LANG_ENGLISH         "BLOCO DE CELAS"
+
 ENDMARKER

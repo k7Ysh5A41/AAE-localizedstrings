@@ -380,4 +380,7 @@ LANG_ENGLISH      "Charakterdialoge deaktivieren"
 REFERENCE           WEAPON_OPTION
 LANG_ENGLISH         "Verhalten des Waffenkits"
 
+REFERENCE           SLIDE_DIRT
+LANG_ENGLISH        "Kamera-Schmutz beim Rutschen deaktivieren"
+
 ENDMARKER
