@@ -599,4 +599,155 @@ LANG_ENGLISH     "^1Nixon^7: Yes Jack, any superlative words of inspiration for 
 REFERENCE           PENTAGON_INTRO_21
 LANG_ENGLISH     "^1Kennedy^7: Do not pray for easy lives, my friends. Pray to be stronger men."
 
+REFERENCE           BURIED_LOAD_01
+LANG_ENGLISH     "^1Russman^7: Enough walking for today."
+
+REFERENCE           BURIED_LOAD_02
+LANG_ENGLISH     "^1Russman^7: We set up camp here."
+
+REFERENCE           BURIED_LOAD_03
+LANG_ENGLISH     "^1Russman^7: In case you boneheads have forgotten,"
+
+REFERENCE           BURIED_LOAD_04
+LANG_ENGLISH     "^1Russman^7: the world is broken."
+
+REFERENCE           BURIED_LOAD_05
+LANG_ENGLISH     "^1Russman^7: Very broken."
+
+REFERENCE           BURIED_LOAD_06
+LANG_ENGLISH     "^1Russman^7: The dead walk the Earth,"
+
+REFERENCE           BURIED_LOAD_07
+LANG_ENGLISH     "^1Russman^7: and what remains of civilization is at the mercy of forces we barely understand."
+
+REFERENCE           BURIED_LOAD_08
+LANG_ENGLISH     "^1Misty^7: What makes you think we're gonna find something different at this new place?"
+
+REFERENCE           BURIED_LOAD_09
+LANG_ENGLISH     "^1Russman^7: I don't know that we will,"
+
+REFERENCE           BURIED_LOAD_10
+LANG_ENGLISH     "^1Russman^7: but at least we'll be sure."
+
+REFERENCE           BURIED_LOAD_11
+LANG_ENGLISH     "^1Stuhlinger^7: Uh, sure of what, exactly?"
+
+REFERENCE           BURIED_LOAD_12
+LANG_ENGLISH     "^1Russman^7: I don't know."
+
+REFERENCE           BURIED_LOAD_13
+LANG_ENGLISH     "^1Marlton^7: His memory's going again."
+
+REFERENCE           BURIED_LOAD_14
+LANG_ENGLISH     "^1Misty^7: Your name is Russman!"
+
+REFERENCE           BURIED_LOAD_15
+LANG_ENGLISH     "^1Misty^7: Russ. Man!"
+
+REFERENCE           BURIED_LOAD_16
+LANG_ENGLISH     "^1Russman^7: That my first, or last name?"
+
+REFERENCE           BURIED_LOAD_17
+LANG_ENGLISH     "^1Marlton^7: We don't know. You're just Russman."
+
+REFERENCE           BURIED_LOAD_18
+LANG_ENGLISH     "^1Marlton^7: Yeah, anyway, you're a former operative from Broken Arrow."
+
+REFERENCE           BURIED_LOAD_19
+LANG_ENGLISH     "^1Marlton^7: You've been walking the Earth since the, uh... incident."
+
+REFERENCE           BURIED_LOAD_20
+LANG_ENGLISH     "^1Russman^7: Yeah..."
+
+REFERENCE           BURIED_LOAD_21
+LANG_ENGLISH     "^1Russman^7: I think I remember..."
+
+REFERENCE           BURIED_LOAD_22
+LANG_ENGLISH     "^1Russman^7: A town."
+
+REFERENCE           BURIED_LOAD_23
+LANG_ENGLISH     "^1Misty^7: That's right!"
+
+REFERENCE           BURIED_LOAD_24
+LANG_ENGLISH     "^1Marlton^7: That's where you found us!"
+
+REFERENCE           BURIED_LOAD_25
+LANG_ENGLISH     "^1Misty^7: When we met, you already had your lap dog in tow."
+
+REFERENCE           BURIED_LOAD_26
+LANG_ENGLISH     "^1Stuhlinger^7: What do you mean, lap dog, huh? I'm the only one who knows what to do!"
+
+REFERENCE           BURIED_LOAD_27
+LANG_ENGLISH     "^1Russman^7: Don't talk stupid, Stu."
+
+REFERENCE           BURIED_LOAD_28
+LANG_ENGLISH     "^1Russman^7: All you know is whatever the German tells you to think."
+
+REFERENCE           BURIED_LOAD_29
+LANG_ENGLISH     "^1Marlton^7: I don't think you're in any position to ridicule Mr. Stuhlinger,"
+
+REFERENCE           BURIED_LOAD_30
+LANG_ENGLISH     "^1Marlton^7: particularly given your own proclivities."
+
+REFERENCE           BURIED_LOAD_31
+LANG_ENGLISH     "^1Russman^7: You better watch your mouth before you say something you regret, boy!"
+
+REFERENCE           BURIED_LOAD_32
+LANG_ENGLISH     "^1Misty^7: Enough! We need to remember why we're here."
+
+REFERENCE           BURIED_LOAD_33
+LANG_ENGLISH     "^1Misty^7: We've all been jumping through hoops for reasons we don't fully understand."
+
+REFERENCE           BURIED_LOAD_34
+LANG_ENGLISH     "^1Stuhlinger^7: Fully understand?"
+
+REFERENCE           BURIED_LOAD_35
+LANG_ENGLISH     "^1Misty^7: All right, for reasons we don't understand at all!"
+
+REFERENCE           BURIED_LOAD_36
+LANG_ENGLISH     "^1Misty^7: Point is,"
+
+REFERENCE           BURIED_LOAD_37
+LANG_ENGLISH     "^1Misty^7: we do it."
+
+REFERENCE           BURIED_LOAD_38
+LANG_ENGLISH     "^1Misty^7: We keep moving,"
+
+REFERENCE           BURIED_LOAD_39
+LANG_ENGLISH     "^1Misty^7: we keep fighting."
+
+REFERENCE           BURIED_LOAD_40
+LANG_ENGLISH     "^1Misty^7: It's what we do."
+
+REFERENCE           BURIED_LOAD_41
+LANG_ENGLISH     "^1Misty^7: Day in,"
+
+REFERENCE           BURIED_LOAD_42
+LANG_ENGLISH     "^1Misty^7: day out."
+
+REFERENCE           BURIED_LOAD_43
+LANG_ENGLISH     "^1Misty^7: If you really need a reason why we do this, I'll give you one."
+
+REFERENCE           BURIED_LOAD_44
+LANG_ENGLISH     "^1Misty^7: We do it because doing something..."
+
+REFERENCE           BURIED_LOAD_45
+LANG_ENGLISH     "^1Misty^7: Anything..."
+
+REFERENCE           BURIED_LOAD_46
+LANG_ENGLISH     "^1Misty^7: is better than doing nothing."
+
+REFERENCE           BURIED_LOAD_47
+LANG_ENGLISH     "^1Russman^7: The rift is less than one day's travel."
+
+REFERENCE           BURIED_LOAD_48
+LANG_ENGLISH     "^1Russman^7: We move at dawn."
+
+REFERENCE           BURIED_LOAD_49
+LANG_ENGLISH     "^1Marlton^7: What if we don't find answers?"
+
+REFERENCE           BURIED_LOAD_50
+LANG_ENGLISH     "^1Russman^7: Then we'll just have to ask more questions."
+
+
 ENDMARKER
