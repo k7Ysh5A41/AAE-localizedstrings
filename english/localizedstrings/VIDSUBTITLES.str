@@ -617,8 +617,11 @@ LANG_ENGLISH     "^1Russman^7: Very broken."
 REFERENCE           BURIED_LOAD_06
 LANG_ENGLISH     "^1Russman^7: The dead walk the Earth,"
 
-REFERENCE           BURIED_LOAD_07
-LANG_ENGLISH     "^1Russman^7: and what remains of civilization is at the mercy of forces we barely understand."
+REFERENCE           BURIED_LOAD_07_1
+LANG_ENGLISH     "^1Russman^7: and what remains of civilization"
+
+REFERENCE           BURIED_LOAD_07_2
+LANG_ENGLISH     "^1Russman^7: and what remains of civilization\nis at the mercy of forces we barely understand."
 
 REFERENCE           BURIED_LOAD_08
 LANG_ENGLISH     "^1Misty^7: What makes you think we're gonna find something different at this new place?"
@@ -680,8 +683,11 @@ LANG_ENGLISH     "^1Stuhlinger^7: What do you mean, lap dog, huh? I'm the only o
 REFERENCE           BURIED_LOAD_27
 LANG_ENGLISH     "^1Russman^7: Don't talk stupid, Stu."
 
-REFERENCE           BURIED_LOAD_28
-LANG_ENGLISH     "^1Russman^7: All you know is whatever the German tells you to think."
+REFERENCE           BURIED_LOAD_28_1
+LANG_ENGLISH     "^1Russman^7: All you know is whatever"
+
+REFERENCE           BURIED_LOAD_28_2
+LANG_ENGLISH     "^1Russman^7: All you know is whatever\nthe German tells you to think."
 
 REFERENCE           BURIED_LOAD_29
 LANG_ENGLISH     "^1Marlton^7: I don't think you're in any position to ridicule Mr. Stuhlinger,"
@@ -689,8 +695,11 @@ LANG_ENGLISH     "^1Marlton^7: I don't think you're in any position to ridicule 
 REFERENCE           BURIED_LOAD_30
 LANG_ENGLISH     "^1Marlton^7: particularly given your own proclivities."
 
-REFERENCE           BURIED_LOAD_31
-LANG_ENGLISH     "^1Russman^7: You better watch your mouth before you say something you regret, boy!"
+REFERENCE           BURIED_LOAD_31_1
+LANG_ENGLISH     "^1Russman^7: You better watch your mouth"
+
+REFERENCE           BURIED_LOAD_31_2
+LANG_ENGLISH     "^1Russman^7: You better watch your mouth\nbefore you say something you regret, boy!"
 
 REFERENCE           BURIED_LOAD_32
 LANG_ENGLISH     "^1Misty^7: Enough! We need to remember why we're here."
