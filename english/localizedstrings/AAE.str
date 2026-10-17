@@ -1519,4 +1519,7 @@ LANG_ENGLISH         "Switch the third-person camera to the left or right side o
 REFERENCE           GLOBE_NIGHT
 LANG_ENGLISH     "Globe Style: Night"
 
+REFERENCE           DATE_ZM_BURIED_REBUILD
+LANG_ENGLISH     "December 31st, 2035"
+
 ENDMARKER
